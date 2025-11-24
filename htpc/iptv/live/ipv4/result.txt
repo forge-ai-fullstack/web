@@ -229,6 +229,7 @@ asia,#genre#
 凤凰香港,https://smart.dxjc.pp.ua/smt.php?id=rhk32_twn
 RTHK 31,https://tzh911.qzz.io/play-smt.php?id=rhk31_twn
 RTHK 32,https://tzh911.qzz.io/play-smt.php?id=rhk32_twn
+星空卫视,http://171.213.172.239:4022/rtp/239.93.0.156:2193
 Chanle V,https://smart.dxjc.pp.ua/smt.php?id=hunan_twn
 Chanle V,https://smart.dxjc.pp.ua/smt.php?id=zhejiang_twn
 Chanle V,https://smart.dxjc.pp.ua/smt.php?id=jiangsu_twn
@@ -928,6 +929,7 @@ CH8(HD),https://smt.passwdword.xyz/Smart.php?id=ch8_pat
 CHANNEL5,https://smt.passwdword.xyz/Smart.php?id=Channel5HD
 CHANNEL5,https://smt.passwdword.xyz/Smart.php?id=ch5_pat
 CHANNEL8,https://smt.passwdword.xyz/Smart.php?id=Channel8HD
+CHANNEL[V],http://171.213.172.239:4022/rtp/239.93.0.157:2194
 CHANNELU,https://smt.passwdword.xyz/Smart.php?id=ChannelU
 CINEMAONEGLOBAL,https://smt.passwdword.xyz/Smart.php?id=ci_twn
 Cinemax,https://tzh911.qzz.io/play-smt.php?id=Cinemax
@@ -1441,16 +1443,16 @@ ZOOMOO,https://mytv.passwdword.xyz/mytv265.php?id=ZOO
 月曜1起玩,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii141
 有你的時光裡,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii120
 木曜4超玩 一日系列,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii140
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+未知频道,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-未知频道,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 村裡來了個暴走女外科,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii153
 東森新聞台,https://4gtvmobile-mozai.4gtv.tv/WOkdyvxeKOnV_cjuW-V-H7DVqt8t1ylGzWozBYeDJto%3d/index.m3u8?token=KjZsVo3b1jXcVqPiAeX7qg&expires=1763975126&token1=CqbHG9knLE3HTN4_aEooKQ&expires1=1763975126&refer=MDA3Mjk3YTUtZDczNy00YTYwLTk2MWUtNTU1N2EzMzg0ZDk0&y=0
 東森財經新聞台,https://4gtvmobile-mozai.4gtv.tv/VIJ57re33h_qwOrJcUndAGvntfG68xz5Rp1IS9SL0Qo%3d/index.m3u8?token=Mq1lKmGnrsTVWzdl4q7MmA&expires=1763975165&token1=21dPUj54RMxHbScy01KONw&expires1=1763975165&refer=MmZiZDFmYjgtMWQ1Zi00Y2U0LWJhMTItNzQ1NmEzMjI2NjBl&y=0
