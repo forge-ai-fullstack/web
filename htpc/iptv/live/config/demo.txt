@@ -246,10 +246,11 @@ Hits Movie
 HOY TV
 TVB Asia
 TVB Classic
+千禧經典台
 TVB Entertainment
-TVB翡翠|TVB Jade|翡翠台｜翡翠台｜翡翠台 4K
-TVB Plus|TVBPLUS
+TVB翡翠|TVB Jade|翡翠台｜翡翠台｜翡翠台 4K|华丽台|华丽台 HD （Wah Lai Toi）
 TVB星河|TVB 星河台 Xing He
+TVB Plus|TVBPLUS
 TVBS｜tvbs｜TVBS HD
 TVBS 欢乐台｜tvbs欢乐台｜TVBS歡樂台
 TVBS 新闻台｜tvbs新闻台｜TVBS新聞｜TVBS綜藝台
@@ -332,8 +333,7 @@ ViuTV 6
 好消息 2｜好消息2台｜好消息2台
 互動窗 1
 互動窗 2
-华丽台 HD （Wah Lai Toi）
-欢喜台 HD （Hua Hee Tai）
+欢喜台|欢喜台 HD （Hua Hee Tai）
 华视｜华视 HD｜華視
 华视新闻｜華視新聞
 華視好劇
@@ -396,7 +396,6 @@ ViuTV 6
 年代新闻
 歐飛電影台
 歐飛動作電影台
-千禧經典台
 全運800台
 全運801台
 全運802台
