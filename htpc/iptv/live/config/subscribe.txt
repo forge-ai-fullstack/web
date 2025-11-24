@@ -1,3 +1,4 @@
+https://met.pages.dev/htpc/iptv/fofa/IPTV.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
 https://tmxk.pp.ua/smart-cn.m3u
