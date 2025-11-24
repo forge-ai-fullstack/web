@@ -18,7 +18,7 @@ LOCAL_FILE = os.path.join(CONFIG_DIR, 'local.txt')
 BLACKLIST_FILE = os.path.join(CONFIG_DIR, 'blacklist.txt')
 RUN_COUNTER_FILE = os.path.join(CONFIG_DIR, 'run_counter.txt')
 
-OUTPUT_DIR = 'py/TV/output'
+OUTPUT_DIR = 'htpc/iptv/live'
 IPV4_DIR = os.path.join(OUTPUT_DIR, 'ipv4')
 IPV6_DIR = os.path.join(OUTPUT_DIR, 'ipv6')
 SPEED_LOG = os.path.join(OUTPUT_DIR, 'sort.log')
