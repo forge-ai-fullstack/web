@@ -1,0 +1,1671 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
+#EXTINF:-1 tvg-id="1" tvg-name="更新日期20251124" tvg-logo="" group-title="ipv4直播",更新日期20251124
+
+#EXTINF:-1 tvg-id="1" tvg-name="中国天气" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中国天气.png" group-title="央视",中国天气
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=202511240400323d7a958463164d1a9bc298ee8af684ea&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251124040032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.90&SecurityKey=20251124040032&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b2bbacfaddb3f4f5abc4d113709e9b3d&ddCalcu=db32ebb29b9ea09c0f7a3d1d1bd34fc4bfa5$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中国天气" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中国天气.png" group-title="央视",中国天气
+http://bxtv.3a.ink/migu.php?id=959986621$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CGTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CGTN.png" group-title="央视",CGTN
+https://smt.passwdword.xyz/Smart.php?id=CGTN$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CGTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CGTN.png" group-title="央视",CGTN
+https://tzh911.qzz.io/play-smt.php?id=CGTN$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CGTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CGTN.png" group-title="央视",CGTN
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=2025112404002775a21644b6f9440eaf4c8512849e1035&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20251124040027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=106.13.250.90&SecurityKey=20251124040027&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e15b5688ff0e29cd97826d328e0d0ac9&ddCalcu=9ec1ea520b9d5006e8882f3fd06e22897c9d$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="CGTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CGTN.png" group-title="央视",CGTN
+http://bxtv.3a.ink/migu.php?id=609017205$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC影迷电影.png" group-title="央视",CHC影迷电影
+http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202511240400320874eda0a47a454ab6eaf05ed911ddb4&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251124040032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251124040032&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=812084913266b7ba9aa847b471563cba&ddCalcu=a8b1ec2230268054197143b276468ba7ab9a$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC影迷电影.png" group-title="央视",CHC影迷电影
+http://bxtv.3a.ink/migu.php?id=952383261$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC影迷电影.png" group-title="央视",CHC影迷电影
+http://genglei.8866.org:9901/tsfile/live/1049_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="央视",CHC家庭影院
+http://bxtv.3a.ink/migu.php?id=644368373$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="央视",CHC家庭影院
+http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CHC家庭影院.png" group-title="央视",CHC家庭影院
+http://genglei.8866.org:9901/tsfile/live/1050_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://smt.passwdword.xyz/Smart.php?id=hunan_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://tzh911.qzz.io/play-smt.php?id=hunan_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://118.193.105.26:9901/tsfile/live/0128_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://123.113.110.212:9901/tsfile/live/0128_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://101.74.29.127:9901/tsfile/live/0128_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0128_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/1006_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="湖南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://genglei.8866.org:9901/tsfile/live/1043_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://smt.passwdword.xyz/Smart.php?id=zhejiang_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://tzh911.qzz.io/play-smt.php?id=zhejiang_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://118.193.105.26:9901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://123.113.110.212:9901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://101.74.29.127:9901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="浙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://genglei.8866.org:9901/tsfile/live/0124_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="陕西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=2025112404002801832e602754403083b81cda0090b88c&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8bac61091af742765553c438f39f61dc&ddCalcu=c8dbe1a26c8f609130f9813a4fc734525756$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="陕西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://bxtv.3a.ink/migu.php?id=738910838$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="陕西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0136_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://118.193.105.26:9901/tsfile/live/0130_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://123.113.110.212:9901/tsfile/live/0130_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://101.74.29.127:9901/tsfile/live/0130_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0130_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0130_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="安徽卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://genglei.8866.org:9901/tsfile/live/1018_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+https://smt.passwdword.xyz/Smart.php?id=beijing$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+https://tzh911.qzz.io/play-smt.php?id=beijing$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+http://118.193.105.26:9901/tsfile/live/0111_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+http://101.74.29.127:9901/tsfile/live/0122_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0122_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="北京卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卫视.png" group-title="卫视",北京卫视
+http://genglei.8866.org:9901/tsfile/live/0122_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+https://smt.passwdword.xyz/Smart.php?id=dongfangweishi_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+https://tzh911.qzz.io/play-smt.php?id=dongfangweishi_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251124040028992de06a320e40b9a5b306768776c4d2&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d4a219d5b355177ece8d5b9693750fdb&ddCalcu=bdd4efa2021510793d956b93b555d187e7ce$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://bxtv.3a.ink/migu.php?id=651632648$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://118.193.105.26:9901/tsfile/live/0107_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://123.113.110.212:9901/tsfile/live/0107_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://101.74.29.127:9901/tsfile/live/0107_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0107_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0107_1.m3u8?key=txiptv$在线IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="东方卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东方卫视.png" group-title="卫视",东方卫视
+http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv$在线IPV4『线路10』
+#EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+https://smt.passwdword.xyz/Smart.php?id=fujian$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+https://tzh911.qzz.io/play-smt.php?id=fujian$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=202511240400293d7bfe7804db4d94b774680245065e15&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ced0e11e6857b911c50fa0eae1b1fc2b&ddCalcu=bc2eecd2f091e0b111eea6e805a7fb0951c1$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://bxtv.3a.ink/migu.php?id=849116810$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://118.193.105.26:9901/tsfile/live/0137_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://101.74.29.127:9901/tsfile/live/0137_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0137_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="东南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东南卫视.png" group-title="卫视",东南卫视
+http://genglei.8866.org:9901/tsfile/live/0137_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+https://smt.passwdword.xyz/Smart.php?id=guangdongweishi_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+https://tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202511240400288348ff1f491f4ef7a87394a448845301&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=846616732079d896dd4dc06e17488cd0&ddCalcu=08d4ec62868810467713e26007c9dd48d9d6$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://bxtv.3a.ink/migu.php?id=608831231$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://118.193.105.26:9901/tsfile/live/0125_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://101.74.29.127:9901/tsfile/live/0125_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0125_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="广东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广东卫视.png" group-title="卫视",广东卫视
+http://genglei.8866.org:9901/tsfile/live/1015_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://smt.passwdword.xyz/Smart.php?id=jiangsu_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://tzh911.qzz.io/play-smt.php?id=jiangsu_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025112404002811f69cd86bad41e0a8057c3998b093bb&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=95a0b67074d42e7613a4fd148727a9df&ddCalcu=f9d5e9a2a037b02677804714ddf442ae3716$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://bxtv.3a.ink/migu.php?id=623899368$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://118.193.105.26:9901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://123.113.110.212:9901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://101.74.29.127:9901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="江苏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://genglei.8866.org:9901/tsfile/live/0127_1.m3u8?key=txiptv$在线IPV4『线路10』
+#EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广西卫视.png" group-title="卫视",广西卫视
+https://smt.passwdword.xyz/Smart.php?id=guangxi$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广西卫视.png" group-title="卫视",广西卫视
+https://tzh911.qzz.io/play-smt.php?id=guangxi$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="广西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/广西卫视.png" group-title="卫视",广西卫视
+http://101.74.29.127:9901/tsfile/live/0113_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://genglei.8866.org:9901/tsfile/live/1036_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://118.193.105.26:9901/tsfile/live/0120_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://123.113.110.212:9901/tsfile/live/0120_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="贵州卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://101.74.29.127:9901/tsfile/live/0120_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="贵州卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://genglei.8866.org:9901/tsfile/live/1023_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海南卫视.png" group-title="卫视",海南卫视
+http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251124040029820a5196497d4ed0a5bdf78cf99ddb52&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ed18f3f126281fee8fc0c34db06122dd&ddCalcu=dedde2122871f0630fb1d24632c801cffe8e$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="海南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海南卫视.png" group-title="卫视",海南卫视
+http://bxtv.3a.ink/migu.php?id=947472502$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="海南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/海南卫视.png" group-title="卫视",海南卫视
+http://genglei.8866.org:9901/tsfile/live/1026_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河北卫视.png" group-title="卫视",河北卫视
+http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河北卫视.png" group-title="卫视",河北卫视
+http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河北卫视.png" group-title="卫视",河北卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="河北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河北卫视.png" group-title="卫视",河北卫视
+http://genglei.8866.org:9901/tsfile/live/1027_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511240400288f8b9a4b06414218bb3e18e8c352d3ed&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8b1ebd1a538beb8007be83b0772c1c65&ddCalcu=586bec121e0cb02d717a05b3388beebb7800$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://bxtv.3a.ink/migu.php?id=790187291$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://123.113.110.212:9901/tsfile/live/0139_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://101.74.29.127:9901/tsfile/live/0139_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0139_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0139_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="河南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/河南卫视.png" group-title="卫视",河南卫视
+http://genglei.8866.org:9901/tsfile/live/1022_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://118.193.105.26:9901/tsfile/live/0143_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://123.113.110.212:9901/tsfile/live/0143_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://101.74.29.127:9901/tsfile/live/0143_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0143_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://genglei.8866.org:9901/tsfile/live/1016_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://smt.passwdword.xyz/Smart.php?id=hubei$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://tzh911.qzz.io/play-smt.php?id=hubei$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20251124040029f09200a33aee47ae8ed659f36e2fc2e4&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=092a2f05e7d712eae82aa0c8a913031c&ddCalcu=c019e3220a73201f90a58ec70da7a1228eea$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://bxtv.3a.ink/migu.php?id=947472496$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://118.193.105.26:9901/tsfile/live/0132_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://123.113.110.212:9901/tsfile/live/0132_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://101.74.29.127:9901/tsfile/live/0132_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0132_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0132_1.m3u8?key=txiptv$在线IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="湖北卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://genglei.8866.org:9901/tsfile/live/1019_1.m3u8?key=txiptv$在线IPV4『线路10』
+#EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=202511240400294ffec33e2fe6489a91e6d657d351beeb&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cff2cab3030aaff986e0c5790250b1a6&ddCalcu=6cafe1f2b270c05a2b03907350ca0aef6f89$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://bxtv.3a.ink/migu.php?id=947472500$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://118.193.105.26:9901/tsfile/live/0116_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0116_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://genglei.8866.org:9901/tsfile/live/1025_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251124040028ac58e68bca09422193f5512a9de7779b&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ae0e00557d4cb70bf4d2bfaf768f57e4&ddCalcu=4aeee7025e3f00806575f7adf4bc2bd740fb$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://bxtv.3a.ink/migu.php?id=783847495$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://118.193.105.26:9901/tsfile/live/0138_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://123.113.110.212:9901/tsfile/live/0138_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://101.74.29.127:9901/tsfile/live/0138_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0138_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0138_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="江西卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/江西卫视.png" group-title="卫视",江西卫视
+http://genglei.8866.org:9901/tsfile/live/1024_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202511240400299bd7d8c224114baa80f49447470e34b1&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9558b5ddae2e2f56b3c9b448e1e8985d&ddCalcu=d955e8529808b0e51ded8a4e42be92cf35b6$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://bxtv.3a.ink/migu.php?id=630291707$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://118.193.105.26:9901/tsfile/live/0121_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://123.113.110.212:9901/tsfile/live/0121_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://101.74.29.127:9901/tsfile/live/0121_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0121_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0121_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://genglei.8866.org:9901/tsfile/live/1017_1.m3u8?key=txiptv$在线IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://genglei.8866.org:9901/tsfile/live/1003_1.m3u8?key=txiptv$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251124040029a794ab71dca6454586503f6aa926a441&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9cc035b5096009fd32ed062ffdc6ef82&ddCalcu=298cefc2e08630c5dbf5f0296600d0e92f3d$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://bxtv.3a.ink/migu.php?id=738910535$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://118.193.105.26:9901/tsfile/live/0112_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/青海卫视.png" group-title="卫视",青海卫视
+http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251124040029d0376d8088714f0096e1e58190d6e0c4&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=941a47fee3b9bb19b50442fe9c8260b5&ddCalcu=59b4e0126a724087cf9eeef32b494b0b51b9$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/青海卫视.png" group-title="卫视",青海卫视
+http://bxtv.3a.ink/migu.php?id=947472506$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://118.193.105.26:9901/tsfile/live/0131_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://123.113.110.212:9901/tsfile/live/0131_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://101.74.29.127:9901/tsfile/live/0131_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0131_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0131_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="山东卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/山东卫视.png" group-title="卫视",山东卫视
+http://genglei.8866.org:9901/tsfile/live/1014_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://smt.passwdword.xyz/Smart.php?id=shenzhen$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://tzh911.qzz.io/play-smt.php?id=shenzhen$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://118.193.105.26:9901/tsfile/live/0126_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://123.113.110.212:9901/tsfile/live/0126_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0126_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0126_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://genglei.8866.org:9901/tsfile/live/1013_1.m3u8?key=txiptv$在线IPV4『线路7』
+#EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/四川卫视.png" group-title="卫视",四川卫视
+https://smt.passwdword.xyz/Smart.php?id=sichuan_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/四川卫视.png" group-title="卫视",四川卫视
+https://tzh911.qzz.io/play-smt.php?id=sichuan_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/四川卫视.png" group-title="卫视",四川卫视
+http://101.74.29.127:9901/tsfile/live/0123_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/四川卫视.png" group-title="卫视",四川卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0123_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/四川卫视.png" group-title="卫视",四川卫视
+http://genglei.8866.org:9901/tsfile/live/1020_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://118.193.105.26:9901/tsfile/live/0135_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://123.113.110.212:9901/tsfile/live/0135_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://101.74.29.127:9901/tsfile/live/0135_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0135_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="天津卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天津卫视.png" group-title="卫视",天津卫视
+http://genglei.8866.org:9901/tsfile/live/1012_1.m3u8?key=txiptv$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/云南卫视.png" group-title="卫视",云南卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://genglei.8866.org:9901/tsfile/live/1021_1.m3u8?key=txiptv$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+https://smt.passwdword.xyz/Smart.php?id=nanfang_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+https://tzh911.qzz.io/play-smt.php?id=nanfang_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20251124040028080b21777432456097dd93a447ec88e9&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251124040028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.90&SecurityKey=20251124040028&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f5c7fd2e30aab354d62e8df0cf047ef8&ddCalcu=8ff5eec27784f00df2ce03f0da8aeb2365d4$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+http://bxtv.3a.ink/migu.php?id=608917627$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=20251124040029fda597d5fe7e4115a023d97c737106b4&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e54f4b1e161e101e1f244881ba415aa4&ddCalcu=4ea5ea425f61404ba1be1186814e4120f11e$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
+http://bxtv.3a.ink/migu.php?id=956923145$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="珠江台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/珠江台.png" group-title="地方",珠江台
+https://smt.passwdword.xyz/Smart.php?id=zhujiang$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="珠江台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/珠江台.png" group-title="地方",珠江台
+https://tzh911.qzz.io/play-smt.php?id=zhujiang$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
+http://118.193.105.26:9901/tsfile/live/0139_2.m3u8?key=txiptv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
+http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="北京卡酷少儿" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/北京卡酷少儿.png" group-title="地方",北京卡酷少儿
+http://genglei.8866.org:9901/tsfile/live/1039_1.m3u8?key=txiptv$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="美亚电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/美亚电影.png" group-title="asia",美亚电影
+https://smt.passwdword.xyz/Smart.php?id=meiyamovie_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="美亚电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/美亚电影.png" group-title="asia",美亚电影
+https://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Asia" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Asia.png" group-title="asia",TVB Asia
+https://smt.passwdword.xyz/Smart.php?id=Tvbasia$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVB Asia" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Asia.png" group-title="asia",TVB Asia
+https://tzh911.qzz.io/play-smt.php?id=Tvbasia$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Classic" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Classic.png" group-title="asia",TVB Classic
+https://smt.passwdword.xyz/Smart.php?id=Tvbclassic$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVB Classic" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Classic.png" group-title="asia",TVB Classic
+https://tzh911.qzz.io/play-smt.php?id=Tvbclassic$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Entertainment" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Entertainment.png" group-title="asia",TVB Entertainment
+https://smt.passwdword.xyz/Smart.php?id=Tvbentertainment$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVB Entertainment" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Entertainment.png" group-title="asia",TVB Entertainment
+https://tzh911.qzz.io/play-smt.php?id=Tvbentertainment$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB Jade" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Jade.png" group-title="asia",TVB Jade
+https://smt.passwdword.xyz/Smart.php?id=Tvbjade$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVB Jade" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB Jade.png" group-title="asia",TVB Jade
+https://tzh911.qzz.io/play-smt.php?id=Tvbjade$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVB 星河台 Xing He" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB 星河台 Xing He.png" group-title="asia",TVB 星河台 Xing He
+https://smt.passwdword.xyz/Smart.php?id=Xinhe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVB 星河台 Xing He" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVB 星河台 Xing He.png" group-title="asia",TVB 星河台 Xing He
+https://tzh911.qzz.io/play-smt.php?id=Xinhe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS 新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS 新闻台.png" group-title="asia",TVBS 新闻台
+https://smt.passwdword.xyz/Smart.php?id=tvbs_n$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVBS 新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS 新闻台.png" group-title="asia",TVBS 新闻台
+https://tzh911.qzz.io/play-smt.php?id=tvbs_n$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS欢乐.png" group-title="asia",TVBS欢乐
+https://4gtvmobile-mozai.4gtv.tv/MY0Yitccm7GPAvw19rAQrkTWWFbMc5soMbnA5NF9338%3d/index.m3u8?token=OsV2iw7QZHGb6Qz8rWi-iw&expires=1763942898&token1=0jeFmnM267SC_SyoZvMvvQ&expires1=1763942898&refer=N2EwNWIzNzgtNmUxYi00MTM0LTkxODctYzVkMTE4YWE1MTBm&y=0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS欢乐.png" group-title="asia",TVBS欢乐
+https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="TVBS欢乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS欢乐.png" group-title="asia",TVBS欢乐
+https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS精采" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS精采.png" group-title="asia",TVBS精采
+https://4gtvmobile-mozai.4gtv.tv/nXVHWQrIOdGOBIJv5ZG_66MQCIP5ixxZV7hs2qvsciI%3d/index.m3u8?token=5NHlAdbNccxPyrQvqvEx-g&expires=1763942541&token1=JLD4V1P_t-qDyqjYY5ouPQ&expires1=1763942541&refer=ZmRjOTgwYTgtNmEwYS00NGU4LWIzNGItN2E1ZDU3YzU3Nzk1&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS台剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS台剧.png" group-title="asia",TVBS台剧
+https://4gtvmobile-mozai.4gtv.tv/Wkmj6RVf_klkLA8D-v47L3BC0lv7CVo0HZEU28SHprA%3d/index.m3u8?token=uNL-eDDF5wH3ofNa-6EFAw&expires=1763943387&token1=q-Xki6pnzj2nWCi-yVmDAA&expires1=1763943387&refer=M2JkMGI0NzEtZGNiMi00NjdjLWExODQtNDA1MjhmMzgxMWQy&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVBS综艺.png" group-title="asia",TVBS综艺
+https://4gtvmobile-mozai.4gtv.tv/g0nOI0E9WoFHukwJ9_KFZZ3FiR0R5v06FcjRFI4O9e4%3d/index.m3u8?token=3REgCTeJN2_OZkkx6uTUSA&expires=1763943379&token1=2w69NW4qY5gUCKfopGppEQ&expires1=1763943379&refer=OTBhM2JjOTgtMDgxYS00ZGJhLWFlMDgtNjk3MDEwMmQ2NzQx&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="ViuTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/ViuTV.png" group-title="asia",ViuTV
+https://smt.passwdword.xyz/Smart.php?id=viu1_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="ViuTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/ViuTV.png" group-title="asia",ViuTV
+https://tzh911.qzz.io/play-smt.php?id=viu1_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HBO Family" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Family.png" group-title="asia",HBO Family
+https://smt.passwdword.xyz/Smart.php?id=Hbofamily$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO Family" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Family.png" group-title="asia",HBO Family
+https://tzh911.qzz.io/play-smt.php?id=Hbofamily$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HBO Hits" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Hits.png" group-title="asia",HBO Hits
+https://smt.passwdword.xyz/Smart.php?id=Hbohitshd$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO Hits" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Hits.png" group-title="asia",HBO Hits
+https://tzh911.qzz.io/play-smt.php?id=Hbohitshd$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HBO Signature" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Signature.png" group-title="asia",HBO Signature
+https://smt.passwdword.xyz/Smart.php?id=Hbosignature$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO Signature" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO Signature.png" group-title="asia",HBO Signature
+https://tzh911.qzz.io/play-smt.php?id=Hbosignature$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HBO_HD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO_HD.png" group-title="asia",HBO_HD
+https://smt.passwdword.xyz/Smart.php?id=hbohd_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO_HD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO_HD.png" group-title="asia",HBO_HD
+https://tzh911.qzz.io/play-smt.php?id=hbohd_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HBO_HITS" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO_HITS.png" group-title="asia",HBO_HITS
+https://smt.passwdword.xyz/Smart.php?id=hbohit_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HBO_HITS" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HBO_HITS.png" group-title="asia",HBO_HITS
+https://tzh911.qzz.io/play-smt.php?id=hbohit_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达体育1台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育1台.png" group-title="asia",爱尔达体育1台
+https://smt.passwdword.xyz/Smart.php?id=eltasport_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱尔达体育1台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育1台.png" group-title="asia",爱尔达体育1台
+https://tzh911.qzz.io/play-smt.php?id=eltasport_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达体育2台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育2台.png" group-title="asia",爱尔达体育2台
+https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱尔达体育2台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育2台.png" group-title="asia",爱尔达体育2台
+https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达体育3台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育3台.png" group-title="asia",爱尔达体育3台
+https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱尔达体育3台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达体育3台.png" group-title="asia",爱尔达体育3台
+https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达影剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
+https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱尔达影剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
+https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达娱乐.png" group-title="asia",爱尔达娱乐
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv070$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="爱尔达综合台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达综合台.png" group-title="asia",爱尔达综合台
+https://smt.passwdword.xyz/Smart.php?id=eltazonghe_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱尔达综合台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱尔达综合台.png" group-title="asia",爱尔达综合台
+https://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="爱奇艺 iQiyi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱奇艺 iQiyi.png" group-title="asia",爱奇艺 iQiyi
+https://smt.passwdword.xyz/Smart.php?id=Qiyi$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="爱奇艺 iQiyi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/爱奇艺 iQiyi.png" group-title="asia",爱奇艺 iQiyi
+https://tzh911.qzz.io/play-smt.php?id=Qiyi$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="八大精彩" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大精彩.png" group-title="asia",八大精彩
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv034$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="八大精彩" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大精彩.png" group-title="asia",八大精彩
+https://4gtvmobile-mozai.4gtv.tv/3phomaKyg-Twla0Qg9TK50rIW6tSea1FP-y2KBzJ_8k%3d/index.m3u8?token=gWri62McdWeMA2UDrrek8A&expires=1763943144&token1=lJxeoNQE17jMK645RW2-tg&expires1=1763943144&refer=NjE3ODU1NzQtYWRjZC00MzdhLWFiNmMtZmMyNDZkZGVlNmZj&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="八大戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大戏剧台.png" group-title="asia",八大戏剧台
+https://smt.passwdword.xyz/Smart.php?id=badadrama$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="八大戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大戏剧台.png" group-title="asia",八大戏剧台
+https://tzh911.qzz.io/play-smt.php?id=badadrama$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="八大娱乐台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大娱乐台.png" group-title="asia",八大娱乐台
+https://smt.passwdword.xyz/Smart.php?id=badaentertain$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="八大娱乐台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大娱乐台.png" group-title="asia",八大娱乐台
+https://tzh911.qzz.io/play-smt.php?id=badaentertain$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="八大综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大综艺.png" group-title="asia",八大综艺
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv039$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="八大综艺" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/八大综艺.png" group-title="asia",八大综艺
+https://4gtvmobile-mozai.4gtv.tv/q4ZdKFE6GKNRhL8dJraCKXzCc-4h99J-B0WiSuOzG7k%3d/index.m3u8?token=knwc-kVW8z4Y3IffKXrNxg&expires=1763942527&token1=gMLFPRr9e8S7sXxarDMQPw&expires1=1763942527&refer=MWMzZjRhNGEtMzgxZi00MjFkLTg2YzktMjFkMzllNDU5NDAz&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="博斯高球一台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/博斯高球一台.png" group-title="asia",博斯高球一台
+https://smt.passwdword.xyz/Smart.php?id=bosigolf1_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="博斯高球一台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/博斯高球一台.png" group-title="asia",博斯高球一台
+https://tzh911.qzz.io/play-smt.php?id=bosigolf1_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="博斯无限台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/博斯无限台.png" group-title="asia",博斯无限台
+https://smt.passwdword.xyz/Smart.php?id=bosiunlimited_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="博斯无限台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/博斯无限台.png" group-title="asia",博斯无限台
+https://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="大爱二台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大爱二台.png" group-title="asia",大爱二台
+https://4gtvmobile-mozai.4gtv.tv/WVImUxKvS6QWjFeEVYwHqghwXH50u0JKejaPpjFO3_s%3d/index.m3u8?token=zlOPG2fpNBDnhFX1t-VuIg&expires=1763943291&token1=ajTNUy8Fe6iw4kkshTO9kw&expires1=1763943291&refer=NDY3NzM1YzQtODJiMS00MWE3LTgxMzUtZjM5OGM0OTkzYTdk&y=0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="大爱二台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大爱二台.png" group-title="asia",大爱二台
+https://smt.passwdword.xyz/Smart.php?id=daai2_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="大爱二台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/大爱二台.png" group-title="asia",大爱二台
+https://tzh911.qzz.io/play-smt.php?id=daai2_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="電影原聲台CMusic" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/電影原聲台CMusic.png" group-title="asia",電影原聲台CMusic
+https://4gtvmobile-mozai.4gtv.tv/tv2CrKfTM81hOIvmPZ36fcunwKguLn_ZYLXAwToOq9Y%3d/index.m3u8?token=q3LbC9OvSZeba8WxHkFg-Q&expires=1763942930&token1=N8YvcXX1T3VUyyIRVoglpw&expires1=1763942930&refer=ZWNiYmUxODAtYjkzMy00YWIxLWI3MmEtOTNiNjg0ODhhYmEw&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森财经新闻.png" group-title="asia",东森财经新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv153$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森财经新闻.png" group-title="asia",东森财经新闻
+https://smt.passwdword.xyz/Smart.php?id=ettvcaijing_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森财经新闻.png" group-title="asia",东森财经新闻
+https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="东森超视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森超视.png" group-title="asia",东森超视
+https://smt.passwdword.xyz/Smart.php?id=ettvsuper$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森超视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森超视.png" group-title="asia",东森超视
+https://tzh911.qzz.io/play-smt.php?id=ettvsuper$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森电影.png" group-title="asia",东森电影
+https://smt.passwdword.xyz/Smart.php?id=ettvmovie$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森电影.png" group-title="asia",东森电影
+https://tzh911.qzz.io/play-smt.php?id=ettvmovie$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="东森戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森戏剧台.png" group-title="asia",东森戏剧台
+https://smt.passwdword.xyz/Smart.php?id=ettvdrama$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森戏剧台.png" group-title="asia",东森戏剧台
+https://tzh911.qzz.io/play-smt.php?id=ettvdrama$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森新闻.png" group-title="asia",东森新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv152$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森新闻.png" group-title="asia",东森新闻
+https://smt.passwdword.xyz/Smart.php?id=ettvnews$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="东森新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森新闻.png" group-title="asia",东森新闻
+https://tzh911.qzz.io/play-smt.php?id=ettvnews$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="东森洋片" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森洋片.png" group-title="asia",东森洋片
+https://smt.passwdword.xyz/Smart.php?id=ettvwestern$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森洋片" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森洋片.png" group-title="asia",东森洋片
+https://tzh911.qzz.io/play-smt.php?id=ettvwestern$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="东森幼幼" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森幼幼.png" group-title="asia",东森幼幼
+https://smt.passwdword.xyz/Smart.php?id=yoyo_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森幼幼" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森幼幼.png" group-title="asia",东森幼幼
+https://tzh911.qzz.io/play-smt.php?id=yoyo_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="东森综合台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森综合台.png" group-title="asia",东森综合台
+https://smt.passwdword.xyz/Smart.php?id=ettvzhonghe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="东森综合台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/东森综合台.png" group-title="asia",东森综合台
+https://tzh911.qzz.io/play-smt.php?id=ettvzhonghe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="非凡新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/非凡新闻.png" group-title="asia",非凡新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv010$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="非凡新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/非凡新闻.png" group-title="asia",非凡新闻
+https://smt.passwdword.xyz/Smart.php?id=feifannews_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="非凡新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/非凡新闻.png" group-title="asia",非凡新闻
+https://tzh911.qzz.io/play-smt.php?id=feifannews_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="asia",翡翠台
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=J$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="asia",翡翠台
+https://smt.passwdword.xyz/Smart.php?id=jade_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="asia",翡翠台
+https://smt.passwdword.xyz/Smart.php?id=Jade_xue$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="asia",翡翠台
+https://tzh911.qzz.io/play-smt.php?id=jade_twn$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/翡翠台.png" group-title="asia",翡翠台
+https://tzh911.qzz.io/play-smt.php?id=Jade_xue$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="公视台语台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/公视台语台.png" group-title="asia",公视台语台
+https://smt.passwdword.xyz/Smart.php?id=ctv2_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="公视台语台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/公视台语台.png" group-title="asia",公视台语台
+https://tzh911.qzz.io/play-smt.php?id=ctv2_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="古典音乐台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/古典音乐台.png" group-title="asia",古典音乐台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv059$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="滾動力rollor" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/滾動力rollor.png" group-title="asia",滾動力rollor
+https://4gtvmobile-mozai.4gtv.tv/uIcyqcZzvdAIM2iyFgDX-Bjksd19d-Z0lE3WD2OBP7M%3d/index.m3u8?token=ZdsLGYTcGQtjWdJinTuNjg&expires=1763943039&token1=tvTaK0Ty9_1ZKw2sl2avNQ&expires1=1763943039&refer=ZWMwMTU0ZTgtZDJhMS00NjkyLWJkNzAtNDRjZGE4OTM3NTgw&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="好消息" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息.png" group-title="asia",好消息
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-ftv16$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="好消息" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息.png" group-title="asia",好消息
+https://tzh911.qzz.io/litv.php?id=litv-ftv16$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="好消息" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息.png" group-title="asia",好消息
+https://4gtvmobile-mozai.4gtv.tv/cKcRSsTSAqojdk4ukFwk2ZnZAWHNFfKWWJH-jtCl7Po%3d/index.m3u8?token=DlaNw6pNzLppkA33ydOlcQ&expires=1763943276&token1=H67q630MnCQsiN6UqyjpSQ&expires1=1763943276&refer=MjE5ZDY1OGYtMTQyYi00MjgyLWI4MzEtZjc0ZGUyMGQzNTU5&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="好消息 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息 2.png" group-title="asia",好消息 2
+https://smt.passwdword.xyz/Smart.php?id=good2_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="好消息 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息 2.png" group-title="asia",好消息 2
+https://tzh911.qzz.io/play-smt.php?id=good2_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="好消息2台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息2台.png" group-title="asia",好消息2台
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-ftv17$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="好消息2台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息2台.png" group-title="asia",好消息2台
+https://tzh911.qzz.io/litv.php?id=litv-ftv17$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="好消息2台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/好消息2台.png" group-title="asia",好消息2台
+https://4gtvmobile-mozai.4gtv.tv/NX4RVwBp3YKFDEVTIJf1s0RbcmszQhrRAXFUfB5a9HY%3d/index.m3u8?token=zUqDP2m6QHduyXYuTbq98Q&expires=1763943285&token1=q5lOvTqAMmtOAz6jxZm23w&expires1=1763943285&refer=ZWE5Yjg4MzctYzBhMy00NmUwLWFjMTEtNTNkMGM1MjM1YmI2&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视.png" group-title="asia",华视
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="华视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视.png" group-title="asia",华视
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv041$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="华视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视.png" group-title="asia",华视
+https://4gtvmobile-mozai.4gtv.tv/TUeMyoozL4poeYDf2vPKHPaZRiHT-Ig2r1LZquqLKxo%3d/index.m3u8?token=a2SIri0uB5qGCYANHX0Rig&expires=1763942503&token1=HK7C15-7Q9mztvdkSHrGbQ&expires1=1763942503&refer=NTFmYzU4ZWYtZTQwOC00YTVmLTkxMzMtNmU5ZjVjN2U4Mjk5&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="华视新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视新闻.png" group-title="asia",华视新闻
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv052$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="华视新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视新闻.png" group-title="asia",华视新闻
+https://4gtvmobile-mozai.4gtv.tv/Ug3uWYhMjkaf-Sj3HPEAH09DMq7TS272NDSXdWsEzvM%3d/index.m3u8?token=W6jxrznX5CaXxttGG9Butg&expires=1763942715&token1=YlmdFNsAqGI4kiURJ8G1ng&expires1=1763942715&refer=ZmRmODcyNDYtNTRmZS00NWFlLWEyNjYtYzhiOGUxNTY3ZjBi&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="华视新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/华视新闻.png" group-title="asia",华视新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv052$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/寰宇新闻台.png" group-title="asia",寰宇新闻台
+https://tzh911.qzz.io/litv.php?id=litv-longturn14$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="寰宇新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/寰宇新闻台.png" group-title="asia",寰宇新闻台
+https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="寰宇新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/寰宇新闻台.png" group-title="asia",寰宇新闻台
+https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="中视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中视.png" group-title="asia",中视
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv040$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中视.png" group-title="asia",中视
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv040$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中视.png" group-title="asia",中视
+https://4gtvmobile-mozai.4gtv.tv/PK_kRa0Kr4r3IJ50OjXYO4tkxejCkmp6hC5o1Lqml3s%3d/index.m3u8?token=w7yLtZns76xXp6AuWoQfYw&expires=1763942488&token1=_5nVkFoljk-m77auya6pyQ&expires1=1763942488&refer=MTczOTYwZjktYWJhNC00ZDY0LTlkNGEtYmU4NzdkNmQyMzY5&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="asia",中天新闻
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="asia",中天新闻
+https://4gtvmobile-mozai.4gtv.tv/iSW_NLsmy0RJiJXHi7vQ1-7VDD_mP0FOwRXxblv33MU%3d/index.m3u8?token=YsW7fmb_HyadFEJpTgG5Tg&expires=1763942763&token1=D3_95f4GAaXRr2rjUGo67w&expires1=1763942763&refer=NzRjYTczZWEtY2M5YS00OGM4LTk0YTgtMTc0MzIxNWFmZTVi&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="asia",中天新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv009$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="asia",中天新闻
+https://smt.passwdword.xyz/Smart.php?id=ctinews$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="中天新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天新闻.png" group-title="asia",中天新闻
+https://tzh911.qzz.io/play-smt.php?id=ctinews$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天亚洲.png" group-title="asia",中天亚洲
+https://smt.passwdword.xyz/Smart.php?id=ctiasia_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天亚洲" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天亚洲.png" group-title="asia",中天亚洲
+https://tzh911.qzz.io/play-smt.php?id=ctiasia_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="中天娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天娱乐.png" group-title="asia",中天娱乐
+https://smt.passwdword.xyz/Smart.php?id=ctient$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天娱乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天娱乐.png" group-title="asia",中天娱乐
+https://tzh911.qzz.io/play-smt.php?id=ctient$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天综合.png" group-title="asia",中天综合
+https://smt.passwdword.xyz/Smart.php?id=ctizhonghe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/中天综合.png" group-title="asia",中天综合
+https://tzh911.qzz.io/play-smt.php?id=ctizhonghe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="台视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/台视.png" group-title="asia",台视
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="台视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/台视.png" group-title="asia",台视
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv066$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="台视综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/台视综合.png" group-title="asia",台视综合
+https://smt.passwdword.xyz/Smart.php?id=ttvzhonghe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="台视综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/台视综合.png" group-title="asia",台视综合
+https://tzh911.qzz.io/play-smt.php?id=ttvzhonghe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="天映经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映经典.png" group-title="asia",天映经典
+https://smt.passwdword.xyz/Smart.php?id=Celestial2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="天映经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映经典.png" group-title="asia",天映经典
+https://tzh911.qzz.io/play-smt.php?id=Celestial2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="天映频道" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映频道.png" group-title="asia",天映频道
+https://smt.passwdword.xyz/Smart.php?id=Celestial$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="天映频道" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映频道.png" group-title="asia",天映频道
+https://smt.passwdword.xyz/Smart.php?id=Celestialindo$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="天映频道" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映频道.png" group-title="asia",天映频道
+https://tzh911.qzz.io/play-smt.php?id=Celestial$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="天映频道" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/天映频道.png" group-title="asia",天映频道
+https://tzh911.qzz.io/play-smt.php?id=Celestialindo$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来电影.png" group-title="asia",纬来电影
+https://smt.passwdword.xyz/Smart.php?id=videolandmovie$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来电影.png" group-title="asia",纬来电影
+https://tzh911.qzz.io/play-smt.php?id=videolandmovie$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来精彩" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来精彩.png" group-title="asia",纬来精彩
+https://smt.passwdword.xyz/Smart.php?id=videolandspecial_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来精彩" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来精彩.png" group-title="asia",纬来精彩
+https://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来日本" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来日本.png" group-title="asia",纬来日本
+https://smt.passwdword.xyz/Smart.php?id=videolandjapan$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来日本" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来日本.png" group-title="asia",纬来日本
+https://tzh911.qzz.io/play-smt.php?id=videolandjapan$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来体育.png" group-title="asia",纬来体育
+https://smt.passwdword.xyz/Smart.php?id=videolandsport$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来体育" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来体育.png" group-title="asia",纬来体育
+https://tzh911.qzz.io/play-smt.php?id=videolandsport$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来育乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来育乐.png" group-title="asia",纬来育乐
+https://smt.passwdword.xyz/Smart.php?id=videolandyule$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来育乐" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来育乐.png" group-title="asia",纬来育乐
+https://tzh911.qzz.io/play-smt.php?id=videolandyule$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="纬来综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来综合.png" group-title="asia",纬来综合
+https://smt.passwdword.xyz/Smart.php?id=videolandzonghe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="纬来综合" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/纬来综合.png" group-title="asia",纬来综合
+https://tzh911.qzz.io/play-smt.php?id=videolandzonghe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="三立都会台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立都会台.png" group-title="asia",三立都会台
+https://smt.passwdword.xyz/Smart.php?id=sanlidouhui$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="三立都会台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立都会台.png" group-title="asia",三立都会台
+https://tzh911.qzz.io/play-smt.php?id=sanlidouhui$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="三立台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立台湾台.png" group-title="asia",三立台湾台
+https://smt.passwdword.xyz/Smart.php?id=sanlitaiwan$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="三立台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立台湾台.png" group-title="asia",三立台湾台
+https://tzh911.qzz.io/play-smt.php?id=sanlitaiwan$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="三立戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立戏剧台.png" group-title="asia",三立戏剧台
+https://smt.passwdword.xyz/Smart.php?id=sanlixiju_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="三立戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/三立戏剧台.png" group-title="asia",三立戏剧台
+https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="民视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视.png" group-title="asia",民视
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv002$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视.png" group-title="asia",民视
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv155$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视.png" group-title="asia",民视
+https://4gtvmobile-mozai.4gtv.tv/B1EG2mh3UjrczeqBZPYdFBkKDTe06V7Lbb9Go4NEGLQ%3d/index.m3u8?token=te6DhcKQ2kbtCjURRSprQw&expires=1763942472&token1=9jnxRjpgKaImOKKnWpCvHg&expires1=1763942472&refer=NmM2ZjEzMjgtNjM0Yy00YTY0LWJjZDktY2NmZjg3NmQzNzJi&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视第一台.png" group-title="asia",民视第一台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv003$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视第一台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视第一台.png" group-title="asia",民视第一台
+https://4gtvmobile-mozai.4gtv.tv/ZOBWU0bDLJ6V56Nio0nmV1YDvfJ9Vy8NCeMiuXyWBk8%3d/index.m3u8?token=nQRXpPxBNtEPXWbo2w-rNQ&expires=1763942457&token1=3XBNcoOmQT_d9zvyDCflfQ&expires1=1763942457&refer=NTg4NzAyNTQtMjNjZi00OTViLThjNjYtZmE2MzYyOTUyZWFl&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视台湾台.png" group-title="asia",民视台湾台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv001$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视台湾台.png" group-title="asia",民视台湾台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv156$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视台湾台.png" group-title="asia",民视台湾台
+https://4gtvmobile-mozai.4gtv.tv/94XxZo32nEWCLVOMkaTKDDWJlEQm7rhtgS5r_jabO70%3d/index.m3u8?token=ARR_RDzDvywuGqWO8vlFwQ&expires=1763942465&token1=u2OyBpvjnJAoecJaV7vz1g&expires1=1763942465&refer=ZjhlZjYwNmMtZGQyOC00NGQ2LWIzMzQtMTQ5MzM0ODMzMDk1&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视台湾台.png" group-title="asia",民视台湾台
+https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="民视台湾台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视台湾台.png" group-title="asia",民视台湾台
+https://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="1" tvg-name="民视新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视新闻台.png" group-title="asia",民视新闻台
+https://4gtvmobile-mozai.4gtv.tv/MyXNhZuN5QDRcdKiC0rhOD6zHWkw3cyMlOf4WCsNpBc%3d/index.m3u8?token=h355iK4ws0_TvEAYUJQfUA&expires=1763942723&token1=ANeyOIKoWHW1L7_Ry1mTTQ&expires1=1763942723&refer=ZjdiMmZhYWQtYTAzZC00ZWY0LWFmZDEtMWIxNGI0ODI3Mjky&y=0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视新闻台.png" group-title="asia",民视新闻台
+https://tzh911.qzz.io/litv.php?id=litv-ftv13$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视新闻台.png" group-title="asia",民视新闻台
+https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视新闻台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/民视新闻台.png" group-title="asia",民视新闻台
+https://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="龙华电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华电影.png" group-title="asia",龙华电影
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙华电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华电影.png" group-title="asia",龙华电影
+https://tzh911.qzz.io/litv.php?id=litv-longturn03$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="龙华电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华电影.png" group-title="asia",龙华电影
+https://smt.passwdword.xyz/Smart.php?id=xingwei_movie$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="龙华电影" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华电影.png" group-title="asia",龙华电影
+https://tzh911.qzz.io/play-smt.php?id=xingwei_movie$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="龙华经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华经典.png" group-title="asia",龙华经典
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙华经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华经典.png" group-title="asia",龙华经典
+https://tzh911.qzz.io/litv.php?id=litv-longturn21$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="龙华经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华经典.png" group-title="asia",龙华经典
+https://smt.passwdword.xyz/Smart.php?id=lunghuajingdian_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="龙华经典" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华经典.png" group-title="asia",龙华经典
+https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="龙华偶像" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华偶像.png" group-title="asia",龙华偶像
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn12$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙华偶像" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华偶像.png" group-title="asia",龙华偶像
+https://tzh911.qzz.io/litv.php?id=litv-longturn12$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="龙华偶像" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华偶像.png" group-title="asia",龙华偶像
+https://smt.passwdword.xyz/Smart.php?id=lunghuaidol_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="龙华偶像" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华偶像.png" group-title="asia",龙华偶像
+https://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华戏剧.png" group-title="asia",龙华戏剧
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华戏剧.png" group-title="asia",龙华戏剧
+https://tzh911.qzz.io/litv.php?id=litv-longturn18$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华戏剧.png" group-title="asia",龙华戏剧
+https://smt.passwdword.xyz/Smart.php?id=lunghuaxiju_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="龙华戏剧" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华戏剧.png" group-title="asia",龙华戏剧
+https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="龙华洋片" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华洋片.png" group-title="asia",龙华洋片
+https://tzh911.qzz.io/litv.php?id=litv-longturn02$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙华洋片" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华洋片.png" group-title="asia",龙华洋片
+https://smt.passwdword.xyz/Smart.php?id=lunghuawestern_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="龙华洋片" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙华洋片.png" group-title="asia",龙华洋片
+https://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="龙祥时代" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙祥时代.png" group-title="asia",龙祥时代
+https://smt.passwdword.xyz/Smart.php?id=lungxiangtime_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="龙祥时代" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/龙祥时代.png" group-title="asia",龙祥时代
+https://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="靖天国际台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天国际台.png" group-title="asia",靖天国际台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv063$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="靖天国际台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天国际台.png" group-title="asia",靖天国际台
+https://smt.passwdword.xyz/Smart.php?id=jingtianintl_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="靖天国际台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天国际台.png" group-title="asia",靖天国际台
+https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="靖天欢乐台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天欢乐台.png" group-title="asia",靖天欢乐台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv054$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="靖天卡通台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天卡通台.png" group-title="asia",靖天卡通台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv044$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="靖天卡通台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天卡通台.png" group-title="asia",靖天卡通台
+https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="靖天卡通台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天卡通台.png" group-title="asia",靖天卡通台
+https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="靖天卡通台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天卡通台.png" group-title="asia",靖天卡通台
+https://4gtvmobile-mozai.4gtv.tv/4VmDARWNenUsuuIk6x2FzfDsBh9uubVUBubiGQVLPSo%3d/index.m3u8?token=IQvS5EITxO8SkvRJ-rAwyQ&expires=1763942660&token1=ur2WZgNSfSS0p1dsvpZy1A&expires1=1763942660&refer=ZjJhNWQyMmYtOWNlZS00ZGMxLTk2YzAtYzg2NWE3OWRlZWYw&y=0$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="靖天日本台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天日本台.png" group-title="asia",靖天日本台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv047$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="靖天日本台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖天日本台.png" group-title="asia",靖天日本台
+https://4gtvmobile-mozai.4gtv.tv/JVewMywJKopDysK6xfUutlZYSnkrxZtyO2nBUaueEXs%3d/index.m3u8?token=8-BstybKMu4U_WCoei1qEQ&expires=1763942565&token1=Pji1Jja2_1ZcOX4U6RHSjA&expires1=1763942565&refer=YWNiNjlhYzAtMzJlMy00MjY3LTkwYTItMGFiYTY4OTBmNTRm&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="靖洋戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖洋戏剧台.png" group-title="asia",靖洋戏剧台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv045$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="靖洋戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/靖洋戏剧台.png" group-title="asia",靖洋戏剧台
+https://4gtvmobile-mozai.4gtv.tv/TCeIwk-H5S3kGdMQWCZ-Qf186oGYm3aqAuJlYHsMkvY%3d/index.m3u8?token=KeykFcLRPEBkbI6PDo4lPA&expires=1763943157&token1=9r2TFp17iP5CCX3OIGUZ7A&expires1=1763943157&refer=NGRjOGI1YWUtYmFkNi00YWFhLTk5ZDYtY2FhNzU3MjVlMmU1&y=0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="ABC News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/ABC News.png" group-title="asia",ABC News
+https://smt.passwdword.xyz/Smart.php?id=abcnews_glo$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="ABC News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/ABC News.png" group-title="asia",ABC News
+https://tzh911.qzz.io/play-smt.php?id=abcnews_glo$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Adithya" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Adithya.png" group-title="asia",Adithya
+https://smt.passwdword.xyz/Smart.php?id=Adithya$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Adithya" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Adithya.png" group-title="asia",Adithya
+https://tzh911.qzz.io/play-smt.php?id=Adithya$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="AEC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AEC.png" group-title="asia",AEC
+https://smt.passwdword.xyz/Smart.php?id=AEC$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AEC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AEC.png" group-title="asia",AEC
+https://tzh911.qzz.io/play-smt.php?id=AEC$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="AFC 亚洲旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AFC 亚洲旅游台.png" group-title="asia",AFC 亚洲旅游台
+https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AFC 亚洲旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AFC 亚洲旅游台.png" group-title="asia",AFC 亚洲旅游台
+https://tzh911.qzz.io/play-smt.php?id=asiatravel_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Al-Hijrah" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Al-Hijrah.png" group-title="asia",Al-Hijrah
+https://smt.passwdword.xyz/Smart.php?id=Alhijrah$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Al-Hijrah" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Al-Hijrah.png" group-title="asia",Al-Hijrah
+https://tzh911.qzz.io/play-smt.php?id=Alhijrah$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Al-Jazeera" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Al-Jazeera.png" group-title="asia",Al-Jazeera
+https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Al-Jazeera" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Al-Jazeera.png" group-title="asia",Al-Jazeera
+https://tzh911.qzz.io/play-smt.php?id=aljazeera_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="AlQuran AlKareem" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AlQuran AlKareem.png" group-title="asia",AlQuran AlKareem
+https://smt.passwdword.xyz/Smart.php?id=AlQuran$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AlQuran AlKareem" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AlQuran AlKareem.png" group-title="asia",AlQuran AlKareem
+https://tzh911.qzz.io/play-smt.php?id=AlQuran$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Amarin" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Amarin.png" group-title="asia",Amarin
+https://smt.passwdword.xyz/Smart.php?id=amarin_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Amarin" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Amarin.png" group-title="asia",Amarin
+https://tzh911.qzz.io/play-smt.php?id=amarin_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Animal_Planet" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Animal_Planet.png" group-title="asia",Animal_Planet
+https://smt.passwdword.xyz/Smart.php?id=animalplanet_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Animal_Planet" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Animal_Planet.png" group-title="asia",Animal_Planet
+https://tzh911.qzz.io/play-smt.php?id=animalplanet_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Animax" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Animax.png" group-title="asia",Animax
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CANI$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Animax" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Animax.png" group-title="asia",Animax
+https://smt.passwdword.xyz/Smart.php?id=Animax$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="Animax" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Animax.png" group-title="asia",Animax
+https://tzh911.qzz.io/play-smt.php?id=Animax$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="AnTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AnTV.png" group-title="asia",AnTV
+https://smt.passwdword.xyz/Smart.php?id=Antv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AnTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AnTV.png" group-title="asia",AnTV
+https://tzh911.qzz.io/play-smt.php?id=Antv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="AOD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AOD.png" group-title="asia",AOD
+https://smt.passwdword.xyz/Smart.php?id=Aodhd$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AOD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AOD.png" group-title="asia",AOD
+https://tzh911.qzz.io/play-smt.php?id=Aodhd$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Arena" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Arena.png" group-title="asia",Arena
+https://smt.passwdword.xyz/Smart.php?id=Arena$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Arena" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Arena.png" group-title="asia",Arena
+https://tzh911.qzz.io/play-smt.php?id=Arena$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Arena 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Arena 2.png" group-title="asia",Arena 2
+https://smt.passwdword.xyz/Smart.php?id=Arena2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Arena 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Arena 2.png" group-title="asia",Arena 2
+https://tzh911.qzz.io/play-smt.php?id=Arena2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Asianet" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Asianet.png" group-title="asia",Asianet
+https://smt.passwdword.xyz/Smart.php?id=asianet_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Asianet" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Asianet.png" group-title="asia",Asianet
+https://tzh911.qzz.io/play-smt.php?id=asianet_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Asianet News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Asianet News.png" group-title="asia",Asianet News
+https://smt.passwdword.xyz/Smart.php?id=asianetnews_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Asianet News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Asianet News.png" group-title="asia",Asianet News
+https://tzh911.qzz.io/play-smt.php?id=asianetnews_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Badminton 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Badminton 1.png" group-title="asia",Astro Badminton 1
+https://smt.passwdword.xyz/Smart.php?id=go_badminton1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Badminton 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Badminton 1.png" group-title="asia",Astro Badminton 1
+https://tzh911.qzz.io/play-smt.php?id=go_badminton1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Badminton 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Badminton 2.png" group-title="asia",Astro Badminton 2
+https://smt.passwdword.xyz/Smart.php?id=go_badminton2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Badminton 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Badminton 2.png" group-title="asia",Astro Badminton 2
+https://tzh911.qzz.io/play-smt.php?id=go_badminton2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Beinsports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 1.png" group-title="asia",Astro Beinsports 1
+https://smt.passwdword.xyz/Smart.php?id=Astrobein1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Beinsports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 1.png" group-title="asia",Astro Beinsports 1
+https://tzh911.qzz.io/play-smt.php?id=Astrobein1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Beinsports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 2.png" group-title="asia",Astro Beinsports 2
+https://smt.passwdword.xyz/Smart.php?id=Astrobein2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Beinsports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 2.png" group-title="asia",Astro Beinsports 2
+https://tzh911.qzz.io/play-smt.php?id=Astrobein2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Beinsports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 3.png" group-title="asia",Astro Beinsports 3
+https://smt.passwdword.xyz/Smart.php?id=Astrobein3$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Beinsports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Beinsports 3.png" group-title="asia",Astro Beinsports 3
+https://tzh911.qzz.io/play-smt.php?id=Astrobein3$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Cricket" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Cricket.png" group-title="asia",Astro Cricket
+https://smt.passwdword.xyz/Smart.php?id=Acricket$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Cricket" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Cricket.png" group-title="asia",Astro Cricket
+https://tzh911.qzz.io/play-smt.php?id=Acricket$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Football" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Football.png" group-title="asia",Astro Football
+https://smt.passwdword.xyz/Smart.php?id=go_assp4$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Football" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Football.png" group-title="asia",Astro Football
+https://tzh911.qzz.io/play-smt.php?id=go_assp4$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Golf" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Golf.png" group-title="asia",Astro Golf
+https://smt.passwdword.xyz/Smart.php?id=Agolf$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Golf" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Golf.png" group-title="asia",Astro Golf
+https://tzh911.qzz.io/play-smt.php?id=Agolf$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Grandstand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Grandstand.png" group-title="asia",Astro Grandstand
+https://smt.passwdword.xyz/Smart.php?id=go_assp3$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Grandstand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Grandstand.png" group-title="asia",Astro Grandstand
+https://tzh911.qzz.io/play-smt.php?id=go_assp3$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro KTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro KTV.png" group-title="asia",Astro KTV
+https://smt.passwdword.xyz/Smart.php?id=Astroktv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro KTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro KTV.png" group-title="asia",Astro KTV
+https://tzh911.qzz.io/play-smt.php?id=Astroktv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro LOL" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro LOL.png" group-title="asia",Astro LOL
+https://smt.passwdword.xyz/Smart.php?id=Astro_lol$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro LOL" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro LOL.png" group-title="asia",Astro LOL
+https://tzh911.qzz.io/play-smt.php?id=Astro_lol$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro MTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro MTV.png" group-title="asia",Astro MTV
+https://smt.passwdword.xyz/Smart.php?id=AstroMTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro MTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro MTV.png" group-title="asia",Astro MTV
+https://tzh911.qzz.io/play-smt.php?id=AstroMTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Premier League 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Premier League 1.png" group-title="asia",Astro Premier League 1
+https://smt.passwdword.xyz/Smart.php?id=go_assp1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Premier League 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Premier League 1.png" group-title="asia",Astro Premier League 1
+https://tzh911.qzz.io/play-smt.php?id=go_assp1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Premier League 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Premier League 2.png" group-title="asia",Astro Premier League 2
+https://smt.passwdword.xyz/Smart.php?id=go_assp2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Premier League 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Premier League 2.png" group-title="asia",Astro Premier League 2
+https://tzh911.qzz.io/play-smt.php?id=go_assp2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro QJ" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro QJ.png" group-title="asia",Astro QJ
+https://smt.passwdword.xyz/Smart.php?id=Quanjia$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro QJ" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro QJ.png" group-title="asia",Astro QJ
+https://tzh911.qzz.io/play-smt.php?id=Quanjia$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Rusi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Rusi.png" group-title="asia",Astro Rusi
+https://smt.passwdword.xyz/Smart.php?id=Rusi$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Rusi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Rusi.png" group-title="asia",Astro Rusi
+https://tzh911.qzz.io/play-smt.php?id=Rusi$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Sonypix" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sonypix.png" group-title="asia",Astro Sonypix
+https://smt.passwdword.xyz/Smart.php?id=Asonypix$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Sonypix" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sonypix.png" group-title="asia",Astro Sonypix
+https://tzh911.qzz.io/play-smt.php?id=Asonypix$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Sports Plus" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sports Plus.png" group-title="asia",Astro Sports Plus
+https://smt.passwdword.xyz/Smart.php?id=go_sportsplus$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Sports Plus" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sports Plus.png" group-title="asia",Astro Sports Plus
+https://tzh911.qzz.io/play-smt.php?id=go_sportsplus$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Sunlife" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sunlife.png" group-title="asia",Astro Sunlife
+https://smt.passwdword.xyz/Smart.php?id=Sunlife$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Sunlife" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sunlife.png" group-title="asia",Astro Sunlife
+https://tzh911.qzz.io/play-smt.php?id=Sunlife$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Sunmusic" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sunmusic.png" group-title="asia",Astro Sunmusic
+https://smt.passwdword.xyz/Smart.php?id=Sunmusic$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Sunmusic" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Sunmusic.png" group-title="asia",Astro Sunmusic
+https://tzh911.qzz.io/play-smt.php?id=Sunmusic$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro Vaanavil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Vaanavil.png" group-title="asia",Astro Vaanavil
+https://smt.passwdword.xyz/Smart.php?id=Vaanavil$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro Vaanavil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro Vaanavil.png" group-title="asia",Astro Vaanavil
+https://tzh911.qzz.io/play-smt.php?id=Vaanavil$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astro W-Sports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro W-Sports.png" group-title="asia",Astro W-Sports
+https://smt.passwdword.xyz/Smart.php?id=go_assp5$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astro W-Sports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astro W-Sports.png" group-title="asia",Astro W-Sports
+https://tzh911.qzz.io/play-smt.php?id=go_assp5$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Astrol Kplus" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astrol Kplus.png" group-title="asia",Astrol Kplus
+https://smt.passwdword.xyz/Smart.php?id=Kplus$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Astrol Kplus" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Astrol Kplus.png" group-title="asia",Astrol Kplus
+https://tzh911.qzz.io/play-smt.php?id=Kplus$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Aura" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Aura.png" group-title="asia",Aura
+https://smt.passwdword.xyz/Smart.php?id=Aura$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Aura" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Aura.png" group-title="asia",Aura
+https://tzh911.qzz.io/play-smt.php?id=Aura$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Awani" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Awani.png" group-title="asia",Awani
+https://smt.passwdword.xyz/Smart.php?id=Awani$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Awani" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Awani.png" group-title="asia",Awani
+https://tzh911.qzz.io/play-smt.php?id=Awani$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Awesome TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Awesome TV.png" group-title="asia",Awesome TV
+https://smt.passwdword.xyz/Smart.php?id=Dsangat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Awesome TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Awesome TV.png" group-title="asia",Awesome TV
+https://tzh911.qzz.io/play-smt.php?id=Dsangat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="AXN Taiwan" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AXN Taiwan.png" group-title="asia",AXN Taiwan
+https://smt.passwdword.xyz/Smart.php?id=axn_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="AXN Taiwan" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/AXN Taiwan.png" group-title="asia",AXN Taiwan
+https://tzh911.qzz.io/play-smt.php?id=axn_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Baby TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Baby TV.png" group-title="asia",Baby TV
+https://smt.passwdword.xyz/Smart.php?id=babytv_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Baby TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Baby TV.png" group-title="asia",Baby TV
+https://tzh911.qzz.io/play-smt.php?id=babytv_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Baby TV Eng" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Baby TV Eng.png" group-title="asia",Baby TV Eng
+https://smt.passwdword.xyz/Smart.php?id=Babytv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Baby TV Eng" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Baby TV Eng.png" group-title="asia",Baby TV Eng
+https://tzh911.qzz.io/play-smt.php?id=Babytv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BBC 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC 1.png" group-title="asia",BBC 1
+https://smt.passwdword.xyz/Smart.php?id=bbc1_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BBC 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC 1.png" group-title="asia",BBC 1
+https://tzh911.qzz.io/play-smt.php?id=bbc1_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BBC 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC 2.png" group-title="asia",BBC 2
+https://smt.passwdword.xyz/Smart.php?id=bbc2_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BBC 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC 2.png" group-title="asia",BBC 2
+https://tzh911.qzz.io/play-smt.php?id=bbc2_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BBC Earth Lifestyle" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC Earth Lifestyle.png" group-title="asia",BBC Earth Lifestyle
+https://smt.passwdword.xyz/Smart.php?id=bbclifestyle_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BBC Earth Lifestyle" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC Earth Lifestyle.png" group-title="asia",BBC Earth Lifestyle
+https://tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://smt.passwdword.xyz/Smart.php?id=bbcnews_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://smt.passwdword.xyz/Smart.php?id=Bbcnews$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcnews_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=Bbcnews$在线IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://smt.passwdword.xyz/Smart.php?id=bbcworldnews_antik$在线IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="BBC World News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BBC World News.png" group-title="asia",BBC World News
+https://tzh911.qzz.io/play-smt.php?id=bbcworldnews_antik$在线IPV4『线路6』
+#EXTINF:-1 tvg-id="1" tvg-name="Berita Satu" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Berita Satu.png" group-title="asia",Berita Satu
+https://smt.passwdword.xyz/Smart.php?id=BeritaSatu_eko$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Berita Satu" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Berita Satu.png" group-title="asia",Berita Satu
+https://tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Bernama" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bernama.png" group-title="asia",Bernama
+https://smt.passwdword.xyz/Smart.php?id=Bernama$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Bernama" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bernama.png" group-title="asia",Bernama
+https://tzh911.qzz.io/play-smt.php?id=Bernama$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Bloomberg News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bloomberg News.png" group-title="asia",Bloomberg News
+https://smt.passwdword.xyz/Smart.php?id=bloomberg_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Bloomberg News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bloomberg News.png" group-title="asia",Bloomberg News
+https://tzh911.qzz.io/play-smt.php?id=bloomberg_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BolaArena 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BolaArena 1.png" group-title="asia",BolaArena 1
+https://smt.passwdword.xyz/Smart.php?id=Bolaarena1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BolaArena 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BolaArena 1.png" group-title="asia",BolaArena 1
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="BolaArena 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BolaArena 2.png" group-title="asia",BolaArena 2
+https://smt.passwdword.xyz/Smart.php?id=Bolaarena2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="BolaArena 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/BolaArena 2.png" group-title="asia",BolaArena 2
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Bollyone" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bollyone.png" group-title="asia",Bollyone
+https://smt.passwdword.xyz/Smart.php?id=Bollyone$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Bollyone" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Bollyone.png" group-title="asia",Bollyone
+https://tzh911.qzz.io/play-smt.php?id=Bollyone$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Boo" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Boo.png" group-title="asia",Boo
+https://smt.passwdword.xyz/Smart.php?id=Boo$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Boo" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Boo.png" group-title="asia",Boo
+https://tzh911.qzz.io/play-smt.php?id=Boo$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Cartoon Network" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Cartoon Network.png" group-title="asia",Cartoon Network
+https://smt.passwdword.xyz/Smart.php?id=Cn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Cartoon Network.png" group-title="asia",Cartoon Network
+https://tzh911.qzz.io/play-smt.php?id=Cn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CBBC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CBBC.png" group-title="asia",CBBC
+https://smt.passwdword.xyz/Smart.php?id=cbbc_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CBBC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CBBC.png" group-title="asia",CBBC
+https://tzh911.qzz.io/play-smt.php?id=cbbc_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CBeebies" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CBeebies.png" group-title="asia",CBeebies
+https://smt.passwdword.xyz/Smart.php?id=Cbeebies$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CBeebies" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CBeebies.png" group-title="asia",CBeebies
+https://tzh911.qzz.io/play-smt.php?id=Cbeebies$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Ceria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ceria.png" group-title="asia",Ceria
+https://smt.passwdword.xyz/Smart.php?id=Ceria$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Ceria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ceria.png" group-title="asia",Ceria
+https://tzh911.qzz.io/play-smt.php?id=Ceria$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Ch 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ch 8.png" group-title="asia",Ch 8
+https://smt.passwdword.xyz/Smart.php?id=ch8_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Ch 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ch 8.png" group-title="asia",Ch 8
+https://tzh911.qzz.io/play-smt.php?id=ch8_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 3 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 3 Thailand.png" group-title="asia",Channel 3 Thailand
+https://smt.passwdword.xyz/Smart.php?id=ch3_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 3 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 3 Thailand.png" group-title="asia",Channel 3 Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch3_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 4.png" group-title="asia",Channel 4
+https://smt.passwdword.xyz/Smart.php?id=channel4_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 4.png" group-title="asia",Channel 4
+https://tzh911.qzz.io/play-smt.php?id=channel4_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 5" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 5.png" group-title="asia",Channel 5
+https://smt.passwdword.xyz/Smart.php?id=Channel5HD$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 5" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 5.png" group-title="asia",Channel 5
+https://tzh911.qzz.io/play-smt.php?id=Channel5HD$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 5 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 5 Thailand.png" group-title="asia",Channel 5 Thailand
+https://smt.passwdword.xyz/Smart.php?id=ch5_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 5 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 5 Thailand.png" group-title="asia",Channel 5 Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch5_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 7 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 7 Thailand.png" group-title="asia",Channel 7 Thailand
+https://smt.passwdword.xyz/Smart.php?id=ch7_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 7 Thailand" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 7 Thailand.png" group-title="asia",Channel 7 Thailand
+https://tzh911.qzz.io/play-smt.php?id=ch7_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 8.png" group-title="asia",Channel 8
+https://smt.passwdword.xyz/Smart.php?id=Channel8HD$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel 8.png" group-title="asia",Channel 8
+https://tzh911.qzz.io/play-smt.php?id=Channel8HD$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Channel U" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel U.png" group-title="asia",Channel U
+https://smt.passwdword.xyz/Smart.php?id=ChannelU$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Channel U" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Channel U.png" group-title="asia",Channel U
+https://tzh911.qzz.io/play-smt.php?id=ChannelU$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CI" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CI.png" group-title="asia",CI
+https://smt.passwdword.xyz/Smart.php?id=ci_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CI" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CI.png" group-title="asia",CI
+https://tzh911.qzz.io/play-smt.php?id=ci_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CINEMAX" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CINEMAX.png" group-title="asia",CINEMAX
+https://smt.passwdword.xyz/Smart.php?id=cinemax_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CINEMAX" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CINEMAX.png" group-title="asia",CINEMAX
+https://tzh911.qzz.io/play-smt.php?id=cinemax_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Citra" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Citra.png" group-title="asia",Citra
+https://smt.passwdword.xyz/Smart.php?id=AAcitra$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Citra" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Citra.png" group-title="asia",Citra
+https://tzh911.qzz.io/play-smt.php?id=AAcitra$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CNA" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CNA.png" group-title="asia",CNA
+https://smt.passwdword.xyz/Smart.php?id=cna$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CNA" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CNA.png" group-title="asia",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="CNBC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CNBC.png" group-title="asia",CNBC
+https://smt.passwdword.xyz/Smart.php?id=cnbc_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="CNBC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/CNBC.png" group-title="asia",CNBC
+https://tzh911.qzz.io/play-smt.php?id=cnbc_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Colors Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Colors Tamil.png" group-title="asia",Colors Tamil
+https://smt.passwdword.xyz/Smart.php?id=Colorstam$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Colors Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Colors Tamil.png" group-title="asia",Colors Tamil
+https://tzh911.qzz.io/play-smt.php?id=Colorstam$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Daai TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Daai TV.png" group-title="asia",Daai TV
+https://smt.passwdword.xyz/Smart.php?id=DaaiTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Daai TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Daai TV.png" group-title="asia",Daai TV
+https://tzh911.qzz.io/play-smt.php?id=DaaiTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Kids Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery Kids Tamil.png" group-title="asia",Discovery Kids Tamil
+https://smt.passwdword.xyz/Smart.php?id=discoverykidtamil_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Discovery Kids Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery Kids Tamil.png" group-title="asia",Discovery Kids Tamil
+https://tzh911.qzz.io/play-smt.php?id=discoverykidtamil_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery Tamil.png" group-title="asia",Discovery Tamil
+https://smt.passwdword.xyz/Smart.php?id=discoverytamil_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Discovery Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery Tamil.png" group-title="asia",Discovery Tamil
+https://tzh911.qzz.io/play-smt.php?id=discoverytamil_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery World Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery World Tamil.png" group-title="asia",Discovery World Tamil
+https://smt.passwdword.xyz/Smart.php?id=discoveryworldtam_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Discovery World Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Discovery World Tamil.png" group-title="asia",Discovery World Tamil
+https://tzh911.qzz.io/play-smt.php?id=discoveryworldtam_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="DW" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/DW.png" group-title="asia",DW
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="DW (Deutsch)" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/DW (Deutsch).png" group-title="asia",DW (Deutsch)
+https://smt.passwdword.xyz/Smart.php?id=dw_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="DW (Deutsch)" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/DW (Deutsch).png" group-title="asia",DW (Deutsch)
+https://tzh911.qzz.io/play-smt.php?id=dw_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Entertain" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Entertain.png" group-title="asia",Entertain
+https://smt.passwdword.xyz/Smart.php?id=Entertain$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Entertain" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Entertain.png" group-title="asia",Entertain
+https://tzh911.qzz.io/play-smt.php?id=Entertain$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Euronews" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Euronews.png" group-title="asia",Euronews
+https://smt.passwdword.xyz/Smart.php?id=euronews_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Euronews" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Euronews.png" group-title="asia",Euronews
+https://tzh911.qzz.io/play-smt.php?id=euronews_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="EWTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EWTN.png" group-title="asia",EWTN
+https://smt.passwdword.xyz/Smart.php?id=Ewtn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="EWTN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EWTN.png" group-title="asia",EWTN
+https://tzh911.qzz.io/play-smt.php?id=Ewtn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="EYE 旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EYE 旅游台.png" group-title="asia",EYE 旅游台
+https://smt.passwdword.xyz/Smart.php?id=eyetvtravel_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="EYE 旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EYE 旅游台.png" group-title="asia",EYE 旅游台
+https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="EYE 戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EYE 戏剧台.png" group-title="asia",EYE 戏剧台
+https://smt.passwdword.xyz/Smart.php?id=eyetvxiju_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="EYE 戏剧台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/EYE 戏剧台.png" group-title="asia",EYE 戏剧台
+https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Fight Sports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Fight Sports.png" group-title="asia",Fight Sports
+https://smt.passwdword.xyz/Smart.php?id=Fs$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Fight Sports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Fight Sports.png" group-title="asia",Fight Sports
+https://tzh911.qzz.io/play-smt.php?id=Fs$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Fox News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Fox News.png" group-title="asia",Fox News
+https://smt.passwdword.xyz/Smart.php?id=foxnews_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Fox News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Fox News.png" group-title="asia",Fox News
+https://tzh911.qzz.io/play-smt.php?id=foxnews_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="France 24" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/France 24.png" group-title="asia",France 24
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CF24$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="France 24" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/France 24.png" group-title="asia",France 24
+https://smt.passwdword.xyz/Smart.php?id=france24_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="France 24" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/France 24.png" group-title="asia",France 24
+https://tzh911.qzz.io/play-smt.php?id=france24_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="Freesports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Freesports.png" group-title="asia",Freesports
+https://smt.passwdword.xyz/Smart.php?id=freesports_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Freesports" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Freesports.png" group-title="asia",Freesports
+https://tzh911.qzz.io/play-smt.php?id=freesports_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Global Trekker" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Global Trekker.png" group-title="asia",Global Trekker
+https://4gtvmobile-mozai.4gtv.tv/OC-jmJbmcep9sGCiFSEy1zu7y9hlj2QznaNIWcOs4JQ%3d/index.m3u8?token=TFvHhO3jLtTIg9--v4PEBg&expires=1763942587&token1=BzJouR2_6-sMX9s__iqsVA&expires1=1763942587&refer=NmJkZjgxZDMtMThhNC00OWY5LTg5MDktMGI5YWMzZjgyMzY0&y=0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Global Trekker" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Global Trekker.png" group-title="asia",Global Trekker
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMS$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Gmm Channel" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Gmm Channel.png" group-title="asia",Gmm Channel
+https://smt.passwdword.xyz/Smart.php?id=gmmchannel_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Gmm Channel" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Gmm Channel.png" group-title="asia",Gmm Channel
+https://tzh911.qzz.io/play-smt.php?id=gmmchannel_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="GmmOne" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/GmmOne.png" group-title="asia",GmmOne
+https://smt.passwdword.xyz/Smart.php?id=gmmone_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="GmmOne" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/GmmOne.png" group-title="asia",GmmOne
+https://tzh911.qzz.io/play-smt.php?id=gmmone_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Goshop" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Goshop.png" group-title="asia",Goshop
+https://smt.passwdword.xyz/Smart.php?id=Goshop$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Goshop" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Goshop.png" group-title="asia",Goshop
+https://tzh911.qzz.io/play-smt.php?id=Goshop$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="GTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/GTV.png" group-title="asia",GTV
+https://smt.passwdword.xyz/Smart.php?id=Gtv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="GTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/GTV.png" group-title="asia",GTV
+https://tzh911.qzz.io/play-smt.php?id=Gtv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="HGTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HGTV.png" group-title="asia",HGTV
+https://smt.passwdword.xyz/Smart.php?id=HGTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="HGTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/HGTV.png" group-title="asia",HGTV
+https://tzh911.qzz.io/play-smt.php?id=HGTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="History" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/History.png" group-title="asia",History
+https://smt.passwdword.xyz/Smart.php?id=History$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="History" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/History.png" group-title="asia",History
+https://tzh911.qzz.io/play-smt.php?id=History$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="History Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/History Tamil.png" group-title="asia",History Tamil
+https://smt.passwdword.xyz/Smart.php?id=historytam_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="History Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/History Tamil.png" group-title="asia",History Tamil
+https://tzh911.qzz.io/play-smt.php?id=historytam_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Hits Movie" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Hits Movie.png" group-title="asia",Hits Movie
+https://smt.passwdword.xyz/Smart.php?id=Hitsmovie$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Hits Movie" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Hits Movie.png" group-title="asia",Hits Movie
+https://tzh911.qzz.io/play-smt.php?id=Hitsmovie$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="iNews TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/iNews TV.png" group-title="asia",iNews TV
+https://smt.passwdword.xyz/Smart.php?id=Inewstv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="iNews TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/iNews TV.png" group-title="asia",iNews TV
+https://tzh911.qzz.io/play-smt.php?id=Inewstv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="INULTRA" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/INULTRA.png" group-title="asia",INULTRA
+https://4gtvmobile-mozai.4gtv.tv/5IHNYygheV8LtJGW4A11wXODv9hB09Ti0TUmTT843zg%3d/index.m3u8?token=5DzS_q51cuMzX4P-oDzGhQ&expires=1763942979&token1=rWkbn2-5ttnnspZ6xA_6ng&expires1=1763942979&refer=MTYzMTM0YWUtOGQ2MC00ZGViLThlMDItNjg4ZmQ4MWVhM2Nk&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="itv 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/itv 1.png" group-title="asia",itv 1
+https://smt.passwdword.xyz/Smart.php?id=itv1_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="itv 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/itv 1.png" group-title="asia",itv 1
+https://tzh911.qzz.io/play-smt.php?id=itv1_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="itv 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/itv 2.png" group-title="asia",itv 2
+https://smt.passwdword.xyz/Smart.php?id=itv2_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="itv 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/itv 2.png" group-title="asia",itv 2
+https://tzh911.qzz.io/play-smt.php?id=itv2_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Jak TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Jak TV.png" group-title="asia",Jak TV
+https://smt.passwdword.xyz/Smart.php?id=JakTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Jak TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Jak TV.png" group-title="asia",Jak TV
+https://tzh911.qzz.io/play-smt.php?id=JakTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="JTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/JTV.png" group-title="asia",JTV
+https://smt.passwdword.xyz/Smart.php?id=JTV_eko$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="JTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/JTV.png" group-title="asia",JTV
+https://tzh911.qzz.io/play-smt.php?id=JTV_eko$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="KBS World" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/KBS World.png" group-title="asia",KBS World
+https://smt.passwdword.xyz/Smart.php?id=KBS$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="KBS World" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/KBS World.png" group-title="asia",KBS World
+https://tzh911.qzz.io/play-smt.php?id=KBS$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Kids TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Kids TV.png" group-title="asia",Kids TV
+https://smt.passwdword.xyz/Smart.php?id=KidsTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Kids TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Kids TV.png" group-title="asia",Kids TV
+https://tzh911.qzz.io/play-smt.php?id=KidsTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Kompass TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Kompass TV.png" group-title="asia",Kompass TV
+https://smt.passwdword.xyz/Smart.php?id=Kompass$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Kompass TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Kompass TV.png" group-title="asia",Kompass TV
+https://tzh911.qzz.io/play-smt.php?id=Kompass$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Lifestyle&Fashion" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Lifestyle&Fashion.png" group-title="asia",Lifestyle&Fashion
+https://smt.passwdword.xyz/Smart.php?id=Lifestyle$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Lifestyle&Fashion" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Lifestyle&Fashion.png" group-title="asia",Lifestyle&Fashion
+https://tzh911.qzz.io/play-smt.php?id=Lifestyle$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Love Nature" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Love Nature.png" group-title="asia",Love Nature
+https://4gtvmobile-mozai.4gtv.tv/EQXrJ4uda7niW4xBLcEirZ4HQ3ndKnOlLTDcACzzM6E%3d/index.m3u8?token=qcRtemw7woAQG6q6No99xw&expires=1763943072&token1=TDDhCK7EiaZHc6DWebWucQ&expires1=1763943072&refer=OWI0M2Q2ODUtNmI4Yy00YzMzLTljNTAtNDI0Y2U0YWFjNzdk&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Makkal TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Makkal TV.png" group-title="asia",Makkal TV
+https://smt.passwdword.xyz/Smart.php?id=Makkaltv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Makkal TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Makkal TV.png" group-title="asia",Makkal TV
+https://tzh911.qzz.io/play-smt.php?id=Makkaltv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Metro TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Metro TV.png" group-title="asia",Metro TV
+https://smt.passwdword.xyz/Smart.php?id=metrotv_eko$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Metro TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Metro TV.png" group-title="asia",Metro TV
+https://tzh911.qzz.io/play-smt.php?id=metrotv_eko$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch Ch 5" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch 5.png" group-title="asia",MeWatch Ch 5
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_ch5$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch Ch 5" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch 5.png" group-title="asia",MeWatch Ch 5
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_ch5$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch Ch 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch 8.png" group-title="asia",MeWatch Ch 8
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_ch8$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch Ch 8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch 8.png" group-title="asia",MeWatch Ch 8
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_ch8$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch Ch U" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch U.png" group-title="asia",MeWatch Ch U
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_chU$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch Ch U" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Ch U.png" group-title="asia",MeWatch Ch U
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_chU$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch CNA" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch CNA.png" group-title="asia",MeWatch CNA
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_cna$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch CNA" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch CNA.png" group-title="asia",MeWatch CNA
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_cna$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch Suria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Suria.png" group-title="asia",MeWatch Suria
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_Suria$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch Suria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Suria.png" group-title="asia",MeWatch Suria
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Suria$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MeWatch Vasantham" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Vasantham.png" group-title="asia",MeWatch Vasantham
+https://smt.passwdword.xyz/Smart.php?id=Mewatch_Vasantham$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MeWatch Vasantham" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MeWatch Vasantham.png" group-title="asia",MeWatch Vasantham
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MiaoMi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MiaoMi.png" group-title="asia",MiaoMi
+https://smt.passwdword.xyz/Smart.php?id=MiaoMi$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MiaoMi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MiaoMi.png" group-title="asia",MiaoMi
+https://tzh911.qzz.io/play-smt.php?id=MiaoMi$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MNC TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MNC TV.png" group-title="asia",MNC TV
+https://smt.passwdword.xyz/Smart.php?id=Mnctv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MNC TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MNC TV.png" group-title="asia",MNC TV
+https://tzh911.qzz.io/play-smt.php?id=Mnctv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Momo TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Momo TV.png" group-title="asia",Momo TV
+https://smt.passwdword.xyz/Smart.php?id=momo1_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Momo TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Momo TV.png" group-title="asia",Momo TV
+https://tzh911.qzz.io/play-smt.php?id=momo1_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MOMO親子台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MOMO親子台.png" group-title="asia",MOMO親子台
+https://4gtvmobile-mozai.4gtv.tv/jAm-oo80VIP9IONiLo2jpR4gxFLJJ2BTiBL7W3S6FlA%3d/index.m3u8?token=biIy4FSS7IdWuPOILJudgw&expires=1763942675&token1=Dl13gSCgQIs5QBVlE9FDSg&expires1=1763942675&refer=NGRkODE5MGQtZGViNi00OGQ2LThmYzUtMjU0ZWYzY2FhNmIz&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Mono" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Mono.png" group-title="asia",Mono
+https://smt.passwdword.xyz/Smart.php?id=mono_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Mono" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Mono.png" group-title="asia",Mono
+https://tzh911.qzz.io/play-smt.php?id=mono_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="More4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/More4.png" group-title="asia",More4
+https://smt.passwdword.xyz/Smart.php?id=more4_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="More4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/More4.png" group-title="asia",More4
+https://tzh911.qzz.io/play-smt.php?id=more4_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="MTV Live" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MTV Live.png" group-title="asia",MTV Live
+https://4gtvmobile-mozai.4gtv.tv/EFYK1thu9eueLtpi2MzXiEtZIW40oRYnFJJhesylTNA%3d/index.m3u8?token=cqXhXDHVuo9DV1O_aAfv8g&expires=1763942947&token1=HE_SW7P3CnAi7t5O0pYf_g&expires1=1763942947&refer=ZjEwYzUyN2QtMzM4OC00NWRmLWI3ZTktYmNkY2RlODYxNDYw&y=0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="MTV Live" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MTV Live.png" group-title="asia",MTV Live
+https://smt.passwdword.xyz/Smart.php?id=mtvhd_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="MTV Live" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/MTV Live.png" group-title="asia",MTV Live
+https://tzh911.qzz.io/play-smt.php?id=mtvhd_twn$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="Music TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Music TV.png" group-title="asia",Music TV
+https://smt.passwdword.xyz/Smart.php?id=MusicTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Music TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Music TV.png" group-title="asia",Music TV
+https://tzh911.qzz.io/play-smt.php?id=MusicTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Muslim TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Muslim TV.png" group-title="asia",Muslim TV
+https://smt.passwdword.xyz/Smart.php?id=MuslimTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Muslim TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Muslim TV.png" group-title="asia",Muslim TV
+https://tzh911.qzz.io/play-smt.php?id=MuslimTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="NatGeo Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NatGeo Tamil.png" group-title="asia",NatGeo Tamil
+https://smt.passwdword.xyz/Smart.php?id=natgeotamil_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NatGeo Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NatGeo Tamil.png" group-title="asia",NatGeo Tamil
+https://tzh911.qzz.io/play-smt.php?id=natgeotamil_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Natgeo Wild Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Natgeo Wild Tamil.png" group-title="asia",Natgeo Wild Tamil
+https://smt.passwdword.xyz/Smart.php?id=natgeowildtamil_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Natgeo Wild Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Natgeo Wild Tamil.png" group-title="asia",Natgeo Wild Tamil
+https://tzh911.qzz.io/play-smt.php?id=natgeowildtamil_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Natgeo_HD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Natgeo_HD.png" group-title="asia",Natgeo_HD
+https://smt.passwdword.xyz/Smart.php?id=natgeohd_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Natgeo_HD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Natgeo_HD.png" group-title="asia",Natgeo_HD
+https://tzh911.qzz.io/play-smt.php?id=natgeohd_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Nation" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nation.png" group-title="asia",Nation
+https://smt.passwdword.xyz/Smart.php?id=nation_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nation" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nation.png" group-title="asia",Nation
+https://tzh911.qzz.io/play-smt.php?id=nation_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="NBA TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NBA TV.png" group-title="asia",NBA TV
+https://smt.passwdword.xyz/Smart.php?id=Nba$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NBA TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NBA TV.png" group-title="asia",NBA TV
+https://tzh911.qzz.io/play-smt.php?id=Nba$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Nbt" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nbt.png" group-title="asia",Nbt
+https://smt.passwdword.xyz/Smart.php?id=nbt_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nbt" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nbt.png" group-title="asia",Nbt
+https://tzh911.qzz.io/play-smt.php?id=nbt_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Net TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Net TV.png" group-title="asia",Net TV
+https://smt.passwdword.xyz/Smart.php?id=NetTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Net TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Net TV.png" group-title="asia",Net TV
+https://tzh911.qzz.io/play-smt.php?id=NetTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="New" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/New.png" group-title="asia",New
+https://smt.passwdword.xyz/Smart.php?id=new_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="New" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/New.png" group-title="asia",New
+https://tzh911.qzz.io/play-smt.php?id=new_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="News 18 Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/News 18 Tamil.png" group-title="asia",News 18 Tamil
+https://smt.passwdword.xyz/Smart.php?id=news18tamil_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="News 18 Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/News 18 Tamil.png" group-title="asia",News 18 Tamil
+https://tzh911.qzz.io/play-smt.php?id=news18tamil_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickjr$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nick Jr" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nick Jr.png" group-title="asia",Nick Jr
+https://tzh911.qzz.io/play-smt.php?id=Nickjr$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr." tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nick Jr..png" group-title="asia",Nick Jr.
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIJR$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Nickelodeon" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nickelodeon.png" group-title="asia",Nickelodeon
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIKO$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Nickelodeon" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nickelodeon.png" group-title="asia",Nickelodeon
+https://smt.passwdword.xyz/Smart.php?id=Nickelodeon$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="Nickelodeon" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Nickelodeon.png" group-title="asia",Nickelodeon
+https://tzh911.qzz.io/play-smt.php?id=Nickelodeon$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="NTV7" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NTV7.png" group-title="asia",NTV7
+https://smt.passwdword.xyz/Smart.php?id=NTV7$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="NTV7" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/NTV7.png" group-title="asia",NTV7
+https://tzh911.qzz.io/play-smt.php?id=NTV7$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Oasis" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Oasis.png" group-title="asia",Oasis
+https://smt.passwdword.xyz/Smart.php?id=Oasis$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Oasis" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Oasis.png" group-title="asia",Oasis
+https://tzh911.qzz.io/play-smt.php?id=Oasis$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="One" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/One.png" group-title="asia",One
+https://smt.passwdword.xyz/Smart.php?id=One$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="One" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/One.png" group-title="asia",One
+https://tzh911.qzz.io/play-smt.php?id=One$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Paramount Network" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Paramount Network.png" group-title="asia",Paramount Network
+https://smt.passwdword.xyz/Smart.php?id=Paramountnetwork$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Paramount Network" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Paramount Network.png" group-title="asia",Paramount Network
+https://tzh911.qzz.io/play-smt.php?id=Paramountnetwork$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Pick TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Pick TV.png" group-title="asia",Pick TV
+https://smt.passwdword.xyz/Smart.php?id=picktv_antik$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Pick TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Pick TV.png" group-title="asia",Pick TV
+https://tzh911.qzz.io/play-smt.php?id=picktv_antik$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="PPTV Thailand1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/PPTV Thailand1.png" group-title="asia",PPTV Thailand1
+https://smt.passwdword.xyz/Smart.php?id=pptv_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="PPTV Thailand1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/PPTV Thailand1.png" group-title="asia",PPTV Thailand1
+https://tzh911.qzz.io/play-smt.php?id=pptv_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Prima" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Prima.png" group-title="asia",Prima
+https://smt.passwdword.xyz/Smart.php?id=Prima-0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Prima" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Prima.png" group-title="asia",Prima
+https://tzh911.qzz.io/play-smt.php?id=Prima-0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Rania" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rania.png" group-title="asia",Rania
+https://smt.passwdword.xyz/Smart.php?id=Rania$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Rania" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rania.png" group-title="asia",Rania
+https://tzh911.qzz.io/play-smt.php?id=Rania$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="RCTI" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RCTI.png" group-title="asia",RCTI
+https://smt.passwdword.xyz/Smart.php?id=Rcti$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="RCTI" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RCTI.png" group-title="asia",RCTI
+https://tzh911.qzz.io/play-smt.php?id=Rcti$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Ria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ria.png" group-title="asia",Ria
+https://smt.passwdword.xyz/Smart.php?id=Ria-0$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Ria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ria.png" group-title="asia",Ria
+https://tzh911.qzz.io/play-smt.php?id=Ria-0$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Ria-3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ria-3.png" group-title="asia",Ria-3
+https://smt.passwdword.xyz/Smart.php?id=Ria_backup$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Ria-3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Ria-3.png" group-title="asia",Ria-3
+https://tzh911.qzz.io/play-smt.php?id=Ria_backup$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Rock Actions" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rock Actions.png" group-title="asia",Rock Actions
+https://smt.passwdword.xyz/Smart.php?id=Rockaction$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Rock Actions" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rock Actions.png" group-title="asia",Rock Actions
+https://tzh911.qzz.io/play-smt.php?id=Rockaction$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="ROCK Entertainment" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/ROCK Entertainment.png" group-title="asia",ROCK Entertainment
+https://4gtvmobile-mozai.4gtv.tv/1vgXqoXCmsumAY6vz1cdnWzPy--efqn3UKemW8ajWMA%3d/index.m3u8?token=dJikYafHk8-SMiyjSlC-QQ&expires=1763942914&token1=t0BtHZlT7uXVM2YHpDPaiA&expires1=1763942914&refer=MGRkMTY0NDMtODlkYy00Mzg2LWFjYWItMTQ4N2NiNTMwYzhk&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="RTM Asean" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RTM Asean.png" group-title="asia",RTM Asean
+https://smt.passwdword.xyz/Smart.php?id=Rtmasean$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="RTM Asean" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RTM Asean.png" group-title="asia",RTM Asean
+https://tzh911.qzz.io/play-smt.php?id=Rtmasean$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="RTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RTV.png" group-title="asia",RTV
+https://smt.passwdword.xyz/Smart.php?id=Rtv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="RTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/RTV.png" group-title="asia",RTV
+https://tzh911.qzz.io/play-smt.php?id=Rtv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Rugby Pass TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rugby Pass TV.png" group-title="asia",Rugby Pass TV
+https://smt.passwdword.xyz/Smart.php?id=Rugbypasstv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Rugby Pass TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Rugby Pass TV.png" group-title="asia",Rugby Pass TV
+https://tzh911.qzz.io/play-smt.php?id=Rugbypasstv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="SCM" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SCM.png" group-title="asia",SCM
+https://smt.passwdword.xyz/Smart.php?id=Weishimovie$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="SCM" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SCM.png" group-title="asia",SCM
+https://tzh911.qzz.io/play-smt.php?id=Weishimovie$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="SCTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SCTV.png" group-title="asia",SCTV
+https://smt.passwdword.xyz/Smart.php?id=SCTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="SCTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SCTV.png" group-title="asia",SCTV
+https://tzh911.qzz.io/play-smt.php?id=SCTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sensasi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sensasi.png" group-title="asia",Sensasi
+https://smt.passwdword.xyz/Smart.php?id=Sensasi$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sensasi" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sensasi.png" group-title="asia",Sensasi
+https://tzh911.qzz.io/play-smt.php?id=Sensasi$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Siar" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Siar.png" group-title="asia",Siar
+https://smt.passwdword.xyz/Smart.php?id=Siar$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Siar" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Siar.png" group-title="asia",Siar
+https://tzh911.qzz.io/play-smt.php?id=Siar$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skynews" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skynews.png" group-title="asia",Skynews
+https://smt.passwdword.xyz/Smart.php?id=skynews_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skynews" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skynews.png" group-title="asia",Skynews
+https://tzh911.qzz.io/play-smt.php?id=skynews_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports Cricket" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Cricket.png" group-title="asia",Skysports Cricket
+https://smt.passwdword.xyz/Smart.php?id=tiankongcricket$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports Cricket" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Cricket.png" group-title="asia",Skysports Cricket
+https://tzh911.qzz.io/play-smt.php?id=tiankongcricket$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports EPL" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports EPL.png" group-title="asia",Skysports EPL
+https://smt.passwdword.xyz/Smart.php?id=tiankongepl$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports EPL" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports EPL.png" group-title="asia",Skysports EPL
+https://tzh911.qzz.io/play-smt.php?id=tiankongepl$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports F1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports F1.png" group-title="asia",Skysports F1
+https://smt.passwdword.xyz/Smart.php?id=tiankongf1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports F1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports F1.png" group-title="asia",Skysports F1
+https://tzh911.qzz.io/play-smt.php?id=tiankongf1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports Main Event" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Main Event.png" group-title="asia",Skysports Main Event
+https://smt.passwdword.xyz/Smart.php?id=tiankongmain$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports Main Event" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Main Event.png" group-title="asia",Skysports Main Event
+https://tzh911.qzz.io/play-smt.php?id=tiankongmain$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports Mix" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Mix.png" group-title="asia",Skysports Mix
+https://smt.passwdword.xyz/Smart.php?id=tiankongmix$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports Mix" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports Mix.png" group-title="asia",Skysports Mix
+https://tzh911.qzz.io/play-smt.php?id=tiankongmix$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Skysports News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports News.png" group-title="asia",Skysports News
+https://smt.passwdword.xyz/Smart.php?id=tiankongnews$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Skysports News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Skysports News.png" group-title="asia",Skysports News
+https://tzh911.qzz.io/play-smt.php?id=tiankongnews$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sony Ten 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 1.png" group-title="asia",Sony Ten 1
+https://smt.passwdword.xyz/Smart.php?id=ten1_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sony Ten 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 1.png" group-title="asia",Sony Ten 1
+https://tzh911.qzz.io/play-smt.php?id=ten1_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sony Ten 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 2.png" group-title="asia",Sony Ten 2
+https://smt.passwdword.xyz/Smart.php?id=ten2_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sony Ten 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 2.png" group-title="asia",Sony Ten 2
+https://tzh911.qzz.io/play-smt.php?id=ten2_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sony Ten 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 3.png" group-title="asia",Sony Ten 3
+https://smt.passwdword.xyz/Smart.php?id=ten3_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sony Ten 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Ten 3.png" group-title="asia",Sony Ten 3
+https://tzh911.qzz.io/play-smt.php?id=ten3_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sony Yay Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Yay Tamil.png" group-title="asia",Sony Yay Tamil
+https://smt.passwdword.xyz/Smart.php?id=sonyyaytam_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sony Yay Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sony Yay Tamil.png" group-title="asia",Sony Yay Tamil
+https://tzh911.qzz.io/play-smt.php?id=sonyyaytam_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="SPO TV 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SPO TV 2.png" group-title="asia",SPO TV 2
+https://smt.passwdword.xyz/Smart.php?id=go_spotv2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="SPO TV 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/SPO TV 2.png" group-title="asia",SPO TV 2
+https://tzh911.qzz.io/play-smt.php?id=go_spotv2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Star Vijay" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Star Vijay.png" group-title="asia",Star Vijay
+https://smt.passwdword.xyz/Smart.php?id=Starvijay$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Star Vijay" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Star Vijay.png" group-title="asia",Star Vijay
+https://tzh911.qzz.io/play-smt.php?id=Starvijay$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Sun TV India" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sun TV India.png" group-title="asia",Sun TV India
+https://smt.passwdword.xyz/Smart.php?id=suntv_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Sun TV India" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Sun TV India.png" group-title="asia",Sun TV India
+https://tzh911.qzz.io/play-smt.php?id=suntv_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Supersports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 1.png" group-title="asia",Supersports 1
+https://smt.passwdword.xyz/Smart.php?id=Assp1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Supersports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 1.png" group-title="asia",Supersports 1
+https://tzh911.qzz.io/play-smt.php?id=Assp1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Supersports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 2.png" group-title="asia",Supersports 2
+https://smt.passwdword.xyz/Smart.php?id=Assp2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Supersports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 2.png" group-title="asia",Supersports 2
+https://tzh911.qzz.io/play-smt.php?id=Assp2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Supersports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 3.png" group-title="asia",Supersports 3
+https://smt.passwdword.xyz/Smart.php?id=Assp3$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Supersports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 3.png" group-title="asia",Supersports 3
+https://tzh911.qzz.io/play-smt.php?id=Assp3$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Supersports 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 4.png" group-title="asia",Supersports 4
+https://smt.passwdword.xyz/Smart.php?id=Assp4$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Supersports 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Supersports 4.png" group-title="asia",Supersports 4
+https://tzh911.qzz.io/play-smt.php?id=Assp4$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Suria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Suria.png" group-title="asia",Suria
+https://smt.passwdword.xyz/Smart.php?id=Suria$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Suria" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Suria.png" group-title="asia",Suria
+https://tzh911.qzz.io/play-smt.php?id=Suria$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Tawaf TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tawaf TV.png" group-title="asia",Tawaf TV
+https://smt.passwdword.xyz/Smart.php?id=TawafTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Tawaf TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tawaf TV.png" group-title="asia",Tawaf TV
+https://tzh911.qzz.io/play-smt.php?id=TawafTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Thai Thai" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thai Thai.png" group-title="asia",Thai Thai
+https://smt.passwdword.xyz/Smart.php?id=thaithai_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Thai Thai" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thai Thai.png" group-title="asia",Thai Thai
+https://tzh911.qzz.io/play-smt.php?id=thaithai_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Thairath" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thairath.png" group-title="asia",Thairath
+https://smt.passwdword.xyz/Smart.php?id=thairath_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Thairath" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thairath.png" group-title="asia",Thairath
+https://tzh911.qzz.io/play-smt.php?id=thairath_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thrill.png" group-title="asia",Thrill
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Thrill" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thrill.png" group-title="asia",Thrill
+https://smt.passwdword.xyz/Smart.php?id=Thrill$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="Thrill" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Thrill.png" group-title="asia",Thrill
+https://tzh911.qzz.io/play-smt.php?id=Thrill$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="TLC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TLC.png" group-title="asia",TLC
+https://smt.passwdword.xyz/Smart.php?id=Tlc$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TLC" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TLC.png" group-title="asia",TLC
+https://tzh911.qzz.io/play-smt.php?id=Tlc$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TLC旅遊生活" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TLC旅遊生活.png" group-title="asia",TLC旅遊生活
+https://smt.passwdword.xyz/Smart.php?id=tlc_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TLC旅遊生活" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TLC旅遊生活.png" group-title="asia",TLC旅遊生活
+https://tzh911.qzz.io/play-smt.php?id=tlc_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Tnn24" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tnn24.png" group-title="asia",Tnn24
+https://smt.passwdword.xyz/Smart.php?id=tnn24_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Tnn24" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tnn24.png" group-title="asia",Tnn24
+https://tzh911.qzz.io/play-smt.php?id=tnn24_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Tnt Sports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tnt Sports 1.png" group-title="asia",Tnt Sports 1
+https://smt.passwdword.xyz/Smart.php?id=6fac0aaead$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Tnt Sports 1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tnt Sports 1.png" group-title="asia",Tnt Sports 1
+https://tzh911.qzz.io/play-smt.php?id=6fac0aaead$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TNT Sports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 2.png" group-title="asia",TNT Sports 2
+https://smt.passwdword.xyz/Smart.php?id=d9a76a79cc$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TNT Sports 2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 2.png" group-title="asia",TNT Sports 2
+https://tzh911.qzz.io/play-smt.php?id=d9a76a79cc$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TNT Sports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 3.png" group-title="asia",TNT Sports 3
+https://smt.passwdword.xyz/Smart.php?id=5fea4d73db$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TNT Sports 3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 3.png" group-title="asia",TNT Sports 3
+https://tzh911.qzz.io/play-smt.php?id=5fea4d73db$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TNT Sports 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 4.png" group-title="asia",TNT Sports 4
+https://smt.passwdword.xyz/Smart.php?id=tntsport4$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TNT Sports 4" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TNT Sports 4.png" group-title="asia",TNT Sports 4
+https://tzh911.qzz.io/play-smt.php?id=tntsport4$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="tpbs" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/tpbs.png" group-title="asia",tpbs
+https://smt.passwdword.xyz/Smart.php?id=tpbs_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="tpbs" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/tpbs.png" group-title="asia",tpbs
+https://tzh911.qzz.io/play-smt.php?id=tpbs_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TPTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TPTV.png" group-title="asia",TPTV
+https://smt.passwdword.xyz/Smart.php?id=tptv_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TPTV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TPTV.png" group-title="asia",TPTV
+https://tzh911.qzz.io/play-smt.php?id=tptv_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TRACE Sport Stars" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TRACE Sport Stars.png" group-title="asia",TRACE Sport Stars
+https://4gtvmobile-mozai.4gtv.tv/MwCW60fsjqNaWwG5SQWa3Vkehjp2zlWjOA0qliYXV4g%3d/index.m3u8?token=_PtDEuu43FMr2tpzV-Y8XA&expires=1763942986&token1=yyCTmOfE5oGQE1Z_vdG_Tg&expires1=1763942986&refer=ZjNiMTg3YzctYzM0Mi00MGI4LWE1NDEtZDc3ODk5ODE2OGM5&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Trans 7" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Trans 7.png" group-title="asia",Trans 7
+https://smt.passwdword.xyz/Smart.php?id=Trans7_eko$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Trans 7" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Trans 7.png" group-title="asia",Trans 7
+https://tzh911.qzz.io/play-smt.php?id=Trans7_eko$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Transtv" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Transtv.png" group-title="asia",Transtv
+https://smt.passwdword.xyz/Smart.php?id=Transtv$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Transtv" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Transtv.png" group-title="asia",Transtv
+https://tzh911.qzz.io/play-smt.php?id=Transtv$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV1.png" group-title="asia",TV1
+https://smt.passwdword.xyz/Smart.php?id=TV1$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV1" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV1.png" group-title="asia",TV1
+https://tzh911.qzz.io/play-smt.php?id=TV1$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV2.png" group-title="asia",TV2
+https://smt.passwdword.xyz/Smart.php?id=TV2$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV2" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV2.png" group-title="asia",TV2
+https://tzh911.qzz.io/play-smt.php?id=TV2$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV3.png" group-title="asia",TV3
+https://smt.passwdword.xyz/Smart.php?id=TV3$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV3" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV3.png" group-title="asia",TV3
+https://tzh911.qzz.io/play-smt.php?id=TV3$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV3 SD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV3 SD.png" group-title="asia",TV3 SD
+https://smt.passwdword.xyz/Smart.php?id=TV3_mega$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV3 SD" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV3 SD.png" group-title="asia",TV3 SD
+https://tzh911.qzz.io/play-smt.php?id=TV3_mega$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV8.png" group-title="asia",TV8
+https://smt.passwdword.xyz/Smart.php?id=TV8$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV8" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV8.png" group-title="asia",TV8
+https://tzh911.qzz.io/play-smt.php?id=TV8$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TV9" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV9.png" group-title="asia",TV9
+https://smt.passwdword.xyz/Smart.php?id=TV9$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TV9" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TV9.png" group-title="asia",TV9
+https://tzh911.qzz.io/play-smt.php?id=TV9$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVMU" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVMU.png" group-title="asia",TVMU
+https://smt.passwdword.xyz/Smart.php?id=TVMU_eko$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVMU" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVMU.png" group-title="asia",TVMU
+https://tzh911.qzz.io/play-smt.php?id=TVMU_eko$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TvN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TvN.png" group-title="asia",TvN
+https://smt.passwdword.xyz/Smart.php?id=TVN$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TvN" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TvN.png" group-title="asia",TvN
+https://tzh911.qzz.io/play-smt.php?id=TVN$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="tvN Movie" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/tvN Movie.png" group-title="asia",tvN Movie
+https://smt.passwdword.xyz/Smart.php?id=Tvnmovie$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="tvN Movie" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/tvN Movie.png" group-title="asia",tvN Movie
+https://tzh911.qzz.io/play-smt.php?id=Tvnmovie$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Tvone" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tvone.png" group-title="asia",Tvone
+https://smt.passwdword.xyz/Smart.php?id=Tvone$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Tvone" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Tvone.png" group-title="asia",Tvone
+https://tzh911.qzz.io/play-smt.php?id=Tvone$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="TVRI National" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVRI National.png" group-title="asia",TVRI National
+https://smt.passwdword.xyz/Smart.php?id=TVRI$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="TVRI National" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/TVRI National.png" group-title="asia",TVRI National
+https://tzh911.qzz.io/play-smt.php?id=TVRI$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Vasantham" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vasantham.png" group-title="asia",Vasantham
+https://smt.passwdword.xyz/Smart.php?id=Vasantham$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Vasantham" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vasantham.png" group-title="asia",Vasantham
+https://tzh911.qzz.io/play-smt.php?id=Vasantham$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Vellithirai" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vellithirai.png" group-title="asia",Vellithirai
+https://smt.passwdword.xyz/Smart.php?id=Vellithirai$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Vellithirai" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vellithirai.png" group-title="asia",Vellithirai
+https://tzh911.qzz.io/play-smt.php?id=Vellithirai$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Vijay Super" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vijay Super.png" group-title="asia",Vijay Super
+https://smt.passwdword.xyz/Smart.php?id=vijaysuper_raj$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Vijay Super" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vijay Super.png" group-title="asia",Vijay Super
+https://tzh911.qzz.io/play-smt.php?id=vijaysuper_raj$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Vision Prime" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vision Prime.png" group-title="asia",Vision Prime
+https://smt.passwdword.xyz/Smart.php?id=VisionPrime$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Vision Prime" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Vision Prime.png" group-title="asia",Vision Prime
+https://tzh911.qzz.io/play-smt.php?id=VisionPrime$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Warner TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Warner TV.png" group-title="asia",Warner TV
+https://smt.passwdword.xyz/Smart.php?id=WarnerTV$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Warner TV" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Warner TV.png" group-title="asia",Warner TV
+https://tzh911.qzz.io/play-smt.php?id=WarnerTV$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="WION" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/WION.png" group-title="asia",WION
+https://smt.passwdword.xyz/Smart.php?id=Wion$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="WION" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/WION.png" group-title="asia",WION
+https://tzh911.qzz.io/play-smt.php?id=Wion$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Workpoint" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Workpoint.png" group-title="asia",Workpoint
+https://smt.passwdword.xyz/Smart.php?id=workpoint_pat$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Workpoint" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Workpoint.png" group-title="asia",Workpoint
+https://tzh911.qzz.io/play-smt.php?id=workpoint_pat$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="WWE" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/WWE.png" group-title="asia",WWE
+https://smt.passwdword.xyz/Smart.php?id=Wwe$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="WWE" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/WWE.png" group-title="asia",WWE
+https://tzh911.qzz.io/play-smt.php?id=Wwe$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Zee Action" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Action.png" group-title="asia",Zee Action
+https://smt.passwdword.xyz/Smart.php?id=Zeeaction$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Zee Action" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Action.png" group-title="asia",Zee Action
+https://tzh911.qzz.io/play-smt.php?id=Zeeaction$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Zee Business" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Business.png" group-title="asia",Zee Business
+https://smt.passwdword.xyz/Smart.php?id=Zeebusiness$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Zee Business" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Business.png" group-title="asia",Zee Business
+https://tzh911.qzz.io/play-smt.php?id=Zeebusiness$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Zee News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee News.png" group-title="asia",Zee News
+https://smt.passwdword.xyz/Smart.php?id=Zeenews$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Zee News" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee News.png" group-title="asia",Zee News
+https://tzh911.qzz.io/play-smt.php?id=Zeenews$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Zee Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Tamil.png" group-title="asia",Zee Tamil
+https://smt.passwdword.xyz/Smart.php?id=Zeetamil$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Zee Tamil" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/Zee Tamil.png" group-title="asia",Zee Tamil
+https://tzh911.qzz.io/play-smt.php?id=Zeetamil$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="美食星球" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/美食星球.png" group-title="asia",美食星球
+https://smt.passwdword.xyz/Smart.php?id=foodplanet_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="美食星球" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/美食星球.png" group-title="asia",美食星球
+https://tzh911.qzz.io/play-smt.php?id=foodplanet_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/年代新闻.png" group-title="asia",年代新闻
+https://smt.passwdword.xyz/Smart.php?id=niandainews_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="年代新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/年代新闻.png" group-title="asia",年代新闻
+https://tzh911.qzz.io/play-smt.php?id=niandainews_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="人间卫视" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/人间卫视.png" group-title="asia",人间卫视
+https://4gtvmobile-mozai.4gtv.tv/-SWWUnWNnoDgdyPz3iXgX2z58if8RSI6LIUkjaGCjO0%3d/index.m3u8?token=d0UFFKXjOrZ5qkEfT6LULw&expires=1763943307&token1=uosZqTSY-r4bGqFTO-otrQ&expires1=1763943307&refer=ZTYxNDE2MWMtNjIzZS00ZmRhLWIzYTgtNTI3M2Y2ZGRiM2Rj&y=0$在线IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="卫视电影台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/卫视电影台.png" group-title="asia",卫视电影台
+https://smt.passwdword.xyz/Smart.php?id=weishimovie_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="卫视电影台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/卫视电影台.png" group-title="asia",卫视电影台
+https://tzh911.qzz.io/play-smt.php?id=weishimovie_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="无线新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/无线新闻.png" group-title="asia",无线新闻
+https://smt.passwdword.xyz/Smart.php?id=inews_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="无线新闻" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/无线新闻.png" group-title="asia",无线新闻
+https://tzh911.qzz.io/play-smt.php?id=inews_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="亚洲旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/亚洲旅游台.png" group-title="asia",亚洲旅游台
+https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv076$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="亚洲旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/亚洲旅游台.png" group-title="asia",亚洲旅游台
+https://tzh911.qzz.io/litv.php?id=litv-longturn17$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="亚洲旅游台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/亚洲旅游台.png" group-title="asia",亚洲旅游台
+https://4gtvmobile-mozai.4gtv.tv/c-LBz6GF8r8RpzX-iKbPdHjqurpVFsjuG4H5LFBJ7nA%3d/index.m3u8?token=PGIImdNZtzhvkxgnvhFGGg&expires=1763943047&token1=933v9EmYshyJ1xt1Px6waw&expires1=1763943047&refer=NDQ4YzM2ZmUtNTIxOS00ZjNhLThlNzgtZThhNjYyZDUxM2Jl&y=0$在线IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="亚洲美食" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/亚洲美食.png" group-title="asia",亚洲美食
+https://smt.passwdword.xyz/Smart.php?id=afc_twn$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="亚洲美食" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/亚洲美食.png" group-title="asia",亚洲美食
+https://tzh911.qzz.io/play-smt.php?id=afc_twn$在线IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="智林体育台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/智林体育台.png" group-title="体育",智林体育台
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv101$在线IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="智林体育台" tvg-logo="https://gitee.com/n3rddd/tvlogos/raw/main/logo/智林体育台.png" group-title="体育",智林体育台
+https://4gtvmobile-mozai.4gtv.tv/K4MHQm7bj2eM_7Ypamd9ISrPzk-gip5G0U9ZWfjX54k%3d/index.m3u8?token=8ZzNN5K9iveB-7aYSAbHCw&expires=1763942993&token1=SFHyQc1Ifzq9lXimm9E1yw&expires1=1763942993&refer=OGE2MjFiY2MtMmQ2ZS00ZGRlLTgyYmYtM2YwZjQ0YzdjNDc1&y=0$在线IPV4『线路2』
