@@ -11,7 +11,7 @@ from collections import OrderedDict
 import json
 
 # 配置参数
-CONFIG_DIR = 'py/TV/config'
+CONFIG_DIR = 'htpc/iptv/live/config'
 SUBSCRIBE_FILE = os.path.join(CONFIG_DIR, 'subscribe.txt')
 DEMO_FILE = os.path.join(CONFIG_DIR, 'demo.txt')
 LOCAL_FILE = os.path.join(CONFIG_DIR, 'local.txt')
@@ -29,12 +29,8 @@ SPEED_THRESHOLD = 50  # 速度阈值，单位KB/s
 
 # GitHub代理列表
 GITHUB_PROXIES = [
-
-
     'https://ghproxy.cc/',
-
     'https://gh.ddlc.top/',
-
     'https://gh-proxy.com/'
 ]
 
