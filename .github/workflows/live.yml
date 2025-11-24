@@ -31,7 +31,7 @@ jobs:
 
     - name: Run Python Script
       run: |
-        python htpc/iptv/live/v4.5.py
+        python htpc/iptv/live/main.py
 
     - name: Commit Results
       run: |
