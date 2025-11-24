@@ -81,9 +81,9 @@ CCTV17,https://smt.passwdword.xyz/Smart.php?id=cctv17
 东南卫视,https://tzh911.qzz.io/play-smt.php?id=fujian
 东南卫视,https://smt.passwdword.xyz/Smart.php?id=fujian
 深圳卫视,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
-深圳卫视,https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 深圳卫视,https://tzh911.qzz.io/play-smt.php?id=shenzhen
 深圳卫视,https://smt.passwdword.xyz/Smart.php?id=shenzhen
+深圳卫视,https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 广东卫视,https://tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn
 广东卫视,https://smt.passwdword.xyz/Smart.php?id=guangdongweishi_twn
 广西卫视,https://tzh911.qzz.io/play-smt.php?id=guangxi
@@ -94,13 +94,13 @@ CCTV17,https://smt.passwdword.xyz/Smart.php?id=cctv17
 海峡卫视,https://mytv.passwdword.xyz/mytv265.php?id=FJTV
 asia,#genre#
 凤凰中文,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
-凤凰中文,https://mytv.passwdword.xyz/mytv265.php?id=PCC
 凤凰中文,https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
 凤凰中文,https://smt.passwdword.xyz/Smart.php?id=phoenixtv_hd
+凤凰中文,https://mytv.passwdword.xyz/mytv265.php?id=PCC
 凤凰资讯,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
-凤凰资讯,https://mytv.passwdword.xyz/mytv265.php?id=PIN
 凤凰资讯,https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
 凤凰资讯,https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
+凤凰资讯,https://mytv.passwdword.xyz/mytv265.php?id=PIN
 凤凰香港,https://smart.dxjc.pp.ua/smt.php?id=jade_twn
 凤凰香港,https://smart.dxjc.pp.ua/smt.php?id=Jade_xue
 凤凰香港,https://smart.dxjc.pp.ua/smt.php?id=inews_twn
@@ -129,20 +129,20 @@ TVB Classic,https://tzh911.qzz.io/play-smt.php?id=Tvbclassic
 TVB Entertainment,https://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
 TVB翡翠,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=J
 TVB翡翠,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
-TVB翡翠,https://mytv.passwdword.xyz/mytv265.php?id=J
-TVB翡翠,https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 TVB翡翠,https://tzh911.qzz.io/play-smt.php?id=jade_twn
 TVB翡翠,https://tzh911.qzz.io/play-smt.php?id=Jade_xue
 TVB翡翠,https://tzh911.qzz.io/play-smt.php?id=Wlt
 TVB翡翠,https://tzh911.qzz.io/play-smt.php?id=Tvbjade
 TVB翡翠,https://smt.passwdword.xyz/Smart.php?id=jade_twn
 TVB翡翠,https://smt.passwdword.xyz/Smart.php?id=Jade_xue
+TVB翡翠,https://mytv.passwdword.xyz/mytv265.php?id=J
+TVB翡翠,https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 TVB星河,https://tzh911.qzz.io/play-smt.php?id=Xinhe
 TVB星河,https://smt.passwdword.xyz/Smart.php?id=Xinhe
 TVB Plus,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
-TVB Plus,https://mytv.passwdword.xyz/mytv265.php?id=B
 TVB Plus,https://tzh911.qzz.io/play-smt.php?id=j2_twn
 TVB Plus,https://smt.passwdword.xyz/Smart.php?id=j2_twn
+TVB Plus,https://mytv.passwdword.xyz/mytv265.php?id=B
 TVBS,https://4gtvmobile-mozai.4gtv.tv/q33dHP3unifb7ua9TfiRAJi4stb-W9kYal5uNx99V_c%3d/index.m3u8?token=zClCVAv6rd-MtOLyKE5ytA&expires=1763986041&token1=jIArYrGcnOQmk3iOr6n4Bw&expires1=1763986041&refer=MTQ5YjNmOGEtMjNkZi00ZjhhLTkzM2ItZjJlNGJkYmVkMTQ3&y=0
 TVBS,https://tzh911.qzz.io/play-smt.php?id=tvbs
 TVBS,https://smt.passwdword.xyz/Smart.php?id=tvbs
@@ -159,9 +159,9 @@ ViuTV,https://smt.passwdword.xyz/Smart.php?id=viu1_twn
 ViuTV,https://smt.passwdword.xyz/Smart.php?id=viusix_twn
 ViuTV 6,https://tzh911.qzz.io/play-smt.php?id=viusix_twn
 明珠台,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
-明珠台,https://mytv.passwdword.xyz/mytv265.php?id=P
 明珠台,https://tzh911.qzz.io/play-smt.php?id=pearl_twn
 明珠台,https://smt.passwdword.xyz/Smart.php?id=pearl_twn
+明珠台,https://mytv.passwdword.xyz/mytv265.php?id=P
 爱尔达影剧台,https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
 爱尔达影剧台,https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
 爱尔达综合台,https://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
@@ -312,11 +312,11 @@ Nation,https://tzh911.qzz.io/play-smt.php?id=nation_pat
 ABC News,https://tzh911.qzz.io/play-smt.php?id=abcnews_glo
 DW,https://4gtvmobile-mozai.4gtv.tv/jWRtj7RLMmE4obf8zckybkpb8PvhEsn9vfx0WTWXsyE%3d/index.m3u8?token=c_b-2ZAo7_4R1mBkUmSOsQ&expires=1763986558&token1=StdooxEzeA9eqiEfQru6bg&expires1=1763986558&refer=ZGZlOTEwY2UtMTU4ZC00ZTM0LTg4ZGUtYWM1NGFhMTY4MzMy&y=0
 DW,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
+DW,https://tzh911.qzz.io/play-smt.php?id=dw_twn
+DW,https://tzh911.qzz.io/play-smt.php?id=dw_twn
+DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
+DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
 DW,https://mytv.passwdword.xyz/mytv265.php?id=CDW1
-DW,https://tzh911.qzz.io/play-smt.php?id=dw_twn
-DW,https://tzh911.qzz.io/play-smt.php?id=dw_twn
-DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
-DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
 Adithya,https://tzh911.qzz.io/play-smt.php?id=Adithya
 AEC,https://tzh911.qzz.io/play-smt.php?id=AEC
 AEC,https://smt.passwdword.xyz/Smart.php?id=AEC
@@ -369,15 +369,15 @@ Aura,https://tzh911.qzz.io/play-smt.php?id=Aura
 Awani,https://tzh911.qzz.io/play-smt.php?id=Awani
 Awesome TV,https://tzh911.qzz.io/play-smt.php?id=Dsangat
 AXN,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
+AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
+AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
+AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
+AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
+AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
+AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
+AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
+AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
 AXN,https://mytv.passwdword.xyz/mytv265.php?id=CAXN
-AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
-AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
-AXN,https://tzh911.qzz.io/play-smt.php?id=Axn
-AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
-AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
-AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
-AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
-AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
 AXN Taiwan,https://tzh911.qzz.io/play-smt.php?id=axn_twn
 AXN Taiwan,https://tzh911.qzz.io/play-smt.php?id=axn_twn
 Baby TV,https://tzh911.qzz.io/play-smt.php?id=Babytv
@@ -741,10 +741,10 @@ ALJAZEERAENGLISH,https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn
 ALJAZEERAENGLISH,https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn
 amc電影台,https://4gtvmobile-mozai.4gtv.tv/mpWEF91VnKo1bhL3FKCYHmkkdl5vnByZyX2aIj4NIiw%3d/index.m3u8?token=yOyWmkPDaeSYDCsuXR1Iow&expires=1763986467&token1=MnY1k7U_8VdxKkNeQL5XRQ&expires1=1763986467&refer=MGJhOTBiODctNDhkMi00MzA4LWJkZjYtYjBlNDI2NzZlNmYx&y=0
 ANIMAX,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CANI
+ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
+ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
+ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
 ANIMAX,https://mytv.passwdword.xyz/mytv265.php?id=CANI
-ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
-ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
-ANIMAX,https://smt.passwdword.xyz/Smart.php?id=Animax
 ARENABOLA2,https://smt.passwdword.xyz/Smart.php?id=Arena
 ARENABOLA2,https://smt.passwdword.xyz/Smart.php?id=Arena
 ARIRANGTV,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CARI
@@ -849,9 +849,9 @@ FOOD超人-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/AhsoCvklwFLytfBX0MrQ
 Fox News,https://tzh911.qzz.io/play-smt.php?id=foxnews_twn
 FOXNEWSCHANNELHD,https://smt.passwdword.xyz/Smart.php?id=foxnews_twn
 FRANCE24,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CF24
+FRANCE24,https://smt.passwdword.xyz/Smart.php?id=france24_twn
+FRANCE24,https://smt.passwdword.xyz/Smart.php?id=france24_twn
 FRANCE24,https://mytv.passwdword.xyz/mytv265.php?id=CF24
-FRANCE24,https://smt.passwdword.xyz/Smart.php?id=france24_twn
-FRANCE24,https://smt.passwdword.xyz/Smart.php?id=france24_twn
 Freeman @台灣,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii95
 GLOBALTREKKER,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMS
 GLOBALTREKKER,https://mytv.passwdword.xyz/mytv265.php?id=SMS
@@ -937,10 +937,10 @@ Rock Entertainment,https://tzh911.qzz.io/play-smt.php?id=Rockentertain
 Rock Entertainment,https://tzh911.qzz.io/play-smt.php?id=Rockentertain
 Rock Entertainment,https://tzh911.qzz.io/play-smt.php?id=Rockentertain
 ROCKACTION,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRTX
+ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
+ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
+ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
 ROCKACTION,https://mytv.passwdword.xyz/mytv265.php?id=CRTX
-ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
-ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
-ROCKACTION,https://smt.passwdword.xyz/Smart.php?id=Rockaction
 ROCKENTERTAINMENT,https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 ROCKENTERTAINMENT,https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 ROCKENTERTAINMENT,https://smt.passwdword.xyz/Smart.php?id=Rockentertain
@@ -977,11 +977,11 @@ SUPERKIDSCHANNEL,https://mytv.passwdword.xyz/mytv265.php?id=KID
 SUPERMUSIC,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMUS
 SUPERMUSIC,https://mytv.passwdword.xyz/mytv265.php?id=SMUS
 SUPERSPORTS,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSPT
-SUPERSPORTS,https://mytv.passwdword.xyz/mytv265.php?id=SSPT
 SUPERSPORTS,https://smt.passwdword.xyz/Smart.php?id=Assp1
 SUPERSPORTS,https://smt.passwdword.xyz/Smart.php?id=Assp2
 SUPERSPORTS,https://smt.passwdword.xyz/Smart.php?id=Assp3
 SUPERSPORTS,https://smt.passwdword.xyz/Smart.php?id=Assp4
+SUPERSPORTS,https://mytv.passwdword.xyz/mytv265.php?id=SSPT
 SUPER奖门人,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SVAR
 SUPER奖门人,https://mytv.passwdword.xyz/mytv265.php?id=SVAR
 SUPER煲剧,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSIT
@@ -993,10 +993,10 @@ SUPER识食,https://mytv.passwdword.xyz/mytv265.php?id=SFOO
 SURIA,https://smt.passwdword.xyz/Smart.php?id=Suria
 SURIA,https://smt.passwdword.xyz/Smart.php?id=Mewatch_Suria
 THRILL,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR
+THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
+THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
+THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
 THRILL,https://mytv.passwdword.xyz/mytv265.php?id=CTHR
-THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
-THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
-THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
 TLC旅游生活频道,https://smt.passwdword.xyz/Smart.php?id=tlc_twn
 Tnt Sports 1,https://tzh911.qzz.io/play-smt.php?id=6fac0aaead
 TNT Sports 2,https://tzh911.qzz.io/play-smt.php?id=d9a76a79cc
@@ -1015,8 +1015,8 @@ TVBS欢乐台,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
 TVBS看板人物-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/wpLlJJjcWbPPHGsCdrSWJBrcVGCecVd6U4ScuIE0zUPi0u4JHHH9-a0ip_NVwyGCsVWpilYjHN87kSnbFKKgjg%3d%3d/index.m3u8?token=vfQIz3qZrWhKXwZa-Xni7g&expires=1763987136&token1=ffSvhREgk52CZbcoxgUZkg&expires1=1764015936&refer=NDQwZDU4ZmItMGI3ZC00YjkxLWIwZDMtNmM3NTg0ZTE1NzZi&y=2025
 TvN,https://tzh911.qzz.io/play-smt.php?id=TVN
 TVN,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJTV
-TVN,https://mytv.passwdword.xyz/mytv265.php?id=CJTV
 TVN,https://smt.passwdword.xyz/Smart.php?id=TVN
+TVN,https://mytv.passwdword.xyz/mytv265.php?id=CJTV
 TVNMOVIES,https://smt.passwdword.xyz/Smart.php?id=Tvnmovie
 TVNMOVIES,https://smt.passwdword.xyz/Smart.php?id=Tvnmovie
 TVNMOVIES,https://smt.passwdword.xyz/Smart.php?id=Tvnmovie
@@ -1222,9 +1222,9 @@ ZOOMOO,https://mytv.passwdword.xyz/mytv265.php?id=ZOO
 大愛精選-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/TRFcP3giQKql4qd5guUpoR_kD2NNU43zwoZB_JXmHfpGlf6mj21vOkbp3SF-XfAI/index.m3u8?token=O1jKZ6TMBZpNLFrY2EOT2A&expires=1763986819&token1=cBCpjCR89yuMx8UuF1HYJA&expires1=1764015619&refer=MmM1NDA2N2QtZjA3OC00OTZkLWFlYjQtMTdjYTY0MjRkNDc1&y=2023
 大新聞大爆卦,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii201
 大湾区卫视,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
-大湾区卫视,https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 大湾区卫视,https://tzh911.qzz.io/play-smt.php?id=nanfang_twn
 大湾区卫视,https://smt.passwdword.xyz/Smart.php?id=nanfang_twn
+大湾区卫视,https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 大爱二台,https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 大爱电视,https://smt.passwdword.xyz/Smart.php?id=daai_twn
 大自然流水聲,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii255
