@@ -217,32 +217,14 @@ i-HOT爱青春|
 
 asia,#genre#
 重温经典|
-凤凰中文|凤凰卫视中文台|
-凤凰资讯|凤凰卫视资讯台|
-凤凰香港|凤凰卫视香港|凤凰卫视香港台|
+凤凰中文|凤凰卫视中文台|鳳凰衛視中文台
+凤凰资讯|凤凰卫视资讯台|鳳凰衛視資訊台
+凤凰香港|凤凰卫视香港|凤凰卫视香港台｜鳳凰衛視香港台
+RTHK 31|RTHK 31
+RTHK 32|RTHK 32
 香港卫视|
 星空卫视|
 Chanle V|Chanle[V]|Chanle [V]
-Discovery Asia
-Discovery Channel
-Discovery HD
-Discovery Kids Tamil
-Discovery Life
-Discovery Tamil
-Discovery World Tamil
-Dreamworks|DreamWorks 夢工廠動畫
-DW|DW (Deutsch)|DW德國之聲
-ELTV生活英語台
-HBO 1
-HBO 2
-HBO Family
-HBO HD|HBO_HD
-HBO Hits|HBO_HITS
-HBO Signature
-History|History 歷史頻道
-History Tamil
-Hits|HITS頻道
-Hits Movie
 HOY TV
 TVB Asia
 TVB Classic
@@ -260,15 +242,36 @@ TVBS食尚玩家
 TVBS台劇台
 ViuTV
 ViuTV 6
-爱尔达体育1台
-爱尔达体育2台
-爱尔达体育3台
-爱尔达体育4台
+明珠台
 爱尔达影剧台
 爱尔达娱乐｜愛爾達娛樂台
 爱尔达综合台
 愛爾達生活旅遊台
 爱放动漫
+Discovery Asia
+Discovery Channel
+Discovery HD
+Discovery Kids Tamil
+Discovery Life
+Discovery Tamil
+Discovery World Tamil
+Dreamworks|DreamWorks 夢工廠動畫
+ELTV生活英語台
+HBO 1
+HBO 2
+HBO Family
+HBO HD|HBO_HD
+HBO Hits|HBO_HITS
+HBO Signature
+History|History 歷史頻道
+History Tamil
+Hits|HITS頻道
+Hits Movie
+Nick Jr|Nick Jr.|Nick Jr. 兒童頻道｜尼克兒童頻道
+NatGeo HD|Natgeo_HD
+NatGeo Tamil|Natgeo Wild Tamil
+NatGeo Wild HD|NatGeo_Wild HD
+Nation
 爱奇艺 iQiyi
 八大第一台
 八大精彩台
@@ -280,14 +283,6 @@ ViuTV 6
 八大綜藝台
 半岛新闻 
 半島電視台英語頻道｜半島國際新聞台
-博斯高球1｜博斯高球一台
-博斯高球2｜博斯高球二台
-博斯魅力 
-博斯网球｜博斯网球台
-博斯无限｜博斯无限台
-博斯无限2 
-博斯运动1｜博斯运动一台
-博斯运动2｜博斯运动二台
 采昌影剧｜采昌影劇台
 超人力霸王台
 車迷TV
@@ -307,13 +302,10 @@ ViuTV 6
 东森幼幼｜东森幼幼台
 东森综合台
 東森娛樂台
-哆啦Ａ夢台
+哆啦Ａ夢台|新哆啦A夢(中文版)
+新哆啦A夢(中文版)2台
 非凡商业 
 非凡新闻｜非凡新闻
-
-凤凰香港｜鳳凰衛視香港台
-凤凰中文｜鳳凰衛視中文台
-凤凰资讯｜鳳凰衛視資訊台
 
 公视台语台｜公视 HD
 公视戏剧｜公視戲劇
@@ -327,7 +319,6 @@ ViuTV 6
 国际财经
 國外電影精選
 韓國娛樂台 KMTV
-
 好萊塢電影台
 好消息｜好消息
 好消息 2｜好消息2台｜好消息2台
@@ -356,7 +347,7 @@ ViuTV 6
 靖天电影台
 靖天電影台
 靖天国际｜靖天国际台
-靖天欢乐台
+靖天欢乐台|Nice TV 靖天歡樂台
 靖天卡通｜靖天卡通台｜靖天卡通台
 靖天日本台｜靖天日本台
 靖天戏剧台｜靖天戲劇台
@@ -391,8 +382,7 @@ ViuTV 6
 民视综艺｜民視綜藝台
 民視健康美麗生活
 民視異言堂
-明珠台
-倪珍播新聞
+
 年代新闻
 歐飛電影台
 歐飛動作電影台
@@ -409,7 +399,6 @@ ViuTV 6
 三立戏剧台
 三立新聞iNEWS
 三立综合台｜三立綜合台
-
 神州新聞台
 生活英语台
 时尚运动X｜時尚運動X
@@ -431,8 +420,6 @@ ViuTV 6
 无线新闻｜無綫新聞台｜無線衛星新聞台｜無線衛星亞洲台
 戲劇免費看 1台｜戲曲台
 小公视
-新哆啦A夢(中文版)
-新哆啦A夢(中文版)2台
 新唐人亞太台
 亚洲TLC
 亚洲旅游台｜亚洲旅游台｜亞洲旅遊台
@@ -465,6 +452,7 @@ ViuTV 6
 珠江台
 
 ABC News
+DW|DW (Deutsch)|DW德國之聲
 ACC Network
 Adithya
 AEC
@@ -497,12 +485,9 @@ Astro Grandstand
 Astro KTV
 Astro LOL
 Astro MTV
-Astro Premier League 1
-Astro Premier League 2
 Astro QJ
 Astro Rusi
 Astro Sonypix
-Astro Sports Plus
 Astro Sunlife
 Astro Sunmusic
 Astro Vaanavil
@@ -523,10 +508,6 @@ BBC Earth HD
 BBC Earth Lifestyle
 BBC Red Button
 BBC World News
-Bein Sports English 1
-Bein Sports English 2
-Bein Sports English 3
-BEIN SPORTS USA|BEIN SPORTS USA [備線1]
 Berita Satu
 Bernama
 Bloomberg News
@@ -574,13 +555,6 @@ Daai TV
 DayStar
 DAZN
 Entertain
-ESPN
-ESPN 2
-ESPN Deportes|ESPN Deportes [備線1]
-ESPN News
-ESPN U
-Euronews
-Eurosport 2
 EWTN
 EYE 旅游台
 EYE 戏剧台
@@ -594,9 +568,6 @@ Foodnetwork Hd
 FOOD超人
 FOX DEPORTES|FOX DEPORTES [備線1]
 FOX NEWS
-Fox Soccer Plus
-Fox Sports 1
-Fox Sports 2
 France 24|FRANCE24 英文台
 Freeman 
 Freesports
@@ -661,22 +632,8 @@ Movies Now HD
 MTV Live|MTV Live HD 音樂頻道
 Music TV
 Muslim TV
-MUTV
 My Cinema Europe HD 我的歐洲電影
-myTV SUPER 18台
-myTV SUPER FREE
-myTV SUPER直播足球3台
-myTV SUPER直播足球4台
-myTV SUPER直播足球5台
-myTV SUPER直播足球6台
-NatGeo HD
-NatGeo Tamil
-NatGeo Wild HD
-Natgeo Wild Tamil
-Natgeo_HD
-NatGeo_Wild HD
-Nation
-NBA TV
+
 NBC UNIVERSO
 Nbt
 Net TV
@@ -687,8 +644,6 @@ NFL Network
 NFL REDZONE
 NHK World
 NHL Network
-Nice TV 靖天歡樂台
-Nick Jr|Nick Jr.|Nick Jr. 兒童頻道｜尼克兒童頻道
 Nickelodeon
 NOW 70s
 NOW 80s
@@ -703,11 +658,6 @@ Pick TV
 Picture HD
 PopC
 PPTV Thailand1
-Premier Sports 1
-Premier Sports 2
-Prima
-Prima backup
-Prima backup 2
 Racing TV
 Rania
 RCTI
@@ -717,8 +667,6 @@ Rock Actions
 ROCK Entertainment
 ROCK Extreme
 ROCK綜藝娛樂
-RTHK 31
-RTHK 32
 RTM Asean
 RTM Sports HD
 RTV
@@ -729,28 +677,6 @@ SCTV
 Sensasi
 Siar
 SiCAR愛車酷
-Sky Cinema Action
-Sky Cinema Animation
-Sky Cinema Comedy
-Sky Cinema Family
-SKY SPORTS ARENA
-SKY SPORTS CRICKET
-SKY SPORTS F1
-SKY SPORTS FOOTBALL|SKY SPORTS FOOTBALL [備線1]
-SKY SPORTS GOLF
-SKY SPORTS MAIN EVENT|SKY SPORTS MAIN EVENT [備線1]
-SKY SPORTS MIX
-SKY SPORTS NEWS
-SKY SPORTS PREMIER LEAGUE|SKY SPORTS PREMIER LEAGUE [備線1]
-SKY SPORTS RACING
-Sky Sports Tennis
-Skynews
-Skysports Cricket
-Skysports EPL
-Skysports F1
-Skysports Main Event
-Skysports Mix
-Skysports News
 Smart知识台|Smart知識台
 Sony HD
 Sony Ten 1
@@ -790,10 +716,7 @@ Thairath
 Thrill
 TLC|TLC旅遊生活
 Tnn24
-TNT SPORTS 1|TNT SPORTS 1 [備線1]|TNT SPORTS 1 [備線2]
-TNT SPORTS 2|TNT SPORTS 2 [備線1]
-TNT SPORTS 3|TNT SPORTS 3 [備線1]
-TNT SPORTS 4|TNT SPORTS 4 [備線1]
+
 tpbs
 TPTV
 TRACE 
@@ -841,3 +764,73 @@ ZooMoo
 綜藝大贏家
 綜藝新時代
 最愛韓星
+
+体育,#genre#
+博斯高球1｜博斯高球一台
+博斯高球2｜博斯高球二台
+博斯魅力 
+博斯网球｜博斯网球台
+博斯无限｜博斯无限台
+博斯无限2 
+博斯运动1｜博斯运动一台
+博斯运动2｜博斯运动二台
+爱尔达体育1台
+爱尔达体育2台
+爱尔达体育3台
+爱尔达体育4台
+Astro Sports Plus
+Astro Premier League 1
+Astro Premier League 2
+Bein Sports English 1
+Bein Sports English 2
+Bein Sports English 3
+BEIN SPORTS USA|BEIN SPORTS USA [備線1]
+ESPN
+ESPN 2
+ESPN Deportes|ESPN Deportes [備線1]
+ESPN News
+ESPN U
+Euronews
+Eurosport 2
+Fox Soccer Plus
+Fox Sports 1
+Fox Sports 2
+MUTV
+Premier Sports 1
+Premier Sports 2
+Prima
+Prima backup
+Prima backup 2
+myTV SUPER 18台
+myTV SUPER FREE
+myTV SUPER直播足球3台
+myTV SUPER直播足球4台
+myTV SUPER直播足球5台
+myTV SUPER直播足球6台
+NBA TV
+Sky Cinema Action
+Sky Cinema Animation
+Sky Cinema Comedy
+Sky Cinema Family
+SKY SPORTS ARENA
+SKY SPORTS CRICKET
+SKY SPORTS F1
+SKY SPORTS FOOTBALL|SKY SPORTS FOOTBALL [備線1]
+SKY SPORTS GOLF
+SKY SPORTS MAIN EVENT|SKY SPORTS MAIN EVENT [備線1]
+SKY SPORTS MIX
+SKY SPORTS NEWS
+SKY SPORTS PREMIER LEAGUE|SKY SPORTS PREMIER LEAGUE [備線1]
+SKY SPORTS RACING
+Sky Sports Tennis
+Skynews
+Skysports Cricket
+Skysports EPL
+Skysports F1
+Skysports Main Event
+Skysports Mix
+Skysports News
+TNT SPORTS 1|TNT SPORTS 1 [備線1]|TNT SPORTS 1 [備線2]
+TNT SPORTS 2|TNT SPORTS 2 [備線1]
+TNT SPORTS 3|TNT SPORTS 3 [備線1]
+TNT SPORTS 4|TNT SPORTS 4 [備線1]
