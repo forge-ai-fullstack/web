@@ -30,14 +30,14 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Run fofa_fetch.py
-        run:  python iptv/fofa/fofa_fetch.py
+        run:  python htpc/iptv/fofa/fofa_fetch.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git add iptv/fofa/计数.txt
-          git add iptv/fofa/ip/*.txt || true
-          git add iptv/fofa/IPTV.txt || true
+          git add htpc/iptv/fofa/计数.txt
+          git add htpc/iptv/fofa/ip/*.txt || true
+          git add htpc/iptv/fofa/IPTV.txt || true
           git commit -m "自动更新：计数、IP文件、IPTV.txt" || echo "⚠️ 无需提交"
           git push origin main || echo "⚠️ 推送失败"
