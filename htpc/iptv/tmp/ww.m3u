@@ -162,11 +162,11 @@ https://smt.passwdword.xyz/Smart.php?id=fujian
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
+https://mytv.passwdword.xyz/mytv265.php?id=SZTV
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://tzh911.qzz.io/play-smt.php?id=shenzhen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://smt.passwdword.xyz/Smart.php?id=shenzhen
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视",广东卫视
 https://tzh911.qzz.io/play-smt.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视",广东卫视
@@ -186,19 +186,19 @@ https://mytv.passwdword.xyz/mytv265.php?id=FJTV
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
+https://mytv.passwdword.xyz/mytv265.php?id=PCC
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://smt.passwdword.xyz/Smart.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
-https://mytv.passwdword.xyz/mytv265.php?id=PCC
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
+https://mytv.passwdword.xyz/mytv265.php?id=PIN
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
-https://mytv.passwdword.xyz/mytv265.php?id=PIN
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="asia",凤凰香港
 https://smart.dxjc.pp.ua/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="asia",凤凰香港
@@ -256,6 +256,10 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://mytv.passwdword.xyz/mytv265.php?id=J
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://mytv.passwdword.xyz/mytv265.php?id=JUHD
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://tzh911.qzz.io/play-smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://tzh911.qzz.io/play-smt.php?id=Jade_xue
@@ -267,10 +271,6 @@ https://tzh911.qzz.io/play-smt.php?id=Tvbjade
 https://smt.passwdword.xyz/Smart.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://smt.passwdword.xyz/Smart.php?id=Jade_xue
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://mytv.passwdword.xyz/mytv265.php?id=J
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="asia",TVB星河
 https://tzh911.qzz.io/play-smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="asia",TVB星河
@@ -278,11 +278,11 @@ https://smt.passwdword.xyz/Smart.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
+https://mytv.passwdword.xyz/mytv265.php?id=B
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://tzh911.qzz.io/play-smt.php?id=j2_twn
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://smt.passwdword.xyz/Smart.php?id=j2_twn
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
-https://mytv.passwdword.xyz/mytv265.php?id=B
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
 https://4gtvmobile-mozai.4gtv.tv/dJhAsel83-CH1gKVdAI-_jDsAxg1nBafc_bd21rJR18%3d/index.m3u8?token=-0keYdvx3mCaJB9HmFD2cw&expires=1763975225&token1=y0UW95WevpToJICAxfe0ZQ&expires1=1763975225&refer=NDRiMzJlMjQtODM0NC00ZjUzLThhYjMtYWYzZDA1Mjg2YjVl&y=0
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
@@ -316,11 +316,11 @@ https://tzh911.qzz.io/play-smt.php?id=viusix_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
+https://mytv.passwdword.xyz/mytv265.php?id=P
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://tzh911.qzz.io/play-smt.php?id=pearl_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://smt.passwdword.xyz/Smart.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
-https://mytv.passwdword.xyz/mytv265.php?id=P
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
 https://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
@@ -622,15 +622,15 @@ https://4gtvmobile-mozai.4gtv.tv/mm_fUsTIUiS-IrgOggG8D4tD8IIrO5j6lRGKTXnf000%3d/
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://tzh911.qzz.io/play-smt.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://tzh911.qzz.io/play-smt.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smt.passwdword.xyz/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smt.passwdword.xyz/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://mytv.passwdword.xyz/mytv265.php?id=CDW1
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://tzh911.qzz.io/play-smt.php?id=dw_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://tzh911.qzz.io/play-smt.php?id=dw_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smt.passwdword.xyz/Smart.php?id=dw_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smt.passwdword.xyz/Smart.php?id=dw_twn
 #EXTINF:-1 tvg-name="Adithya" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adithya.png" group-title="asia",Adithya
 https://tzh911.qzz.io/play-smt.php?id=Adithya
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AEC.png" group-title="asia",AEC
@@ -736,23 +736,23 @@ https://tzh911.qzz.io/play-smt.php?id=Dsangat
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://tzh911.qzz.io/play-smt.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://tzh911.qzz.io/play-smt.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://tzh911.qzz.io/play-smt.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
 https://mytv.passwdword.xyz/mytv265.php?id=CAXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://tzh911.qzz.io/play-smt.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://tzh911.qzz.io/play-smt.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://tzh911.qzz.io/play-smt.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="asia",AXN Taiwan
 https://tzh911.qzz.io/play-smt.php?id=axn_twn
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="asia",AXN Taiwan
@@ -1476,13 +1476,13 @@ https://4gtvmobile-mozai.4gtv.tv/FU_6bFI_UCaqvBPu_E_Mq2KjLaIJ_IcLrsnqIHd6LGk%3d/
 #EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CANI
 #EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
 https://mytv.passwdword.xyz/mytv265.php?id=CANI
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="ARENABOLA2" group-title="其他",ARENABOLA2
 https://smt.passwdword.xyz/Smart.php?id=Arena
 #EXTINF:-1 tvg-name="ARENABOLA2" group-title="其他",ARENABOLA2
@@ -1692,11 +1692,11 @@ https://smt.passwdword.xyz/Smart.php?id=foxnews_twn
 #EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CF24
 #EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
-https://smt.passwdword.xyz/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
-https://smt.passwdword.xyz/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
 https://mytv.passwdword.xyz/mytv265.php?id=CF24
+#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
+https://smt.passwdword.xyz/Smart.php?id=france24_twn
+#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
+https://smt.passwdword.xyz/Smart.php?id=france24_twn
 #EXTINF:-1 tvg-name="Freeman @台灣" group-title="其他",Freeman @台灣
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii95
 #EXTINF:-1 tvg-name="GLOBALTREKKER" group-title="其他",GLOBALTREKKER
@@ -1868,13 +1868,13 @@ https://tzh911.qzz.io/play-smt.php?id=Rockentertain
 #EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRTX
 #EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
 https://mytv.passwdword.xyz/mytv265.php?id=CRTX
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
 #EXTINF:-1 tvg-name="ROCKENTERTAINMENT" group-title="其他",ROCKENTERTAINMENT
 https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-name="ROCKENTERTAINMENT" group-title="其他",ROCKENTERTAINMENT
@@ -1948,6 +1948,8 @@ https://mytv.passwdword.xyz/mytv265.php?id=SMUS
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSPT
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
+https://mytv.passwdword.xyz/mytv265.php?id=SSPT
+#EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp1
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp2
@@ -1955,8 +1957,6 @@ https://smt.passwdword.xyz/Smart.php?id=Assp2
 https://smt.passwdword.xyz/Smart.php?id=Assp3
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp4
-#EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
-https://mytv.passwdword.xyz/mytv265.php?id=SSPT
 #EXTINF:-1 tvg-name="SUPER奖门人" group-title="其他",SUPER奖门人
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SVAR
 #EXTINF:-1 tvg-name="SUPER奖门人" group-title="其他",SUPER奖门人
@@ -1980,13 +1980,13 @@ https://smt.passwdword.xyz/Smart.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR
 #EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
 https://mytv.passwdword.xyz/mytv265.php?id=CTHR
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
 #EXTINF:-1 tvg-name="TLC旅游生活频道" group-title="其他",TLC旅游生活频道
 https://smt.passwdword.xyz/Smart.php?id=tlc_twn
 #EXTINF:-1 tvg-name="Tnt Sports 1" group-title="其他",Tnt Sports 1
@@ -2024,9 +2024,9 @@ https://tzh911.qzz.io/play-smt.php?id=TVN
 #EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
-https://smt.passwdword.xyz/Smart.php?id=TVN
-#EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
 https://mytv.passwdword.xyz/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
+https://smt.passwdword.xyz/Smart.php?id=TVN
 #EXTINF:-1 tvg-name="TVNMOVIES" group-title="其他",TVNMOVIES
 https://smt.passwdword.xyz/Smart.php?id=Tvnmovie
 #EXTINF:-1 tvg-name="TVNMOVIES" group-title="其他",TVNMOVIES
@@ -2438,11 +2438,11 @@ https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii201
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
+https://mytv.passwdword.xyz/mytv265.php?id=GBTV
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://tzh911.qzz.io/play-smt.php?id=nanfang_twn
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://smt.passwdword.xyz/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
-https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 #EXTINF:-1 tvg-name="大爱二台" group-title="其他",大爱二台
 https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 #EXTINF:-1 tvg-name="大爱电视" group-title="其他",大爱电视
