@@ -1,2 +1,2 @@
-genglei.8866.org:9901
-bee.tzh911.qzz.io:443
+#genglei.8866.org:9901
+#bee.tzh911.qzz.io:443
