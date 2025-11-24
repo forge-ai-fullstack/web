@@ -1,4 +1,4 @@
-央视频道,#genre#
+央视,#genre#
 CCTV1|CCTV1-综合|CCTV-1综合|CCTV1|CCTV-1|
 CCTV2|CCTV2-财经|CCTV-2财经|CCTV2|CCTV-2|
 CCTV3|CCTV3-综艺|CCTV-3综艺|CCTV3|CCTV-3|
@@ -20,7 +20,6 @@ CCTV17|CCTV17-农业农村|CCTV-17农业农村|CCTV17|CCTV-17|
 CCTV4K|CCTV4K超高清|CCTV-4K超高清|CCTV-4K 1080P|CCTV 4K|
 CCTV8K||CCTV-8K超高清|
 CCTV-16奥林匹克4K|CCTV16-4K|
-
 CCTV第一剧场|第一剧场|CCTV-第一剧场|
 CCTV怀旧剧场|怀旧剧场|CCTV-怀旧剧场|
 CCTV风云剧场|风云剧场|CCTV-风云剧场|
@@ -44,15 +43,9 @@ CETV1|CETV-1|中国教育1台|
 CETV2|CETV-2|中国教育2台|
 CETV4|CETV-4|中国教育4台|
 书画|
+中央電視台綜合頻道 (港澳版)
 
-卫视频道,#genre#
-重温经典|
-凤凰卫视中文台|凤凰中文|
-凤凰卫视资讯台|凤凰资讯|
-凤凰卫视香港台|凤凰香港|凤凰卫视香港|
-香港卫视|
-星空卫视|
-Chanle V|
+卫视,#genre#
 湖南卫视|
 浙江卫视|
 东方卫视|
@@ -96,8 +89,18 @@ Chanle V|
 陕西卫视|
 三沙卫视|
 延边卫视|
+大湾区卫视｜廣東廣播電視台大灣區衛視頻道
+安徽国际｜安徽廣播電視台國際頻道
+北京国际｜北京電視台國際頻道
+东方国际｜東方衛視國際頻道
+江苏国际｜江蘇電視台國際頻道
+深圳国际｜深圳衛視國際頻道
+广西国际｜廣西電視台國際頻道
+湖南国际｜湖南電視台國際頻道
+海峡卫视｜福建海峽衛視國際頻道
+浙江国际｜浙江電視台國際頻道
 
-数字频道,#genre#
+数字,#genre#
 CHC影迷电影|CHC高清电影|
 CHC动作电影|
 CHC家庭影院|
@@ -126,7 +129,6 @@ SiTV动漫秀场|动漫秀场|
 军事迷必看大片|
 新片放映厅|
 红色轮播台|
-
 NewTV黑莓电影|黑莓电影|
 NewTV黑莓动画|黑莓动画|
 NewTV超级体育|超级体育|NewTV超级体育 4M1080|NewTV_超级体育「IPV6」|
@@ -213,129 +215,14 @@ i-HOT爱青春|
 人与自然|
 新视觉|
 
-大湾区卫视｜廣東廣播電視台大灣區衛視頻道
-安徽国际｜安徽廣播電視台國際頻道
-北京国际｜北京電視台國際頻道
-东方国际｜東方衛視國際頻道
-江苏国际｜江蘇電視台國際頻道
-深圳国际｜深圳衛視國際頻道
-广西国际｜廣西電視台國際頻道
-
-湖南国际｜湖南電視台國際頻道
-海峡卫视｜福建海峽衛視國際頻道
-浙江国际｜浙江電視台國際頻道
-中央電視台綜合頻道 (港澳版)
-
-ABC News
-ACC Network
-Adithya
-AEC
-AFC 亚洲旅游台
-Al
-AlQuran AlKareem
-Amarin
-amc电影台｜amc電影台
-
-Animal_Planet|Animal Planet (Eng)
-Animax
-AnTV
-AOD
-Arena
-Arena 2
-Arirang|Arirang TV|ARIRANG阿里郎頻道|阿里郎
-Asia Travel
-Asianet
-Asianet News
-ASMR行車紀錄
-Astro Badminton 1
-Astro Badminton 2
-Astro Beinsports 1
-Astro Beinsports 2
-Astro Beinsports 3
-Astro Cricket
-Astro EPL 1 backup
-Astro Football
-Astro Golf
-Astro Grandstand
-Astro KTV
-Astro LOL
-Astro MTV
-Astro Premier League 1
-Astro Premier League 2
-Astro QJ
-Astro Rusi
-Astro Sonypix
-Astro Sports Plus
-Astro Sunlife
-Astro Sunmusic
-Astro Vaanavil
-Astro W
-Astrol Kplus
-Aura
-Awani
-Awesome TV
-AXN|Axn HD
-AXN Taiwan
-Baby TV|Baby TV Eng
-BBC 1|BBC One
-BBC 2|BBC Two
-BBC 3|BBC Three
-BBC 4|BBC FOUR
-BBC News
-BBC Earth HD
-BBC Earth Lifestyle
-BBC Red Button
-BBC World News
-Bein Sports English 1
-Bein Sports English 2
-Bein Sports English 3
-BEIN SPORTS USA|BEIN SPORTS USA [備線1]
-Berita Satu
-Bernama
-Bloomberg News
-Bloomberg TV
-BolaArena 1
-BolaArena 2
-Bollyone
-Boo
-Cartoon Network
-CATCHPLAY电影台 
-CBBC
-CBeebies
-CBS HD
-CBS Sports Network
-CBSN HD
-Celestial Classic
-Celestial Movies HD
-Ceria
-CGTN|CGTN (中國環球電視網)英語頻道
-CGTN纪录|CGTN (中國環球電視網)記錄頻道
-Ch 8
-Channel 3 Thailand
-Channel 4
-Channel 5
-Channel 5 Thailand
-Channel 7 Thailand
-Channel 8
-Channel U
-CI|CI 罪案偵查頻道
-CinemaWorld
-CINEMAX
-Cinemax West
-Citra
-Citra backup
-CLASSICA 古典樂
-CNA|CNA backup
-CNBC
-CNBC Asia 財經台
-CNN|CNN backup
-CNN International
-Color HD
-Colors Tamil
-Concerto
-Daai TV
-DayStar
-DAZN
+asia,#genre#
+重温经典|
+凤凰中文|凤凰卫视中文台|
+凤凰资讯|凤凰卫视资讯台|
+凤凰香港|凤凰卫视香港|凤凰卫视香港台|
+香港卫视|
+星空卫视|
+Chanle V|Chanle[V]|Chanle [V]
 Discovery Asia
 Discovery Channel
 Discovery HD
@@ -346,277 +233,17 @@ Discovery World Tamil
 Dreamworks|DreamWorks 夢工廠動畫
 DW|DW (Deutsch)|DW德國之聲
 ELTV生活英語台
-Entertain
-ESPN
-ESPN 2
-ESPN Deportes|ESPN Deportes [備線1]
-ESPN News
-ESPN U
-Euronews
-Eurosport 2
-EWTN
-EYE 旅游台
-EYE 戏剧台
-Fashion TV
-FashionBox
-Fight Network
-Fight Sports
-Focus風采戲劇台
-Focus探索新知台
-Foodnetwork Hd
-FOOD超人
-FOX DEPORTES|FOX DEPORTES [備線1]
-FOX NEWS
-Fox Soccer Plus
-Fox Sports 1
-Fox Sports 2
-France 24|FRANCE24 英文台
-Freeman 
-Freesports
-fun探索娛樂台
-GINX Esports TV
-GinxTV 
-Global Trekker
-GLOBETROTTER 
-Gmm Channel
-GmmOne
-GoGoTaiwan
-Golden 強片台
-Golden影迷台
-Golf Channel
-Goshop
-Great Movies
-GTV
-HahaTai 哈哈台
 HBO 1
 HBO 2
 HBO Family
 HBO HD|HBO_HD
 HBO Hits|HBO_HITS
 HBO Signature
-HGTV
 History|History 歷史頻道
 History Tamil
 Hits|HITS頻道
 Hits Movie
 HOY TV
-Indosiar HD
-iNews TV
-INULTRA
-ITV 1
-ITV 2
-ITV 3
-ITV 4
-Jak TV
-JOJO 的奇妙冒險
-JTV
-KBS World
-Kids TV
-KIX
-KLT
-Kompass TV
-LALIGA TV HD|LALIGA TV HD [備線1]
-LFC TV
-Lifestyle&Fashion
-Lifetime 娛樂頻道
-LiveABC互動英語頻道｜空中英語教室HD頻道
-Love Nature|Love Nature 4K|Love Nature HD
-LUXE TV Channel
-Madinah HD
-MagellanTV頻道 (麥哲倫頻道) 
-Makkal TV
-MCOT HD Thailand
-Mecca Live HD
-Metro TV
-MeWatch Ch 5
-MeWatch Ch 8
-MeWatch Ch U
-MeWatch CNA
-MeWatch Suria
-MeWatch Vasantham
-MEZZO 
-Mezzo Live HD
-MiaoMi
-MLB Network
-MNC TV
-Mono|MOMO親子台|Momo TV
-More4
-Movies Now HD
-MTV Live|MTV Live HD 音樂頻道
-Music TV
-Muslim TV
-MUTV
-My Cinema Europe HD 我的歐洲電影
-myTV SUPER 18台
-myTV SUPER FREE
-myTV SUPER直播足球3台
-myTV SUPER直播足球4台
-myTV SUPER直播足球5台
-myTV SUPER直播足球6台
-NatGeo HD
-NatGeo Tamil
-NatGeo Wild HD
-Natgeo Wild Tamil
-Natgeo_HD
-NatGeo_Wild HD
-Nation
-NBA TV
-NBC UNIVERSO
-Nbt
-Net TV
-New
-News 18 Tamil
-NewsWorld
-NFL Network
-NFL REDZONE
-NHK World
-NHL Network
-Nice TV 靖天歡樂台
-Nick Jr|Nick Jr.|Nick Jr. 兒童頻道｜尼克兒童頻道
-Nickelodeon
-NOW 70s
-NOW 80s
-NOW 90s00s
-NOW ROCK
-NTV7
-Oasis
-One
-Paramount Network
-Pet Club TV
-Pick TV
-Picture HD
-PopC
-PPTV Thailand1
-Premier Sports 1
-Premier Sports 2
-Prima
-Prima backup
-Prima backup 2
-Racing TV
-Rania
-RCTI
-Ria
-ROCK Action
-Rock Actions
-ROCK Entertainment
-ROCK Extreme
-ROCK綜藝娛樂
-RTHK 31
-RTHK 32
-RTM Asean
-RTM Sports HD
-RTV
-Rugby Pass TV
-SBN全球財經台
-SCM
-SCTV
-Sensasi
-Siar
-SiCAR愛車酷
-Sky Cinema Action
-Sky Cinema Animation
-Sky Cinema Comedy
-Sky Cinema Family
-SKY SPORTS ARENA
-SKY SPORTS CRICKET
-SKY SPORTS F1
-SKY SPORTS FOOTBALL|SKY SPORTS FOOTBALL [備線1]
-SKY SPORTS GOLF
-SKY SPORTS MAIN EVENT|SKY SPORTS MAIN EVENT [備線1]
-SKY SPORTS MIX
-SKY SPORTS NEWS
-SKY SPORTS PREMIER LEAGUE|SKY SPORTS PREMIER LEAGUE [備線1]
-SKY SPORTS RACING
-Sky Sports Tennis
-Skynews
-Skysports Cricket
-Skysports EPL
-Skysports F1
-Skysports Main Event
-Skysports Mix
-Skysports News
-Smart知识台|Smart知識台
-Sony HD
-Sony Ten 1
-Sony Ten 2
-Sony Ten 3
-Sony Yay Tamil
-SPO TV 2
-SPOTV 1 HD
-SPY X FAMILY 間諜家家酒|SPY X FAMILY 間諜家家酒(中文版)
-Star Movies HD
-Star Vijay
-Starmaa HD
-Starmaa Movies HD
-Starplus HD
-Sun Music
-Sun TV HD|Sun TV India
-SUPER EYT
-SUPER Kids Channel
-SUPER Music
-SUPER Sports
-Supersports 1
-Supersports 2
-Supersports 3
-Supersports 4
-SUPER煲劇
-SUPER話當年
-SUPER獎門人
-SUPER金曲
-SUPER劇場
-SUPER識食
-SUPER識嘆
-Suria
-Tawaf TV
-TENNIS CHANNEL
-Thai Thai
-Thairath
-Thrill
-TLC|TLC旅遊生活
-Tnn24
-TNT SPORTS 1|TNT SPORTS 1 [備線1]|TNT SPORTS 1 [備線2]
-TNT SPORTS 2|TNT SPORTS 2 [備線1]
-TNT SPORTS 3|TNT SPORTS 3 [備線1]
-TNT SPORTS 4|TNT SPORTS 4 [備線1]
-tpbs
-TPTV
-TRACE 
-TRACE Sport Stars
-TRACE Urban
-Trans 7
-Transtv
-TV1|TV1 backup
-TV2
-TV3|TV3 SD
-TV5MONDE STYLE HD 生活時尚
-TV8
-TV9
-TVMU
-tvN
-tvN Movie
-Tvone
-TVRI National
-Vasantham
-Vellithirai
-Vijay Super
-Virgin 1
-Virgin 3
-Vision Prime
-Warner TV
-Willow Cricket
-Willow Extra
-WION
-Workpoint
-World Fishing Network
-WTO姐妹會
-WWE
-Zee Action
-Zee Business
-Zee Cinema HD
-Zee News
-Zee Tamil
-Zee TV HD
-ZooMoo
 TVB Asia
 TVB Classic
 TVB Entertainment
@@ -837,6 +464,376 @@ ViuTV 6
 中天综合
 周星馳台
 珠江台
+
+ABC News
+ACC Network
+Adithya
+AEC
+AFC 亚洲旅游台
+Al
+AlQuran AlKareem
+Amarin
+amc电影台｜amc電影台
+Animal_Planet|Animal Planet (Eng)
+Animax
+AnTV
+AOD
+Arena
+Arena 2
+Arirang|Arirang TV|ARIRANG阿里郎頻道|阿里郎
+Asia Travel
+Asianet
+Asianet News
+ASMR行車紀錄
+Astro Badminton 1
+Astro Badminton 2
+Astro Beinsports 1
+Astro Beinsports 2
+Astro Beinsports 3
+Astro Cricket
+Astro EPL 1 backup
+Astro Football
+Astro Golf
+Astro Grandstand
+Astro KTV
+Astro LOL
+Astro MTV
+Astro Premier League 1
+Astro Premier League 2
+Astro QJ
+Astro Rusi
+Astro Sonypix
+Astro Sports Plus
+Astro Sunlife
+Astro Sunmusic
+Astro Vaanavil
+Astro W
+Astrol Kplus
+Aura
+Awani
+Awesome TV
+AXN|Axn HD
+AXN Taiwan
+Baby TV|Baby TV Eng
+BBC 1|BBC One
+BBC 2|BBC Two
+BBC 3|BBC Three
+BBC 4|BBC FOUR
+BBC News
+BBC Earth HD
+BBC Earth Lifestyle
+BBC Red Button
+BBC World News
+Bein Sports English 1
+Bein Sports English 2
+Bein Sports English 3
+BEIN SPORTS USA|BEIN SPORTS USA [備線1]
+Berita Satu
+Bernama
+Bloomberg News
+Bloomberg TV
+BolaArena 1
+BolaArena 2
+Bollyone
+Boo
+Cartoon Network
+CATCHPLAY电影台 
+CBBC
+CBeebies
+CBS HD
+CBS Sports Network
+CBSN HD
+Celestial Classic
+Celestial Movies HD
+Ceria
+CGTN|CGTN (中國環球電視網)英語頻道
+CGTN纪录|CGTN (中國環球電視網)記錄頻道
+Ch 8
+Channel 3 Thailand
+Channel 4
+Channel 5
+Channel 5 Thailand
+Channel 7 Thailand
+Channel 8
+Channel U
+CI|CI 罪案偵查頻道
+CinemaWorld
+CINEMAX
+Cinemax West
+Citra
+Citra backup
+CLASSICA 古典樂
+CNA|CNA backup
+CNBC
+CNBC Asia 財經台
+CNN|CNN backup
+CNN International
+Color HD
+Colors Tamil
+Concerto
+Daai TV
+DayStar
+DAZN
+Entertain
+ESPN
+ESPN 2
+ESPN Deportes|ESPN Deportes [備線1]
+ESPN News
+ESPN U
+Euronews
+Eurosport 2
+EWTN
+EYE 旅游台
+EYE 戏剧台
+Fashion TV
+FashionBox
+Fight Network
+Fight Sports
+Focus風采戲劇台
+Focus探索新知台
+Foodnetwork Hd
+FOOD超人
+FOX DEPORTES|FOX DEPORTES [備線1]
+FOX NEWS
+Fox Soccer Plus
+Fox Sports 1
+Fox Sports 2
+France 24|FRANCE24 英文台
+Freeman 
+Freesports
+fun探索娛樂台
+GINX Esports TV
+GinxTV 
+Global Trekker
+GLOBETROTTER 
+Gmm Channel
+GmmOne
+GoGoTaiwan
+Golden 強片台
+Golden影迷台
+Golf Channel
+Goshop
+Great Movies
+GTV
+HahaTai 哈哈台
+HGTV
+Indosiar HD
+iNews TV
+INULTRA
+ITV 1
+ITV 2
+ITV 3
+ITV 4
+Jak TV
+JOJO 的奇妙冒險
+JTV
+KBS World
+Kids TV
+KIX
+KLT
+Kompass TV
+LALIGA TV HD|LALIGA TV HD [備線1]
+LFC TV
+Lifestyle&Fashion
+Lifetime 娛樂頻道
+LiveABC互動英語頻道｜空中英語教室HD頻道
+Love Nature|Love Nature 4K|Love Nature HD
+LUXE TV Channel
+Madinah HD
+MagellanTV頻道 (麥哲倫頻道) 
+Makkal TV
+MCOT HD Thailand
+Mecca Live HD
+Metro TV
+MeWatch Ch 5
+MeWatch Ch 8
+MeWatch Ch U
+MeWatch CNA
+MeWatch Suria
+MeWatch Vasantham
+MEZZO 
+Mezzo Live HD
+MiaoMi
+MLB Network
+MNC TV
+Mono|MOMO親子台|Momo TV
+More4
+Movies Now HD
+MTV Live|MTV Live HD 音樂頻道
+Music TV
+Muslim TV
+MUTV
+My Cinema Europe HD 我的歐洲電影
+myTV SUPER 18台
+myTV SUPER FREE
+myTV SUPER直播足球3台
+myTV SUPER直播足球4台
+myTV SUPER直播足球5台
+myTV SUPER直播足球6台
+NatGeo HD
+NatGeo Tamil
+NatGeo Wild HD
+Natgeo Wild Tamil
+Natgeo_HD
+NatGeo_Wild HD
+Nation
+NBA TV
+NBC UNIVERSO
+Nbt
+Net TV
+New
+News 18 Tamil
+NewsWorld
+NFL Network
+NFL REDZONE
+NHK World
+NHL Network
+Nice TV 靖天歡樂台
+Nick Jr|Nick Jr.|Nick Jr. 兒童頻道｜尼克兒童頻道
+Nickelodeon
+NOW 70s
+NOW 80s
+NOW 90s00s
+NOW ROCK
+NTV7
+Oasis
+One
+Paramount Network
+Pet Club TV
+Pick TV
+Picture HD
+PopC
+PPTV Thailand1
+Premier Sports 1
+Premier Sports 2
+Prima
+Prima backup
+Prima backup 2
+Racing TV
+Rania
+RCTI
+Ria
+ROCK Action
+Rock Actions
+ROCK Entertainment
+ROCK Extreme
+ROCK綜藝娛樂
+RTHK 31
+RTHK 32
+RTM Asean
+RTM Sports HD
+RTV
+Rugby Pass TV
+SBN全球財經台
+SCM
+SCTV
+Sensasi
+Siar
+SiCAR愛車酷
+Sky Cinema Action
+Sky Cinema Animation
+Sky Cinema Comedy
+Sky Cinema Family
+SKY SPORTS ARENA
+SKY SPORTS CRICKET
+SKY SPORTS F1
+SKY SPORTS FOOTBALL|SKY SPORTS FOOTBALL [備線1]
+SKY SPORTS GOLF
+SKY SPORTS MAIN EVENT|SKY SPORTS MAIN EVENT [備線1]
+SKY SPORTS MIX
+SKY SPORTS NEWS
+SKY SPORTS PREMIER LEAGUE|SKY SPORTS PREMIER LEAGUE [備線1]
+SKY SPORTS RACING
+Sky Sports Tennis
+Skynews
+Skysports Cricket
+Skysports EPL
+Skysports F1
+Skysports Main Event
+Skysports Mix
+Skysports News
+Smart知识台|Smart知識台
+Sony HD
+Sony Ten 1
+Sony Ten 2
+Sony Ten 3
+Sony Yay Tamil
+SPO TV 2
+SPOTV 1 HD
+SPY X FAMILY 間諜家家酒|SPY X FAMILY 間諜家家酒(中文版)
+Star Movies HD
+Star Vijay
+Starmaa HD
+Starmaa Movies HD
+Starplus HD
+Sun Music
+Sun TV HD|Sun TV India
+SUPER EYT
+SUPER Kids Channel
+SUPER Music
+SUPER Sports
+Supersports 1
+Supersports 2
+Supersports 3
+Supersports 4
+SUPER煲劇
+SUPER話當年
+SUPER獎門人
+SUPER金曲
+SUPER劇場
+SUPER識食
+SUPER識嘆
+Suria
+Tawaf TV
+TENNIS CHANNEL
+Thai Thai
+Thairath
+Thrill
+TLC|TLC旅遊生活
+Tnn24
+TNT SPORTS 1|TNT SPORTS 1 [備線1]|TNT SPORTS 1 [備線2]
+TNT SPORTS 2|TNT SPORTS 2 [備線1]
+TNT SPORTS 3|TNT SPORTS 3 [備線1]
+TNT SPORTS 4|TNT SPORTS 4 [備線1]
+tpbs
+TPTV
+TRACE 
+TRACE Sport Stars
+TRACE Urban
+Trans 7
+Transtv
+TV1|TV1 backup
+TV2
+TV3|TV3 SD
+TV5MONDE STYLE HD 生活時尚
+TV8
+TV9
+TVMU
+tvN
+tvN Movie
+Tvone
+TVRI National
+Vasantham
+Vellithirai
+Vijay Super
+Virgin 1
+Virgin 3
+Vision Prime
+Warner TV
+Willow Cricket
+Willow Extra
+WION
+Workpoint
+World Fishing Network
+WTO姐妹會
+WWE
+Zee Action
+Zee Business
+Zee Cinema HD
+Zee News
+Zee Tamil
+Zee TV HD
+ZooMoo
 豬哥會社
 豬哥亮歌廳秀
 豬哥壹級棒
@@ -845,4 +842,3 @@ ViuTV 6
 綜藝大贏家
 綜藝新時代
 最愛韓星
-
