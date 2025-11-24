@@ -453,6 +453,8 @@ https://smart.dxjc.pp.ua/smt.php?id=rhk32_twn
 https://tzh911.qzz.io/play-smt.php?id=rhk31_twn
 #EXTINF:-1 tvg-name="RTHK 32" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK 32.png" group-title="asia",RTHK 32
 https://tzh911.qzz.io/play-smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="asia",星空卫视
+http://171.213.172.239:4022/rtp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="Chanle V" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Chanle V.png" group-title="asia",Chanle V
 https://smart.dxjc.pp.ua/smt.php?id=hunan_twn
 #EXTINF:-1 tvg-name="Chanle V" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Chanle V.png" group-title="asia",Chanle V
@@ -1847,6 +1849,8 @@ https://smt.passwdword.xyz/Smart.php?id=Channel5HD
 https://smt.passwdword.xyz/Smart.php?id=ch5_pat
 #EXTINF:-1 tvg-name="CHANNEL8" group-title="其他",CHANNEL8
 https://smt.passwdword.xyz/Smart.php?id=Channel8HD
+#EXTINF:-1 tvg-name="CHANNEL[V]" group-title="其他",CHANNEL[V]
+http://171.213.172.239:4022/rtp/239.93.0.157:2194
 #EXTINF:-1 tvg-name="CHANNELU" group-title="其他",CHANNELU
 https://smt.passwdword.xyz/Smart.php?id=ChannelU
 #EXTINF:-1 tvg-name="CINEMAONEGLOBAL" group-title="其他",CINEMAONEGLOBAL
@@ -2874,25 +2878,25 @@ https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii120
 #EXTINF:-1 tvg-name="木曜4超玩 一日系列" group-title="其他",木曜4超玩 一日系列
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii140
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="村裡來了個暴走女外科" group-title="其他",村裡來了個暴走女外科
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii153
 #EXTINF:-1 tvg-name="東森新聞台" group-title="其他",東森新聞台
