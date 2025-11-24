@@ -28,7 +28,7 @@ jobs:
         pip install requests urllib3
         python -m pip install --upgrade pip
 
-    - name: Combination
+    - name: fetch_sources
       run: |
         python htpc/iptv/live/main.py
 
