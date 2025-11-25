@@ -19,100 +19,100 @@ CCTV16|CCTV16-奥林匹克|CCTV-16奥林匹克|CCTV16|CCTV-16|CCTV-16 奥林匹�
 CCTV17|CCTV17-农业农村|CCTV-17农业农村|CCTV17|CCTV-17|CCTV-17 农业农村|cctv17
 CCTV4K|CCTV4K超高清|CCTV-4K超高清|CCTV-4K 1080P|CCTV 4K|
 CCTV8K||CCTV-8K超高清|
-CCTV-16奥林匹克4K|CCTV16-4K|
-CCTV第一剧场|第一剧场|CCTV-第一剧场|
-CCTV怀旧剧场|怀旧剧场|CCTV-怀旧剧场|
-CCTV风云剧场|风云剧场|CCTV-风云剧场|
-CCTV风云音乐|风云音乐|CCTV-风云音乐 |
+CCTV16-4K|CCTV-16奥林匹克4K|CCTV16-4K|
+第一剧场|CCTV第一剧场|CCTV-第一剧场|
+怀旧剧场|CCTV怀旧剧场|CCTV-怀旧剧场|
+风云剧场|CCTV风云剧场|CCTV-风云剧场|
+风云音乐|CCTV风云音乐|CCTV-风云音乐|
 CCTV音乐|CCTV娱乐|
-CCTV兵器科技|兵器科技|CCTV-兵器科技|
-CCTV老故事|老故事|CCTV-老故事|   
-CCTV风云足球|风云足球|CCTV-风云足球|
-CCTV高尔夫网球|高尔夫网球|CCTV-高尔夫·网球|
-CCTV央视台球|央视台球|CCTV-央视台球|
-CCTV女性时尚|女性时尚|CCTV-女性时尚|
-CCTV电视指南|电视指南|CCTV-电视指南|
-CCTV央视文化精品|央视文化精品|
-CCTV世界地理|世界地理|CCTV-世界地理|
+兵器科技|CCTV兵器科技|CCTV-兵器科技|
+老故事|CCTV老故事|CCTV-老故事|   
+风云足球|CCTV风云足球|CCTV-风云足球|
+高尔夫网球|CCTV高尔夫网球|CCTV-高尔夫·网球|
+央视台球|CCTV央视台球|CCTV-央视台球|
+女性时尚|CCTV女性时尚|CCTV-女性时尚|
+电视指南|CCTV电视指南|CCTV-电视指南|
+央视文化精品|CCTV央视文化精品|
+世界地理|CCTV世界地理|CCTV-世界地理|
 CCTV发现之旅|发现之旅| 
 CCTV卫生健康|卫生健康|
 中国天气|
-CCTV中学生|中学生 |
-CETV早期教育|
-CETV1|CETV-1|中国教育1台|
-CETV2|CETV-2|中国教育2台|
-CETV4|CETV-4|中国教育4台|
+中学生|CCTV中学生|
+早期教育|CETV早期教育|
+CETV1|CETV-1|CETV 1|中国教育1台|
+CETV2|CETV-2|CETV 2|中国教育2台|
+CETV4|CETV-4|CETV 4|中国教育4台|
 书画|
 中央電視台綜合頻道 (港澳版)
-SiTV欢笑剧场|欢笑剧场|SiTV欢笑剧4k|
-SiTV都市剧场|都市剧场|
-SiTV 七彩戏剧|七彩戏剧|
-SiTV 魅力足球|魅力足球|
-SiTV 劲爆体育|劲爆体育|
-SiTV 法治天地|法治天地|
-SiTV乐游频道|SiTV 乐游|乐游|
+欢笑剧场|SiTV欢笑剧场|SiTV欢笑剧4k|
+都市剧场|SiTV都市剧场|
+七彩戏剧|SiTV 七彩戏剧|
+魅力足球|SiTV 魅力足球|
+劲爆体育|SiTV 劲爆体育|
+法治天地|SiTV 法治天地|
+乐游|SiTV乐游频道|SiTV 乐游|
 金色学堂|
-SiTV动漫秀场|动漫秀场|
+动漫秀场|SiTV动漫秀场|
 生活时尚|
 经典香港电影|
 军事迷必看大片|
 新片放映厅|
 红色轮播台|
-NewTV黑莓电影|黑莓电影|
-NewTV黑莓动画|黑莓动画|
-NewTV超级体育|超级体育|NewTV超级体育 4M1080|NewTV_超级体育「IPV6」|
-NewTV超级电影|超级电影|NewTV超级电影 4M1080|NewTV_超级电影「IPV6」|
-NewTV超级电视剧|超级电视剧|NewTV超级电视剧 4M1080|超级视剧|NewTV_超级电视剧「IPV6」|
-NewTV爱情喜剧|爱情喜剧|
-NewTV东北热剧|东北热剧|NewTV东北热剧 4M1080|newtv东北热剧|
-NewTV海外剧场|海外剧场|newtv海外剧场 |
-NewTV古装剧场|古装剧场|newtv古装剧场|NewTV_古装剧场「IPV6」|
-NewTV中国功夫|中国功夫|newtv中国功夫|NewTV_中国功夫「IPV6」|
-NewTV军旅剧场|军旅剧场|newtv军旅剧场|NewTV_军旅剧场「IPV6」|
-NewTV动作电影|动作电影|newtv动作电影|NewTV_动作电影「IPV6」|
-NewTV惊悚悬疑|惊悚悬疑|newtv惊悚悬疑|NewTV_惊悚悬疑「IPV6」|
-NewTV潮妈辣婆|潮妈辣婆|newtv潮妈辣婆|NewTV_潮妈辣婆「IPV6」|
-NewTV精品体育|精品体育|newtv精品体育|NewTV_精品体育「IPV6」|
-NewTV精品纪录|精品纪录|newtv精品纪录|
-NewTV家庭剧场|家庭剧场|newtv家庭剧场|NewTV_家庭剧场「IPV6」|
-NewTV精品大剧|精品大剧|newtv精品大剧|
-NewTV军事评论|军事评论|newtv军事评论|NewTV_军事评论「IPV6」|
-NewTV明星大片|明星大片|newtv明星大片|
-NewTV欢乐剧场|欢乐剧场|newtv欢乐剧场|NewTV_欢乐剧场「IPV6」|
-NewTV精品萌宠|精品萌宠|NewTV精品萌宠|NewTV_精品萌宠「IPV6」|
-NewTV精品综合|精品综合|
-NewTV超级综艺|超级综艺|newtv超级综艺|NewTV_超级综艺「IPV6」|
-NewTV金牌综艺|金牌综艺|newtv金牌综艺|NewTV_金牌综艺「IPV6」|
-NewTV欢乐剧场|欢乐剧场|newtv欢乐剧场|
-NewTV魅力潇湘|魅力潇湘|newtv魅力潇湘|
-NewTV明星大片|明星大片|newtv明星大片|
-NewTV农业致富|农业致富|newtv农业致富|
-NewTV武博世界|武博世界|newtv武博世界|
-NewTV炫舞未来|炫舞未来|newtv炫舞未来|
-NewTV中国功夫|中国功夫|newtv中国功夫|
+黑莓电影|NewTV黑莓电影|
+黑莓动画|NewTV黑莓动画|
+超级体育|NewTV超级体育|NewTV超级体育 4M1080|NewTV_超级体育「IPV6」|
+超级电影|NewTV超级电影|NewTV超级电影 4M1080|NewTV_超级电影「IPV6」|
+超级电视剧|NewTV超级电视剧|NewTV超级电视剧 4M1080|超级视剧|NewTV_超级电视剧「IPV6」|
+爱情喜剧|NewTV爱情喜剧|
+东北热剧|NewTV东北热剧|NewTV东北热剧 4M1080|newtv东北热剧|
+海外剧场|NewTV海外剧场|newtv海外剧场 |
+古装剧场|NewTV古装剧场|newtv古装剧场|NewTV_古装剧场「IPV6」|
+中国功夫|NewTV中国功夫|newtv中国功夫|NewTV_中国功夫「IPV6」|
+军旅剧场|NewTV军旅剧场|newtv军旅剧场|NewTV_军旅剧场「IPV6」|
+动作电影|NewTV动作电影|newtv动作电影|NewTV_动作电影「IPV6」|
+惊悚悬疑|NewTV惊悚悬疑|newtv惊悚悬疑|NewTV_惊悚悬疑「IPV6」|
+潮妈辣婆|NewTV潮妈辣婆|newtv潮妈辣婆|NewTV_潮妈辣婆「IPV6」|
+精品体育|NewTV精品体育|newtv精品体育|NewTV_精品体育「IPV6」|
+精品纪录|NewTV精品纪录|newtv精品纪录|
+家庭剧场|NewTV家庭剧场|newtv家庭剧场|NewTV_家庭剧场「IPV6」|
+精品大剧|NewTV精品大剧|newtv精品大剧|
+军事评论|NewTV军事评论|newtv军事评论|NewTV_军事评论「IPV6」|
+明星大片|NewTV明星大片|newtv明星大片|
+欢乐剧场|NewTV欢乐剧场|newtv欢乐剧场|NewTV_欢乐剧场「IPV6」|
+精品萌宠|NewTV精品萌宠|NewTV精品萌宠|NewTV_精品萌宠「IPV6」|
+精品综合|NewTV精品综合|
+超级综艺|NewTV超级综艺|newtv超级综艺|NewTV_超级综艺「IPV6」|
+金牌综艺|NewTV金牌综艺|newtv金牌综艺|NewTV_金牌综艺「IPV6」|
+欢乐剧场|NewTV欢乐剧场|newtv欢乐剧场|
+魅力潇湘|NewTV魅力潇湘|newtv魅力潇湘|
+明星大片|NewTV明星大片|newtv明星大片|
+农业致富|NewTV农业致富|newtv农业致富|
+武博世界|NewTV武博世界|newtv武博世界|
+炫舞未来|NewTV炫舞未来|newtv炫舞未来|
+中国功夫|NewTV中国功夫|newtv中国功夫|
 怡伴健康|
-NewTV哒啵赛事|哒啵赛事|
+哒啵赛事|NewTV哒啵赛事|
 亚洲影院|iHot亚洲影院|
 欧美影院|iHot欧美影院|
 风尚音乐|iHot欧美影院|
-iHOT爱院线|i-HOT爱院线|爱院线|
-iHOT爱科幻|i-HOT爱科幻|爱科幻|
-iHOT爱浪漫|i-HOT爱浪漫|爱浪漫|
-iHOT爱喜剧|i-HOT爱喜剧|爱喜剧 6.8M|爱喜剧 7.5M|
-iHOT爱都市|i-HOT爱都市|爱都市 6.8M|
-iHOT爱怀旧|i-HOT爱怀旧|爱怀旧 6.8M|
-iHOT爱经典|i-HOT爱经典|爱经典 6.8M|
-iHOT爱悬疑|i-HOT爱悬疑|爱悬疑|
-iHOT爱赛车|i-HOT爱赛车|爱赛车|
-iHOT爱奇谈|i-HOT爱奇谈|爱奇谈 6.8M|爱奇谈 7.5M|
-iHOT爱玩具|i-HOT爱玩具|爱玩具|
-iHOT爱旅行|i-HOT爱旅行|爱旅行|
-iHOT爱幼教|i-HOT爱幼教|爱幼教 6.8M|爱幼教 7.5M|
-iHOT爱谍战|爱谍战|i-HOT爱谍战|
-iHOT爱历史|i-HOT爱历史|爱历史 6.8M|爱历史 7.5M|
-iHOT爱科学|i-HOT爱科学|爱科学|
-iHOT爱动漫|爱动漫 6.8M|爱动漫 7.5M|i-HOT爱动漫|
-iHOT爱体育|i-HOT爱体育|爱体育 6.8M|爱体育 7.5M|
+爱院线|iHOT爱院线|i-HOT爱院线|
+爱科幻|iHOT爱科幻|i-HOT爱科幻|
+爱浪漫|iHOT爱浪漫|i-HOT爱浪漫|
+爱喜剧|iHOT爱喜剧|i-HOT爱喜剧|爱喜剧 6.8M|爱喜剧 7.5M|
+爱都市|iHOT爱都市|i-HOT爱都市|爱都市 6.8M|
+爱怀旧|iHOT爱怀旧|i-HOT爱怀旧|爱怀旧 6.8M|
+爱经典|iHOT爱经典|i-HOT爱经典|爱经典 6.8M|
+爱悬疑|iHOT爱悬疑|i-HOT爱悬疑|
+爱赛车|iHOT爱赛车|i-HOT爱赛车|爱赛车|
+爱奇谈|iHOT爱奇谈|i-HOT爱奇谈|爱奇谈 6.8M|爱奇谈 7.5M|
+爱玩具|iHOT爱玩具|i-HOT爱玩具|
+爱旅行|iHOT爱旅行|i-HOT爱旅行|
+爱幼教|iHOT爱幼教|i-HOT爱幼教|爱幼教 6.8M|爱幼教 7.5M|
+爱谍战|iHOT爱谍战|爱谍战|i-HOT爱谍战|
+爱历史|iHOT爱历史|i-HOT爱历史|爱历史 6.8M|爱历史 7.5M|
+爱科学|iHOT爱科学|i-HOT爱科学|爱科学|
+爱动漫|iHOT爱动漫|爱动漫 6.8M|爱动漫 7.5M|i-HOT爱动漫|
+爱体育|iHOT爱体育|i-HOT爱体育|爱体育 6.8M|爱体育 7.5M|
 i-HOT爱电竞|
 i-HOT爱青春|
 爱上4K|
@@ -131,8 +131,8 @@ i-HOT爱青春|
 CHC影迷电影|CHC高清电影|
 CHC动作电影|
 CHC家庭影院|
-1905电影网(国内)|1905电影网|1905国内|1905国内电影|
-1905电影网(国际）|1905国外|1905国外电影|
+1905国内|1905电影网(国内)|1905电影网|1905国内电影|
+1905国外|1905电影网(国际）|1905国外电影|
 梨园频道|
 IPTV热播剧场|
 华数4K|
@@ -209,7 +209,7 @@ IPTV热播剧场|
 
 
 地方,#genre#
-纪实人文|
+纪实人文|上海纪实人文
 纪实科教|
 
 asia,#genre#
@@ -217,22 +217,23 @@ asia,#genre#
 凤凰中文|凤凰卫视中文台|鳳凰衛視中文台
 凤凰资讯|凤凰卫视资讯台|鳳凰衛視資訊台
 凤凰香港|凤凰卫视香港|凤凰卫视香港台｜鳳凰衛視香港台
-RTHK 31|RTHK 31
-RTHK 32|RTHK 32
+RTHK 31|RTHK31
+RTHK 32|RTHK32
 香港卫视|
 星空卫视|
 Chanle V|Chanle[V]|Chanle [V]|Channel [V] 中国
 HOY TV
-TVB Asia
-TVB Classic
-千禧經典台
-TVB Entertainment
-TVB翡翠|TVB Jade|翡翠台|翡翠台|翡翠台 4K|华丽台|华丽台 HD （Wah Lai Toi）
+HOY 77
+TVB亚洲|TVB Asia
+千禧經典台｜TVB Classic
+TVB娱乐新闻｜TVB Entertainment
+TVB翡翠|TVB Jade|翡翠台|翡翠台|翡翠台 4K|
+TVB华丽台|华丽台 HD （Wah Lai Toi）
 TVB星河|TVB 星河台 Xing He
 TVB Plus|TVBPLUS
 TVBS|tvbs|TVBS HD|TVBS|TVBS HD
-TVBS 欢乐台|tvbs欢乐台|TVBS歡樂台
-TVBS 新闻台|tvbs新闻台|TVBS新聞|TVBS綜藝台
+TVBS欢乐台|TVBS 欢乐台|tvbs欢乐台|TVBS歡樂台
+TVBS新闻台|TVBS 新闻台|tvbs新闻台|TVBS新聞|TVBS綜藝台
 TVBS精采台|tvbs精采台 
 TVBS看板人物
 TVBS食尚玩家
@@ -373,8 +374,8 @@ Nation
 民视｜民视 HD｜民視
 民视第一台｜民視第一台
 民视旅游｜民視旅遊台
-民视台湾台｜民视台湾台｜民視台灣台
-民视新闻台｜民视新闻台｜民視新聞台
+民视台湾｜民视台湾台｜民視台灣台
+民视新闻｜民视新闻台｜民視新聞台
 民视影剧｜民視影劇台
 民视综艺｜民視綜藝台
 民視健康美麗生活
@@ -555,7 +556,7 @@ Entertain
 EWTN
 EYE 旅游台
 EYE 戏剧台
-Fashion TV
+Fashion｜Fashion TV
 FashionBox
 Fight Network
 Fight Sports
@@ -752,7 +753,7 @@ Zee Cinema HD
 Zee News
 Zee Tamil
 Zee TV HD
-ZooMoo
+ZooMoo|ZOOMOO
 豬哥會社
 豬哥亮歌廳秀
 豬哥壹級棒
