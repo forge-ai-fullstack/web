@@ -1,52 +1,54 @@
-测速日志 2025-11-29 12:50:05
+测速日志 2025-11-29 16:31:04
 速度阈值: 50KB/s
-[2025-11-29 12:50:20] ⚠️ 仅读取 0.3KB 数据: https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1
-[2025-11-29 12:50:20] ✅ 测速成功: https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1
-   速度: 288.09KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 9.77s
-[2025-11-29 12:50:20] ⚠️ 仅读取 24.3KB 数据: https://4gtvmobile-mozai.4gtv.tv/h_NiODWxi-nkSnlGvwnKXGhdoQjZzRgAjsBoGuV1DtQ%3d/index.m3u8?token=BnuhMZFmVpyaaRxP3Rh9-Q&expires=1764428517&token1=jD-VJ8T67fAKmZCcRrJl1w&expires1=1764428517&refer=NGMyOWRkZmQtNDAwYi00MTE1LTg5NjYtZTdkZTY4Njc5NWM1&y=0
-[2025-11-29 12:50:20] ✅ 测速成功: https://4gtvmobile-mozai.4gtv.tv/h_NiODWxi-nkSnlGvwnKXGhdoQjZzRgAjsBoGuV1DtQ%3d/index.m3u8?token=BnuhMZFmVpyaaRxP3Rh9-Q&expires=1764428517&token1=jD-VJ8T67fAKmZCcRrJl1w&expires1=1764428517&refer=NGMyOWRkZmQtNDAwYi00MTE1LTg5NjYtZTdkZTY4Njc5NWM1&y=0
-   速度: 16025.41KB/s > 50KB/s | 数据量: 24.3KB | 总耗时: 0.13s
-[2025-11-29 12:50:21] ⚠️ 仅读取 0.7KB 数据: https://tmxk.pp.ua/smt.php?id=cctv1
-[2025-11-29 12:50:21] ✅ 测速成功: https://tmxk.pp.ua/smt.php?id=cctv1
-   速度: 721.68KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 0.39s
-[2025-11-29 12:50:22] ⚠️ 仅读取 0.4KB 数据: http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
-[2025-11-29 12:50:22] ✅ 测速成功: http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
-   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.20s
-[2025-11-29 12:50:23] ⚠️ 仅读取 7.3KB 数据: http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-[2025-11-29 12:50:23] ✅ 测速成功: http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-   速度: 7320.31KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 1.02s
-[2025-11-29 12:50:24] ⚠️ 仅读取 7.3KB 数据: http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-[2025-11-29 12:50:24] ✅ 测速成功: http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-   速度: 7304.69KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 1.08s
-[2025-11-29 12:50:25] ✅ 测速成功: https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-   速度: 773.32KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.31s
-[2025-11-29 12:50:26] ✅ 测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-   速度: 1099.35KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.42s
-[2025-11-29 12:50:28] ⚠️ 仅读取 0.4KB 数据: https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-[2025-11-29 12:50:28] ✅ 测速成功: https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-   速度: 396.48KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.78s
-[2025-11-29 12:50:30] ✅ 测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-   速度: 163.73KB/s > 50KB/s | 数据量: 103.6KB | 总耗时: 2.00s
-[2025-11-29 12:50:30] ✅ 测速成功: https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-   速度: 1278.62KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.36s
-[2025-11-29 12:50:43] ❌ 测速失败: https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-   错误: HTTPSConnectionPool(host='svip.high24-playback.com', port=443): Max retries exceeded with url: /20250129/17159_7bca93c4/2000k/hls/mixed.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fda440fe760>, 'Connection to svip.high24-playback.com timed out. (connect timeout=3.05)')) | 域名: svip.high24-playback.com:443
-[2025-11-29 12:50:45] ⚠️ 仅读取 0.4KB 数据: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-[2025-11-29 12:50:45] ✅ 测速成功: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-   速度: 397.46KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.20s
-[2025-11-29 12:50:51] ❌ 测速失败: http://bxtv.3a.ink/migu.php?id=608807420
+[2025-11-29 16:31:18] ⚠️ 仅读取 0.3KB 数据: https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1
+[2025-11-29 16:31:18] ✅ 测速成功: https://bee.tzh911.qzz.io/bee.php?id=TNT-Sports-1
+   速度: 287.11KB/s > 50KB/s | 数据量: 0.3KB | 总耗时: 7.08s
+[2025-11-29 16:31:18] ⚠️ 仅读取 24.3KB 数据: https://4gtvmobile-mozai.4gtv.tv/_ECmc36HEuBJ3PGkaU7LOCuhQW6Z_i_eReBtrl9JjTk%3d/index.m3u8?token=4cWAMXQxtezz-e5nga0Xdw&expires=1764450105&token1=eENwXXN7txMVqaO9QLSGfA&expires1=1764450105&refer=MTFkOTg0YzYtMDExYy00MjJlLTkyNDMtZGJmMGUwYTk2ZjI4&y=0
+[2025-11-29 16:31:18] ✅ 测速成功: https://4gtvmobile-mozai.4gtv.tv/_ECmc36HEuBJ3PGkaU7LOCuhQW6Z_i_eReBtrl9JjTk%3d/index.m3u8?token=4cWAMXQxtezz-e5nga0Xdw&expires=1764450105&token1=eENwXXN7txMVqaO9QLSGfA&expires1=1764450105&refer=MTFkOTg0YzYtMDExYy00MjJlLTkyNDMtZGJmMGUwYTk2ZjI4&y=0
+   速度: 24265.62KB/s > 50KB/s | 数据量: 24.3KB | 总耗时: 0.08s
+[2025-11-29 16:31:20] ⚠️ 仅读取 0.7KB 数据: https://tmxk.pp.ua/smt.php?id=cctv1
+[2025-11-29 16:31:20] ✅ 测速成功: https://tmxk.pp.ua/smt.php?id=cctv1
+   速度: 721.68KB/s > 50KB/s | 数据量: 0.7KB | 总耗时: 1.50s
+[2025-11-29 16:31:21] ⚠️ 仅读取 0.4KB 数据: http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
+[2025-11-29 16:31:21] ✅ 测速成功: http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
+   速度: 418.95KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.16s
+[2025-11-29 16:31:22] ⚠️ 仅读取 7.3KB 数据: http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+[2025-11-29 16:31:22] ✅ 测速成功: http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+   速度: 7320.31KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 0.93s
+[2025-11-29 16:31:23] ⚠️ 仅读取 7.3KB 数据: http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+[2025-11-29 16:31:23] ✅ 测速成功: http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+   速度: 7304.69KB/s > 50KB/s | 数据量: 7.3KB | 总耗时: 1.70s
+[2025-11-29 16:31:25] ✅ 测速成功: https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+   速度: 1918.37KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.51s
+[2025-11-29 16:31:26] ✅ 测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+   速度: 1826.10KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 1.03s
+[2025-11-29 16:31:29] ⚠️ 仅读取 0.4KB 数据: https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+[2025-11-29 16:31:29] ✅ 测速成功: https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+   速度: 397.46KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.80s
+[2025-11-29 16:31:31] ✅ 测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+   速度: 186.52KB/s > 50KB/s | 数据量: 103.6KB | 总耗时: 2.16s
+[2025-11-29 16:31:31] ✅ 测速成功: https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+   速度: 3528.73KB/s > 50KB/s | 数据量: 104.0KB | 总耗时: 0.31s
+[2025-11-29 16:31:34] ⚠️ 仅读取 0.4KB 数据: https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+[2025-11-29 16:31:34] ✅ 测速成功: https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+   速度: 397.46KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.48s
+[2025-11-29 16:31:36] ⚠️ 仅读取 0.4KB 数据: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+[2025-11-29 16:31:36] ✅ 测速成功: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+   速度: 397.46KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 2.46s
+[2025-11-29 16:31:42] ❌ 测速失败: http://bxtv.3a.ink/migu.php?id=608807420
    错误: HTTPConnectionPool(host='bxtv.3a.ink', port=80): Read timed out. (read timeout=5) | 域名: bxtv.3a.ink:80
-[2025-11-29 12:50:53] ⚠️ 仅读取 3.3KB 数据: https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
-[2025-11-29 12:50:53] ✅ 测速成功: https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
-   速度: 50.56KB/s > 50KB/s | 数据量: 3.3KB | 总耗时: 1.90s
-[2025-11-29 12:51:03] ❌ 测速失败: https://tzh911.qzz.io/play-smt.php?id=cctv1
-   错误: HTTPSConnectionPool(host='tzh911.qzz.io', port=443): Read timed out. (read timeout=5) | 域名: tzh911.qzz.io:443
-[2025-11-29 12:51:11] ⚠️ 仅读取 0.6KB 数据: https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
-[2025-11-29 12:51:11] ✅ 测速成功: https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
-   速度: 598.63KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 8.07s
-[2025-11-29 12:51:14] ⚠️ 仅读取 8.1KB 数据: https://ofiii.passwdword.xyz/mytv265.php?id=FJTV
-[2025-11-29 12:51:14] ✅ 测速成功: https://ofiii.passwdword.xyz/mytv265.php?id=FJTV
-   速度: 8103.52KB/s > 50KB/s | 数据量: 8.1KB | 总耗时: 2.74s
-[2025-11-29 12:51:15] ⚠️ 仅读取 0.4KB 数据: https://smt.passwdword.xyz/Smart.php?id=cctv1
-[2025-11-29 12:51:15] ✅ 测速成功: https://smt.passwdword.xyz/Smart.php?id=cctv1
-   速度: 388.67KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.09s
+[2025-11-29 16:31:43] ⚠️ 仅读取 3.3KB 数据: https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
+[2025-11-29 16:31:43] ✅ 测速成功: https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv066
+   速度: 3314.45KB/s > 50KB/s | 数据量: 3.3KB | 总耗时: 0.88s
+[2025-11-29 16:31:49] ⚠️ 仅读取 0.4KB 数据: https://tzh911.qzz.io/play-smt.php?id=cctv1
+[2025-11-29 16:31:49] ✅ 测速成功: https://tzh911.qzz.io/play-smt.php?id=cctv1
+   速度: 403.32KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 6.67s
+[2025-11-29 16:31:55] ⚠️ 仅读取 0.6KB 数据: https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
+[2025-11-29 16:31:55] ✅ 测速成功: https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
+   速度: 598.63KB/s > 50KB/s | 数据量: 0.6KB | 总耗时: 5.23s
+[2025-11-29 16:32:00] ⚠️ 仅读取 8.1KB 数据: https://ofiii.passwdword.xyz/mytv265.php?id=FJTV
+[2025-11-29 16:32:00] ✅ 测速成功: https://ofiii.passwdword.xyz/mytv265.php?id=FJTV
+   速度: 8102.54KB/s > 50KB/s | 数据量: 8.1KB | 总耗时: 5.47s
+[2025-11-29 16:32:01] ⚠️ 仅读取 0.4KB 数据: https://smt.passwdword.xyz/Smart.php?id=cctv1
+[2025-11-29 16:32:01] ✅ 测速成功: https://smt.passwdword.xyz/Smart.php?id=cctv1
+   速度: 388.67KB/s > 50KB/s | 数据量: 0.4KB | 总耗时: 1.00s
