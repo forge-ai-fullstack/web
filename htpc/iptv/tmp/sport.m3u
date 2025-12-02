@@ -9,9 +9,9 @@ http://epg.112114.xyz/douyu/1863767
 http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 #EXTINF:-1,tvg-id="至臻世界" tvg-name="至臻世界" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="体育",至臻视界
 http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
-#EXTINF:-1,tvg-id="咪咕视界4K" tvg-name="咪咕视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界4K.png" group-title="体育",咪视界4K
+#EXTINF:-1,tvg-id="咪咕视界4K" tvg-name="咪咕视界4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="体育",咪视界4K
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频4K" tvg-name="咪咕视频4K" tvg-logo="https://epg.112114.xyz/logo/咪视界4K.png" group-title="体育",咪视界4K
+#EXTINF:-1,tvg-id="咪咕视频4K" tvg-name="咪咕视频4K" tvg-logo="https://epg.112114.xyz/logo/咪视界.png" group-title="体育",咪视界4K
 http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
 #EXTINF:-1,tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="体育",咪咕视频1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
