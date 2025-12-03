@@ -28,16 +28,6 @@ jobs:
         pip install requests urllib3
         python -m pip install --upgrade pip
         
-    - name: Download & merge epg
-      env:
-        EPG_URLS: ${{ secrets.EPG_URLS }}
-      run: |
-        chmod +x htpc/iptv/epg.sh
-        echo -e "--------------- downloading epg files\n"
-        epg_urls=(${EPG_URLS//;/ })
-        htpc/iptv/epg.sh --download "${epg_urls[@]}"
-        echo -e "--------------- merging epg files\n"
-        htpc/iptv/epg.sh --merge
 
     - name: fofa_fetch
       run: |
