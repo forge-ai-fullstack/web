@@ -14,3 +14,4 @@ svip.high24-playback.com:443
 106.53.99.30:80
 ddns.xryo.cn:8888
 tencentplaybusiness.gztv.com:443
+cdn.jdshipin.com:80
