@@ -18,3 +18,4 @@ cdn.jdshipin.com:80
 smart.dxjc.pp.ua:443
 ikuai.haleeyo.cn:9003
 i.iill.top:12838
+smt.go-iptv.ggff.net:443
