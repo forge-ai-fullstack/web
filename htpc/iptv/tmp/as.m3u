@@ -293,9 +293,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://ofiii.passwdword.xyz/mytv265.php?id=SZTV
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
+https://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视",广东卫视
 https://smt.passwdword.xyz/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视",广东卫视
@@ -325,9 +325,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
-https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://ofiii.passwdword.xyz/mytv265.php?id=PCC
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
+https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
@@ -335,9 +335,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
-https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://ofiii.passwdword.xyz/mytv265.php?id=PIN
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
+https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="asia",凤凰香港
 https://smt.passwdword.xyz/Smart.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="asia",凤凰香港
@@ -379,11 +379,11 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://ofiii.passwdword.xyz/mytv265.php?id=J
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://ofiii.passwdword.xyz/mytv265.php?id=JUHD
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
 #EXTINF:-1 tvg-name="TVB华丽台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB华丽台.png" group-title="asia",TVB华丽台
 https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
 #EXTINF:-1 tvg-name="TVB华丽台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB华丽台.png" group-title="asia",TVB华丽台
@@ -401,9 +401,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=j2_twn&token=Goiptv
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
-https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://ofiii.passwdword.xyz/mytv265.php?id=B
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
+https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
 https://4gtvmobile-mozai.4gtv.tv/x9HZwFZ_qWsB1DRaG17usabvTZOydd5qQssuzZ3wuSQ%3d/index.m3u8?token=cEbswykNtNospOYrKWx7HA&expires=1765012162&token1=AlkupXlZDHmFvqhfurC5YQ&expires1=1765012162&refer=MDBhMTk4NWItNmNlMS00MDU0LTlmODktYWUxYjQwYzFkNzY5&y=0
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
@@ -455,9 +455,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
-https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://ofiii.passwdword.xyz/mytv265.php?id=P
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
+https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
 https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
@@ -925,11 +925,11 @@ https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://ofiii.passwdword.xyz/mytv265.php?id=CDW1
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
 #EXTINF:-1 tvg-name="Adithya" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adithya.png" group-title="asia",Adithya
 https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
 #EXTINF:-1 tvg-name="Adithya" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adithya.png" group-title="asia",Adithya
@@ -1145,7 +1145,7 @@ https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+https://ofiii.passwdword.xyz/mytv265.php?id=CAXN
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="asia",AXN Taiwan
 https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN Taiwan.png" group-title="asia",AXN Taiwan
@@ -3279,9 +3279,9 @@ https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
-https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://ofiii.passwdword.xyz/mytv265.php?id=GBTV
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
+https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
 #EXTINF:-1 tvg-name="大爱二台" group-title="其他",大爱二台
 https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 #EXTINF:-1 tvg-name="大爱电视" group-title="其他",大爱电视
@@ -3471,25 +3471,25 @@ https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii120
 #EXTINF:-1 tvg-name="木曜4超玩 一日系列" group-title="其他",木曜4超玩 一日系列
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii140
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://smt.passwdword.xyz/Smart.php?id=ctv_taiwan
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 https://smt.passwdword.xyz/Smart.php?id=ctv2_twn
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=sanlitaiwan
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=ettvmovie
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=ettvwestern
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=videolandjapan
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://smt.passwdword.xyz/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-name="村裡來了個暴走女外科" group-title="其他",村裡來了個暴走女外科
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=ofiii153
 #EXTINF:-1 tvg-name="東森新聞台" group-title="其他",東森新聞台
