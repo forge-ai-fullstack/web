@@ -1,158 +1,232 @@
 央视,#genre#
 CCTV1,https://smt.passwdword.xyz/Smart.php?id=cctv1
+CCTV1,https://smt.go-iptv.ggff.net/smart.php?id=cctv1&token=Goiptv
 CCTV1,https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
 CCTV2,https://smt.passwdword.xyz/Smart.php?id=cctv2
+CCTV2,https://smt.go-iptv.ggff.net/smart.php?id=cctv2&token=Goiptv
 CCTV2,https://smart.dxjc.pp.ua/smart.php?id=cctv2&token=tmxk
 CCTV3,https://smt.passwdword.xyz/Smart.php?id=cctv3
+CCTV3,https://smt.go-iptv.ggff.net/smart.php?id=cctv3&token=Goiptv
 CCTV3,https://smart.dxjc.pp.ua/smart.php?id=cctv3&token=tmxk
 CCTV4,https://smt.passwdword.xyz/Smart.php?id=Cctv4
 CCTV4,https://smt.passwdword.xyz/Smart.php?id=cctv4
 CCTV5,https://smt.passwdword.xyz/Smart.php?id=cctv5
 CCTV5,https://smt.passwdword.xyz/Smart.php?id=cctv5
+CCTV5,https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
 CCTV5,https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
 CCTV5+,https://smt.passwdword.xyz/Smart.php?id=cctv5plus
 CCTV5+,https://smt.passwdword.xyz/Smart.php?id=cctv5plus
 CCTV6,https://smt.passwdword.xyz/Smart.php?id=cctv6
 CCTV6,https://smt.passwdword.xyz/Smart.php?id=cctv6
+CCTV6,https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
+CCTV6,https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
 CCTV6,https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
 CCTV6,https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
 CCTV7,https://smt.passwdword.xyz/Smart.php?id=cctv7
+CCTV7,https://smt.go-iptv.ggff.net/smart.php?id=cctv7&token=Goiptv
 CCTV7,https://smart.dxjc.pp.ua/smart.php?id=cctv7&token=tmxk
 CCTV8,https://smt.passwdword.xyz/Smart.php?id=cctv8hd
+CCTV8,https://smt.go-iptv.ggff.net/smart.php?id=cctv8hd&token=Goiptv
 CCTV8,https://smart.dxjc.pp.ua/smart.php?id=cctv8hd&token=tmxk
 CCTV9,https://smt.passwdword.xyz/Smart.php?id=cctv9hd
+CCTV9,https://smt.go-iptv.ggff.net/smart.php?id=cctv9hd&token=Goiptv
 CCTV9,https://smart.dxjc.pp.ua/smart.php?id=cctv9hd&token=tmxk
 CCTV10,https://smt.passwdword.xyz/Smart.php?id=cctv10hd
+CCTV10,https://smt.go-iptv.ggff.net/smart.php?id=cctv10hd&token=Goiptv
 CCTV10,https://smart.dxjc.pp.ua/smart.php?id=cctv10hd&token=tmxk
 CCTV11,https://smt.passwdword.xyz/Smart.php?id=cctv11
+CCTV11,https://smt.go-iptv.ggff.net/smart.php?id=cctv11&token=Goiptv
 CCTV11,https://smart.dxjc.pp.ua/smart.php?id=cctv11&token=tmxk
 CCTV12,https://smt.passwdword.xyz/Smart.php?id=cctv12
+CCTV12,https://smt.go-iptv.ggff.net/smart.php?id=cctv12&token=Goiptv
 CCTV12,https://smart.dxjc.pp.ua/smart.php?id=cctv12&token=tmxk
 CCTV13,https://smt.passwdword.xyz/Smart.php?id=cctv13
+CCTV13,https://smt.go-iptv.ggff.net/smart.php?id=cctv13&token=Goiptv
 CCTV13,https://smart.dxjc.pp.ua/smart.php?id=cctv13&token=tmxk
 CCTV14,https://smt.passwdword.xyz/Smart.php?id=cctv14
+CCTV14,https://smt.go-iptv.ggff.net/smart.php?id=cctv14&token=Goiptv
 CCTV14,https://smart.dxjc.pp.ua/smart.php?id=cctv14&token=tmxk
 CCTV15,https://smt.passwdword.xyz/Smart.php?id=cctv15
+CCTV15,https://smt.go-iptv.ggff.net/smart.php?id=cctv15&token=Goiptv
 CCTV15,https://smart.dxjc.pp.ua/smart.php?id=cctv15&token=tmxk
 CCTV16,https://smt.passwdword.xyz/Smart.php?id=cctv16
+CCTV16,https://smt.go-iptv.ggff.net/smart.php?id=cctv16&token=Goiptv
 CCTV16,https://smart.dxjc.pp.ua/smart.php?id=cctv16&token=tmxk
 CCTV17,https://smt.passwdword.xyz/Smart.php?id=cctv17
+CCTV17,https://smt.go-iptv.ggff.net/smart.php?id=cctv17&token=Goiptv
 CCTV17,https://smart.dxjc.pp.ua/smart.php?id=cctv17&token=tmxk
 卫视,#genre#
 湖南卫视,https://smt.passwdword.xyz/Smart.php?id=hunan_twn
+湖南卫视,https://smt.go-iptv.ggff.net/smart.php?id=hunan_twn&token=Goiptv
 湖南卫视,https://smart.dxjc.pp.ua/smart.php?id=hunan_twn&token=tmxk
 浙江卫视,https://smt.passwdword.xyz/Smart.php?id=zhejiang_twn
+浙江卫视,https://smt.go-iptv.ggff.net/smart.php?id=zhejiang_twn&token=Goiptv
 浙江卫视,https://smart.dxjc.pp.ua/smart.php?id=zhejiang_twn&token=tmxk
 东方卫视,https://smt.passwdword.xyz/Smart.php?id=dongfangweishi_twn
+东方卫视,https://smt.go-iptv.ggff.net/smart.php?id=dongfangweishi_twn&token=Goiptv
 东方卫视,https://smart.dxjc.pp.ua/smart.php?id=dongfangweishi_twn&token=tmxk
 北京卫视,https://smt.passwdword.xyz/Smart.php?id=beijing
+北京卫视,https://smt.go-iptv.ggff.net/smart.php?id=beijing&token=Goiptv
 北京卫视,https://smart.dxjc.pp.ua/smart.php?id=beijing&token=tmxk
 江苏卫视,https://smt.passwdword.xyz/Smart.php?id=jiangsu_twn
+江苏卫视,https://smt.go-iptv.ggff.net/smart.php?id=jiangsu_twn&token=Goiptv
 江苏卫视,https://smart.dxjc.pp.ua/smart.php?id=jiangsu_twn&token=tmxk
 四川卫视,https://smt.passwdword.xyz/Smart.php?id=sichuan_twn
+四川卫视,https://smt.go-iptv.ggff.net/smart.php?id=sichuan_twn&token=Goiptv
 四川卫视,https://smart.dxjc.pp.ua/smart.php?id=sichuan_twn&token=tmxk
 东南卫视,https://smt.passwdword.xyz/Smart.php?id=fujian
+东南卫视,https://smt.go-iptv.ggff.net/smart.php?id=fujian&token=Goiptv
 东南卫视,https://smart.dxjc.pp.ua/smart.php?id=fujian&token=tmxk
 深圳卫视,https://smt.passwdword.xyz/Smart.php?id=shenzhen
 深圳卫视,https://ofiii.passwdword.xyz/mytv265.php?id=SZTV
+深圳卫视,https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
 深圳卫视,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
 深圳卫视,https://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
 广东卫视,https://smt.passwdword.xyz/Smart.php?id=guangdongweishi_twn
+广东卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangdongweishi_twn&token=Goiptv
 广东卫视,https://smart.dxjc.pp.ua/smart.php?id=guangdongweishi_twn&token=tmxk
 广西卫视,https://smt.passwdword.xyz/Smart.php?id=guangxi
+广西卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangxi&token=Goiptv
 广西卫视,https://smart.dxjc.pp.ua/smart.php?id=guangxi&token=tmxk
 湖北卫视,https://smt.passwdword.xyz/Smart.php?id=hubei
+湖北卫视,https://smt.go-iptv.ggff.net/smart.php?id=hubei&token=Goiptv
 湖北卫视,https://smart.dxjc.pp.ua/smart.php?id=hubei&token=tmxk
 海峡卫视,https://ofiii.passwdword.xyz/mytv265.php?id=FJTV
 海峡卫视,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
 asia,#genre#
 凤凰中文,https://smt.passwdword.xyz/Smart.php?id=phoenixtv_hd
 凤凰中文,https://ofiii.passwdword.xyz/mytv265.php?id=PCC
+凤凰中文,https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
 凤凰中文,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
 凤凰中文,https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
 凤凰资讯,https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
 凤凰资讯,https://ofiii.passwdword.xyz/mytv265.php?id=PIN
+凤凰资讯,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
 凤凰资讯,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
 凤凰资讯,https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
 凤凰香港,https://smt.passwdword.xyz/Smart.php?id=hkphoenix_twn
+凤凰香港,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 凤凰香港,https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
 RTHK 31,https://smt.passwdword.xyz/Smart.php?id=rhk31_twn
+RTHK 31,https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
 RTHK 31,https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
 RTHK 32,https://smt.passwdword.xyz/Smart.php?id=rhk32_twn
+RTHK 32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
 RTHK 32,https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+HOY TV,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
 HOY TV,https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+TVB亚洲,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
 TVB亚洲,https://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
 TVB翡翠,https://smt.passwdword.xyz/Smart.php?id=jade_twn
 TVB翡翠,https://smt.passwdword.xyz/Smart.php?id=Jade_xue
 TVB翡翠,https://ofiii.passwdword.xyz/mytv265.php?id=J
 TVB翡翠,https://ofiii.passwdword.xyz/mytv265.php?id=JUHD
+TVB翡翠,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
+TVB翡翠,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
+TVB翡翠,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 TVB翡翠,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=J
 TVB翡翠,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
 TVB翡翠,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
-TVB翡翠,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
-TVB翡翠,https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+TVB华丽台,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
 TVB华丽台,https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
 TVB星河,https://smt.passwdword.xyz/Smart.php?id=Xinhe
+TVB星河,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
 TVB星河,https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
 TVB Plus,https://smt.passwdword.xyz/Smart.php?id=j2_twn
 TVB Plus,https://ofiii.passwdword.xyz/mytv265.php?id=B
+TVB Plus,https://smt.go-iptv.ggff.net/smart.php?id=j2_twn&token=Goiptv
 TVB Plus,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
 TVB Plus,https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
 TVBS,https://smt.passwdword.xyz/Smart.php?id=tvbs
 TVBS,https://4gtvmobile-mozai.4gtv.tv/4AO8nsA9ZpcwMtQBLejyROf1bWgoEiv0-rBgNwjnz24%3d/index.m3u8?token=e9zno4pGe-9OU0O7AL0WNQ&expires=1765184930&token1=hU25utKiGOOwQ_N3-Jw5_g&expires1=1765184930&refer=NGQwMzBiMTMtMGU2ZS00NDFkLTk4YmMtMGU4M2IyYzkwNGM1&y=0
+TVBS,https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
 TVBS,https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
 TVBS欢乐台,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
 TVBS欢乐台,https://4gtvmobile-mozai.4gtv.tv/7pj6Wtvd4TbZOJGE3CzOuqYIB5kH_5cI1BvDGS7qn2g%3d/index.m3u8?token=GKepOsQ30ezQXTtQuPQxgw&expires=1765184996&token1=1K4T2GBntUXWM-S8X1YqQQ&expires1=1765184996&refer=NzA2NjgwNDktNDcyZS00MzQ1LWJlYTYtZjMzY2U4YWYzZjdj&y=0
+TVBS欢乐台,https://smt.go-iptv.ggff.net/smart.php?id=tvbshuanle_twn&token=Goiptv
 TVBS欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 TVBS新闻台,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
 TVBS新闻台,https://4gtvmobile-mozai.4gtv.tv/H3IkNPk9P1NIRreqybeixbb6EhGJIcX593xsHGrUFss%3d/index.m3u8?token=NExUJ_OswcBCDQ25rIXDIA&expires=1765184862&token1=PiSf1zyz6Vsd1_HSTJ8Oyw&expires1=1765184862&refer=NTVkOTJiYzItYWYyOC00OTk2LWI1NjYtYTBjYmUyZGJjMGM4&y=0
 TVBS新闻台,https://4gtvmobile-mozai.4gtv.tv/IIlvt1u_qJeOu62WRrgP5THphIClfWdf_6dmr-b9ldI%3d/index.m3u8?token=hQ4sHiHictqWJWUn3Skbtg&expires=1765185478&token1=jNs6Oc-2eKl7WS-xJH4CQg&expires1=1765185478&refer=Yjc5Yzk4MDQtYjRmMi00MDczLWE4MTEtMjY4YTI4OWYzNzg2&y=0
+TVBS新闻台,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
 TVBS新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
 TVBS精采台,https://4gtvmobile-mozai.4gtv.tv/65zOw3OvowfoGDH6a34hL6BVmJZHDU4AX7FzHhatz0Y%3d/index.m3u8?token=Z2G8Lut3LWHs5_beiKdelA&expires=1765184656&token1=dUSLNXecbEtkL04VlA-X6g&expires1=1765184656&refer=ZDM3MDM3NjgtOWQ2Yi00NGJiLWE3NjMtYWZiMDMzM2VjOGY3&y=0
 TVBS食尚玩家,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii31
 TVBS台劇台,https://4gtvmobile-mozai.4gtv.tv/WvDpNanfhWYg2Y3BoMmMCLwtMCVcGhDR9vxftt5MvEo%3d/index.m3u8?token=QlNYCaffx4XSqfe6_fFoRA&expires=1765185486&token1=g6J94ijd5rWuFpocWzB90w&expires1=1765185486&refer=ZTU4OTI3MzctYTk5Ni00YzRlLTgyMDEtZDlhNGRhOGI1OWZl&y=0
 ViuTV,https://smt.passwdword.xyz/Smart.php?id=viu1_twn
 ViuTV,https://smt.passwdword.xyz/Smart.php?id=viusix_twn
+ViuTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
 ViuTV,https://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
+ViuTV 6,https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
 ViuTV 6,https://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
 明珠台,https://smt.passwdword.xyz/Smart.php?id=pearl_twn
 明珠台,https://ofiii.passwdword.xyz/mytv265.php?id=P
+明珠台,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
 明珠台,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
 明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
 爱尔达影剧台,https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
+爱尔达影剧台,https://smt.go-iptv.ggff.net/smart.php?id=eltayingju_twn&token=Goiptv
 爱尔达影剧台,https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
 爱尔达综合台,https://smt.passwdword.xyz/Smart.php?id=eltazonghe_twn
+爱尔达综合台,https://smt.go-iptv.ggff.net/smart.php?id=eltazonghe_twn&token=Goiptv
 爱尔达综合台,https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
 愛爾達生活旅遊台,https://4gtvmobile-mozai.4gtv.tv/NCaJYSehatqWB5mf4c1NHYnBOwDncPWbOkjg2u0M08Y%3d/index.m3u8?token=8HYa2SxKG7Nhh-qlrB52MQ&expires=1765185202&token1=GNkHo-ksOAa7UxxvpOcY_Q&expires1=1765185202&refer=NjQyMTNhNTktNTk3OS00OGQ4LTgyMWItZWZiNWVjNDFjYmRl&y=0
+Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 Discovery Asia,https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
 Discovery HD,https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
+Discovery Kids Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverykidtamil_raj&token=Goiptv
 Discovery Kids Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+Discovery Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverytamil_raj&token=Goiptv
 Discovery Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
+Discovery World Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoveryworldtam_raj&token=Goiptv
 Discovery World Tamil,https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
 Dreamworks,https://4gtvmobile-mozai.4gtv.tv/OZwoOJdpgI4uz0apwiT52Gz36m9H-rjORIhB2bj92Mc%3d/index.m3u8?token=_xH33DnsoxQS1iICdWD-nQ&expires=1765184778&token1=yWYWgq5vLDA9d-k5zU0KIA&expires1=1765184778&refer=MjYxM2E1MmEtNTA4NC00OWRmLWIyNjItYTZlYTc2ZTRlNzhm&y=0
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
 Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
 Dreamworks,https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
 ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/3woCHjr7rDZ8O_N7ZQgOsQsXpzdjXFsF9Vub0BC4JH8%3d/index.m3u8?token=O8y5lt0uCkKvk4L2YMoCwA&expires=1765184753&token1=qa10PcN_-mKiCyWnMiHuLg&expires1=1765184753&refer=ZGNiYzkyNjktM2YwMi00MTdlLWI0YTgtMmFjNjExMDRjNzVi&y=0
 ELTV生活英語台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn20
+HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
 HBO Family,https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
 HBO HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 HBO HD,https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
 HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
 HBO HD,https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
 HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
 HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
 HBO Hits,https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
 HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
 HBO Signature,https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
 History,https://4gtvmobile-mozai.4gtv.tv/CrEwCzEg_OaI4-BNZsLvIWuDlw0kXW8sjGamh75xc9o%3d/index.m3u8?token=gsCtKIlDwRvEukHIFJucdw&expires=1765185192&token1=GxCDMhcQQd5oTUfWByC4BA&expires1=1765185192&refer=ZGE0ODA0ZGItZjdiNi00Y2JmLWEyYzMtMzc1YjYxZDkxNzE0&y=0
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
 History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
 History,https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+History Tamil,https://smt.go-iptv.ggff.net/smart.php?id=historytam_raj&token=Goiptv
 History Tamil,https://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
 Hits,https://4gtvmobile-mozai.4gtv.tv/K3i730k-dJwkazX-fSeB28JsI8iMEPL9SgzrCQ-y34s%3d/index.m3u8?token=P2uxvQfbJKittt0748x3ig&expires=1765185253&token1=Yc3XcMPNVnXZKs4qVe3Ing&expires1=1765185253&refer=Y2E5MGYxOWEtM2IwNy00MjEyLTkwYTUtYmM3NmYwOGQ0MTZk&y=0
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
 Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
 Hits,https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
 Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
 Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
 Hits Movie,https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
@@ -165,42 +239,62 @@ Nick Jr,https://smt.passwdword.xyz/Smart.php?id=Nickjr
 Nick Jr,https://ofiii.passwdword.xyz/mytv265.php?id=CNIKO
 Nick Jr,https://ofiii.passwdword.xyz/mytv265.php?id=CNIJR
 Nick Jr,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii218
-Nick Jr,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIKO
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeohd_twn&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
 NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
 NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
 NatGeo HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+NatGeo Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeotamil_raj&token=Goiptv
+NatGeo Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeowildtamil_raj&token=Goiptv
 NatGeo Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
 NatGeo Tamil,https://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
 NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
 NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
 NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
 NatGeo Wild HD,https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+Nation,https://smt.go-iptv.ggff.net/smart.php?id=nation_pat&token=Goiptv
 Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
+爱奇艺 iQiyi,https://smt.go-iptv.ggff.net/smart.php?id=Qiyi&token=Goiptv
 爱奇艺 iQiyi,https://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
 八大第一台,https://smt.passwdword.xyz/Smart.php?id=badafirst
+八大第一台,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
 八大第一台,https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
 八大精彩台,https://4gtvmobile-mozai.4gtv.tv/Tq2KStciu-4V1kySlGPjaRNdzLKJY_oYpuzsz2I1cyw%3d/index.m3u8?token=foojri_mGJgY2AsVsps5Kg&expires=1765185261&token1=YYpzQw0_mOhho5Tt_r8xdw&expires1=1765185261&refer=ZmQ0MjQxZWYtMTcxMC00NjZkLTg0ZTYtMjU5YzJiN2QwZTU2&y=0
 八大精彩台,https://4gtvmobile-mozai.4gtv.tv/Tq2KStciu-4V1kySlGPjaRNdzLKJY_oYpuzsz2I1cyw%3d/index.m3u8?token=foojri_mGJgY2AsVsps5Kg&expires=1765185261&token1=YYpzQw0_mOhho5Tt_r8xdw&expires1=1765185261&refer=ZmQ0MjQxZWYtMTcxMC00NjZkLTg0ZTYtMjU5YzJiN2QwZTU2&y=0
 八大戏剧台,https://smt.passwdword.xyz/Smart.php?id=badadrama
+八大戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
 八大戏剧台,https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
 八大娱乐台,https://smt.passwdword.xyz/Smart.php?id=badaentertain
+八大娱乐台,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
 八大娱乐台,https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
 八大综合台,https://smt.passwdword.xyz/Smart.php?id=badazhonghe
+八大综合台,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
 八大综合台,https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
 八大綜藝台,https://4gtvmobile-mozai.4gtv.tv/6G2Lx6RPQ24M2X1qE8S7o83nRVVZkCv0gvS0xh6mQQU%3d/index.m3u8?token=I9W9GfcwItGyS_c2xbqmBA&expires=1765184639&token1=9zUXKzvQmmEAPfxSLvVDcw&expires1=1765184639&refer=NjBkNmY3YTEtNWFlMi00Y2U4LThhM2MtNzc3M2IwMDY4MmYz&y=0
 超人力霸王台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii187
 車迷TV,https://4gtvmobile-mozai.4gtv.tv/gRHCYgzafISfUHPp_fkxtSiw6b1WFQ21x1OxuK95IyI%3d/index.m3u8?token=2eAfkp-HSkHk7Z7qvJmHXw&expires=1765185113&token1=B-961MvII8tXOZouALP0ew&expires1=1765185113&refer=MTkyNTI4YjgtMzRmNy00YzkwLTg3NDQtOGEzNTdjYmFhYjg1&y=0
 大愛電視,https://4gtvmobile-mozai.4gtv.tv/Sv6-cpbPtGwJqUcK4dX9oNk3rSxId7-z8UT6QAItC6c%3d/index.m3u8?token=8FCfjIjeH7K5Ctj8ntdI3w&expires=1765184588&token1=YF0Bo-z0w8Qh3d8jxeFApw&expires1=1765184588&refer=Yzg2MWM4MGQtNTM4NS00NjIzLWE1NjgtN2U2YjRmZTg5ODEy&y=0
+大愛電視,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
 大愛電視,https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
 大愛二台,https://4gtvmobile-mozai.4gtv.tv/bdZDI7hrNoyoyEIO7GTu9vDgLbmfalrFfBbpJyQfJCs%3d/index.m3u8?token=7ONBs8fbDE5nFaojCPX4-w&expires=1765185405&token1=FrrLu3to407KApKX8SBqag&expires1=1765185405&refer=M2RjNTFmYzktNDg1ZC00MTZjLThlZmMtYWVkZTljMjIxODhh&y=0
+大愛二台,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
 大愛二台,https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
 電動車時代,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii215
 電影原聲台CMusic,https://4gtvmobile-mozai.4gtv.tv/W0cx6SOc-F4OLfa_Ur9SZrMkUZ5m6rPNjS-kYkqQM-k%3d/index.m3u8?token=IQZ-4-RdVjER3gd1uYwwaA&expires=1765185030&token1=Lha4YRCUe_fqZ6nzNWxbBg&expires1=1765185030&refer=ODBiYTdlYmItNGIzMS00M2Y5LWJjNmUtMmNjYjY2NjhiNDJh&y=0
 东森超视,https://smt.passwdword.xyz/Smart.php?id=ettvsuper
+东森超视,https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
 东森超视,https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
 东森戏剧台,https://smt.passwdword.xyz/Smart.php?id=ettvdrama
+东森戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
 东森戏剧台,https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
 东森综合台,https://smt.passwdword.xyz/Smart.php?id=ettvzhonghe
+东森综合台,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
 东森综合台,https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
 東森娛樂台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii32
 哆啦Ａ夢台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii22
@@ -209,9 +303,13 @@ Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
 公視金獎台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii13
 滾動力rollor,https://4gtvmobile-mozai.4gtv.tv/5epYIV2vJucIWqQMme4OSLa8ynLKkQ3vAn6wUUXMa4k%3d/index.m3u8?token=pkkOO3M5GrqvNt3HxPFRvQ&expires=1765185149&token1=yavbqTRYOB7F5__XZk-aGA&expires1=1765185149&refer=MmEwODRlZDctMTdmNy00ZGRiLWE3YjUtNGJhYWExZTkzM2Fj&y=0
 韓國娛樂台 KMTV,https://4gtvmobile-mozai.4gtv.tv/vBtFT_SJTPRsJFi2BYdgXGyuOinHI2I006sV0DGWz6E%3d/index.m3u8?token=NjSrXKNlk6XvKoalP52UhQ&expires=1765185004&token1=6Z5OlQKdOOwd-KGyrcS2Lw&expires1=1765185004&refer=OWE0ZTU0YTEtM2JmNy00NGQ1LWFmOGMtZmRlNmVhYWQ0MzNm&y=0
+好萊塢電影台,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+好萊塢電影台,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
 好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
 好萊塢電影台,https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+欢喜台,https://smt.go-iptv.ggff.net/smart.php?id=Huahee&token=Goiptv
 欢喜台,https://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+華藝綜合,https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
 華藝綜合,https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
 寰宇全視界,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii204
 經典電影台,https://4gtvmobile-mozai.4gtv.tv/ROlbgaz1kGGh4VmyWzxRcbYHlua3wfminvg6_GS58I0%3d/index.m3u8?token=I3aednNWW5dGoZQTfp1sdQ&expires=1765185495&token1=HmgmgYC4Vo4uoQ2Lseqgzw&expires1=1765185495&refer=MGUxZjU1NWEtMTZjZC00N2NmLTg1Y2MtZjM5OTVmNWMwMDI5&y=0
@@ -222,34 +320,56 @@ Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
 九九敬老頻道,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii99
 龙祥时代,https://smt.passwdword.xyz/Smart.php?id=lungxiangtime_twn
 龙祥时代,https://smt.passwdword.xyz/Smart.php?id=lungxiangtime_twn
+龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
 龙祥时代,https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+美食星球,https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
+美食星球,https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
 美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
 美食星球,https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
 民視異言堂,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii211
+年代新闻,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
 年代新闻,https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
 歐飛電影台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii74
 歐飛動作電影台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii75
 人間衛視,https://4gtvmobile-mozai.4gtv.tv/1BPTmC45n9o1sr_iKc5Jgb6tFJ1xNjJlgfiw4CKPJOc%3d/index.m3u8?token=PsfhV7jj8QejI_vbclfUKA&expires=1765185413&token1=aKV2l3okvuWqcIBN2haw9A&expires1=1765185413&refer=ZjBiZDZhMjgtODUyNS00MTlhLWJlZDUtMzNlNzc5ZmM1ZjYz&y=0
 三立都会台,https://smt.passwdword.xyz/Smart.php?id=sanlidouhui
+三立都会台,https://smt.go-iptv.ggff.net/smart.php?id=sanlidouhui&token=Goiptv
 三立都会台,https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+三立台湾台,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
 三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+三立戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
 三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
 三立新聞iNEWS,https://4gtvmobile-mozai.4gtv.tv/wmji62bkWxrALb44Yh7oI6Y-WqaVcXPXascWC_dkuoM%3d/index.m3u8?token=Ir8sjf2e64tbtXMBSXVEXw&expires=1765184855&token1=667VexvJXEQMeZGc9rI-uQ&expires1=1765184855&refer=OTA4ZWYzNDItNzcxZS00YWExLWIxMTMtYTM3ODNkZTM2NThl&y=0
 三立新聞iNEWS,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
+台视综合,https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
 台视综合,https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
 天映频道,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
 纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+纬来精彩,https://smt.go-iptv.ggff.net/smart.php?id=videolandspecial_twn&token=Goiptv
 纬来精彩,https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+纬来日本,https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
 纬来日本,https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+纬来体育,https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
 纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+纬来育乐,https://smt.go-iptv.ggff.net/smart.php?id=videolandyule&token=Goiptv
 纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+纬来综合,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
 纬来综合,https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+卫视电影台,https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+卫视电影台,https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
 卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
 卫视电影台,https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
 新唐人亞太台,https://4gtvmobile-mozai.4gtv.tv/nuZ_aCID9oDlDNBAwdnan5liuQPn5W0lrR6WWgM_eVI%3d/index.m3u8?token=QEvLmLjj63F8urDzXnpqVg&expires=1765184689&token1=C1-hmSWJc6DCVP_ofAziYQ&expires1=1765184689&refer=Y2EzNmYyN2QtOWFmYy00MmFiLWI4OWItZTRlNjZlMmUxNTI1&y=0
+亚洲TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
 亚洲TLC,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
+亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
 亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
 亚洲美食,https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
 影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/6J7JLxomsk3w45OnOOtctr6sJF3TvIAe-F8VZ3cM1lg%3d/index.m3u8?token=cHJfmzZxbNej5SquQEblkw&expires=1765185301&token1=ZRZgsiELu7pllxdBPrvQxw&expires1=1765185301&refer=MjAwZWY4NGMtMjUyNC00N2U1LTk2YjgtOTQ4YmFmYjliOGJl&y=0
@@ -259,70 +379,124 @@ Nation,https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
 中華一番(中文版),https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii168
 中視菁采台,https://4gtvmobile-mozai.4gtv.tv/KlwjSwf4eVKad2eWVmMPoqGjkAeWNlvSaocD-f_Y6QQ%3d/index.m3u8?token=6VnaHjJFDRDY32ErRT-sFA&expires=1765184648&token1=B-IpKnFPFLAMygEvHzbvow&expires1=1765184648&refer=ZWNkMTJlMzktM2QyNS00YzZhLWI4MjgtODU0ZGMxN2RiMGRi&y=0
 中視經典台,https://4gtvmobile-mozai.4gtv.tv/NsQbbRWssZsG2w0aWY53XgER84LUkLFI0RrknbyOBgo%3d/index.m3u8?token=z5aL5ORtDs-o9SxDSu9mXQ&expires=1765184604&token1=chCVYMdxsn8wbLHrPWeFcw&expires1=1765184604&refer=OGRkMjk3NDQtYTE1NC00YjAzLWE3OTQtYjc0NjhkYWNkODU4&y=0
+中天亚洲,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
 中天亚洲,https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
 中天亞洲精采台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii36
+中天娱乐,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
 中天娱乐,https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+中天综合,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
 中天综合,https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
 周星馳台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii73
+珠江台,https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
 珠江台,https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
+ABC News,https://smt.go-iptv.ggff.net/smart.php?id=abcnews_glo&token=Goiptv
 ABC News,https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
 DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
 DW,https://smt.passwdword.xyz/Smart.php?id=dw_twn
 DW,https://4gtvmobile-mozai.4gtv.tv/hhN-felauyNo1HybDIGXUh8ciAGka51a3clV-ZgtL8I%3d/index.m3u8?token=Zhg99su3qGhvLx6xgcE3Pw&expires=1765185452&token1=Ug4aH5CHWPuCvFiLUikWMg&expires1=1765185452&refer=MTkzNGIwMzYtYmEyYi00YmQ4LWEwNjktZjg2MGM5ODQ1MGNl&y=0
 DW,https://ofiii.passwdword.xyz/mytv265.php?id=CDW1
+DW,https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
+DW,https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
 DW,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
 DW,https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
 DW,https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+Adithya,https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
 Adithya,https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
 AEC,https://smt.passwdword.xyz/Smart.php?id=AEC
+AEC,https://smt.go-iptv.ggff.net/smart.php?id=AEC&token=Goiptv
 AEC,https://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+AFC 亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
 AFC 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+AlQuran AlKareem,https://smt.go-iptv.ggff.net/smart.php?id=AlQuran&token=Goiptv
 AlQuran AlKareem,https://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
+Amarin,https://smt.go-iptv.ggff.net/smart.php?id=amarin_pat&token=Goiptv
 Amarin,https://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
 Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
 Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
 Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
 Animal_Planet,https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
 Animax,https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+AnTV,https://smt.go-iptv.ggff.net/smart.php?id=Antv&token=Goiptv
 AnTV,https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
 AOD,https://smt.passwdword.xyz/Smart.php?id=Aodhd
+AOD,https://smt.go-iptv.ggff.net/smart.php?id=Aodhd&token=Goiptv
 AOD,https://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
+Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
 Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
 Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
+Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
 Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
 Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
 Arirang,https://4gtvmobile-mozai.4gtv.tv/RHOA4ySljNdZKYUY_F4T-zUgO2lCF3egzjkPxevj7HI%3d/index.m3u8?token=uMv5u1rop4efysqUTBymmA&expires=1765184697&token1=pPflH5jgXBmlPxxeFGiKkw&expires1=1765184697&refer=NmUwYWIxZDMtNDY1Zi00MzgwLWEwMWMtMDk5NTYwMmM4MTk0&y=0
+Arirang,https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
 Arirang,https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+Asia Travel,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
 Asia Travel,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+Asianet,https://smt.go-iptv.ggff.net/smart.php?id=asianet_raj&token=Goiptv
 Asianet,https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+Asianet News,https://smt.go-iptv.ggff.net/smart.php?id=asianetnews_raj&token=Goiptv
 Asianet News,https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
 ASMR行車紀錄,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii94
+Astro Badminton 1,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton1&token=Goiptv
 Astro Badminton 1,https://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
+Astro Badminton 2,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton2&token=Goiptv
 Astro Badminton 2,https://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
+Astro Beinsports 1,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein1&token=Goiptv
 Astro Beinsports 1,https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+Astro Beinsports 2,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein2&token=Goiptv
 Astro Beinsports 2,https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+Astro Beinsports 3,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein3&token=Goiptv
 Astro Beinsports 3,https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+Astro Cricket,https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
 Astro Cricket,https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+Astro EPL 1 backup,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1x&token=Goiptv
 Astro EPL 1 backup,https://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
+Astro Football,https://smt.go-iptv.ggff.net/smart.php?id=go_assp4&token=Goiptv
 Astro Football,https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+Astro Golf,https://smt.go-iptv.ggff.net/smart.php?id=Agolf&token=Goiptv
 Astro Golf,https://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
+Astro Grandstand,https://smt.go-iptv.ggff.net/smart.php?id=go_assp3&token=Goiptv
 Astro Grandstand,https://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
+Astro KTV,https://smt.go-iptv.ggff.net/smart.php?id=Astroktv&token=Goiptv
 Astro KTV,https://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
+Astro LOL,https://smt.go-iptv.ggff.net/smart.php?id=Astro_lol&token=Goiptv
 Astro LOL,https://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
+Astro MTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
 Astro MTV,https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
+Astro QJ,https://smt.go-iptv.ggff.net/smart.php?id=Quanjia&token=Goiptv
 Astro QJ,https://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+Astro Rusi,https://smt.go-iptv.ggff.net/smart.php?id=Rusi&token=Goiptv
 Astro Rusi,https://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
+Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
+Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
 Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
 Astro Sonypix,https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+Astro Sunlife,https://smt.go-iptv.ggff.net/smart.php?id=Sunlife&token=Goiptv
 Astro Sunlife,https://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
+Astro Sunmusic,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
 Astro Sunmusic,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+Astro Vaanavil,https://smt.go-iptv.ggff.net/smart.php?id=Vaanavil&token=Goiptv
 Astro Vaanavil,https://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
+Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
 Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
 Astrol Kplus,https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+Aura,https://smt.go-iptv.ggff.net/smart.php?id=Aura&token=Goiptv
 Aura,https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+Awani,https://smt.go-iptv.ggff.net/smart.php?id=Awani&token=Goiptv
 Awani,https://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
+Awesome TV,https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
 Awesome TV,https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
 AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
 AXN,https://smt.passwdword.xyz/Smart.php?id=axn_twn
@@ -330,71 +504,123 @@ AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
 AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
 AXN,https://smt.passwdword.xyz/Smart.php?id=Axn
 AXN,https://ofiii.passwdword.xyz/mytv265.php?id=CAXN
+AXN,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+AXN,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+AXN,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
 AXN,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
-AXN,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
-AXN,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
-AXN,https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
 AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
 AXN Taiwan,https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+Baby TV,https://smt.go-iptv.ggff.net/smart.php?id=Babytv&token=Goiptv
+Baby TV,https://smt.go-iptv.ggff.net/smart.php?id=babytv_twn&token=Goiptv
 Baby TV,https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
 Baby TV,https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+BBC 1,https://smt.go-iptv.ggff.net/smart.php?id=bbc1_antik&token=Goiptv
 BBC 1,https://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
+BBC 2,https://smt.go-iptv.ggff.net/smart.php?id=bbc2_antik&token=Goiptv
 BBC 2,https://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
+BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
 BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
 BBC Earth HD,https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
 BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
 BBC Earth Lifestyle,https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
 BBC World News,https://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
+Berita Satu,https://smt.go-iptv.ggff.net/smart.php?id=BeritaSatu_eko&token=Goiptv
 Berita Satu,https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+Bernama,https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
 Bernama,https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
 Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
 Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
 Bloomberg News,https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
 Bloomberg TV,https://4gtvmobile-mozai.4gtv.tv/Y4DKqUIPj84qXvMM99QCZhsTHB2lQeVMCg63zmOD_a8%3d/index.m3u8?token=4cI7An1L8weZdgILYokB0w&expires=1765184895&token1=24eWNdDerooM-VwOGXNgKQ&expires1=1765184895&refer=OWViZGQ0NDEtYTAwYS00NmQ0LTk3NWQtMzNlNWRhZTQyMThj&y=0
+BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
+BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
 BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
 BolaArena 1,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
+BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
 BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
 BolaArena 2,https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+Bollyone,https://smt.go-iptv.ggff.net/smart.php?id=Bollyone&token=Goiptv
 Bollyone,https://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
+Boo,https://smt.go-iptv.ggff.net/smart.php?id=Boo&token=Goiptv
 Boo,https://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
 Cartoon Network,https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+CBBC,https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
 CBBC,https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
+CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
 CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
 CBeebies,https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+CBS HD,https://smt.go-iptv.ggff.net/smart.php?id=cbshd_glo&token=Goiptv
 CBS HD,https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
+CBSN HD,https://smt.go-iptv.ggff.net/smart.php?id=cbsn_glo&token=Goiptv
 CBSN HD,https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
+Celestial Classic,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
 Celestial Classic,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
 Celestial Movies HD,https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+Ceria,https://smt.go-iptv.ggff.net/smart.php?id=Ceria&token=Goiptv
 Ceria,https://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
 CGTN,https://smt.passwdword.xyz/Smart.php?id=CGTN
 CGTN,https://smt.passwdword.xyz/Smart.php?id=CGTN
 CGTN,https://smt.passwdword.xyz/Smart.php?id=CGTN
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
 CGTN,https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
 CGTN,https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
 CGTN,https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=ch8_pat&token=Goiptv
 Ch 8,https://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
+Channel 3 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
 Channel 3 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
+Channel 4,https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
 Channel 4,https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
 Channel 5,https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+Channel 5 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch5_pat&token=Goiptv
 Channel 5 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
+Channel 7 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch7_pat&token=Goiptv
 Channel 7 Thailand,https://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
+Channel 8,https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv
 Channel 8,https://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+Channel U,https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv
 Channel U,https://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
 CI,https://4gtvmobile-mozai.4gtv.tv/aSimYQZRYwEoHnHrnHPiZchDXa-_RObKza6XRmo_BAw%3d/index.m3u8?token=C-ZhRmeZEpyMlUEwVLDgtw&expires=1765185284&token1=ojrypifIgFrsCtsN_ZxliQ&expires1=1765185284&refer=N2I1NDg3NDktMmM1NS00ZmJjLTk3ZTEtM2JmMGI4ZWQ4NzMy&y=0
+CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
 CI,https://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
 CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/zzL0MV6th7iXOdzhTLbXjIQK20ledSIogKXMNcx6ptA%3d/index.m3u8?token=o4S4mXWttOwaH-4JTbpTcg&expires=1765185373&token1=PjWjwkLijo9pOAqgCosrng&expires1=1765185373&refer=MDFkMGU2ZDctMzRiNy00NWJjLWExYWItNTcxN2Y1MWNjMTRk&y=0
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=Cinemax
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=Cinemax
+CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
 CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
 CINEMAX,https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+Citra,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra&token=Goiptv
 Citra,https://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
+Citra backup,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra1&token=Goiptv
 Citra backup,https://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
 CLASSICA 古典樂,https://4gtvmobile-mozai.4gtv.tv/QHZRYcD2PDMrxjYO03GY6khpF6F89tBF92EaAAXMZvw%3d/index.m3u8?token=OwceDXFdT1Ob-uODi0Fb2g&expires=1765185063&token1=YM7QxhH0fppWAGI-TXpBOQ&expires1=1765185063&refer=ZmM0YjY0NzMtNmI3YS00NmZhLTlmNjctZTdiMDQxMmRhNzU4&y=0
 CNA,https://smt.passwdword.xyz/Smart.php?id=cna
@@ -402,101 +628,168 @@ CNA,https://smt.passwdword.xyz/Smart.php?id=cna
 CNA,https://smt.passwdword.xyz/Smart.php?id=cna_twn
 CNA,https://smt.passwdword.xyz/Smart.php?id=Mewatch_cna
 CNA,https://smt.passwdword.xyz/Smart.php?id=cna
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna_twn&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
 CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
-CNA,https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC,https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
 CNBC Asia 財經台,https://4gtvmobile-mozai.4gtv.tv/pC0WbMBrfiLhJ7qloHzjxG5YygGjy5Q8uAkI9LoUoNk%3d/index.m3u8?token=7YS9M_voaMe46Tpju6YWdQ&expires=1765185444&token1=lfslx1WoJoMslFZyskQ5zA&expires1=1765185444&refer=YTRkNDYyNWEtNjZlZS00MjExLWIwZDQtNDFmYjQ2NjU1ZWM2&y=0
 CNN,https://smt.passwdword.xyz/Smart.php?id=cnn_twn
 CNN,https://smt.passwdword.xyz/Smart.php?id=cnn_twn
+CNN,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
+CNN,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
 CNN,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
 CNN,https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+CNN International,https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
 CNN International,https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+Color HD,https://smt.go-iptv.ggff.net/smart.php?id=Colorhd&token=Goiptv
 Color HD,https://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
+Colors Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
 Colors Tamil,https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
 Concerto,https://ofiii.passwdword.xyz/mytv265.php?id=CONC
+Daai TV,https://smt.go-iptv.ggff.net/smart.php?id=DaaiTV&token=Goiptv
 Daai TV,https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
 DayStar,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=daystar
+Entertain,https://smt.go-iptv.ggff.net/smart.php?id=Entertain&token=Goiptv
 Entertain,https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+EWTN,https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
 EWTN,https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+EYE 旅游台,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
 EYE 旅游台,https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+EYE 戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
 EYE 戏剧台,https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
+Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
 Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
 Fight Sports,https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
 Focus風采戲劇台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii1048
 Focus探索新知台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii82
+Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
 Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
 Foodnetwork Hd,https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
 France 24,https://4gtvmobile-mozai.4gtv.tv/sh9VYTYrqvbgEpgiO3RpQE0y8BSQknCElTcfHYvW-HU%3d/index.m3u8?token=eeDvPQOf8xUZpuwGEN19BQ&expires=1765185428&token1=t--AyEdpRr5XkG0G2pxwQw&expires1=1765185428&refer=MzBhNjcyMjctNmQwZi00ZDYzLWE5MzQtZjAxYWY1N2U1ZjA1&y=0
+France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
 France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
 France 24,https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+Freesports,https://smt.go-iptv.ggff.net/smart.php?id=freesports_antik&token=Goiptv
 Freesports,https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
 fun探索娛樂台,https://4gtvmobile-mozai.4gtv.tv/3bipQEmsqWlUJJSv3cBTj5ccKb0h15USBIZwXuWwQyY%3d/index.m3u8?token=cfmwsU73p03_VAvela-8kg&expires=1765185166&token1=s57_j7c50gvKatpXHUfcYg&expires1=1765185166&refer=NDJhZmM0MzktMDYxNC00NzRhLTgzMDItZmM1MzRlYWU3MTg0&y=0
 GINX Esports TV,https://4gtvmobile-mozai.4gtv.tv/-W4nizmIqYQUwo7w5lQnMI1GAVfqshzvp4XyWBOEIII%3d/index.m3u8?token=PfR3E2cjCByj2neUUmireQ&expires=1765185122&token1=N2GvOsRNJqiSsQHO-SUK_Q&expires1=1765185122&refer=MWFhNWRlMjgtZjg3YS00OTg5LTk0NmUtNmNlMGU5M2YwYWQ4&y=0
 Global Trekker,https://4gtvmobile-mozai.4gtv.tv/CapYhuLhaM8KWRx-G68pm6HMcjGQ9Y7mKadyRvuC60I%3d/index.m3u8?token=wpBkSyx3p8zOa2TyoEO_TQ&expires=1765184707&token1=X_SmxR9SiomKdpd2DJjzSg&expires1=1765184707&refer=MmQ1Njc5YmQtZjNkOS00NjA3LTliYzctOGNmNDhhZTBlOWQ2&y=0
+Gmm Channel,https://smt.go-iptv.ggff.net/smart.php?id=gmmchannel_pat&token=Goiptv
 Gmm Channel,https://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
+GmmOne,https://smt.go-iptv.ggff.net/smart.php?id=gmmone_pat&token=Goiptv
 GmmOne,https://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
 Golden 強片台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii70
 Golden影迷台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii76
+Goshop,https://smt.go-iptv.ggff.net/smart.php?id=Goshop&token=Goiptv
 Goshop,https://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
+GTV,https://smt.go-iptv.ggff.net/smart.php?id=Gtv&token=Goiptv
 GTV,https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
 HGTV,https://smt.passwdword.xyz/Smart.php?id=HGTV
 HGTV,https://smt.passwdword.xyz/Smart.php?id=HGTV
 HGTV,https://smt.passwdword.xyz/Smart.php?id=HGTV
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
 HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
 HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
 HGTV,https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+Indosiar HD,https://smt.go-iptv.ggff.net/smart.php?id=Indosiar&token=Goiptv
 Indosiar HD,https://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
+iNews TV,https://smt.go-iptv.ggff.net/smart.php?id=Inewstv&token=Goiptv
 iNews TV,https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
 INULTRA,https://4gtvmobile-mozai.4gtv.tv/atW7wPjl7CLmc6Key7u9wAsui09mG0On3WhqDcLCjvc%3d/index.m3u8?token=b02AQjgAAhdyydezQAfJrQ&expires=1765185079&token1=GqDArCX3b5cCcQCNnTmORQ&expires1=1765185079&refer=ZmY5Yzc2YzAtY2RjNy00ZDhlLTlhYTctMzZlY2ZlZWNlODk1&y=0
+Jak TV,https://smt.go-iptv.ggff.net/smart.php?id=JakTV&token=Goiptv
 Jak TV,https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
 JOJO 的奇妙冒險,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii178
+JTV,https://smt.go-iptv.ggff.net/smart.php?id=JTV_eko&token=Goiptv
 JTV,https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
 KBS World,https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
+Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
 Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
 Kids TV,https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
 KIX,https://ofiii.passwdword.xyz/mytv265.php?id=CKIX
 KIX,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CKIX
+Kompass TV,https://smt.go-iptv.ggff.net/smart.php?id=Kompass&token=Goiptv
 Kompass TV,https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+Lifestyle&Fashion,https://smt.go-iptv.ggff.net/smart.php?id=Lifestyle&token=Goiptv
 Lifestyle&Fashion,https://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
 Lifetime 娛樂頻道,https://4gtvmobile-mozai.4gtv.tv/tEq-MhjEcwwiBPlMgZY-Twc6U8-akzZpyOlTDQyZFW4%3d/index.m3u8?token=o4fH1wZ3oZl6ELZOltIQXA&expires=1765185021&token1=1M2g0B5iHcDWL7hc5KIH_Q&expires1=1765185021&refer=MTU2ZmJiOWItNTAxYy00NWFlLTkzZGUtOTkxMDg0N2JhNzU4&y=0
 Love Nature,https://4gtvmobile-mozai.4gtv.tv/DbQtTRYLcJHLpWpjHNsmoPNLA3Exaoxj7K4My1Ur4FU%3d/index.m3u8?token=XwvbzdrMNgretnI-uIM8tw&expires=1765185183&token1=RaoHlMi44rzY-6Zt5Cn0KQ&expires1=1765185183&refer=OTViYWJmMDYtNjRmNi00YzU1LTg0ZjctMjIzYTg0OGM5Mjli&y=0
 LUXE TV Channel,https://4gtvmobile-mozai.4gtv.tv/6hw1fdj4FWJTMlsFlVGO-JXxBJc2qH4_l_HHRSylNbM%3d/index.m3u8?token=fudpI6PWduvhL8fBfN3VAA&expires=1765185210&token1=kt8Vf4rf49wzlDYmTAWacw&expires1=1765185210&refer=YjA0NTc0MDMtMmFmOC00NTZiLWExNDYtNDAxNGQzYTFmZDE1&y=0
+Madinah HD,https://smt.go-iptv.ggff.net/smart.php?id=sunnah_mido&token=Goiptv
 Madinah HD,https://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
+Makkal TV,https://smt.go-iptv.ggff.net/smart.php?id=Makkaltv&token=Goiptv
 Makkal TV,https://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
+Mecca Live HD,https://smt.go-iptv.ggff.net/smart.php?id=quran_mido&token=Goiptv
 Mecca Live HD,https://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
+Metro TV,https://smt.go-iptv.ggff.net/smart.php?id=metrotv_eko&token=Goiptv
 Metro TV,https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+MeWatch Ch 5,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch5&token=Goiptv
 MeWatch Ch 5,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
+MeWatch Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch8&token=Goiptv
 MeWatch Ch 8,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
+MeWatch Ch U,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_chU&token=Goiptv
 MeWatch Ch U,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
+MeWatch CNA,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_cna&token=Goiptv
 MeWatch CNA,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
+MeWatch Suria,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Suria&token=Goiptv
 MeWatch Suria,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
+MeWatch Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Vasantham&token=Goiptv
 MeWatch Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
 Mezzo Live HD,https://4gtvmobile-mozai.4gtv.tv/I-io-oCAl4GhIE7y9JNDyw4eXO4tSlyTgCYUXS5tGY8%3d/index.m3u8?token=eU_khPi6Mh4E5x_p0igFCg&expires=1765185055&token1=n08z_Iro0i-RpOtDAuRlAg&expires1=1765185055&refer=NzhiODMwMTAtMDg3My00ODEzLWE5NjUtZDE4MTZmYjVjYTk4&y=0
+MiaoMi,https://smt.go-iptv.ggff.net/smart.php?id=MiaoMi&token=Goiptv
 MiaoMi,https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
+MNC TV,https://smt.go-iptv.ggff.net/smart.php?id=Mnctv&token=Goiptv
 MNC TV,https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
 Mono,https://4gtvmobile-mozai.4gtv.tv/z76o7Ba_THvzM0FkeAvqkEJCEAVLsVJ2_4quuKON_Ng%3d/index.m3u8?token=QfJhE-wHj5GxBtII9Mw1NA&expires=1765184806&token1=4fwbgk8kvHOf9KGjdQFTDQ&expires1=1765184806&refer=MzU3ZWQzNGMtNGNmYi00ZDhlLTljOGUtZjg4YzlkODAxYTVl&y=0
+Mono,https://smt.go-iptv.ggff.net/smart.php?id=momo1_twn&token=Goiptv
+Mono,https://smt.go-iptv.ggff.net/smart.php?id=mono_pat&token=Goiptv
 Mono,https://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
 Mono,https://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
+More4,https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
 More4,https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+Movies Now HD,https://smt.go-iptv.ggff.net/smart.php?id=moviesnow_raj&token=Goiptv
 Movies Now HD,https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
 MTV Live,https://4gtvmobile-mozai.4gtv.tv/FgdM6Gk9FFfhZZZOqO_-iMGqR53iLhhqYMKdmL5iiEk%3d/index.m3u8?token=_YW4tX1se5ahlJ-hYYD3bQ&expires=1765185045&token1=F1dxQjSvOtnmPYOBZYI5vg&expires1=1765185045&refer=NDE2Zjc1OTktMzM3ZC00NGYwLThmNzktNGYwNzU0MmEwNmRm&y=0
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
 MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
 MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
 MTV Live,https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+Music TV,https://smt.go-iptv.ggff.net/smart.php?id=MusicTV&token=Goiptv
 Music TV,https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
+Muslim TV,https://smt.go-iptv.ggff.net/smart.php?id=MuslimTV&token=Goiptv
 Muslim TV,https://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
 My Cinema Europe HD 我的歐洲電影,https://4gtvmobile-mozai.4gtv.tv/PrtVASSKTI21I5HbYGHQOdD48ienlVOT5UqaqVlT45Y%3d/index.m3u8?token=UIGaKJbtZYcJfN65SzuNvw&expires=1765185380&token1=VucBuWxkfUN409QuWE5Xng&expires1=1765185380&refer=MmVhYmZkYjgtZjViNy00ODgyLTk3MTItNDUyMzU1MDE1Mzcx&y=0
+Nbt,https://smt.go-iptv.ggff.net/smart.php?id=nbt_pat&token=Goiptv
 Nbt,https://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
+Net TV,https://smt.go-iptv.ggff.net/smart.php?id=NetTV&token=Goiptv
 Net TV,https://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
+New,https://smt.go-iptv.ggff.net/smart.php?id=new_pat&token=Goiptv
 New,https://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
+News 18 Tamil,https://smt.go-iptv.ggff.net/smart.php?id=news18tamil_raj&token=Goiptv
 News 18 Tamil,https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
 NewsWorld,https://ofiii.passwdword.xyz/mytv265.php?id=NSWD
+NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
+NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
 NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
 NHK World,https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
 Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
 Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
 Nickelodeon,https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
@@ -504,66 +797,119 @@ NOW 70s,https://ofiii.passwdword.xyz/mytv265.php?id=NOW7
 NOW 80s,https://ofiii.passwdword.xyz/mytv265.php?id=NOW8
 NOW 90s00s,https://ofiii.passwdword.xyz/mytv265.php?id=NOW9
 NOW ROCK,https://ofiii.passwdword.xyz/mytv265.php?id=NOWR
+NTV7,https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
 NTV7,https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+Oasis,https://smt.go-iptv.ggff.net/smart.php?id=Oasis&token=Goiptv
 Oasis,https://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
 One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
 One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
 One,https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
 Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
 Paramount Network,https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
 Pet Club TV,https://4gtvmobile-mozai.4gtv.tv/nvHy1Tppogc3Ec64bwPkrLckkTREMb95yjL7Qb3xIEw%3d/index.m3u8?token=h3DUy_Y_ds6P6kLg5YnM1w&expires=1765185132&token1=1BIk-1dOkgi8EcYZJx90-A&expires1=1765185132&refer=MjgyYjZmOTctY2EyZi00YWFmLTgzNDAtOWM3M2RkOWI4YWY4&y=0
+Pick TV,https://smt.go-iptv.ggff.net/smart.php?id=picktv_antik&token=Goiptv
 Pick TV,https://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
+Picture HD,https://smt.go-iptv.ggff.net/smart.php?id=Npicture&token=Goiptv
 Picture HD,https://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
+PPTV Thailand1,https://smt.go-iptv.ggff.net/smart.php?id=pptv_pat&token=Goiptv
 PPTV Thailand1,https://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
+Rania,https://smt.go-iptv.ggff.net/smart.php?id=Rania&token=Goiptv
 Rania,https://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
+RCTI,https://smt.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
 RCTI,https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+Ria,https://smt.go-iptv.ggff.net/smart.php?id=Ria-0&token=Goiptv
 Ria,https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
 ROCK Action,https://4gtvmobile-mozai.4gtv.tv/VA0FOydyVVZz39GOwfyZeF6YHOGwHs2ocAAADSt1g8Q%3d/index.m3u8?token=phHwslRCp2puohiHPhnGPg&expires=1765185316&token1=rRul96Z-7zhVsomji1wmkg&expires1=1765185316&refer=ZDRjYmI2ODgtYTFjOS00MmY4LTk1MjAtNDhiYmUzNjQyOTg4&y=0
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
 Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
 Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
 Rock Actions,https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
 ROCK Entertainment,https://4gtvmobile-mozai.4gtv.tv/Bj3_RQqiDnbT_kRTIOZT5EG-5j-4OOTevLxu0f-IN_Y%3d/index.m3u8?token=QA98N2IsSif-aqhkpzfe-w&expires=1765185012&token1=AFDMSmIamboPiZxK1ffsug&expires1=1765185012&refer=OWRjYzNlOTYtOTI2MS00YjJiLWIwYTgtOTUzODA5ZTVjZjkz&y=0
+RTM Asean,https://smt.go-iptv.ggff.net/smart.php?id=Rtmasean&token=Goiptv
 RTM Asean,https://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
+RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
+RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
 RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
 RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+RTV,https://smt.go-iptv.ggff.net/smart.php?id=Rtv&token=Goiptv
 RTV,https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+Rugby Pass TV,https://smt.go-iptv.ggff.net/smart.php?id=Rugbypasstv&token=Goiptv
 Rugby Pass TV,https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
 SBN全球財經台,https://4gtvmobile-mozai.4gtv.tv/dHpp3JvlxwFpjoqMCf95HF0PHpxZphecnskQUGG6a18%3d/index.m3u8?token=euT8czq2EIchu0s3fu2CaQ&expires=1765184923&token1=nieADCArdU2a_mQVGjUOZg&expires1=1765184923&refer=YzJjNTcwZDYtNGJjMi00ODgzLWJjNmItODE5MWU0MDQyMTVh&y=0
+SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
 SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
 SCM,https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+SCTV,https://smt.go-iptv.ggff.net/smart.php?id=SCTV&token=Goiptv
 SCTV,https://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
+Sensasi,https://smt.go-iptv.ggff.net/smart.php?id=Sensasi&token=Goiptv
 Sensasi,https://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
+Siar,https://smt.go-iptv.ggff.net/smart.php?id=Siar&token=Goiptv
 Siar,https://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
 SiCAR愛車酷,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii216
 Smart知识台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn19
+Sony HD,https://smt.go-iptv.ggff.net/smart.php?id=SetOne&token=Goiptv
 Sony HD,https://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
+Sony Ten 1,https://smt.go-iptv.ggff.net/smart.php?id=ten1_raj&token=Goiptv
 Sony Ten 1,https://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
+Sony Ten 2,https://smt.go-iptv.ggff.net/smart.php?id=ten2_raj&token=Goiptv
 Sony Ten 2,https://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
+Sony Ten 3,https://smt.go-iptv.ggff.net/smart.php?id=ten3_raj&token=Goiptv
 Sony Ten 3,https://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
+Sony Yay Tamil,https://smt.go-iptv.ggff.net/smart.php?id=sonyyaytam_raj&token=Goiptv
 Sony Yay Tamil,https://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
+SPO TV 2,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv2&token=Goiptv
 SPO TV 2,https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+SPOTV 1 HD,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv&token=Goiptv
 SPOTV 1 HD,https://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
 SPY X FAMILY 間諜家家酒,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii170
 SPY X FAMILY 間諜家家酒,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii171
+Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
 Star Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
 Star Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+Star Vijay,https://smt.go-iptv.ggff.net/smart.php?id=Starvijay&token=Goiptv
 Star Vijay,https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+Starmaa HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaa_raj&token=Goiptv
 Starmaa HD,https://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
+Starmaa Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
 Starmaa Movies HD,https://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
+Starplus HD,https://smt.go-iptv.ggff.net/smart.php?id=Starplushd&token=Goiptv
 Starplus HD,https://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
+Sun Music,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
 Sun Music,https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+Sun TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Suntv&token=Goiptv
+Sun TV HD,https://smt.go-iptv.ggff.net/smart.php?id=suntv_raj&token=Goiptv
 Sun TV HD,https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
 Sun TV HD,https://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
+Supersports 1,https://smt.go-iptv.ggff.net/smart.php?id=Assp1&token=Goiptv
 Supersports 1,https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+Supersports 2,https://smt.go-iptv.ggff.net/smart.php?id=Assp2&token=Goiptv
 Supersports 2,https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+Supersports 3,https://smt.go-iptv.ggff.net/smart.php?id=Assp3&token=Goiptv
 Supersports 3,https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+Supersports 4,https://smt.go-iptv.ggff.net/smart.php?id=Assp4&token=Goiptv
 Supersports 4,https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
 SUPER金曲,https://ofiii.passwdword.xyz/mytv265.php?id=SGOL
 SUPER金曲,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SGOL
+Suria,https://smt.go-iptv.ggff.net/smart.php?id=Suria&token=Goiptv
 Suria,https://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
+Tawaf TV,https://smt.go-iptv.ggff.net/smart.php?id=TawafTV&token=Goiptv
 Tawaf TV,https://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
+Thai Thai,https://smt.go-iptv.ggff.net/smart.php?id=thaithai_pat&token=Goiptv
 Thai Thai,https://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
+Thairath,https://smt.go-iptv.ggff.net/smart.php?id=thairath_pat&token=Goiptv
 Thairath,https://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
 Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
 Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
 Thrill,https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
@@ -571,54 +917,90 @@ TLC,https://smt.passwdword.xyz/Smart.php?id=tlc_twn
 TLC,https://smt.passwdword.xyz/Smart.php?id=Tlc
 TLC,https://smt.passwdword.xyz/Smart.php?id=Tlc
 TLC,https://smt.passwdword.xyz/Smart.php?id=Tlc
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
 TLC,https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
 TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
-TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
-TLC,https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+Tnn24,https://smt.go-iptv.ggff.net/smart.php?id=tnn24_pat&token=Goiptv
 Tnn24,https://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
+tpbs,https://smt.go-iptv.ggff.net/smart.php?id=tpbs_pat&token=Goiptv
 tpbs,https://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
+TPTV,https://smt.go-iptv.ggff.net/smart.php?id=tptv_pat&token=Goiptv
 TPTV,https://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
 TRACE Sport Stars,https://4gtvmobile-mozai.4gtv.tv/b5AWriFvm2n0PUH335yreXt60cnv623mQU3G0ieLR54%3d/index.m3u8?token=3SEVq9wOC-YrEOG6pQxoHw&expires=1765185087&token1=taQ0YoavwLQV3UGmVUs2_A&expires1=1765185087&refer=MzMxZDE5NTUtN2YzOS00NWMwLTg0OTItYTI0MGVlMjYyOTQx&y=0
 TRACE Urban,https://4gtvmobile-mozai.4gtv.tv/b9KjO8nSpzV0zjaRfyuFF8GoNT79vPpLr-rd6_-CBOE%3d/index.m3u8?token=J-TJYVKOU27-jOfFbDC5JQ&expires=1765185037&token1=q4WFHibYqKFlUzQQuzS8ZQ&expires1=1765185037&refer=NzFkMTU4YTktZGIyNi00Y2U4LWE2NGUtZmQ3MjY5YWE3MWIz&y=0
+Trans 7,https://smt.go-iptv.ggff.net/smart.php?id=Trans7_eko&token=Goiptv
 Trans 7,https://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
+Transtv,https://smt.go-iptv.ggff.net/smart.php?id=Transtv&token=Goiptv
 Transtv,https://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
 TV1,https://smt.passwdword.xyz/Smart.php?id=TV1
 TV1,https://smt.passwdword.xyz/Smart.php?id=TV1_backup
+TV1,https://smt.go-iptv.ggff.net/smart.php?id=TV1&token=Goiptv
+TV1,https://smt.go-iptv.ggff.net/smart.php?id=TV1_backup&token=Goiptv
 TV1,https://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
 TV1,https://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
 TV2,https://smt.passwdword.xyz/Smart.php?id=TV2
+TV2,https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
 TV2,https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
 TV3,https://smt.passwdword.xyz/Smart.php?id=TV3
 TV3,https://smt.passwdword.xyz/Smart.php?id=TV3_mega
+TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
+TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3_mega&token=Goiptv
 TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
 TV3,https://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
 TV5MONDE STYLE HD 生活時尚,https://4gtvmobile-mozai.4gtv.tv/qdqbTSN1izsAk9OehKSn5cPqxZV5P0rIN4H_SPGkS8s%3d/index.m3u8?token=4xfyWtx2FLmxXspMJjRU_A&expires=1765185219&token1=jp9c6pT_JP2QPMkEFYEV5g&expires1=1765185219&refer=NzUyNjA2YzctNDA1Yy00ZDY0LTk0NzMtNDJhMjJiMjk2MTRh&y=0
+TV8,https://smt.go-iptv.ggff.net/smart.php?id=TV8&token=Goiptv
 TV8,https://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
 TV9,https://smt.passwdword.xyz/Smart.php?id=TV9
+TV9,https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
 TV9,https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+TVMU,https://smt.go-iptv.ggff.net/smart.php?id=TVMU_eko&token=Goiptv
 TVMU,https://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
 tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
 tvN Movie,https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+Tvone,https://smt.go-iptv.ggff.net/smart.php?id=Tvone&token=Goiptv
 Tvone,https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+TVRI National,https://smt.go-iptv.ggff.net/smart.php?id=TVRI&token=Goiptv
 TVRI National,https://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
+Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Vasantham&token=Goiptv
 Vasantham,https://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
+Vellithirai,https://smt.go-iptv.ggff.net/smart.php?id=Vellithirai&token=Goiptv
 Vellithirai,https://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
+Vijay Super,https://smt.go-iptv.ggff.net/smart.php?id=vijaysuper_raj&token=Goiptv
 Vijay Super,https://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
+Vision Prime,https://smt.go-iptv.ggff.net/smart.php?id=VisionPrime&token=Goiptv
 Vision Prime,https://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
 Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 Warner TV,https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
 WION,https://smt.passwdword.xyz/Smart.php?id=Wion
+WION,https://smt.go-iptv.ggff.net/smart.php?id=Wion&token=Goiptv
 WION,https://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
+Workpoint,https://smt.go-iptv.ggff.net/smart.php?id=workpoint_pat&token=Goiptv
 Workpoint,https://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
 WTO姐妹會,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii129
+WWE,https://smt.go-iptv.ggff.net/smart.php?id=Wwe&token=Goiptv
 WWE,https://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
+Zee Action,https://smt.go-iptv.ggff.net/smart.php?id=Zeeaction&token=Goiptv
 Zee Action,https://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
+Zee Business,https://smt.go-iptv.ggff.net/smart.php?id=Zeebusiness&token=Goiptv
 Zee Business,https://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
+Zee Cinema HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeecinemahd&token=Goiptv
 Zee Cinema HD,https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
+Zee News,https://smt.go-iptv.ggff.net/smart.php?id=Zeenews&token=Goiptv
 Zee News,https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
+Zee Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Zeetamil&token=Goiptv
 Zee Tamil,https://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
+Zee TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeetvhd&token=Goiptv
 Zee TV HD,https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
 ZooMoo,https://ofiii.passwdword.xyz/mytv265.php?id=ZOO
 ZooMoo,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=ZOO
@@ -627,35 +1009,62 @@ ZooMoo,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265
 綜藝大集合,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii125
 体育,#genre#
 爱尔达体育1台,https://smt.passwdword.xyz/Smart.php?id=eltasport_twn
+爱尔达体育1台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
 爱尔达体育1台,https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
 爱尔达体育2台,https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn
 爱尔达体育2台,https://smt.passwdword.xyz/Smart.php?id=eltasport2_twn
+爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
+爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
 爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
 爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
 爱尔达体育3台,https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
 爱尔达体育3台,https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
+爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
+爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
 爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
 爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+爱尔达体育4台,https://smt.go-iptv.ggff.net/smart.php?id=eltasports4_twn&token=Goiptv
 爱尔达体育4台,https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
+Astro Sports Plus,https://smt.go-iptv.ggff.net/smart.php?id=go_sportsplus&token=Goiptv
 Astro Sports Plus,https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+Astro Premier League 1,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1&token=Goiptv
 Astro Premier League 1,https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
+Astro Premier League 2,https://smt.go-iptv.ggff.net/smart.php?id=go_assp2&token=Goiptv
 Astro Premier League 2,https://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
+Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
 Euronews,https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+Prima,https://smt.go-iptv.ggff.net/smart.php?id=Prima-0&token=Goiptv
 Prima,https://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
+Prima backup,https://smt.go-iptv.ggff.net/smart.php?id=AAprima1&token=Goiptv
 Prima backup,https://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
+Prima backup 2,https://smt.go-iptv.ggff.net/smart.php?id=AAprima&token=Goiptv
 Prima backup 2,https://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
+NBA TV,https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
 NBA TV,https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
+Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
 Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
 Skynews,https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
+Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
 Skysports Cricket,https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
 Skysports Cricket,https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
+Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
 Skysports EPL,https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
 Skysports EPL,https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
 Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
 Skysports F1,https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
+Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
 Skysports Main Event,https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
 Skysports Main Event,https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+Skysports Mix,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmix&token=Goiptv
 Skysports Mix,https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
+Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
 Skysports News,https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
 Skysports News,https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
 其他,#genre#
@@ -666,8 +1075,13 @@ Skysports News,https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
 5566偶像劇-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/eKEx5d7lTU0ASU2GSsrXFnPMLScbM86DtkZ6DdL8Ne-IBz0YSdS3KF9LDV9yf5eiEvTGvErwkHOMPYArNOnypQ%3d%3d/index.m3u8?token=bmfBDWDfduDKN64lFBs7WA&expires=1765185668&token1=1DY7f0eNtMcWIEPHdfjMqQ&expires1=1765214468&refer=ODg1MjRmYTYtYWZhNy00Y2I2LWIzYjYtNTY2MDE1YWU1NWRh&y=2022
 ABCNEWSLIVE,https://smt.passwdword.xyz/Smart.php?id=abcnews_glo
 ADITHYA,https://smt.passwdword.xyz/Smart.php?id=Adithya
+Al-Hijrah,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah&token=Goiptv
 Al-Hijrah,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
+Al-Hijrah backup,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah_backup&token=Goiptv
 Al-Hijrah backup,https://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
 Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
 Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
 Al-Jazeera,https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
@@ -689,6 +1103,7 @@ ARIRANGTV,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv
 ARIRANG阿里郎频道,https://smt.passwdword.xyz/Smart.php?id=arirang_twn
 ASIANET,https://smt.passwdword.xyz/Smart.php?id=asianet_raj
 ASIANET,https://smt.passwdword.xyz/Smart.php?id=asianetnews_raj
+Astro W-Sports,https://smt.go-iptv.ggff.net/smart.php?id=go_assp5&token=Goiptv
 Astro W-Sports,https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
 ASTROBADMINTON,https://smt.passwdword.xyz/Smart.php?id=go_badminton1
 ASTROBADMINTON2,https://smt.passwdword.xyz/Smart.php?id=go_badminton2
@@ -713,10 +1128,15 @@ CARTOONNETWORK,https://smt.passwdword.xyz/Smart.php?id=Cn
 CARTOONNETWORK,https://smt.passwdword.xyz/Smart.php?id=Cn
 CBEEBIES,https://smt.passwdword.xyz/Smart.php?id=Cbeebies
 CBEEBIES,https://smt.passwdword.xyz/Smart.php?id=Cbeebies
+CCTV-4 中文国际,https://smt.go-iptv.ggff.net/smart.php?id=Cctv4&token=Goiptv
+CCTV-4 中文国际,https://smt.go-iptv.ggff.net/smart.php?id=cctv4&token=Goiptv
 CCTV-4 中文国际,https://smart.dxjc.pp.ua/smart.php?id=Cctv4&token=tmxk
 CCTV-4 中文国际,https://smart.dxjc.pp.ua/smart.php?id=cctv4&token=tmxk
+CCTV-5 体育频道,https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
 CCTV-5 体育频道,https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+CCTV-5+ 体育赛事,https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
 CCTV-5+ 体育赛事,https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+CCTV-5+ 体育赛事 HD,https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
 CCTV-5+ 体育赛事 HD,https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
 cctv4k,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 cctv4k,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
@@ -732,6 +1152,8 @@ CHANNEL5,https://smt.passwdword.xyz/Smart.php?id=ch5_pat
 CHANNEL8,https://smt.passwdword.xyz/Smart.php?id=Channel8HD
 CHANNELU,https://smt.passwdword.xyz/Smart.php?id=ChannelU
 CINEMAONEGLOBAL,https://smt.passwdword.xyz/Smart.php?id=ci_twn
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
 Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
 Cinemax,https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
 CITRADRAMA(HD),https://smt.passwdword.xyz/Smart.php?id=AAcitra
@@ -750,12 +1172,14 @@ DISCOVERYHD,https://smt.passwdword.xyz/Smart.php?id=discoveryhd_twn
 DREAMWORKS,https://smt.passwdword.xyz/Smart.php?id=Dreamworks
 DREAMWORKS,https://smt.passwdword.xyz/Smart.php?id=Dreamworks
 EURONEWS,https://smt.passwdword.xyz/Smart.php?id=euronews_antik
+Fashion TV,https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
 Fashion TV,https://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
 FASHIONBOX,https://ofiii.passwdword.xyz/mytv265.php?id=FBX
 FASHIONBOX,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FBX
 FIGHTSPORTS(HD),https://smt.passwdword.xyz/Smart.php?id=Fs
 FIGHTSPORTS(HD),https://smt.passwdword.xyz/Smart.php?id=Fs
 FOOD超人-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/tDLc6Wrj2pxeNRLk_XvOEQrLOkJGcj8LHMVAt8R4OMt00a2oeoj94iMOnwVq-NMb03cq-79UR6RAmlanf6j-ig%3d%3d/index.m3u8?token=jXS3H_xOcrls7jOFysN0IQ&expires=1765186233&token1=g_5fbzSReiS4M8exmBp4yg&expires1=1765215033&refer=NGUyMDQyNDQtNTg5NS00ZGJiLWFlMWYtZjk3MGUwMjA2MTlh&y=2021
+Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
 Fox News,https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
 FOXNEWSCHANNELHD,https://smt.passwdword.xyz/Smart.php?id=foxnews_twn
 FRANCE24,https://smt.passwdword.xyz/Smart.php?id=france24_twn
@@ -792,7 +1216,9 @@ HITSMOVIES(HD),https://smt.passwdword.xyz/Smart.php?id=Hitsmovie
 HITSMOVIES(HD),https://smt.passwdword.xyz/Smart.php?id=Hitsmovie
 HOYTV,https://smt.passwdword.xyz/Smart.php?id=hoycaijing_twn
 IQIYI,https://smt.passwdword.xyz/Smart.php?id=Qiyi
+itv 1,https://smt.go-iptv.ggff.net/smart.php?id=itv1_antik&token=Goiptv
 itv 1,https://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
+itv 2,https://smt.go-iptv.ggff.net/smart.php?id=itv2_antik&token=Goiptv
 itv 2,https://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
 ITV1HD,https://smt.passwdword.xyz/Smart.php?id=itv1_antik
 ITV2HD,https://smt.passwdword.xyz/Smart.php?id=itv2_antik
@@ -810,6 +1236,7 @@ LOVENATUREHD,https://ofiii.passwdword.xyz/mytv265.php?id=LNH
 LOVENATUREHD,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=LNH
 MAAMOVIES,https://smt.passwdword.xyz/Smart.php?id=starmaamovies_raj
 MagellanTV頻道 (麥哲倫頻道) ,https://4gtvmobile-mozai.4gtv.tv/AbPmEky-1xBG-XKrY2e3Fe-bkf5w53kxxC_J3rrqhxs%3d/index.m3u8?token=KW5xrAS-hNx1ZZ0T2cOeVw&expires=1765185228&token1=Nyol9dDa7bNiyFlxpsXd7w&expires1=1765185228&refer=ZmQxYzc3ZDEtZWU5My00NjU3LTlhNDctZjBmNjE1MzU1YWE3&y=0
+MCOT HD Thailand-1,https://smt.go-iptv.ggff.net/smart.php?id=mcot_pat&token=Goiptv
 MCOT HD Thailand-1,https://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
 MEZZOLIVEHD,https://ofiii.passwdword.xyz/mytv265.php?id=CMEZ
 MEZZOLIVEHD,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMEZ
@@ -843,7 +1270,11 @@ ONE,https://smt.passwdword.xyz/Smart.php?id=Bollyone
 ONE,https://smt.passwdword.xyz/Smart.php?id=gmmone_pat
 POPC,https://ofiii.passwdword.xyz/mytv265.php?id=POPC
 POPC,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=POPC
+Ria-3,https://smt.go-iptv.ggff.net/smart.php?id=Ria_backup&token=Goiptv
 Ria-3,https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
 Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
 Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
 Rock Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
@@ -907,21 +1338,28 @@ THRILL,https://smt.passwdword.xyz/Smart.php?id=Thrill
 THRILL,https://ofiii.passwdword.xyz/mytv265.php?id=CTHR
 THRILL,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR
 TLC旅游生活频道,https://smt.passwdword.xyz/Smart.php?id=tlc_twn
+Tnt Sports 1,https://smt.go-iptv.ggff.net/smart.php?id=6fac0aaead&token=Goiptv
 Tnt Sports 1,https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+TNT Sports 2,https://smt.go-iptv.ggff.net/smart.php?id=d9a76a79cc&token=Goiptv
 TNT Sports 2,https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+TNT Sports 3,https://smt.go-iptv.ggff.net/smart.php?id=5fea4d73db&token=Goiptv
 TNT Sports 3,https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+TNT Sports 4,https://smt.go-iptv.ggff.net/smart.php?id=tntsport4&token=Goiptv
 TNT Sports 4,https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
 TNTSPORTS1HD,https://smt.passwdword.xyz/Smart.php?id=6fac0aaead
 TNTSPORTS2HD,https://smt.passwdword.xyz/Smart.php?id=d9a76a79cc
 TNTSPORTS3HD,https://smt.passwdword.xyz/Smart.php?id=5fea4d73db
 TNTSPORTS4HD,https://smt.passwdword.xyz/Smart.php?id=tntsport4
 TRACEURBAN,https://ofiii.passwdword.xyz/mytv265.php?id=TRUR
+TVB Classic,https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
 TVB Classic,https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+TVB Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
 TVB Entertainment,https://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
 TVBCLASSIC,https://smt.passwdword.xyz/Smart.php?id=Tvbclassic
 TVBENTERTAINMENTNEWS,https://smt.passwdword.xyz/Smart.php?id=Tvbentertainment
 TVBJADE,https://smt.passwdword.xyz/Smart.php?id=Tvbjade
 TVBS看板人物-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/2To3NH7ySo6QS6MfgjopMMRhpjcMscQaxmwjnEFSJrY5di7_A76NQ9LWUfg3L9g2CmX8njymD57xdbz6FMlZOw%3d%3d/index.m3u8?token=j1TqqftqugdSclXscYpTVw&expires=1765186020&token1=Mko4lMTTCd_tbJNlZedqrw&expires1=1765214820&refer=ZmRlYzM5MzgtNjI5My00YWM5LWJkNTQtY2JiNmZhMDIzMDAy&y=2024
+TvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
 TvN,https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
 TVN,https://smt.passwdword.xyz/Smart.php?id=TVN
 TVN,https://ofiii.passwdword.xyz/mytv265.php?id=CJTV
@@ -959,6 +1397,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 三國,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii103
 三立綜合台,https://4gtvmobile-mozai.4gtv.tv/dL8BLXA-u2zxHS0Fgu6xbyZR_vi-FWdCywIH00YTTRU%3d/index.m3u8?token=jykOSz-mC9GYgbSE9TD2-Q&expires=1765184620&token1=f0LiGaWGNjGTCyAkGklbsw&expires1=1765184620&refer=MDU1NDcwODEtMDRkYS00ZjhlLThmNWQtM2QzNmZlYTJkZmIx&y=0
 三立综合台,https://smt.passwdword.xyz/Smart.php?id=sanlizhonghe
+三立综合台,https://smt.go-iptv.ggff.net/smart.php?id=sanlizhonghe&token=Goiptv
 三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
 不敗愛情偶像劇-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/pf4X5QXW2TWvCEPJq9kZ4oPhSVwAIY0jWEUvq0FcgHHS0HvP3soty2peqzxUEVSX/index.m3u8?token=Rkck6NCqA6XRFwMHyXoLlg&expires=1765185677&token1=Hg0lTNSuxjaRaSTqf9RZMw&expires1=1765214477&refer=YjI5NGY2MjAtYjU1Yi00MjM4LTllNDYtODlmNjRkMDE2ZWQz&y=2022
 不良笑花,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii196
@@ -966,19 +1405,28 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 世間路-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/1z9TP75lhgPBT01H_TWXwm2ccKUzsqIWgkZ28Gq87Q_DJy4SRBCk32bZw7EGF1FA/index.m3u8?token=dIxqX9kHDB8w1ab_o9ppCw&expires=1765185740&token1=ElWTkmXzDq4pzXGai7eAwQ&expires1=1765214540&refer=YmRhZGIwMGMtZGMzNi00NzhmLWJjOWMtNGZlZmJiNjFhZmQ2&y=2002
 东方卫视国际频道,https://ofiii.passwdword.xyz/mytv265.php?id=DTV
 东方卫视国际频道,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=DTV
+东森幼幼,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
 东森幼幼,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
 东森幼幼台,https://smt.passwdword.xyz/Smart.php?id=yoyo_twn
 东森幼幼台,https://smt.passwdword.xyz/Smart.php?id=yoyo_twn
+东森幼幼台,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
 东森幼幼台,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
 东森新闻台,https://smt.passwdword.xyz/Smart.php?id=ettvnews
+东森新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ettvnews&token=Goiptv
 东森新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+东森洋片台,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
 东森洋片台,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+东森电影,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森电影台,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
 东森电影台,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+东森财经新闻,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
 东森财经新闻,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
 东森财经新闻台,https://smt.passwdword.xyz/Smart.php?id=ettvcaijing_twn
 东森财经新闻台,https://smt.passwdword.xyz/Smart.php?id=ettvcaijing_twn
+东森财经新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
 东森财经新闻台,https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
 中国电影频道,https://ofiii.passwdword.xyz/mytv265.php?id=CMC
 中国电影频道,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMC
@@ -987,6 +1435,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 中天娱乐台,https://smt.passwdword.xyz/Smart.php?id=ctient
 中天新聞台,https://4gtvmobile-mozai.4gtv.tv/r6IZ0CNcw_frC30t-G8-Eeu5MKvJ5ie9ALKY9G2ui08%3d/index.m3u8?token=zDQG4xGcvcIsBHzX5fNKiQ&expires=1765184887&token1=o3FF-O1EYW6-gj5DRfvFdw&expires1=1765184887&refer=ZWM5YmJlMWEtZjkyZi00MzI5LTg1OGYtODA3MmJiNjQ0MDc0&y=0
 中天新聞台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
+中天新闻,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
 中天新闻,https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
 中天新闻台,https://smt.passwdword.xyz/Smart.php?id=ctinews
 中天综合台,https://smt.passwdword.xyz/Smart.php?id=ctizhonghe
@@ -996,9 +1445,12 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 中視新聞,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
 中視經典戲劇-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/aYVH4CAKC1tbUuXVnlXWzGFpBrSlzALy-9TflIkGh8_fO-sDkzSRqIH0W5EyNGUCmQvP3-eW_I8cJYfOvu-ITQ%3d%3d/index.m3u8?token=XZdgrkxxs8y1hHhuh2DM6g&expires=1765185536&token1=p4Wb03cOZoseSCg1KYBYCA&expires1=1765214336&refer=ZGUxYzEzMzQtMDM3ZC00NWQwLTlmNmMtZjgxYWI2NjEyZjBm&y=2021
 中视,https://smt.passwdword.xyz/Smart.php?id=zhongshihd_twn
+中视 HD,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
 中视 HD,https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
 中视新闻,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
+中视新闻,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
 中视新闻,https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+中视经典,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
 中视经典,https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
 中视经典台,https://smt.passwdword.xyz/Smart.php?id=zhongshi_twn
 九重紫,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii114
@@ -1009,6 +1461,8 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 亚洲旅游台,https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
 亚洲旅游台,https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
 亚洲旅游台,https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
+亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
 亚洲旅游台,https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
 亞洲旅遊台,https://4gtvmobile-mozai.4gtv.tv/8qLvdHopnu6YaZ6QhKG7O0Ve9y1ysqh3es9dgYBKe1U%3d/index.m3u8?token=KAT10HDh97i1MZM-EJGt5g&expires=1765185157&token1=2cF72Vy-UHe-n_cyf4m88w&expires1=1765185157&refer=ODQ4MTc1NGItOTc0NS00NjY5LTkzMGItYjc0OTYzNGVmMTI3&y=0
@@ -1031,7 +1485,9 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 全能歌手-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/jMbItzMoI2mNFkCYbO4Ew4MqxJHwXkzNrBJfIfhGmxQw_GNLZM_8b1yJ_1NO3GpG/index.m3u8?token=wRwiQA76rehXN4NNE7d8KQ&expires=1765185981&token1=iBQKYJEURE9dP8iQmanXxw&expires1=1765214781&refer=ZDM5ZjRlYWEtZmYyMC00Yzc3LWJmMWEtZTRmODBmZDA4NDYx&y=2023
 公視好劇-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/nMxUJYJjJUNZouCCygZfSsL77xQ1oHeIIukNJZFvAJjYiqyEo0NuZ5xGRi-mTFN9jzvj8SggCVumYdne_6Uazw%3d%3d/index.m3u8?token=y6rUUaWDevXtbIQMU5vVIw&expires=1765185560&token1=NeVx7n-4Y3yU9wLYP-vpdQ&expires1=1765214360&refer=ZmJkMDRlNDUtNTQ4Mi00NzdhLThiYjAtMWI5ZTY0NzhjOTdj&y=2020
 公視戲劇,https://4gtvmobile-mozai.4gtv.tv/9IcRQ6oq3hqKem_OlazxylTsd7CGTZJj10oaNQVMgTg%3d/index.m3u8?token=8tQ9hmRfvrJmPVIZK0U6ow&expires=1765185236&token1=IkScTF_-93J5QYdCQSTddQ&expires1=1765185236&refer=YTUzYWY0MzktMWRhYy00N2YyLTlkYmEtNjgyM2M4Y2NlOTNi&y=0
+公视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
 公视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+公视台语台,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
 公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
 凡爾賽玫瑰《11/5即將下架》,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii185
 凤凰卫视香港台,https://ofiii.passwdword.xyz/mytv265.php?id=PHK
@@ -1050,19 +1506,26 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 半岛电视台英语频道,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJAZ
 半島國際新聞台,https://4gtvmobile-mozai.4gtv.tv/yB_UfnPxlNP91UXex9cVoEd3lLY5gMkazdtjdcuZoGg%3d/index.m3u8?token=U5qdeDyORyRT7aYm1ZbiiA&expires=1765185437&token1=XBlh-Xb9vdnj1pYuvf0hTg&expires1=1765185437&refer=OGQ5YmQ1OGEtMGYwNS00NDRmLTkzZWYtM2YzYjcyZmU1YmJk&y=0
 华视,https://smt.passwdword.xyz/Smart.php?id=ctshd_twn
+华视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
 华视 HD,https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
 华语剧台,https://ofiii.passwdword.xyz/mytv265.php?id=CDR3
 华语剧台,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDR3
 博斯无限台,https://smt.passwdword.xyz/Smart.php?id=bosiunlimited_twn
+博斯无限台,https://smt.go-iptv.ggff.net/smart.php?id=bosiunlimited_twn&token=Goiptv
 博斯无限台,https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
 博斯网球台,https://smt.passwdword.xyz/Smart.php?id=bositennis_twn
+博斯网球台,https://smt.go-iptv.ggff.net/smart.php?id=bositennis_twn&token=Goiptv
 博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
 博斯运动一台,https://smt.passwdword.xyz/Smart.php?id=bosisport1_twn
+博斯运动一台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport1_twn&token=Goiptv
 博斯运动一台,https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
 博斯运动二台,https://smt.passwdword.xyz/Smart.php?id=bosisport2_twn
+博斯运动二台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport2_twn&token=Goiptv
 博斯运动二台,https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
 博斯高球一台,https://smt.passwdword.xyz/Smart.php?id=bosigolf1_twn
+博斯高球一台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf1_twn&token=Goiptv
 博斯高球一台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+博斯高球二台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf2_twn&token=Goiptv
 博斯高球二台,https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
 去有風的地方,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii116
 去有風的地方-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/SW5i5xbDwwvYJ27bwbONtEUYFbpn3IqQz0UOjKDSOA42cKD9fgf2kKF8Vzmm5DKz/index.m3u8?token=F9VFv3op3ZjS4czvmMfxbA&expires=1765185628&token1=5mTVVtj0LeUnU7vbkbfOJA&expires1=1765214428&refer=ZDYxZmJiZjYtMjMwYi00NDhjLTkwYWEtNzRjOWQ0NWExN2Jl&y=2023
@@ -1082,8 +1545,10 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 台視,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv066
 台視新聞,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv051
 台视,https://smt.passwdword.xyz/Smart.php?id=ttv_taiwan
+台视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
 台视 HD,https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
 台视新闻,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
+台视新闻,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
 台视新闻,https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
 台视综合台,https://smt.passwdword.xyz/Smart.php?id=ttvzhonghe
 史上最強弟子兼一(中文版),https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii180
@@ -1110,6 +1575,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 大新聞大爆卦,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii201
 大湾区卫视,https://smt.passwdword.xyz/Smart.php?id=nanfang_twn
 大湾区卫视,https://ofiii.passwdword.xyz/mytv265.php?id=GBTV
+大湾区卫视,https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
 大湾区卫视,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
 大湾区卫视,https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
 大爱二台,https://smt.passwdword.xyz/Smart.php?id=daai2_twn
@@ -1118,6 +1584,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 天才衝衝衝,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii135
 天才衝衝衝-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/iFeeCJqsTywgZ76glLJoGQEg4ifniRE5Sr0bregIRUqSo4V1Lg0BDbGXozkbG2Y9QveBnPshxQd3V4K7ZUm0yQ%3d%3d/index.m3u8?token=ZkA6X0qnpttfV2xFyKjQtg&expires=1765185870&token1=zeawHW2qw5xRyopqaVb_zQ&expires1=1765214670&refer=ODkyMjRiMGUtZjY3OC00MDk3LTgzZmEtOTk4ZTI2ZmU1ZTdh&y=2022
 天映经典,https://smt.passwdword.xyz/Smart.php?id=Celestial2
+天映经典,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
 天映经典,https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
 天映经典频道,https://ofiii.passwdword.xyz/mytv265.php?id=CCCM
 天映经典频道,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCCM
@@ -1127,6 +1594,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 好搭檔,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii147
 好消息,https://4gtvmobile-mozai.4gtv.tv/-rYmf7C9FCHaS1iiCQHrqKly-r4crIInn10KUR1FDkU%3d/index.m3u8?token=GZuUDS7YR-OHORktcwDbeQ&expires=1765185389&token1=d-OvrcBoG0qjU_zadeuc0g&expires1=1765185389&refer=OGI2MTJhYTgtOTZhZS00MDMxLTg0MWQtNGE1OGY5OWJjNzhk&y=0
 好消息,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-ftv16
+好消息 2,https://smt.go-iptv.ggff.net/smart.php?id=good2_twn&token=Goiptv
 好消息 2,https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
 好消息2台,https://smt.passwdword.xyz/Smart.php?id=good2_twn
 好消息2台,https://4gtvmobile-mozai.4gtv.tv/VTHDMrMlf0osNqhd-6fZJjya9P4dyj_SpFgKK8wlKZI%3d/index.m3u8?token=xUMf9MPGfGE07vTFqj8HNw&expires=1765185396&token1=lZhc1H17QwLwElQrRj-AkQ&expires1=1765185396&refer=NzEzMzliZmUtNjVmOS00ZWEyLWExNDctYmUzNWQyOTNmMmNi&y=0
@@ -1146,9 +1614,11 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 寰宇新聞台灣台,https://4gtvmobile-mozai.4gtv.tv/v-nz1Ji0b8GVtw6aCvRqDUhiGCcrjavSxH0Ld5Nlsdw%3d/index.m3u8?token=q85uB_qxR9B9ROz4Xf7fDQ&expires=1765184914&token1=mwl353xjEfN0MBMyeE8pdQ&expires1=1765184914&refer=OGMyMzY1NmYtM2VkZi00YjliLWFiODUtMTA1ZDU0YmFjZGJk&y=0
 寰宇新聞台灣台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv156
 寰宇新闻台,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
+寰宇新闻台,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
 寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 寰宇財經台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv158
 寰宇财经台,https://smt.passwdword.xyz/Smart.php?id=huanyutaiwan_twn
+寰宇财经台,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
 寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
 小兒子-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/PvM98agKgdSMcrHTwCUOVY4_f8Hkx41sce8hb8-W2RjgBBUG7HCHKeaWHdlYHJV9KVrQT4BQDvbmkIrKiZ0lLQ%3d%3d/index.m3u8?token=GPkb9Vsa7IKKkNxYObPgzw&expires=1765186241&token1=_h1WFTh7a2X_3EjUN8cLuA&expires1=1765215041&refer=ZmU0M2ZhMDktZGM5OC00MjBlLWI4MDgtZGZkNTA2NmMwYmMx&y=2022
 小資女孩向前衝-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/p8TtFWnEgSe0ZiHkWCdDAXYH5rA67UcjMYQhRjBH_B184Pv-N5kfsDOqq3AQ99Da/index.m3u8?token=w_8fJoCJ035yFqgsSNi78w&expires=1765185730&token1=ErxaQ3QWb9FVR_RVN_H9PA&expires1=1765214530&refer=OTVjZDJiYmMtM2E4Yy00OGVkLWJlMzMtMWUzODdmNTE5N2Qw&y=2021
@@ -1187,6 +1657,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 无线卫星新闻台,https://ofiii.passwdword.xyz/mytv265.php?id=CTSN
 无线卫星新闻台,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTSN
 无线新闻,https://smt.passwdword.xyz/Smart.php?id=inews_twn
+无线新闻,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
 无线新闻,https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
 无线新闻台,https://ofiii.passwdword.xyz/mytv265.php?id=C
 无线新闻台,https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C
@@ -1234,11 +1705,14 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 民視第一台,https://4gtvmobile-mozai.4gtv.tv/53YyFOFvhPU0gV-800BaiRMwgqJww6y3d8NfmscC2_M%3d/index.m3u8?token=djx4kt4bjczQ0kHXKdVprw&expires=1765184565&token1=Hp_TZwtWR61OdpbJk-Gzkg&expires1=1765184565&refer=MmI0ZjhhMjItZGM0OC00Y2YxLTk0ZjgtZDYzMTdlOGQ1OWUy&y=0
 民視綜藝台,https://4gtvmobile-mozai.4gtv.tv/_9C_LE1T_367PJisaTbw2JAGDXXExejQERg9yjHf2vk%3d/index.m3u8?token=y-o7HirMbpJUWThXt-NPbQ&expires=1765184946&token1=rerNiivR4eQtQ1Qw6pMDeQ&expires1=1765184946&refer=MmQzMDM1MWQtMDBhZi00NWM5LThjNWEtNTE0MmFlNmI1OTFj&y=0
 民视,https://smt.passwdword.xyz/Smart.php?id=ftvhd_taiwan
+民视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
 民视 HD,https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
 民视台湾台,https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn
+民视台湾台,https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
 民视台湾台,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv001
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
 民视新闻台,https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
+民视新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
 民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
 法眼黑與白,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii134
 泰可愛旋風,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii89
@@ -1284,6 +1758,8 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 纬来育乐台,https://smt.passwdword.xyz/Smart.php?id=videolandyule
 美亚电影,https://smt.passwdword.xyz/Smart.php?id=meiyamovie_twn
 美亚电影,https://smt.passwdword.xyz/Smart.php?id=meiyamovie_twn
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 美亚电影,https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
 美亚电影台,https://ofiii.passwdword.xyz/mytv265.php?id=CMAM
@@ -1333,11 +1809,14 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 隊長小翼(中文版),https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii169
 雖然等級只有1級但固有技能是最強的,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii159
 離開A級隊伍的我，和從前的弟子往迷宮深處邁進,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii161
+靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
 靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
 靖天卡通,https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
 靖天卡通台,https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
 靖天卡通台,https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
 靖天卡通台,https://4gtvmobile-mozai.4gtv.tv/__IZVISnGjYHaJz44Hag1IVKufaA73GpwnnpkeOk9kM%3d/index.m3u8?token=sS3SklrxGEuD1RVmD-zsdQ&expires=1765184789&token1=nVC6E3aMrkSwHcNdvjph0A&expires1=1765184789&refer=ODQ1YWI1MTgtZDVjNC00YWQ5LThhYjYtYTI4OTdjODdkMmFk&y=0
+靖天国际,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
 靖天国际,https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
 靖天戲劇台,https://4gtvmobile-mozai.4gtv.tv/QpMbZ6vmybGuC_coB0ii_fPzXbpMZHjaeyzWAGY6HhM%3d/index.m3u8?token=W-Q_aXiTLlGtd2PesV6hMQ&expires=1765185268&token1=j6X0EFbAa4XSo4uI4UA_VA&expires1=1765185268&refer=MzBhZGZkZTgtMmNlZS00NThjLTk0OGItNmVlNTZlYTc4NWYx&y=0
 靖天日本台,https://4gtvmobile-mozai.4gtv.tv/mllx5dV4ZYUIbaYmbJexNcRUY47d6Zdm5hnJXwvjJLo%3d/index.m3u8?token=_SoI5aVaJBwruiSGtNI9pQ&expires=1765184682&token1=DJ7kP1iqfj5aFpQqcLUw7A&expires1=1765184682&refer=ZTY5M2JjYjctZDIyNi00NGFhLWFkZmItYjRkOGNhOWU3ODM0&y=0
@@ -1348,6 +1827,7 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 靖洋卡通Nice Bingo,https://4gtvmobile-mozai.4gtv.tv/N9fh4aRVi7OMCHzWdPkYMqQAhnOgAdAN0zjyemH0SsQ%3d/index.m3u8?token=kd4NfLW-V41IcGF4Ccwd2Q&expires=1765184798&token1=gloRtX2vwh8Rb_g7d2EpPw&expires1=1765184798&refer=NTM1MGY4YzMtZTFiMC00OWQ0LTkzN2EtYmE1MWZiYzA4YjQ1&y=0
 靖洋戲劇台,https://4gtvmobile-mozai.4gtv.tv/UKCZOVsjaK8ylr3iwYYHwdhIU2bX8CCVTkc9DlPIm9E%3d/index.m3u8?token=-VkUBeavEWpAXVto78atoA&expires=1765185276&token1=2YBMoFp1jrQSQN7-eOGhiQ&expires1=1765185276&refer=Yzc4NjM3MmMtYjgyNS00YjFmLWI3NTYtMzA1OTAwMGExN2Fl&y=0
 非凡大探索,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii234
+非凡新闻,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
 非凡新闻,https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
 非凡新闻台,https://smt.passwdword.xyz/Smart.php?id=feifannews_twn
 韓流美食料理秀-FastTV飛速看,https://4gtvmobile-mozai.4gtv.tv/O5dcMRk2LuW7HbtNrI-qhmDv1mUPsAMuADmLoCLhDeV2ZB_WmODLcUvL-832uOM6/index.m3u8?token=_pEUwiKyhNtgUKrB7ZE_gg&expires=1765186137&token1=r2IbfmNeB2pWFN-kJDQcDQ&expires1=1765214937&refer=M2U1MjdkMzYtOTZlYy00MWNkLTljNjItM2ViZTgyYjE0ZTRj&y=2024
@@ -1377,16 +1857,23 @@ ZEETV,https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 龍華經典台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn21
 龍華電影台,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn03
 龙华偶像,https://smt.passwdword.xyz/Smart.php?id=lunghuaidol_twn
+龙华偶像,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
 龙华偶像,https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
 龙华戏剧,https://smt.passwdword.xyz/Smart.php?id=lunghuaxiju_twn
+龙华戏剧,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
 龙华戏剧,https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+龙华洋片,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
+龙华洋片,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
 龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
 龙华洋片,https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
 龙华洋片HD,https://smt.passwdword.xyz/Smart.php?id=lunghuawestern_twn
 龙华洋片HD,https://smt.passwdword.xyz/Smart.php?id=lunghuawestern_twn
 龙华电影,https://smt.passwdword.xyz/Smart.php?id=xingwei_movie
 龙华电影,https://smt.passwdword.xyz/Smart.php?id=xingwei_movie
+龙华电影,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
+龙华电影,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
 龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
 龙华电影,https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+龙华经典,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
 龙华经典,https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
 龙华经典HD,https://smt.passwdword.xyz/Smart.php?id=lunghuajingdian_twn
