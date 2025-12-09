@@ -18210,6 +18210,9 @@
 	<programme channel="咪咕综合体育" start="20251209140500 +0800" stop="20251209142000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251209142000 +0800" stop="20251209155000 +0800">
+		<title lang="zh">全运时刻-第十五届全运会 游泳 各项半决赛 决赛2</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18269,6 +18272,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251209141000 +0800" stop="20251209142000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251209143000 +0800" stop="20251209151000 +0800">
+		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -60018,6 +60024,9 @@
 	<programme channel="newtv超级电影" start="20251209130800 +0800" stop="20251209142500 +0800">
 		<title lang="zh">电影《兵临城下-虎贲》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251209142500 +0800" stop="20251209154200 +0800">
+		<title lang="zh">电影《大力出奇迹》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60080,6 +60089,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251209134400 +0800" stop="20251209142500 +0800">
 		<title lang="zh">12_好妻子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251209142500 +0800" stop="20251209150700 +0800">
+		<title lang="zh">13_好妻子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>

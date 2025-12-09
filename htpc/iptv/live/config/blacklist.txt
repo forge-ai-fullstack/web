@@ -20,3 +20,4 @@ ikuai.haleeyo.cn:9003
 i.iill.top:12838
 smt.go-iptv.ggff.net:443
 sun135790.x3322.net:9901
+hlsal-ldvt.qing.mgtv.com:80
