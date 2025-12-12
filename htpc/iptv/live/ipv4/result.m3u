@@ -60,9 +60,9 @@ https://smt.passwdword.xyz/Smart.php?id=fujian
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://ofiii.passwdword.xyz/mytv265.php?id=SZTV
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
-https://smt.passwdword.xyz/Smart.php?id=shenzhen
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
+https://smt.passwdword.xyz/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视",广东卫视
 https://smt.passwdword.xyz/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视",广西卫视
@@ -76,15 +76,15 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://ofiii.passwdword.xyz/mytv265.php?id=PCC
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
-https://smt.passwdword.xyz/Smart.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="asia",凤凰中文
+https://smt.passwdword.xyz/Smart.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://ofiii.passwdword.xyz/mytv265.php?id=PIN
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
-https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="asia",凤凰资讯
+https://smt.passwdword.xyz/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="asia",凤凰香港
 https://smt.passwdword.xyz/Smart.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK 31.png" group-title="asia",RTHK 31
@@ -96,41 +96,41 @@ https://ofiii.passwdword.xyz/mytv265.php?id=J
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://ofiii.passwdword.xyz/mytv265.php?id=JUHD
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://smt.passwdword.xyz/Smart.php?id=jade_twn
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
-https://smt.passwdword.xyz/Smart.php?id=Jade_xue
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=J
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://smt.passwdword.xyz/Smart.php?id=jade_twn
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠.png" group-title="asia",TVB翡翠
+https://smt.passwdword.xyz/Smart.php?id=Jade_xue
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="asia",TVB星河
 https://smt.passwdword.xyz/Smart.php?id=Xinhe
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://ofiii.passwdword.xyz/mytv265.php?id=B
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
-https://smt.passwdword.xyz/Smart.php?id=j2_twn
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="asia",TVB Plus
+https://smt.passwdword.xyz/Smart.php?id=j2_twn
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
-https://4gtvmobile-mozai.4gtv.tv/TO3xdfQOP_pu5BisP9W_-4Dg8dnpNo71zFrPi3r-bwY%3d/index.m3u8?token=a4YatkO12M2GQmXiBJ1wnA&expires=1765519876&token1=wx53HM_8P1q0u3AA3RPe3A&expires1=1765519876&refer=ZTExOTFhMDItMmU1ZS00OGM3LThiNzAtZjE4MzUyMWIzYzAx&y=0
+https://4gtvmobile-mozai.4gtv.tv/IBzV7rKPC8YljPQMCA9fburCj7xPTNm6zunMhD8o92U%3d/index.m3u8?token=kNlIeWXbws3cSUexSQul9w&expires=1765530509&token1=aOWXV7cKuQke6G1ge9ORGA&expires1=1765530509&refer=ZTBlMzQ0NWItM2RmYS00Mjc1LTk0NmEtODg5NzBiMDVmZTZl&y=0
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS.png" group-title="asia",TVBS
 https://smt.passwdword.xyz/Smart.php?id=tvbs
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
-https://4gtvmobile-mozai.4gtv.tv/f5539J5ggSd8uFlsdSMT9mjXHKUNU1gQJD6PAFj5LFU%3d/index.m3u8?token=ydSQwRFH202_G5gdaxES5g&expires=1765519946&token1=hoy2kAAFlsFSqSPRQBsxlA&expires1=1765519946&refer=ZmY0MmRkYzQtOTcyNi00ZTJhLWIzZDktZDQyYTZjMzU0MTJj&y=0
+https://4gtvmobile-mozai.4gtv.tv/-cS4K7-AwAjeT9Rt7cjdHj-SK-qPCsJhlLlUXS-mwzk%3d/index.m3u8?token=5KJJaZiPed-vHvmFr_wmvg&expires=1765530598&token1=VKanp0DQz5kHcQUwbGjUMw&expires1=1765530598&refer=ODE5ODAxMmMtYTI0My00M2I5LWIzMWMtZjhlOTVkMTZhODRk&y=0
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐台.png" group-title="asia",TVBS欢乐台
 https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="asia",TVBS新闻台
-https://4gtvmobile-mozai.4gtv.tv/-I7clcAo3NbWa5ke40u4hnK1DIcqZ6yBtrniijtqv2g%3d/index.m3u8?token=_Ra4r28mwuRXPSFaQZfxJA&expires=1765519792&token1=8-oEG2BlByQyUxzuw7cEvw&expires1=1765519792&refer=ZjM3NTMxNmYtODYxNi00M2UxLTkzMDctMTBmYTUyOGUyMzdl&y=0
+https://4gtvmobile-mozai.4gtv.tv/Ogt6JWlx2jfwWOjGsDUp54kc1a8O9foBXvUFM8xuhYU%3d/index.m3u8?token=Rn3gqq4Db79D2lGGffj5sA&expires=1765530433&token1=tNGITUUf-qTnc2tvL9uW3Q&expires1=1765530433&refer=NWI2MjBmNDEtODg4ZC00ZTJiLTkyM2ItN2NiZWRiOTk0ZTM5&y=0
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="asia",TVBS新闻台
-https://4gtvmobile-mozai.4gtv.tv/gsGWy2Ss9LD_Dt6DxgASbrqfe24RNuW1NF9y5REF8Ho%3d/index.m3u8?token=C2tUK0EwvGJUiY1sMGmNPQ&expires=1765520610&token1=JlgOZfq49uYCIVvcknIz4g&expires1=1765520610&refer=ZjMwN2QxMzktZjU5Ni00YTliLTk3M2MtMDlhMzk4ODA1N2M2&y=0
+https://4gtvmobile-mozai.4gtv.tv/e0k_Lg9jZsiThhh37zzSuN0d7qSMK98Y7HFw8U87jfI%3d/index.m3u8?token=uaEzcvxdy5iNXlic4O7z6A&expires=1765531218&token1=wOMt9FGQxapFwXEpShiIAw&expires1=1765531218&refer=MTI2YmI1NjUtNjdhYi00NjkwLThkYTctNDRiYzkwNjU2MzRl&y=0
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="asia",TVBS新闻台
 https://smt.passwdword.xyz/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS精采台.png" group-title="asia",TVBS精采台
-https://4gtvmobile-mozai.4gtv.tv/O091dajt0KbNxIkbQgbiXYK6AEJavdU7b6JbQkfDEhs%3d/index.m3u8?token=0lfgsGWQnSt_5nlp1qtqPw&expires=1765519537&token1=5Hbp_PK6TSd8bNouO7WGCg&expires1=1765519537&refer=ZGFjMGEwM2ItZTAwYi00NmYyLWE3NzAtNTk5MTQzMDBhNjk2&y=0
+https://4gtvmobile-mozai.4gtv.tv/ydvdi7jpxkZAiQat4jWT9ug1hUtzJQdBwgWgVEmXqUo%3d/index.m3u8?token=OqjgOFcnck7d_2lk_MQWgg&expires=1765530271&token1=Z80qoDON7seeXnGEmjOtyw&expires1=1765530271&refer=ZmE0MzEwY2UtM2RiNy00ZTEyLTlmODctYzc4ZDE2ZWQ1ZjMx&y=0
 #EXTINF:-1 tvg-name="TVBS食尚玩家" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS食尚玩家.png" group-title="asia",TVBS食尚玩家
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii31
 #EXTINF:-1 tvg-name="TVBS台劇台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS台劇台.png" group-title="asia",TVBS台劇台
-https://4gtvmobile-mozai.4gtv.tv/M_JpLHsDRKz6OPrdAWb_r3taQDS8Btsu__LcxGSuRKw%3d/index.m3u8?token=Qf_FuZq030bUzT0sxPzJdw&expires=1765520619&token1=l0szJ2Z4A0tVRng1FoyMmw&expires1=1765520619&refer=MjFhMTM4YTItZWQxMy00ZmVjLTk1ZmItNGE2YzE0YTlmMzRm&y=0
+https://4gtvmobile-mozai.4gtv.tv/1Bt0mVqz0ZiFoXXULQ0jLBRuloSmvtiGxT_EQ_QprLM%3d/index.m3u8?token=WdCNN499drDYx12A5_K0NA&expires=1765531227&token1=hhFTiaazF5mgaERUL1Tb3Q&expires1=1765531227&refer=YWUyYzE3MGYtNzU5MC00MmE0LTgwMzItY2ExMzc2Y2NiMzRl&y=0
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="asia",ViuTV
 https://smt.passwdword.xyz/Smart.php?id=viu1_twn
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png" group-title="asia",ViuTV
@@ -138,51 +138,51 @@ https://smt.passwdword.xyz/Smart.php?id=viusix_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://ofiii.passwdword.xyz/mytv265.php?id=P
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
-https://smt.passwdword.xyz/Smart.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="asia",明珠台
+https://smt.passwdword.xyz/Smart.php?id=pearl_twn
 #EXTINF:-1 tvg-name="爱尔达影剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达影剧台.png" group-title="asia",爱尔达影剧台
 https://smt.passwdword.xyz/Smart.php?id=eltayingju_twn
 #EXTINF:-1 tvg-name="爱尔达综合台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达综合台.png" group-title="asia",爱尔达综合台
 https://smt.passwdword.xyz/Smart.php?id=eltazonghe_twn
 #EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/愛爾達生活旅遊台.png" group-title="asia",愛爾達生活旅遊台
-https://4gtvmobile-mozai.4gtv.tv/VUhKjgxjhYCNEFBawECJWW9ugaubjiD1vedTyKx-mQg%3d/index.m3u8?token=qJ98JByK2U0VF1CLQyimzA&expires=1765520189&token1=SmAfOvRIgh1jf05hCWR4Sw&expires1=1765520189&refer=MzkxZWI1ZWEtZGJjNi00ZTVjLThmNzAtMDBiNGRkMmRmY2Vl&y=0
+https://4gtvmobile-mozai.4gtv.tv/m_fA7medwVt2jvmsYAlFvZBFnBkITzDbaPLpdHjM4-8%3d/index.m3u8?token=WSYp18yLwS5P7K0P22Fj_w&expires=1765530854&token1=SCqDD8RHikbeKnASI09yhQ&expires1=1765530854&refer=OGY1NGI4MWMtNTk0Mi00ZjEzLWI3OTUtNTc0NWY5MjJmYjdj&y=0
 #EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dreamworks.png" group-title="asia",Dreamworks
-https://4gtvmobile-mozai.4gtv.tv/CDIyffWxWBLv6IZF_kX4x0fj454UvOjE6O7Cvd-c4B4%3d/index.m3u8?token=4r0fnTV6fZLSTBVwhPah8g&expires=1765519693&token1=VKWRih6zwm_YYdFVgFT4IQ&expires1=1765519693&refer=ZTg3NmE2OTgtMmE0ZS00NWY2LWIyNWQtMmJiOGUwNjMwYTNh&y=0
+https://4gtvmobile-mozai.4gtv.tv/Tb89BJWgOWeIgBv2z3CCEG5LpTnFcFNeFfMMNSH5JRk%3d/index.m3u8?token=zHb0l7JZtbOQOxJelMLt3g&expires=1765530366&token1=JJr0gtOvqXHa8rG0qrqy0Q&expires1=1765530366&refer=N2RlOTZlYTktYWE5NS00NDM4LTk0NGMtZmI1N2E3YzM2YjAw&y=0
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
-https://4gtvmobile-mozai.4gtv.tv/dIggyezWC15c3qZ2A4bChOfaOF4gQDbQoZ-XrHso5s4%3d/index.m3u8?token=g89Gz42KsKl7w8_0pqvdhQ&expires=1765519651&token1=QxR-ca3Gq8eitAe0CKT8rg&expires1=1765519651&refer=ZGVhNzJhOTAtMGU5Ni00Mjc3LWIxNWEtMTk3MWQzNDg3MjEw&y=0
+https://4gtvmobile-mozai.4gtv.tv/ukcBgGPJGqOf1v61tIRo6CPPI4k1DxDhZI1EVDOTRqI%3d/index.m3u8?token=o8-zIgf9udxegAN4uaO-3Q&expires=1765530346&token1=QCVqBvu4TEkSdRj3VK_Jng&expires1=1765530346&refer=YWY5MzZmNWItMGY0Yy00YWQ2LWEyOTAtMjg5OWU0YjRlNWM0&y=0
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn20
 #EXTINF:-1 tvg-name="History" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/History.png" group-title="asia",History
-https://4gtvmobile-mozai.4gtv.tv/Spc474jQMk_budeNSD-wqHtA4AuHN2FD54ORkyJjSBg%3d/index.m3u8?token=6qtsSJ-HShss3rFyBQJ27w&expires=1765520181&token1=28M4GQ70hhrpGxV7VDIIsQ&expires1=1765520181&refer=Y2RiZTRlZWItYmFjZi00ZWM4LThmNDYtMjU2YTgwM2RlMzUw&y=0
+https://4gtvmobile-mozai.4gtv.tv/4J6xjvqyJioauFitbGEeUfi4wPCtqxDkZe-tIiNlNuc%3d/index.m3u8?token=5saJQasdsXMaZA3BeWBH_g&expires=1765530845&token1=8PAHmVaH6MpBFWRA5xexjg&expires1=1765530845&refer=OWM0OWM0MzYtZDQzZi00NDViLThlN2QtMzA0M2EzZTEwZmE4&y=0
 #EXTINF:-1 tvg-name="Hits" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hits.png" group-title="asia",Hits
-https://4gtvmobile-mozai.4gtv.tv/JCdPTAM5GJhTDJTTEu-ow8LpndsxvRSP2x0n0pUteCQ%3d/index.m3u8?token=9vsTVWajtyCi4uiipw8ToQ&expires=1765520254&token1=fXhgPmC7icl05jvuedAoOA&expires1=1765520254&refer=MTMxYTEwNzgtZWQ5OC00YjE3LThmYzUtNTBkNDIwOWY2NjJk&y=0
+https://4gtvmobile-mozai.4gtv.tv/vnOkWCHlCk5MO5IkPXUberlFYRGPtz1I_cMMNyAZh6s%3d/index.m3u8?token=SYLZ9hpCl7t7V9cPOJbITQ&expires=1765530904&token1=8DaNYmlGRaQPensqPtYTlw&expires1=1765530904&refer=ZTU3YjJkMWQtMTY1MS00MWQwLTg4NWEtZmRlM2ExODRkZDg3&y=0
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
 https://ofiii.passwdword.xyz/mytv265.php?id=CNIKO
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
 https://ofiii.passwdword.xyz/mytv265.php?id=CNIJR
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
-https://smt.passwdword.xyz/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii218
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIKO
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIJR
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickjr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickjr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nick Jr.png" group-title="asia",Nick Jr
+https://smt.passwdword.xyz/Smart.php?id=Nickelodeon
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大第一台.png" group-title="asia",八大第一台
 https://smt.passwdword.xyz/Smart.php?id=badafirst
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大精彩台.png" group-title="asia",八大精彩台
-https://4gtvmobile-mozai.4gtv.tv/1W5U_FTFwZSrwBADKPsiHuLQjrFMvXcv6omkeoUpKr0%3d/index.m3u8?token=Fcd1oXZuxhpxLDzYyKkmSA&expires=1765520271&token1=oTGldX3GKAzKi69cKsm6lw&expires1=1765520271&refer=NjUyZmM5ZmYtYjExYi00ZGFkLWE0NzYtYjVlNjkxY2M4NTNh&y=0
+https://4gtvmobile-mozai.4gtv.tv/1-pf0rRkxSEq1p6T4swI67hsA6sGqKYu-AAPsjPPOVY%3d/index.m3u8?token=JdO48HvLu9CkAuVbMVpyLA&expires=1765530912&token1=MTxfvb3ia1HyoCsNVJjETQ&expires1=1765530912&refer=Njg0OGUxMjctNjBhYi00OTIzLWI2Y2MtY2E5YWJjODQ0Y2Fl&y=0
 #EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大精彩台.png" group-title="asia",八大精彩台
-https://4gtvmobile-mozai.4gtv.tv/1W5U_FTFwZSrwBADKPsiHuLQjrFMvXcv6omkeoUpKr0%3d/index.m3u8?token=Fcd1oXZuxhpxLDzYyKkmSA&expires=1765520271&token1=oTGldX3GKAzKi69cKsm6lw&expires1=1765520271&refer=NjUyZmM5ZmYtYjExYi00ZGFkLWE0NzYtYjVlNjkxY2M4NTNh&y=0
+https://4gtvmobile-mozai.4gtv.tv/1-pf0rRkxSEq1p6T4swI67hsA6sGqKYu-AAPsjPPOVY%3d/index.m3u8?token=JdO48HvLu9CkAuVbMVpyLA&expires=1765530912&token1=MTxfvb3ia1HyoCsNVJjETQ&expires1=1765530912&refer=Njg0OGUxMjctNjBhYi00OTIzLWI2Y2MtY2E5YWJjODQ0Y2Fl&y=0
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大戏剧台.png" group-title="asia",八大戏剧台
 https://smt.passwdword.xyz/Smart.php?id=badadrama
 #EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大娱乐台.png" group-title="asia",八大娱乐台
@@ -190,19 +190,19 @@ https://smt.passwdword.xyz/Smart.php?id=badaentertain
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合台.png" group-title="asia",八大综合台
 https://smt.passwdword.xyz/Smart.php?id=badazhonghe
 #EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大綜藝台.png" group-title="asia",八大綜藝台
-https://4gtvmobile-mozai.4gtv.tv/-Nr1H5QgTOAECHFk4UIDiKNV5vRGXY9KvR_9rm3jybY%3d/index.m3u8?token=hOaA4xBp8rHRMF1cbuHvgg&expires=1765519513&token1=YVzDfM50L_ufGDVcd536yQ&expires1=1765519513&refer=YjI5OGU5MDMtMGZlMS00ZTg5LWE2NmEtM2M2OTRmOTcyZmY0&y=0
+https://4gtvmobile-mozai.4gtv.tv/4Lqsn73IGZ0whnwRtkJ3uhF-p-tuHvJqgklX5CKBbJE%3d/index.m3u8?token=DiNYTy332qM2UfV5uZCd6w&expires=1765530253&token1=dyxg7dSpau6Ctg35ItMO9A&expires1=1765530253&refer=N2MxZGUxZjctOGM1ZS00N2NlLWE1MmYtY2ExZGQ3MzA1YWYw&y=0
 #EXTINF:-1 tvg-name="超人力霸王台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/超人力霸王台.png" group-title="asia",超人力霸王台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii187
 #EXTINF:-1 tvg-name="車迷TV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/車迷TV.png" group-title="asia",車迷TV
-https://4gtvmobile-mozai.4gtv.tv/md13QG4SbM6s3jxSpKLj-oNFVjBl7WvaitzVQlwh_30%3d/index.m3u8?token=2j0-TslPPhF8vufhZIqJOA&expires=1765520094&token1=CJ6uzIYeAJ7kkQsaWkEr0w&expires1=1765520094&refer=YTMzZmM4MTktOGU4ZC00MDliLWJjYzUtN2QxMWFkYTFkYTQy&y=0
+https://4gtvmobile-mozai.4gtv.tv/Ue9ROSIHw0IOIcgNKZcQpC3RSF1pFcYyEj25s6N3tu8%3d/index.m3u8?token=j1R06RDJBPrFdfdvGxfeWA&expires=1765530745&token1=V988XiFKnxethwolZMtQ5A&expires1=1765530745&refer=MmNhMzMyN2UtY2ZmYS00Mjc5LThkMTktZDQ4YTY0Nzg4ZjUy&y=0
 #EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛電視.png" group-title="asia",大愛電視
-https://4gtvmobile-mozai.4gtv.tv/H7mAJoIYvhz5XplIaW_a99xuL3eth6VBiNu0PNnh7TY%3d/index.m3u8?token=oAI7mT9C7Xse8abYM7m_Pw&expires=1765519449&token1=Q9Os5TT6BNNXTMvXFJB83w&expires1=1765519449&refer=Njc3OGI5NWUtYzU3YS00NzA3LTljMzMtZGZhOWQyODNhMWFk&y=0
+https://4gtvmobile-mozai.4gtv.tv/A6ByW7meNtGGrQYs5ad4YYLRsijZgjK7y4sk50EZvjA%3d/index.m3u8?token=FVhelggw821SEEdL3xU47g&expires=1765530212&token1=bJp_jEHZ0SQVbt9TIWb41w&expires1=1765530212&refer=MWNkYTg0NTMtYTg0ZC00MDJlLWE5ZmMtN2U3NzE4Y2EwYjhm&y=0
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
-https://4gtvmobile-mozai.4gtv.tv/A3VK1rHHy8epzypU_PQQ3gaAI_R2IjuD2_RNnv9qSDI%3d/index.m3u8?token=kOYN_9V1OFWwpVJmIl4ppw&expires=1765520488&token1=hNJ-f9yDcrNhBZLhtdNCOA&expires1=1765520488&refer=YzBlYzY1ZGEtNjNmZC00ZDhkLWJhNTMtNjY2ZmU1ZTVkNjkw&y=0
+https://4gtvmobile-mozai.4gtv.tv/WFioJkNEaELpCI3SVdjnphg9rgE_w87xKMgq1TX9yhU%3d/index.m3u8?token=j6CLJPGs0TOm9TBv3M_8_A&expires=1765531123&token1=syDYN58VZlvveqVxQzI5KA&expires1=1765531123&refer=NTc0MTg4ODgtYTk2MC00OGVjLTg5NDMtMTIxNTU0NDJkMDNm&y=0
 #EXTINF:-1 tvg-name="電動車時代" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/電動車時代.png" group-title="asia",電動車時代
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii215
 #EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/電影原聲台CMusic.png" group-title="asia",電影原聲台CMusic
-https://4gtvmobile-mozai.4gtv.tv/Hu46YP-OLi-iMISjW15YOG6UfpOgaFO_Ly7CrKNkJSU%3d/index.m3u8?token=tpXNG80IPvxC6oNtqnU9og&expires=1765519978&token1=bP-CaVslAlHPRANWv7INtw&expires1=1765519978&refer=OWRiNThhNjMtZjE1Ni00Y2ZhLTgzNmYtYzE0M2ZiOGUyNjY2&y=0
+https://4gtvmobile-mozai.4gtv.tv/G6e9FwqtRt1acrBnsIhBSfc8t65XlL2GW0llfVDtOmA%3d/index.m3u8?token=yqWfkvTDz1XYcS1wv0-sfw&expires=1765530640&token1=Ga8pdGNaGbBhKFVrYObcnA&expires1=1765530640&refer=YTg0ZTMwYjUtNGU4Yy00MzJhLWJlOGQtZjRiYTJiMzFiODlh&y=0
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="asia",东森超视
 https://smt.passwdword.xyz/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧台.png" group-title="asia",东森戏剧台
@@ -220,21 +220,21 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii24
 #EXTINF:-1 tvg-name="公視金獎台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/公視金獎台.png" group-title="asia",公視金獎台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii13
 #EXTINF:-1 tvg-name="滾動力rollor" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/滾動力rollor.png" group-title="asia",滾動力rollor
-https://4gtvmobile-mozai.4gtv.tv/GtZbrDDFIMPtf-RPNIS5sFANpTi7kTUu1MgRBRLf63c%3d/index.m3u8?token=U0bJ4PNsaTem8NTO5tU7cg&expires=1765520139&token1=r6uEt_Em4kVHRqQaOOuW0g&expires1=1765520139&refer=ODU1MjljNzctYjE5MS00YmIwLTlkMDUtZGY0YWJiMGQxNWYy&y=0
+https://4gtvmobile-mozai.4gtv.tv/nlg2_rMNnDVvUVMWwwyALZ6J0SpR2GHWo9bopl1Joaw%3d/index.m3u8?token=atjpSEUL0Ibs2nzg-izDsQ&expires=1765530802&token1=aXMIiPEqV22t0aeLkPT6_g&expires1=1765530802&refer=MTYxMjM3ODAtYTQ4ZS00OTFlLWFmMjMtYThiZGM0ODExMjk4&y=0
 #EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/韓國娛樂台 KMTV.png" group-title="asia",韓國娛樂台 KMTV
-https://4gtvmobile-mozai.4gtv.tv/MMWAO5xMWQLhqKF16MfxOD-p06Vm1Cj93w6vbs8beZ4%3d/index.m3u8?token=B6cYMcZoBUTa8eGrxXbl2Q&expires=1765519955&token1=oKLOmHQ_jXTjXjsFCXFYKg&expires1=1765519955&refer=NTE2MGVjZTAtMzI0OS00MDFmLTk0MzktZWEyOWZiZjczYjcy&y=0
+https://4gtvmobile-mozai.4gtv.tv/VD2DpSrXrvcw7iV41xdLztDBNmTXwaZDiNF8zmRffeI%3d/index.m3u8?token=qWxkb6cEZzZqDevajge5Eg&expires=1765530606&token1=4oAqAREWt-noBHWdzJQGSg&expires1=1765530606&refer=MjUzNTI0MzItMTRhOS00YmU0LWFmZWEtNzk0MDVlZTI5OGFk&y=0
 #EXTINF:-1 tvg-name="寰宇全視界" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇全視界.png" group-title="asia",寰宇全視界
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii204
 #EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/經典電影台.png" group-title="asia",經典電影台
-https://4gtvmobile-mozai.4gtv.tv/DX682NOBCb_1e-todap03CBgELnqnqG-ZMUeg5Tltrg%3d/index.m3u8?token=CapTJFigwsOW8Pv1a1_5IQ&expires=1765520636&token1=CFmiknlZHzf45-1q9npqiA&expires1=1765520636&refer=NTc2MzRmNDgtZjU5MC00YWIxLTk3MGMtNzUzY2JkMjM0Yzdj&y=0
+https://4gtvmobile-mozai.4gtv.tv/BbH75mUXnx2WCKPPLnL0uSniz0bcHj-9GnSKMW2xG4M%3d/index.m3u8?token=JTBq7TOvxk7ezhHlYJjO6Q&expires=1765531236&token1=TeIFjPjYP4us80FmuR4kdA&expires1=1765531236&refer=ZWQzY2QwNjEtNzJlMS00NzY4LWJhMTQtMGEzNTkwNGYzNWIx&y=0
 #EXTINF:-1 tvg-name="經典劇場" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/經典劇場.png" group-title="asia",經典劇場
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii38
 #EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/精選動漫台.png" group-title="asia",精選動漫台
-https://4gtvmobile-mozai.4gtv.tv/wQtv6q8rO7fRXd-GOj6GQWWzXfOFF8hH3rlV01zbNcI%3d/index.m3u8?token=p9Aafk8k4gRNXvtiqSr-CQ&expires=1765520653&token1=Bjzy9jgCY0dOJEUeP0py8w&expires1=1765520653&refer=ZWExYzc5MzctMDQ5OS00MTZjLTliMTktZTI1MmU1ZjQ2M2Vi&y=0
+https://4gtvmobile-mozai.4gtv.tv/Mp1GP5Cgkz1vZNx0LNY0idTPyVzNdTOzxhRmqu_lFTg%3d/index.m3u8?token=N_mgd1PpA_ziH2PkHwUGZA&expires=1765531258&token1=82CRNLj8Ej_DiHbCM6DNKA&expires1=1765531258&refer=MTMzOTBjYjYtOGViNy00YzRiLTg3ODQtMWMwNThlYjQwZmQ3&y=0
 #EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="asia",靖天電影台
-https://4gtvmobile-mozai.4gtv.tv/7Uxfnkxa-ZKAiV5ZtEa8ATHBvbzAnmThNO10aegRkC0%3d/index.m3u8?token=pFAQWzTAn6Z6Xbx08WIDFg&expires=1765520408&token1=4JXUntL7G5foTDXotU-nVQ&expires1=1765520408&refer=MzdmZjkwYzgtZmMxMi00YjAyLThmNWEtMzRhNjAyYTg1Zjhl&y=0
+https://4gtvmobile-mozai.4gtv.tv/chedsgNbmeC6WUN42bwVP7Oe1qB4DaaNs9fK4OEtZ1U%3d/index.m3u8?token=_viVOsZphB6cpHNn9wiUvA&expires=1765531055&token1=_3xuHv8jM2fCzyxjGAdPlQ&expires1=1765531055&refer=ZmQxZTFmY2MtMTAyOC00YmYyLTk2NzItNjc2OTYzYmYxZjY0&y=0
 #EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天欢乐台.png" group-title="asia",靖天欢乐台
-https://4gtvmobile-mozai.4gtv.tv/Hk-5AthURba8BBNkWTaTzVqPcmz2IJZnYgeSeHUh8k0%3d/index.m3u8?token=C9HOc0Mx7Kra66sFUdIbDA&expires=1765519929&token1=5P9fXIHq_-ruhBZ9nWjpTA&expires1=1765519929&refer=N2I4NmY0ZjctMGVkYy00YTc0LWFkZjctZWQ1ZGFkZWQ3Y2U1&y=0
+https://4gtvmobile-mozai.4gtv.tv/qB1KTgyM61CysOH_uF5Ru5QQmrTztQYIV0JiZxfq5cY%3d/index.m3u8?token=igeNwODrvJAgpWUI7QdkrA&expires=1765530582&token1=uGizeXhKeAcmcRM6M_9lDQ&expires1=1765530582&refer=NmEyMzdhZWItYTA1MS00NGQ0LTkxZDktODgxMGYyMzg4NThh&y=0
 #EXTINF:-1 tvg-name="九九敬老頻道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/九九敬老頻道.png" group-title="asia",九九敬老頻道
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii99
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥时代.png" group-title="asia",龙祥时代
@@ -248,19 +248,19 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii74
 #EXTINF:-1 tvg-name="歐飛動作電影台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/歐飛動作電影台.png" group-title="asia",歐飛動作電影台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii75
 #EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/人間衛視.png" group-title="asia",人間衛視
-https://4gtvmobile-mozai.4gtv.tv/LeB04eoeppTHTqVewI4Ij0HJPqvt_SIBl6t9hmGg5Bg%3d/index.m3u8?token=Q29mNw49PT-J4-n6ViWZkg&expires=1765520505&token1=n68ovsWP6aK5eliQnOfjvg&expires1=1765520505&refer=MzViMWRiNjktZjkwOC00ZmZjLThlZDAtMTZmYWYwZWM0Y2Rl&y=0
+https://4gtvmobile-mozai.4gtv.tv/oaxyKcUfZgtjgQ8iZv2UrzdLJ5CuWknOCH98WgGjVXg%3d/index.m3u8?token=zrILI_suws9objDtj98pNQ&expires=1765531139&token1=fXCGODiizK-BT_7qojzfVg&expires1=1765531139&refer=N2Y1ODFhODgtOGU3My00ZDE3LTlhNzctNzI4MzQ5ODk4ODA3&y=0
 #EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会台.png" group-title="asia",三立都会台
 https://smt.passwdword.xyz/Smart.php?id=sanlidouhui
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新聞iNEWS.png" group-title="asia",三立新聞iNEWS
-https://4gtvmobile-mozai.4gtv.tv/HPwIjm1clyn821OMMNtG12IIJGE0SCSFK4YNNv59cxw%3d/index.m3u8?token=fFRCGUpra5cV7ivaZJtopA&expires=1765519784&token1=j5Y5a8BNhh15giLf2STWAQ&expires1=1765519784&refer=ZjQ0ZThiNTItMzU0OC00NjA2LThkNjktMDZkMjYxNDA4MWUy&y=0
+https://4gtvmobile-mozai.4gtv.tv/oq0dAMIvi11ChgJ5G6yAzZJsewZ7cGAP2ImM8zDGE0E%3d/index.m3u8?token=l9SJYqGzeOvQP0-LNskC3A&expires=1765530426&token1=xg7Pbq6SapGI8c_ZWt4s-Q&expires1=1765530426&refer=OGMyZmNmMDYtNWQ4MC00NmJlLWI0N2YtNGFiNTg3OGQzZWU5&y=0
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新聞iNEWS.png" group-title="asia",三立新聞iNEWS
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
 #EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新唐人亞太台.png" group-title="asia",新唐人亞太台
-https://4gtvmobile-mozai.4gtv.tv/XPl1whbUcOuEAToRn1zqAg7ue8vvbiLYn6tvVXxc1zw%3d/index.m3u8?token=gVh6lqM9T92VVWJxe8TkdA&expires=1765519568&token1=cU8dtelkSulCo88WrD3MOw&expires1=1765519568&refer=YjdiNWYxZjctZDE4Yi00MDY0LWFiNjYtN2Y3MGRiZWFlMzMy&y=0
+https://4gtvmobile-mozai.4gtv.tv/9blfzoeLFNb5kVb4OtTfbXoItDbebz_0zdrLnpcSMbs%3d/index.m3u8?token=dhB08JT6G3SS9be7a6jorg&expires=1765530298&token1=01Ehnjg_HP8M_TnzjtT99A&expires1=1765530298&refer=MWUyODdkMWUtYWZhYy00OWRlLWI4ZTctMTNiODk5NDMyMDJk&y=0
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/影迷數位紀實台.png" group-title="asia",影迷數位紀實台
-https://4gtvmobile-mozai.4gtv.tv/74GSykylJeG07VYCZjaAJTt3DTN1NBNS_-4oCJFkyP0%3d/index.m3u8?token=axcWzi5NtpUPG3Uo0KcAnw&expires=1765520338&token1=e0PKjrDu85-sj4iTmapZiA&expires1=1765520338&refer=YWQ3NzYzNmUtNTc2OS00MzM4LTg0ZWYtNDQ0NWJjZjdhODVl&y=0
+https://4gtvmobile-mozai.4gtv.tv/SmoeQQoadOxA-ck-93xzb83jqfmjsFqLcW6NvKrNgYE%3d/index.m3u8?token=_lbNag-fPTRI1Ox6EZ9Yug&expires=1765530970&token1=sAjMP9juil4PTC48D0n8iA&expires1=1765530970&refer=MjI0ZDhjMzgtZTQzYi00MDNmLWEyY2ItMGRkMDI2ZGRiZDYy&y=0
 #EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/原住民族電視台.png" group-title="asia",原住民族電視台
-https://4gtvmobile-mozai.4gtv.tv/HoVaYkdu6pPzo6g1O9Ovo7L62VFjSTMHG-57c374EFU%3d/index.m3u8?token=ZBJ0bUn7XCTmEl-E4QIGVQ&expires=1765519594&token1=HDSnzcqkyo5eh424HSkWVg&expires1=1765519594&refer=YmNmMzZhMjMtNmNkNS00YmNhLTkyZmQtYmQzZWIzZTJlOWQz&y=0
+https://4gtvmobile-mozai.4gtv.tv/Js2RiQaFTa1Eq_dT46fDlmz96H5f3_CqaCjqE06NfIY%3d/index.m3u8?token=hxlVOP7nDu48Jxp10nspQQ&expires=1765530318&token1=Tan3mfnOl_xQJeSQWQRk9w&expires1=1765530318&refer=YTkyZTllNTEtMWZhOC00NmRjLWE4MDktZmEwMTg2MGQ2NTY3&y=0
 #EXTINF:-1 tvg-name="中國旅遊大探索" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中國旅遊大探索.png" group-title="asia",中國旅遊大探索
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii247
 #EXTINF:-1 tvg-name="中國美食大探索" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中國美食大探索.png" group-title="asia",中國美食大探索
@@ -268,47 +268,47 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii246
 #EXTINF:-1 tvg-name="中華一番(中文版)" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中華一番(中文版).png" group-title="asia",中華一番(中文版)
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii168
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視菁采台.png" group-title="asia",中視菁采台
-https://4gtvmobile-mozai.4gtv.tv/dkcp4ERcYRJ123sgSl6rqOJDiTkwRK7fICu95Te_iY0%3d/index.m3u8?token=DHTDJTMu8qwv24qUvhxJ_Q&expires=1765519529&token1=umt1DwbDmMUNJpODNw6srA&expires1=1765519529&refer=MmQxM2U5NGYtMjE1Mi00MGY5LWEwZjItMzc0NjU5NWYyNGQ2&y=0
+https://4gtvmobile-mozai.4gtv.tv/yfmXypXWngaDAQmWlopLLr-DUxhgdskOlY-5uvMwEZc%3d/index.m3u8?token=KPBoOJDX_rfMuwxewuE-Hg&expires=1765530265&token1=D417ldi98pNwzwu4VGQSpQ&expires1=1765530265&refer=YTJmYTk0ZmMtYTlmNi00ZTAwLTgwOGQtYTNjMzViYTI5Mjgx&y=0
 #EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視經典台.png" group-title="asia",中視經典台
-https://4gtvmobile-mozai.4gtv.tv/Ci3L9NacFstobu3Td8oahsv3USBhXS-KaX1ZwNoEtgE%3d/index.m3u8?token=bGSMCMB00MrvzIjTejt3lg&expires=1765519466&token1=3za6oIXlGfJNgzIl1AZjeQ&expires1=1765519466&refer=ODNiYTI4NjItN2NhMy00ODg5LWFjNmQtM2JhNDI0ZDZjNzZi&y=0
+https://4gtvmobile-mozai.4gtv.tv/35Xst4yqefYhhjbAumo1WuJE3if_ssp8KSaYOXC9dlM%3d/index.m3u8?token=hDJ_txOsvqLXwBZKFtZRhA&expires=1765530226&token1=crTOPy9SU8FM5mfwqSFkPg&expires1=1765530226&refer=ODVlNmUyZDMtZDNmMS00ZTAxLTlhYWUtMTU2Zjc3ZDU3YzIw&y=0
 #EXTINF:-1 tvg-name="中天亞洲精采台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲精采台.png" group-title="asia",中天亞洲精采台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii36
 #EXTINF:-1 tvg-name="周星馳台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/周星馳台.png" group-title="asia",周星馳台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii73
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://4gtvmobile-mozai.4gtv.tv/k7A1taOVUswwBHU4cnL7FiFQ7RcU-hVhF5m35aMoOmg%3d/index.m3u8?token=pRgJxbNSmLfhsUsyelBQJw&expires=1765520573&token1=Z14C9J0vP53jRtCyi4Dqtg&expires1=1765520573&refer=NGIyMzFjNTUtNTAwNy00MzI2LTllMTgtOTZiZDE2OGRiNjAx&y=0
+https://4gtvmobile-mozai.4gtv.tv/Q0vAdlIN_YfvNdY_K8YbaD1iSnW_rF7_qEOIK2pfI50%3d/index.m3u8?token=0o3Zaf1qqQJqwE6hgcW_Hw&expires=1765531189&token1=O-KbMF90_ekzybp_V7SvOw&expires1=1765531189&refer=MGRjZjFiZDYtOWE0NC00YjBjLTkyMWQtYjQ5NDgyYjVmOWYz&y=0
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://ofiii.passwdword.xyz/mytv265.php?id=CDW1
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smt.passwdword.xyz/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
-https://smt.passwdword.xyz/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smt.passwdword.xyz/Smart.php?id=dw_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="asia",DW
+https://smt.passwdword.xyz/Smart.php?id=dw_twn
 #EXTINF:-1 tvg-name="AEC" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AEC.png" group-title="asia",AEC
 https://smt.passwdword.xyz/Smart.php?id=AEC
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AOD.png" group-title="asia",AOD
 https://smt.passwdword.xyz/Smart.php?id=Aodhd
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Arirang.png" group-title="asia",Arirang
-https://4gtvmobile-mozai.4gtv.tv/ICxZpfjysh1aLTc-jTK2OjR5vR99GXaerO722BNqwUo%3d/index.m3u8?token=as9g89LuIbE7kqeS-g7Jlw&expires=1765519576&token1=8Ol-f5ggXgoYqOj_rlG56g&expires1=1765519576&refer=MDk4NDI4OTQtYjFmMi00Y2E2LTlmYzMtYWNhY2M2Mjg1NGU1&y=0
+https://4gtvmobile-mozai.4gtv.tv/SjDcQDMYUZX1ofdKD0aAcQydGElvaNRU8M8S8joZDMw%3d/index.m3u8?token=cFqYLoQBX_EQ4j-QozscZw&expires=1765530305&token1=_Vq53P32mrdYJN1goRls4w&expires1=1765530305&refer=MjQ4YzJhMDQtZmVlZS00MjU1LThiZTYtN2FlNTM4ZTdhZWZl&y=0
 #EXTINF:-1 tvg-name="ASMR行車紀錄" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ASMR行車紀錄.png" group-title="asia",ASMR行車紀錄
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii94
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
 https://ofiii.passwdword.xyz/mytv265.php?id=CAXN
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
-https://smt.passwdword.xyz/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="asia",AXN
+https://smt.passwdword.xyz/Smart.php?id=Axn
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV.png" group-title="asia",Bloomberg TV
-https://4gtvmobile-mozai.4gtv.tv/xOVX65CNzceWlvVj5Xe9JrUNE1AxDb2-yv3x3iyCWGg%3d/index.m3u8?token=8n9sUBfzckCDZpkgiCzFqA&expires=1765519835&token1=pDhatF5LrWwfK1XsIF3pZw&expires1=1765519835&refer=MTNlN2U5ZGQtZWEwYy00ODA3LWFhMjAtMDljZWVkM2IwZjI0&y=0
+https://4gtvmobile-mozai.4gtv.tv/6vwitp5KhWBnMkRMJ1qaiRPkKMT-LE8Ov4rctICJl5I%3d/index.m3u8?token=iYDbIFyVEgd-crIHo9erPQ&expires=1765530463&token1=H6K6H3CUq0Pj3kWoH1vCIg&expires1=1765530463&refer=NzYwYTFlZDMtMTBkOS00YTQyLTliYjQtNWI0M2JlYzQwN2Fh&y=0
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="asia",CGTN
 https://smt.passwdword.xyz/Smart.php?id=CGTN
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="asia",CGTN
@@ -316,9 +316,9 @@ https://smt.passwdword.xyz/Smart.php?id=CGTN
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="asia",CGTN
 https://smt.passwdword.xyz/Smart.php?id=CGTN
 #EXTINF:-1 tvg-name="CI" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CI.png" group-title="asia",CI
-https://4gtvmobile-mozai.4gtv.tv/cOuv8yBPuqscbP2tK21cSIxsvwOtLcncMrlZ-x6iJ-M%3d/index.m3u8?token=rtPATP68st_umts-JBG_fA&expires=1765520314&token1=c6zVoE4sYlR8oOAszEKW3A&expires1=1765520314&refer=MjczZDRkMjktYzU3MS00YzYyLTlmYWMtNWI3NzU2ZGI3YmRj&y=0
+https://4gtvmobile-mozai.4gtv.tv/1V7mCbMwY46MPfM5ukjO0tFAUSHbkxfGz8fYZLCjh9I%3d/index.m3u8?token=KeBVbbcWbUc0x8H3yHjP3w&expires=1765530944&token1=ThVuz-wEMW9eb0XU86Ej9Q&expires1=1765530944&refer=ZTVjYTRlNzItM2Q1OC00YWUyLTllZjYtZmVlMjdiMTU2ZDIx&y=0
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CinemaWorld.png" group-title="asia",CinemaWorld
-https://4gtvmobile-mozai.4gtv.tv/yxVjdUhdkS175uSh0zrmG8C_rm8di-IvSeOBE7lGFrI%3d/index.m3u8?token=8vfg6ICI2GgAHrTa1xQP4A&expires=1765520433&token1=l9n8DD4dWcgteS6K4riIJw&expires1=1765520433&refer=Y2Q2ODAwNzktZTNlNi00ODFlLTliNWMtOGE4M2Q0Y2NlMWZh&y=0
+https://4gtvmobile-mozai.4gtv.tv/r-AwJDc3UzK4fX1u73qc9C5S9dGHepAaelC6Nyv0HtI%3d/index.m3u8?token=F-YiGXiWnwGM8vgsEJvIUQ&expires=1765531080&token1=F_jjluwz0fvO_jHWON0GSQ&expires1=1765531080&refer=OTUwMGM1MGYtMGY1YS00NWNmLWJiZTAtODZhZGY5NmI2MzMz&y=0
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CINEMAX.png" group-title="asia",CINEMAX
 https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CINEMAX.png" group-title="asia",CINEMAX
@@ -328,7 +328,7 @@ https://smt.passwdword.xyz/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CINEMAX.png" group-title="asia",CINEMAX
 https://smt.passwdword.xyz/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-name="CLASSICA 古典樂" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CLASSICA 古典樂.png" group-title="asia",CLASSICA 古典樂
-https://4gtvmobile-mozai.4gtv.tv/nZaV-QpDvbUs6_wVDcsXb5Oymkx7Kh1pjUmThoYaahM%3d/index.m3u8?token=v4iWeBTixIM5l-aaCnYsYQ&expires=1765520028&token1=u11l-gSvRVvLivhZfuoqow&expires1=1765520028&refer=ZWZlNmEzMjktODBiMi00YWZiLThmOGQtOWY0M2VkMDcxNjY0&y=0
+https://4gtvmobile-mozai.4gtv.tv/IR5jrEj3ZepohKUDv8gV32hE1eIg_6m2fpr2uxFDIRM%3d/index.m3u8?token=3O_dGBHyR-cwjHMZFHPzWA&expires=1765530673&token1=4vKkT0iULrkJ3-H0lLkdxw&expires1=1765530673&refer=YjJiMGIxZjUtNGFkNS00ZTBhLThmZjctZjVhYjZhNjU1Njg5&y=0
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="asia",CNA
 https://smt.passwdword.xyz/Smart.php?id=cna
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="asia",CNA
@@ -340,7 +340,7 @@ https://smt.passwdword.xyz/Smart.php?id=Mewatch_cna
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="asia",CNA
 https://smt.passwdword.xyz/Smart.php?id=cna
 #EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC Asia 財經台.png" group-title="asia",CNBC Asia 財經台
-https://4gtvmobile-mozai.4gtv.tv/xBVca06SRo_e3nokb1ZJXB34WiGVK850-Hz2pa0o9jA%3d/index.m3u8?token=PU8VELFvofq_A-d1Bc7sEg&expires=1765520557&token1=3q2n72Ey0gt-KlaZZCcFVA&expires1=1765520557&refer=ZTJlYmM3NmQtMGYxZi00OTJlLTljYjUtODlhODg5OWU2MmI5&y=0
+https://4gtvmobile-mozai.4gtv.tv/2sRzDby9HP9A-gwmFE0ULyg0NA1YmE1eh7-S6wp_AIc%3d/index.m3u8?token=r0LqpwtfhrIkp3fOpzJSdw&expires=1765531182&token1=zIR4R9-vGxMGhMT4oFmGug&expires1=1765531182&refer=YzIxZjViZjgtZTVhYi00ZWFiLWI0M2MtNmM0NTdlYTY0ZTVj&y=0
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="asia",CNN
 https://smt.passwdword.xyz/Smart.php?id=cnn_twn
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="asia",CNN
@@ -354,13 +354,13 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii1048
 #EXTINF:-1 tvg-name="Focus探索新知台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Focus探索新知台.png" group-title="asia",Focus探索新知台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii82
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/France 24.png" group-title="asia",France 24
-https://4gtvmobile-mozai.4gtv.tv/cWDVqha3emUs_XDibZbdqzZ5CBRN9St7eEmf1Jxq4hw%3d/index.m3u8?token=ARQkoD3yYY-HnyVUbTYotQ&expires=1765520530&token1=a5hiRXAQDl2k2lNccbtBIA&expires1=1765520530&refer=ZjhkN2IxZTAtMzY1MC00M2RhLWJiNmQtMThiNjhjODQ0YTYy&y=0
+https://4gtvmobile-mozai.4gtv.tv/6i45MLnk-ZBnLZNvmWX5lTstNAQdOROYgexeUOmqIFg%3d/index.m3u8?token=72e7RVrtdSkVdJYaZv_bTA&expires=1765531157&token1=JKqW6kDtO3N_OWm8cReovg&expires1=1765531157&refer=NjU2YWRkMTItNzMxOS00NDkzLWJkYTMtNTlkN2M0ZmY5ODM5&y=0
 #EXTINF:-1 tvg-name="fun探索娛樂台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/fun探索娛樂台.png" group-title="asia",fun探索娛樂台
-https://4gtvmobile-mozai.4gtv.tv/xZa0TNPCq1mVH9ZC7NEyb8Y6WAKtYzyiwq9K0YbvS2s%3d/index.m3u8?token=4BHraIwulsY3xayOzlWEvA&expires=1765520158&token1=PO_GtTBeCPiHlEtheWFJkg&expires1=1765520158&refer=YmI5ZDgzMGUtOWQ4Ny00MGYyLTg3Y2UtNmQ1NDA1YjU5Y2Yx&y=0
+https://4gtvmobile-mozai.4gtv.tv/JQ0aCfue-w2Uvlii6XMBJEwWUofA_4nJ5C99Q-z0ab4%3d/index.m3u8?token=hZOUZ6rAMtYAI8KRnR3Ykg&expires=1765530819&token1=3NvdMBo3O3kaNkz3L2QWiA&expires1=1765530819&refer=Y2IwMDJhNjQtNGY5Yy00YTIyLTg2YWMtYzlhMzM0ZmE3Njgw&y=0
 #EXTINF:-1 tvg-name="GINX Esports TV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/GINX Esports TV.png" group-title="asia",GINX Esports TV
-https://4gtvmobile-mozai.4gtv.tv/_79b6v0O4vPayrXLR8_GJM2lrBl1B2fKYIH0i_ZNT7k%3d/index.m3u8?token=hv6MIU46mbCzVbdCAT6w-A&expires=1765520104&token1=qCeXWnyxKs8EMlyiIjQyEg&expires1=1765520104&refer=ZjgyNjlhY2YtMGYwNC00MTgzLWFlOGItZTFkZTg3MTgxYzM1&y=0
+https://4gtvmobile-mozai.4gtv.tv/FC5O9xB5SxT0bjjzD1Iep-dyja9JFNMTCdR3FMXt2A0%3d/index.m3u8?token=2r-L0RJD-kqSrtNmKaox_g&expires=1765530762&token1=3U2VPvvJT43i26iMQA7rcw&expires1=1765530762&refer=N2ZhMDQ2ODUtMTViZC00NzZkLWE3NTEtN2ZmMTEwZWQ4NGJk&y=0
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="asia",Global Trekker
-https://4gtvmobile-mozai.4gtv.tv/Km_6VKSXyiFk78L_zOyUx3wdbKes_KQA52oHiuuaDjQ%3d/index.m3u8?token=gVq98EmVf9FnAn8Vys4Sig&expires=1765519585&token1=8ctsfLUvQAW8bx9FRAgMyg&expires1=1765519585&refer=ZjE1OWY3OGYtNTVmNy00ZWIyLWExNTYtNzg1ZjhhYWE4NDQ0&y=0
+https://4gtvmobile-mozai.4gtv.tv/0q5nqIkqV3RVY-ae1EMacSdnlPpslG25QdVGaTOKqAo%3d/index.m3u8?token=xsVA6CKO5kKyXaUBH_LpVg&expires=1765530312&token1=lUD_oyNJwM_Rzq3gCPINCg&expires1=1765530312&refer=Mzc2N2U1MmMtYjM4My00MjBlLTlmYTEtMTM5MzE5NWY4ZmRm&y=0
 #EXTINF:-1 tvg-name="Golden 強片台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Golden 強片台.png" group-title="asia",Golden 強片台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii70
 #EXTINF:-1 tvg-name="Golden影迷台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Golden影迷台.png" group-title="asia",Golden影迷台
@@ -372,7 +372,7 @@ https://smt.passwdword.xyz/Smart.php?id=HGTV
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/HGTV.png" group-title="asia",HGTV
 https://smt.passwdword.xyz/Smart.php?id=HGTV
 #EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/INULTRA.png" group-title="asia",INULTRA
-https://4gtvmobile-mozai.4gtv.tv/eyxo_eF3lJp7hVRroEV8CDbweO2-zeGyG2mTWagtkJE%3d/index.m3u8?token=7w4CaXX0IhY-40ObKc-sLA&expires=1765520053&token1=IPA5cwGqrNSyRXZd_OdiKQ&expires1=1765520053&refer=NjhhOTlkNDMtMWQ5Ni00NjIzLWJmZDctNTE0MWJkNjI2YWIx&y=0
+https://4gtvmobile-mozai.4gtv.tv/q0o5MpFbbGQ26SzPkFIBJRI-bOO1ID3bPbBVGpNXKFw%3d/index.m3u8?token=bLFN0mIb67cMpyHrAL6Z8w&expires=1765530691&token1=mIilMD3vcjOMB-4nOdA1Fg&expires1=1765530691&refer=ZWIzZGJkMjEtZWQ0Yi00N2I0LTkwOWUtY2ZlMDdhZDJkOWEy&y=0
 #EXTINF:-1 tvg-name="JOJO 的奇妙冒險" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/JOJO 的奇妙冒險.png" group-title="asia",JOJO 的奇妙冒險
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii178
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/KIX.png" group-title="asia",KIX
@@ -380,19 +380,19 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CKIX
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/KIX.png" group-title="asia",KIX
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CKIX
 #EXTINF:-1 tvg-name="Lifetime 娛樂頻道" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Lifetime 娛樂頻道.png" group-title="asia",Lifetime 娛樂頻道
-https://4gtvmobile-mozai.4gtv.tv/V_NcJ3Hj5mPzLrJ9uTU4DJ5D4dg1Wtl_YE-4Wkh3pMs%3d/index.m3u8?token=d7zn6QYcMVpGVzvtw4tT3Q&expires=1765519969&token1=6UnvJQusVseI6BEe2WJe_A&expires1=1765519969&refer=Mjg2ZTg1MjMtZjcwYy00YmE2LTk3ZmQtNjU2MzZhNDViZTU2&y=0
+https://4gtvmobile-mozai.4gtv.tv/8RD9xNl73g0K_9-Q0MfMhr184JL8ka-WGPVfxphBxd0%3d/index.m3u8?token=aqZ0YKx3EtzYP-CinkIHhw&expires=1765530632&token1=6cs52Ay76jbrK4HWklpDbw&expires1=1765530632&refer=MjM5OTM0ZTItNDE3OC00NjFkLThhMmQtOTU2MGUzNDIzMGQ2&y=0
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="asia",Love Nature
-https://4gtvmobile-mozai.4gtv.tv/zz_OeUB5k2vuKK6bDWb_9rgjYvXXZnwj0J7sKevYHm8%3d/index.m3u8?token=PO3qpAJ6JV1WO0M_2n97JA&expires=1765520174&token1=tZC3Mezw4SekttUCH82fHg&expires1=1765520174&refer=YjhkYmE0MmQtZDk2Yi00ZDk0LTk5YWMtNjkzOTMxNThiZTIy&y=0
+https://4gtvmobile-mozai.4gtv.tv/JrdwuGrzrhzH92SPWhiHH9s0_eixf7qR8uheGpaOAHg%3d/index.m3u8?token=EKjEbflqhx2Gp0IiMQJAow&expires=1765530838&token1=B6KK3mlEDHZJ50l5K7RpMw&expires1=1765530838&refer=NDkzNzYwNGQtNDc3Mi00ODU2LWFlMGUtMmFjZDgzZDI4ZTc1&y=0
 #EXTINF:-1 tvg-name="LUXE TV Channel" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/LUXE TV Channel.png" group-title="asia",LUXE TV Channel
-https://4gtvmobile-mozai.4gtv.tv/kN8a7J1Wo7GCAxuuagc9siNiyclTKnx-UyTGaIaWJog%3d/index.m3u8?token=1c9ZtfivfBXspT-z2wqQWQ&expires=1765520197&token1=8zVazsEcxn7Sb-kpIgTPCg&expires1=1765520197&refer=OWJhY2FkYzAtODY4Zi00MjhlLThkZDYtMzMwYWIyNTlkYjYx&y=0
+https://4gtvmobile-mozai.4gtv.tv/6Tvegn6zPDCz7CabhcpLkHSIPHdHMbgLoIn6hxVXqZE%3d/index.m3u8?token=n-NREIrZoDApcBUm5z8pyQ&expires=1765530861&token1=Pf2LguYydKn56_tg0bVetw&expires1=1765530861&refer=N2ZhYTJhODEtN2QxMC00OWM1LWE5MjUtNTBhMWEzZTJmZWIz&y=0
 #EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Mezzo Live HD.png" group-title="asia",Mezzo Live HD
-https://4gtvmobile-mozai.4gtv.tv/eVgTPCGnWMYO8_cmGFh9PDz4gKSBZUgioA-cU4ETJT8%3d/index.m3u8?token=ldGVYs0yhrkfyDePuNX29w&expires=1765520012&token1=R1_GrDStxN_6SpEYDcHyZg&expires1=1765520012&refer=NGY0NjZhZjEtMDBmMS00N2U1LTkyYzktM2UwOTk3NzBiMmRj&y=0
+https://4gtvmobile-mozai.4gtv.tv/HwVxpuVsDSILZHzQarpFCWjs8iU6T9Qj_NrHvVYiCnc%3d/index.m3u8?token=LlfuXMULeRNvr2qFQFCCZQ&expires=1765530664&token1=tDbJpgE5P3PLOSCIZNvCvw&expires1=1765530664&refer=ZDVjMzExZDItNGMzMi00NDYxLWE2NjgtMDE2YjUzODczNTAz&y=0
 #EXTINF:-1 tvg-name="Mono" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Mono.png" group-title="asia",Mono
-https://4gtvmobile-mozai.4gtv.tv/Aopo57lUJsLPUs_1P6du9_nkYZQFE5w6oSbR5BJTiuk%3d/index.m3u8?token=MYm9uZnXBXqn5vsCzNl7Yg&expires=1765519728&token1=fXyijcDX-HzvhyeJ3Xlmhg&expires1=1765519728&refer=NzhlMzU2NGUtMzJlMC00ZjMzLThhMGMtNTgwODU0N2YwMzE5&y=0
+https://4gtvmobile-mozai.4gtv.tv/tqNGcLIB_J3R9boUgb-hke5VeAbS3ToE3h_QzfN6-qg%3d/index.m3u8?token=TI6kyEK1xIs2bZ-jaOy8OQ&expires=1765530386&token1=WlrZteyGjugHg741sc-tEw&expires1=1765530386&refer=Nzg1ODExOTEtOWI2My00NmNjLTg0N2UtZmIwYTRjMjQ5MWJj&y=0
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Live.png" group-title="asia",MTV Live
-https://4gtvmobile-mozai.4gtv.tv/kbDM9z9dguz90QslS-TMrgnwQNyRzgvFrENf0QIEMsI%3d/index.m3u8?token=G5qTvpyIxHE5STpvbZBU3Q&expires=1765520002&token1=BgPglYj9vbuSDtbaUJ5-gw&expires1=1765520002&refer=NzUwNzg1ODQtODI5Ni00YTgwLTk3MjYtZTg3MTY2YzFmYzMy&y=0
+https://4gtvmobile-mozai.4gtv.tv/ikowS2ZYzItoszIqoVGA8HtU0-hihJgrSW8vid8tqkQ%3d/index.m3u8?token=nCT4FjoSaOpZj-yQZgPQ5Q&expires=1765530656&token1=uDt6XcmbuCVhFevLBAagUw&expires1=1765530656&refer=ZWY5ZjM2ZDktOGRjNy00NzQ0LThiYzEtODQ2MDA3Y2ZkYWE3&y=0
 #EXTINF:-1 tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/My Cinema Europe HD 我的歐洲電影.png" group-title="asia",My Cinema Europe HD 我的歐洲電影
-https://4gtvmobile-mozai.4gtv.tv/eMD5RIgXc0h2iFkz0ZgTNGkzrSv5Hltg0TF5VZdpBiA%3d/index.m3u8?token=gBLoltUPn7-_pqIH_nyN0A&expires=1765520446&token1=eThoojCw6FthulVwI_G0ag&expires1=1765520446&refer=YTBmNjNmZTEtNzRjZi00ZTljLTk2NGUtYmI0ODljODdiNDIx&y=0
+https://4gtvmobile-mozai.4gtv.tv/0-Q2LH5JJXYf81XXn9u-afu6FEqoe-CEospi7GXLHlk%3d/index.m3u8?token=okpoHawptFq43eGGVOQzGQ&expires=1765531090&token1=bciUQdtx0Zs9CZWz74emYw&expires1=1765531090&refer=MGZlN2U1NzEtMzkwOS00ZWFhLWIwYTMtZGIxNzdhNGI4ZGU1&y=0
 #EXTINF:-1 tvg-name="NewsWorld" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NewsWorld.png" group-title="asia",NewsWorld
 https://ofiii.passwdword.xyz/mytv265.php?id=NSWD
 #EXTINF:-1 tvg-name="NOW 70s" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW 70s.png" group-title="asia",NOW 70s
@@ -404,13 +404,13 @@ https://ofiii.passwdword.xyz/mytv265.php?id=NOW9
 #EXTINF:-1 tvg-name="NOW ROCK" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/NOW ROCK.png" group-title="asia",NOW ROCK
 https://ofiii.passwdword.xyz/mytv265.php?id=NOWR
 #EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pet Club TV.png" group-title="asia",Pet Club TV
-https://4gtvmobile-mozai.4gtv.tv/atvOhI22azDr9OMZlLzY8A8V-myVJWZMBQjZIJ7gRtM%3d/index.m3u8?token=wfsjYZWE4r8Pmshh7-Km6g&expires=1765520112&token1=dG7fhORwjL2jm9nbiedaug&expires1=1765520112&refer=OWFkYjYyNWYtNmYyNy00YzU2LWIwNmQtNjIwMzExMTA3MjBj&y=0
+https://4gtvmobile-mozai.4gtv.tv/dIO1gu-wmzG9JOJpLOGzHQtvNv7_MC2SYwnFkbjqVxo%3d/index.m3u8?token=rGq9nG1KVHbv0hXFkVEHoA&expires=1765530779&token1=4OCpd_y37ykRPqzt_VgZgg&expires1=1765530779&refer=MzljOGE2ZjYtMzQyYS00YjgxLTkyNTAtNTNlNTkzNGRhMTFh&y=0
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Action.png" group-title="asia",ROCK Action
-https://4gtvmobile-mozai.4gtv.tv/epYzRIBB5WP3TK6tJyjxMoMnMGneryoqSlS7usBo_sg%3d/index.m3u8?token=ZsgScCDrPvtzi6yU55DTcw&expires=1765520356&token1=QxzRCbfCPMugM8t-R2VUow&expires1=1765520356&refer=YWNiNGMyNzMtOWI0Yy00NTg0LTk1MDQtYmQ1NjhkOWQ3MzI1&y=0
+https://4gtvmobile-mozai.4gtv.tv/IMTLKGfqflnIW8nOkJH7LsG_DFA_r4vSQQElPeGGEDs%3d/index.m3u8?token=Gi_Mgjg1hQ6MQXkuB-qvdg&expires=1765531003&token1=G1QvhSnjiNFYOi7VHtYDoA&expires1=1765531003&refer=MWU1MzQwMjEtNTcyNi00NTY2LWJlMTAtODBhNzU0NDQ5ODky&y=0
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="asia",ROCK Entertainment
-https://4gtvmobile-mozai.4gtv.tv/K4yVyp3n84jsr3jKKCzy2DFP0DkJLrZw9T2OzzXqeYY%3d/index.m3u8?token=cub9Y9RiuGMF53ozuwX40g&expires=1765519962&token1=hoBdpgLaJUPzlOPG6piAsQ&expires1=1765519962&refer=YmIxZmE2YWQtNTMyMi00MmI1LTkwYjQtODhkMTIzMWExYWIy&y=0
+https://4gtvmobile-mozai.4gtv.tv/sdHnsZBGe9muvLUKYpN6mfUXSt-VlVbF8ZpEaGOdWUE%3d/index.m3u8?token=vB41kW0ooCTwZFhFD4ebsw&expires=1765530616&token1=whDkV-0e8yyYaUKwuCA8ag&expires1=1765530616&refer=YzI0ZDc1NmQtMzA2Yy00MjdmLTk3ODAtNTRmZDU1ZWM5MDk3&y=0
 #EXTINF:-1 tvg-name="SBN全球財經台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/SBN全球財經台.png" group-title="asia",SBN全球財經台
-https://4gtvmobile-mozai.4gtv.tv/KA5-x073z9PqucqyAPRsOmhJD6UNUM2HQfl4rSsZNyw%3d/index.m3u8?token=5twc6BSLIkh4LlNVIeT3AA&expires=1765519868&token1=zfUuBXlVogm7RFqwnxXW8w&expires1=1765519868&refer=N2Q2ZmYwYmItNzljOS00MjRiLWE3OTYtYWQ0MDQzMmIwMmZk&y=0
+https://4gtvmobile-mozai.4gtv.tv/RO2ozxah9nHRSb_69RZuzoLotxhbNfmDzcrCEl-KEcE%3d/index.m3u8?token=US48G1jiIIYL2jEH1AKOIw&expires=1765530493&token1=uHaybUetD5cJfi1ILj1qXg&expires1=1765530493&refer=MmNjNzBhNjUtZDIwOS00YjEzLWE3ZWEtZjgxYTM2NmZiYTE3&y=0
 #EXTINF:-1 tvg-name="SiCAR愛車酷" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/SiCAR愛車酷.png" group-title="asia",SiCAR愛車酷
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii216
 #EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Smart知识台.png" group-title="asia",Smart知识台
@@ -432,9 +432,9 @@ https://smt.passwdword.xyz/Smart.php?id=Tlc
 #EXTINF:-1 tvg-name="TLC" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TLC.png" group-title="asia",TLC
 https://smt.passwdword.xyz/Smart.php?id=Tlc
 #EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Sport Stars.png" group-title="asia",TRACE Sport Stars
-https://4gtvmobile-mozai.4gtv.tv/dmxEL2O4G_dNxY5BEBL3VyvZCa6zvW2sh1VbLHv89vk%3d/index.m3u8?token=gXtc3ohnwFV52f5Nxhgzyw&expires=1765520070&token1=I2W5sJ--onvNOLa_osIJoQ&expires1=1765520070&refer=ODdiMWJhMWMtOGNjZS00OTRlLWIwZWEtMDIxOWJjMmJmOTgz&y=0
+https://4gtvmobile-mozai.4gtv.tv/HxRZnI4vQrJFuOeZ5lLw5W_C1wJd-BZyszQzc5bpDq4%3d/index.m3u8?token=bPeCzZUMAkaruqBWwGgsUw&expires=1765530703&token1=qOt6CHqvrgB0gDnYvaz1Kw&expires1=1765530703&refer=ZDUyOGRlYzAtNmUzYy00M2ExLWFiOGUtNTA5MWUzYzg4ZDU2&y=0
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Urban.png" group-title="asia",TRACE Urban
-https://4gtvmobile-mozai.4gtv.tv/5QiILaYHvk1zXInQ_0gLEsIAK_k0Lx2iOQ_ByvsTqDE%3d/index.m3u8?token=Q2IwwE0-Trepem7FA0vcXg&expires=1765519992&token1=LXzH-Ym8ct_Vhieo5VcCBA&expires1=1765519992&refer=ZGRjMjkzNmMtOWY4My00MDJmLWFhZTAtOGI3ZDJmOWM0ZmM5&y=0
+https://4gtvmobile-mozai.4gtv.tv/LpRomMjmiULQhz32i4gF-05JByX3vuyVC-wuxBQp04Y%3d/index.m3u8?token=UiOK_ztSzAscZ_vrcYy4Ug&expires=1765530649&token1=2Whjq2uBmJ1Oud6Wg4lzXQ&expires1=1765530649&refer=ZWJlMTg4NGItYzg4Ny00MjhlLWExODMtNzAwNzIwOWEwYWEz&y=0
 #EXTINF:-1 tvg-name="TV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV1.png" group-title="asia",TV1
 https://smt.passwdword.xyz/Smart.php?id=TV1
 #EXTINF:-1 tvg-name="TV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV1.png" group-title="asia",TV1
@@ -446,7 +446,7 @@ https://smt.passwdword.xyz/Smart.php?id=TV3
 #EXTINF:-1 tvg-name="TV3" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV3.png" group-title="asia",TV3
 https://smt.passwdword.xyz/Smart.php?id=TV3_mega
 #EXTINF:-1 tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV5MONDE STYLE HD 生活時尚.png" group-title="asia",TV5MONDE STYLE HD 生活時尚
-https://4gtvmobile-mozai.4gtv.tv/Cd6lW7r8lcH3V-6eR2XtzFQy9nPWkGh2YYgK3zqMXVE%3d/index.m3u8?token=Y-5ltFxeSdpwsDMvsAtK1w&expires=1765520207&token1=hCepysCVGqHZAyt89YxLNg&expires1=1765520207&refer=YWMwZDQ3NWUtMjVkYy00OWU4LThjYzgtMTZlZDhlMGQ3NmFm&y=0
+https://4gtvmobile-mozai.4gtv.tv/QQAOwFIj8y68FlNVyfHm2MNMfmw11HbJAjX-J1VVM3U%3d/index.m3u8?token=FXxCU2ryO9ZdYAbsDoVJSw&expires=1765530869&token1=6PjISE9Qk5Xe9UwHBMFlqA&expires1=1765530869&refer=MjEzZDE1OTEtZGNhMy00NTZkLTg1ZGMtNDAwZDM5ZGVhYTM5&y=0
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV9.png" group-title="asia",TV9
 https://smt.passwdword.xyz/Smart.php?id=TV9
 #EXTINF:-1 tvg-name="WION" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/WION.png" group-title="asia",WION
@@ -458,7 +458,7 @@ https://ofiii.passwdword.xyz/mytv265.php?id=ZOO
 #EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/ZooMoo.png" group-title="asia",ZooMoo
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=ZOO
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/豬哥亮歌廳秀.png" group-title="asia",豬哥亮歌廳秀
-https://4gtvmobile-mozai.4gtv.tv/VPIR4hGF_5Vo-W3k2kmEtX4JoYF3AHOAcVg24MoMM3s%3d/index.m3u8?token=ZBptbLtlYvRyJ2fBp5-CfA&expires=1765519902&token1=dQ_gwgAU0n7YUxjt59XW4Q&expires1=1765519902&refer=OGUxYjE1YjAtOWEzMy00MGJmLWE0YTUtODIwZGI5NTZhOGRj&y=0
+https://4gtvmobile-mozai.4gtv.tv/6mgOHrNPjmSyCGKzb5nKUnhoSkoXHZ39TYCKtOibjkw%3d/index.m3u8?token=Cb9khJ9YC3jBa9d9dVfXUw&expires=1765530539&token1=xlojOSGXquMvnizmI8xkuA&expires1=1765530539&refer=MzExYTgwYjktZDlmZC00YjNiLWI5YzktNmIzZTIwNGExMWNk&y=0
 #EXTINF:-1 tvg-name="豬哥壹級棒" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/豬哥壹級棒.png" group-title="asia",豬哥壹級棒
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii126
 #EXTINF:-1 tvg-name="綜藝大集合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/綜藝大集合.png" group-title="asia",綜藝大集合
@@ -474,15 +474,15 @@ https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-name="爱尔达体育3台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱尔达体育3台.png" group-title="体育",爱尔达体育3台
 https://smt.passwdword.xyz/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-name="007情報員-FastTV飛速看" group-title="其他",007情報員-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Uvpy45Finriwk4nXS2BijUmGswaOmeCACrFqawtFQR_qv9f7fVhBH2awOvjz1YNe/index.m3u8?token=rKnW2r6qjKSYdGvfIDNSDA&expires=1765520937&token1=x68n3BJ-oMkX-ruqXlnZ0A&expires1=1765549737&refer=OTcxYjZkNjItNTAzOS00Y2JmLTg5YzEtZGViZmZlOTE3MGQy&y=2021
+https://4gtvmobile-mozai.4gtv.tv/dySuUzXNW7Bw_8R6RAp_PhUB0DwR9JDdh4yssG7gSily6pXOn0bRtJdInkH5zhzi/index.m3u8?token=LMSBVNvzzc2kvqU4E7OOzg&expires=1765531645&token1=R_Jgdba_VMEhxVWNELvjrQ&expires1=1765560445&refer=ZDYzNDc2YjQtNTk5MC00ZjBiLTg5ZWItY2NhNjc2NTRkOGI4&y=2021
 #EXTINF:-1 tvg-name="11點熱吵店" group-title="其他",11點熱吵店
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii143
 #EXTINF:-1 tvg-name="11點熱吵店-FastTV飛速看" group-title="其他",11點熱吵店-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/oxsAT5ZPIYEiJmWPKYR4xs1l09uxgvgL-VdArSu2VYTo9rWeOHPiNp6G4GcaOSdjucaqNTU6xlHzB-wHvff5Ew%3d%3d/index.m3u8?token=yEX6qtllUrX_OxZcUlsDzg&expires=1765521025&token1=Q3K_FU7rpxZIYzFDkIcJtw&expires1=1765549825&refer=NWEwMjczNDQtODkxNS00N2JjLTgzMjgtMDhlMmJkMzYyNmJi&y=2025
+https://4gtvmobile-mozai.4gtv.tv/m3O3vr336get07lmXTFSXm1DTVqOTnYHoiiA5oRsEjWdYNcVh14dix5BccPJm4v5pe20T4fJE9lmiM-Z6U8OYg%3d%3d/index.m3u8?token=uaEi2NSu1K57Yq1ZYddkCA&expires=1765531733&token1=z57m9h2Iqvvxo3kqrFs_Fw&expires1=1765560533&refer=MWJkYjEzOTUtMmM1Yy00YTM3LTg5MGYtY2FhN2E5NmIxNDE4&y=2025
 #EXTINF:-1 tvg-name="2025雙北世壯運-FastTV飛速看" group-title="其他",2025雙北世壯運-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/319iNFXHzk5l69i8GP5wPq4lusjRjLxA8pHwUMNuKFzuQ1nmbipWRS0jqmF0_yZlh7d4fudiksL4J0I3ZCcIVw%3d%3d/index.m3u8?token=JxsMDMc7KAqyFOJSz9izpA&expires=1765521317&token1=TDTXybmGOzJGE_yH7s0GjQ&expires1=1765550117&refer=MTZiYTk4ODEtNzYwOS00ZGU5LWJiOTUtMzY3NDc5OWEwYWMy&y=2025
+https://4gtvmobile-mozai.4gtv.tv/-g-c8H02hdk3Vul8qB3jPUHAERLvJdbPSfYexLl9bj6dVS1slkQlfcm5XyigGjxkaSh0vx2-gG0Y78_HIdPRpQ%3d%3d/index.m3u8?token=PeEQtzCzzSqJJMp_yo40lw&expires=1765531910&token1=u0WynSwG3IQichmyTAGrtA&expires1=1765560710&refer=ODY2NmFkMmYtOWUyNC00ZjNjLWI5Y2MtOWNmOGM4ZTRiMmJk&y=2025
 #EXTINF:-1 tvg-name="5566偶像劇-FastTV飛速看" group-title="其他",5566偶像劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/k5kjVt72MFvIUpVQXTKJ8LH8F9oRw7oVGt6kvz5qX0JzFxk9VJQ2slBpTo70-ZlL/index.m3u8?token=Y4AZgDtTwz9Dc4q_zcOlOw&expires=1765520833&token1=6mXXHtCmEGrj9mdH57VstA&expires1=1765549633&refer=MDdlZDI0OWEtZWYwMy00ZjJmLTllZDYtNGEzNTVkMjBlOWYw&y=2022
+https://4gtvmobile-mozai.4gtv.tv/fi2d16Gpy2MEp_r74-pecCuWsNe2HThHBG8uIAWF99dKqUgi1yAAlyP6Gb0_lDEC/index.m3u8?token=i_5bzUE7DxAOiTiXn0YnDg&expires=1765531527&token1=oznU5K2soq91Dv3WhFvXAA&expires1=1765560327&refer=MzU4M2VjZWQtOWVmNC00MTA4LWE2OWEtYTcxNjA0ZGE0NGEw&y=2022
 #EXTINF:-1 tvg-name="ABCNEWSLIVE" group-title="其他",ABCNEWSLIVE
 https://smt.passwdword.xyz/Smart.php?id=abcnews_glo
 #EXTINF:-1 tvg-name="ADITHYA" group-title="其他",ADITHYA
@@ -498,17 +498,17 @@ https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn
 #EXTINF:-1 tvg-name="ALJAZEERAENGLISH" group-title="其他",ALJAZEERAENGLISH
 https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn
 #EXTINF:-1 tvg-name="amc電影台" group-title="其他",amc電影台
-https://4gtvmobile-mozai.4gtv.tv/BadeYXGY_vvA8cnCRg-5qjK0Ou6BNDhxdgWCGmXLV9k%3d/index.m3u8?token=JIcQEOQ_OnUddzDswAkTow&expires=1765520424&token1=-k5PO6vmEhg9WqiiT5nT0A&expires1=1765520424&refer=YzcwNjk1MzUtMTFkOS00ZjViLWE4NWMtZDY4OGNlN2U4N2Rk&y=0
+https://4gtvmobile-mozai.4gtv.tv/T-Kvj_E-nUDCmNFr8rQuW1B6dghue9r5xvT5xXmLZHE%3d/index.m3u8?token=oEJcYn9DTKdCf4osDrpjeg&expires=1765531072&token1=iIBvOHRe0DY1ALDNvVpMTw&expires1=1765531072&refer=NmZiOTkxNDUtYzJmOS00NmM2LWIyZjYtNzhlYjUxNDQ2YThi&y=0
 #EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
 https://ofiii.passwdword.xyz/mytv265.php?id=CANI
 #EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
-https://smt.passwdword.xyz/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CANI
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
+#EXTINF:-1 tvg-name="ANIMAX" group-title="其他",ANIMAX
+https://smt.passwdword.xyz/Smart.php?id=Animax
 #EXTINF:-1 tvg-name="ARENABOLA2" group-title="其他",ARENABOLA2
 https://smt.passwdword.xyz/Smart.php?id=Arena
 #EXTINF:-1 tvg-name="ARENABOLA2" group-title="其他",ARENABOLA2
@@ -628,7 +628,7 @@ https://smt.passwdword.xyz/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-name="DREAMWORKS" group-title="其他",DREAMWORKS
 https://smt.passwdword.xyz/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-name="Duck TV兒童卡通-FastTV飛速看" group-title="其他",Duck TV兒童卡通-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/033nYR3B0-rxUgNRBqTBKONSDc6tvom_YLU2HMhbM4DhamYNilNsEwwk9SyVjK9wLZQtdmwlNUQKpoNje6WW3g%3d%3d/index.m3u8?token=jVFphGNJbwlrCUrUmUpKQQ&expires=1765521412&token1=AXbwWmU4p8PDaa_4CgsE0g&expires1=1765550212&refer=YmU0YjMxZDctYjc1Ny00MmM3LTlmNDYtMWRhNzliZDliMmMz&y=2025
+https://4gtvmobile-mozai.4gtv.tv/-AVQmJnRydcu8n96XbesFAqAQFGtBmYZ60OwqnEk7rgIxvfsFlee7pdi1uTMwQkSH_aVGwgJO4trX8REMOmeCA%3d%3d/index.m3u8?token=y75Bxz7KVqbKlJFFK9hiUA&expires=1765532000&token1=vH8eFdUYH3kGkvtUZbfsjQ&expires1=1765560800&refer=NmM4Y2NlZjktOTdjMi00YTVkLTgxYjgtODFmZjA1NTY1MDlh&y=2025
 #EXTINF:-1 tvg-name="EURONEWS" group-title="其他",EURONEWS
 https://smt.passwdword.xyz/Smart.php?id=euronews_antik
 #EXTINF:-1 tvg-name="FASHIONBOX" group-title="其他",FASHIONBOX
@@ -640,33 +640,33 @@ https://smt.passwdword.xyz/Smart.php?id=Fs
 #EXTINF:-1 tvg-name="FIGHTSPORTS(HD)" group-title="其他",FIGHTSPORTS(HD)
 https://smt.passwdword.xyz/Smart.php?id=Fs
 #EXTINF:-1 tvg-name="FOOD超人-FastTV飛速看" group-title="其他",FOOD超人-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/9-e5X-e6NiNg5hcRphwf8W1iNfPW73CB4JOyvk4MYUpRZNBb7D65KP8WQX8cFGOXE8sDtzkgEikUn_0N7a7KWw%3d%3d/index.m3u8?token=ZKmnhWZZFjslr_u2IPuv9w&expires=1765521419&token1=5nyn8eZTUc6K1AbsaXhb0w&expires1=1765550219&refer=YmU0OTQ4YWEtYzRmZC00ODJkLWJhZjUtNDdkYTQzMzU4NzMz&y=2022
+https://4gtvmobile-mozai.4gtv.tv/Y53o0_1lDf2bmv2hUoMFjzTKXPZNIcCLNrcGLoYeY1zr-UDYnT6muhH1iPCkaWOtWbZouKXGvPb8j8ySakAQoQ%3d%3d/index.m3u8?token=-7vQkNvnX8BTHThEc5Dq-w&expires=1765532006&token1=yC0EDZ3NNJC1eSvZu9koqg&expires1=1765560806&refer=MDY5MjA2M2MtYWUwYy00N2JmLWI4ZjUtZDY1ZTQ3Y2ZiZjQ1&y=2021
 #EXTINF:-1 tvg-name="FOXNEWSCHANNELHD" group-title="其他",FOXNEWSCHANNELHD
 https://smt.passwdword.xyz/Smart.php?id=foxnews_twn
 #EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
 https://ofiii.passwdword.xyz/mytv265.php?id=CF24
 #EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
-https://smt.passwdword.xyz/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
-https://smt.passwdword.xyz/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CF24
+#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
+https://smt.passwdword.xyz/Smart.php?id=france24_twn
+#EXTINF:-1 tvg-name="FRANCE24" group-title="其他",FRANCE24
+https://smt.passwdword.xyz/Smart.php?id=france24_twn
 #EXTINF:-1 tvg-name="Freeman @台灣" group-title="其他",Freeman @台灣
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii95
 #EXTINF:-1 tvg-name="GagaOOLala 精選LGBTQ+好劇" group-title="其他",GagaOOLala 精選LGBTQ+好劇
-https://4gtvmobile-mozai.4gtv.tv/2WHIgyGfZ896kXQESDTGdqT_Zu1reSx4fxY9PJplrw8%3d/index.m3u8?token=k4ZJ6oyUKZgMmkCWx18MCw&expires=1765520372&token1=NOH4PFZBJkuphsUZDRDRfQ&expires1=1765520372&refer=ZjM3ZGViOGMtZDg2ZC00NjdiLTg1ODAtNmRmODY4ZDkxNmZm&y=0
+https://4gtvmobile-mozai.4gtv.tv/YwefOlCRdQRa_I8w671P_2jt-c6HMZ5IW1RkZQn5tOw%3d/index.m3u8?token=d5YKoCmZHqYUDJK1rQ_X-A&expires=1765531019&token1=pvePMp5tK5rn2lt8spMCIA&expires1=1765531019&refer=MTM5ODFhY2QtOTY2ZS00MzQ1LWJmNTYtMjJjYzJhZjc4Mzg4&y=0
 #EXTINF:-1 tvg-name="GLOBALTREKKER" group-title="其他",GLOBALTREKKER
 https://ofiii.passwdword.xyz/mytv265.php?id=SMS
 #EXTINF:-1 tvg-name="GLOBALTREKKER" group-title="其他",GLOBALTREKKER
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMS
 #EXTINF:-1 tvg-name="GoGoTaiwan-FastTV飛速看" group-title="其他",GoGoTaiwan-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Iy6XxaXTNvhmrdO9ZorOnv87L8GuuaQRiLly3ivbFoPE6fru6ksyvIYDBQaon3Wm/index.m3u8?token=fmjP_AghiSdlVPyVSmlxIQ&expires=1765521300&token1=PgbR6PJ__8AElnVDFW61FQ&expires1=1765550100&refer=NWE2NmVmNGMtMTI0My00Y2NlLThmZDgtMGMzZGE5MmI1Mjg2&y=2021
+https://4gtvmobile-mozai.4gtv.tv/ILg2HAzkUikNFAV1tV7FT6Z6QwZ4SfhDcsGPIs8bmmCwihWnoq3cRgscnhTA5M9bp4Ans5IOmI6SAGjIYoTaLQ%3d%3d/index.m3u8?token=0038QZcRJPjY9xyQePeguw&expires=1765531903&token1=gPIZ0rL2P35gkvDogceXoQ&expires1=1765560703&refer=YWMyZTAwNTItODA3ZS00YmNjLWI4N2QtMDE0M2FiZDU4OThi&y=2021
 #EXTINF:-1 tvg-name="GOLF" group-title="其他",GOLF
 https://smt.passwdword.xyz/Smart.php?id=Agolf
 #EXTINF:-1 tvg-name="GTV游戏竞技" group-title="其他",GTV游戏竞技
 https://smt.passwdword.xyz/Smart.php?id=Gtv
 #EXTINF:-1 tvg-name="HahaTai 哈哈台-FastTV飛速看" group-title="其他",HahaTai 哈哈台-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4Al3zN2FR19VAJEt43uD8lWI-xl5KUJl9rashi-bIh13a_bBOJej0mjnyzPBp0OM/index.m3u8?token=0EAzpcOJWl14jQ0kF-y5cQ&expires=1765521351&token1=yhZnRRGTHlucD2zlsHLWlw&expires1=1765550151&refer=MGUxM2U4MjQtMWIyMy00ZWJkLWI4N2UtMGMxNzczYTRlNTRk&y=2025
+https://4gtvmobile-mozai.4gtv.tv/1ZY0RjzR6hRI3LAeNKrHDwigOHs1CsfhndXuBD2AVLOE9iMUaz2iuFQG-gRGT2mQqmUshw0iqXdiuOx61HquXA%3d%3d/index.m3u8?token=AjHdatVmky5Ar2CKq6KEPQ&expires=1765531946&token1=jmYQ6lNW7tRLQHQef34oIQ&expires1=1765560746&refer=MTUzODNkMDQtMjhjYy00Yzc3LWI2YzAtYzdkNmY3MTJkY2E3&y=2025
 #EXTINF:-1 tvg-name="HBO" group-title="其他",HBO
 https://smt.passwdword.xyz/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="HBO" group-title="其他",HBO
@@ -718,7 +718,7 @@ https://smt.passwdword.xyz/Smart.php?id=itv2_antik
 #EXTINF:-1 tvg-name="KBSWORLD" group-title="其他",KBSWORLD
 https://smt.passwdword.xyz/Smart.php?id=KBS
 #EXTINF:-1 tvg-name="KLT-靖天國際台" group-title="其他",KLT-靖天國際台
-https://4gtvmobile-mozai.4gtv.tv/iU23YrogAOyMPb3MO0PIofpdzVF5mDqu_7az9hgikcY%3d/index.m3u8?token=JU0_tdZ3i7SLw_s0yCwelg&expires=1765519920&token1=2VeYpP0faTakNoBwJv1olw&expires1=1765519920&refer=NThlOGNmYTYtOGM4MC00Nzk5LWE1NzItMTk5OTk5OGI3MWY0&y=0
+https://4gtvmobile-mozai.4gtv.tv/ai0VJRIzaAyay3YCPK5uiEDBAfOBp_zA6BdwMmD76oY%3d/index.m3u8?token=Roxyd-RVeK-0bKHCA8Nqhg&expires=1765530566&token1=3gYBFPArR04xFbi22eImPA&expires1=1765530566&refer=ODhmYTM1Y2YtN2I4Yy00ODE0LWJjM2EtMzgyNWVhMmYwZTNh&y=0
 #EXTINF:-1 tvg-name="KPLUS" group-title="其他",KPLUS
 https://smt.passwdword.xyz/Smart.php?id=Kplus
 #EXTINF:-1 tvg-name="KPLUS" group-title="其他",KPLUS
@@ -730,7 +730,7 @@ https://smt.passwdword.xyz/Smart.php?id=Astroktv
 #EXTINF:-1 tvg-name="KTV" group-title="其他",KTV
 https://smt.passwdword.xyz/Smart.php?id=picktv_antik
 #EXTINF:-1 tvg-name="LiveABC互動英語頻道" group-title="其他",LiveABC互動英語頻道
-https://4gtvmobile-mozai.4gtv.tv/XbP-3WzNysZqR0ghTp05uHqnHLOgq7fqI4LcEFisvso%3d/index.m3u8?token=o4sOYCcRskgFEx3yJCJyrA&expires=1765519618&token1=4ywxw43X0nDzkSOYEk667w&expires1=1765519618&refer=YTA2NTVlMmUtODI0OC00Yjc3LThlYmItZGQ1YzdkM2EyNGEy&y=0
+https://4gtvmobile-mozai.4gtv.tv/Qy006r9Nohn7PYRLsp7iKQF-cAV9QwSn_oxFAjWaBMI%3d/index.m3u8?token=mEX14zaEcmDkQPrAfi6wZg&expires=1765530332&token1=dlZ4vr7931bJkWUPyOpvPg&expires1=1765530332&refer=NGZkMDc2MDYtOTYzYS00NmZjLWE2MzAtMGYxNTUwODIzZGZh&y=0
 #EXTINF:-1 tvg-name="LOVENATURE4K" group-title="其他",LOVENATURE4K
 https://ofiii.passwdword.xyz/mytv265.php?id=LN4
 #EXTINF:-1 tvg-name="LOVENATURE4K" group-title="其他",LOVENATURE4K
@@ -742,7 +742,7 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="MAAMOVIES" group-title="其他",MAAMOVIES
 https://smt.passwdword.xyz/Smart.php?id=starmaamovies_raj
 #EXTINF:-1 tvg-name="MagellanTV頻道 (麥哲倫頻道) " group-title="其他",MagellanTV頻道 (麥哲倫頻道) 
-https://4gtvmobile-mozai.4gtv.tv/FIpZwV2uAHHXhIK9UGyJ-HI3vLJtALF1EF9sdk18DeQ%3d/index.m3u8?token=ivsY7Su5WwMtaKcZGhivJA&expires=1765520215&token1=xj3RXYpaSoDwbHYmEDLe9g&expires1=1765520215&refer=NGEyZWZlMDMtYWQ4My00OWRhLWE5NzQtNDMwNjAxZjJhNzYx&y=0
+https://4gtvmobile-mozai.4gtv.tv/ISvBqwgVL72GF-iOk2l6QuqkaVGlvtEJ84UkmFVy3Tw%3d/index.m3u8?token=IRvgc8RIa235MbYRua2GFg&expires=1765530878&token1=8KhfJqdTfSMw1gFGN-laXw&expires1=1765530878&refer=YjMyMGIzOTktZjA5Mi00MGU3LWFhYmMtMDcyMTM5ZDVjOTBj&y=0
 #EXTINF:-1 tvg-name="MEZZOLIVEHD" group-title="其他",MEZZOLIVEHD
 https://ofiii.passwdword.xyz/mytv265.php?id=CMEZ
 #EXTINF:-1 tvg-name="MEZZOLIVEHD" group-title="其他",MEZZOLIVEHD
@@ -780,7 +780,7 @@ https://smt.passwdword.xyz/Smart.php?id=Nba
 #EXTINF:-1 tvg-name="NEWTV超级电视剧" group-title="其他",NEWTV超级电视剧
 https://smt.passwdword.xyz/Smart.php?id=new_pat
 #EXTINF:-1 tvg-name="NHK WORLD-JAPAN" group-title="其他",NHK WORLD-JAPAN
-https://4gtvmobile-mozai.4gtv.tv/8LRIFyg8lfrYjbOSHRTJPkFRgaGz9KZ6cJNFDgdKYmw%3d/index.m3u8?token=q2ceoOXkPYztVJjnV9fMAw&expires=1765520514&token1=hV95jo0c3CtV_pv9jEAlCg&expires1=1765520514&refer=MWNkMDRlMjctYTJjYS00MjVlLThjNzctMGJjNThjNTViMmY1&y=0
+https://4gtvmobile-mozai.4gtv.tv/v5_muYmGT-b3UXnLP-NcQTYDCFd2sg32LW4M4Ahn0_g%3d/index.m3u8?token=utqZZ_6dGcs_iSZHtz2o3Q&expires=1765531147&token1=jJKLskenalGpZQCEQzEduQ&expires1=1765531147&refer=ZTI5Zjc3MjgtOGZmZS00ODEyLTlkYjYtOGEwYTBkOTZlMDVm&y=0
 #EXTINF:-1 tvg-name="NHKWORLD" group-title="其他",NHKWORLD
 https://smt.passwdword.xyz/Smart.php?id=nhkworld_japan
 #EXTINF:-1 tvg-name="NHKWORLD" group-title="其他",NHKWORLD
@@ -790,7 +790,7 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CNHK
 #EXTINF:-1 tvg-name="NHKWORLDJAPAN" group-title="其他",NHKWORLDJAPAN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNHK
 #EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" group-title="其他",Nick Jr. 兒童頻道
-https://4gtvmobile-mozai.4gtv.tv/0p0a9kLVerG_cEh72YE0_CsMH7fEXE0_FrGAn1zAhmA%3d/index.m3u8?token=0JLkzePHzOR8oVSF8CUQtw&expires=1765519668&token1=ObSrX6jUDnlMTzdC80llXA&expires1=1765519668&refer=ODg4YWY4NTAtNmNmZC00NmQzLWI3OTktMTM3ZGQ4MmFkZjA0&y=0
+https://4gtvmobile-mozai.4gtv.tv/sMfYqH32fDhhciqjwnVUR12iqU3tWv2ILPOQeyl1CI8%3d/index.m3u8?token=GS_4E5jKrxbWq3nLMEIYyw&expires=1765530353&token1=nB43r1SKQ5cufyS-H7V3uw&expires1=1765530353&refer=YWFmNGYzZjgtMjU3ZC00M2FmLWE1NjUtYjkyZjQwNDc3NzBj&y=0
 #EXTINF:-1 tvg-name="ONE" group-title="其他",ONE
 https://smt.passwdword.xyz/Smart.php?id=One
 #EXTINF:-1 tvg-name="ONE" group-title="其他",ONE
@@ -810,13 +810,13 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
 https://ofiii.passwdword.xyz/mytv265.php?id=CRTX
 #EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
-https://smt.passwdword.xyz/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRTX
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
+#EXTINF:-1 tvg-name="ROCKACTION" group-title="其他",ROCKACTION
+https://smt.passwdword.xyz/Smart.php?id=Rockaction
 #EXTINF:-1 tvg-name="ROCKENTERTAINMENT" group-title="其他",ROCKENTERTAINMENT
 https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-name="ROCKENTERTAINMENT" group-title="其他",ROCKENTERTAINMENT
@@ -886,6 +886,8 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://ofiii.passwdword.xyz/mytv265.php?id=SSPT
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
+https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSPT
+#EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp1
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp2
@@ -893,8 +895,6 @@ https://smt.passwdword.xyz/Smart.php?id=Assp2
 https://smt.passwdword.xyz/Smart.php?id=Assp3
 #EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
 https://smt.passwdword.xyz/Smart.php?id=Assp4
-#EXTINF:-1 tvg-name="SUPERSPORTS" group-title="其他",SUPERSPORTS
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSPT
 #EXTINF:-1 tvg-name="SUPER奖门人" group-title="其他",SUPER奖门人
 https://ofiii.passwdword.xyz/mytv265.php?id=SVAR
 #EXTINF:-1 tvg-name="SUPER奖门人" group-title="其他",SUPER奖门人
@@ -918,13 +918,13 @@ https://smt.passwdword.xyz/Smart.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
 https://ofiii.passwdword.xyz/mytv265.php?id=CTHR
 #EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
-https://smt.passwdword.xyz/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
+#EXTINF:-1 tvg-name="THRILL" group-title="其他",THRILL
+https://smt.passwdword.xyz/Smart.php?id=Thrill
 #EXTINF:-1 tvg-name="TLC旅游生活频道" group-title="其他",TLC旅游生活频道
 https://smt.passwdword.xyz/Smart.php?id=tlc_twn
 #EXTINF:-1 tvg-name="TNTSPORTS1HD" group-title="其他",TNTSPORTS1HD
@@ -944,13 +944,13 @@ https://smt.passwdword.xyz/Smart.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="TVBJADE" group-title="其他",TVBJADE
 https://smt.passwdword.xyz/Smart.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVBS看板人物-FastTV飛速看" group-title="其他",TVBS看板人物-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/DPK75RZtFnBCMZl8IVx4CRWaTopk26WhlNdSl3WfYFk8UClBrWTlssnq9zrEjmHHM3kFB5yEo6ctKE7cRTDqMg%3d%3d/index.m3u8?token=veDPg2c3bb7Wg0s2lO2bKg&expires=1765521168&token1=jgKbvwXhciZtClqhTbwAAA&expires1=1765549968&refer=MmFkNGIxMGMtNWE3NS00NGI1LThjYjYtMGUzYzdhODc5MWU2&y=2024
+https://4gtvmobile-mozai.4gtv.tv/1XTQ4YVCVCtypeQUjFo2amR5KhUONZSgLcFtqhNx9LlZig1oKEzSvCox_szD18g7_LNmImUcKwljWgQ8EXswog%3d%3d/index.m3u8?token=c3bb7ndLu8SOUyIRSW2HGw&expires=1765531829&token1=rEiJxLNMy9cCZcjbwUQ96g&expires1=1765560629&refer=MzMzNTMyZWYtODQ4Yi00NmQ2LTg1OWUtZThkZmQ3MTNhNTFi&y=2024
 #EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
 https://ofiii.passwdword.xyz/mytv265.php?id=CJTV
 #EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
-https://smt.passwdword.xyz/Smart.php?id=TVN
-#EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-name="TVN" group-title="其他",TVN
+https://smt.passwdword.xyz/Smart.php?id=TVN
 #EXTINF:-1 tvg-name="TVNMOVIES" group-title="其他",TVNMOVIES
 https://smt.passwdword.xyz/Smart.php?id=Tvnmovie
 #EXTINF:-1 tvg-name="TVNMOVIES" group-title="其他",TVNMOVIES
@@ -990,7 +990,7 @@ https://smt.passwdword.xyz/Smart.php?id=WarnerTV
 #EXTINF:-1 tvg-name="WSPORT" group-title="其他",WSPORT
 https://smt.passwdword.xyz/Smart.php?id=go_assp5
 #EXTINF:-1 tvg-name="WTO姐妹會-FastTV飛速看" group-title="其他",WTO姐妹會-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/VbHft6yLzTgZb0dF4CvcqWgDmR9Y9CpZgUV4P4xDAcHmt7IKK8Rb1mWdPmzCwctTjaI_Tv1bQT9XXJoRxV4Jbw%3d%3d/index.m3u8?token=bFu2vKHJiAjDGI0cmjj3PA&expires=1765521031&token1=q65z2qZetJvh9eg48ngzwg&expires1=1765549831&refer=ZTEyNThjZjUtYWE5My00MDY5LWJiNGYtOTg3YmIzNmE1MTdl&y=2024
+https://4gtvmobile-mozai.4gtv.tv/Giq76ubzQ__LBrh5dMge1SO6Ye1qiywbqZtdIgZeuqEx61kCve7UayLGWF1Y67ZoWu3A84OEvlh0xKy_dnGA2w%3d%3d/index.m3u8?token=uEFS8Wh27Hk7nS1aeP-m5g&expires=1765531739&token1=G-gmOZPbToVN-TQjrZAvZw&expires1=1765560539&refer=MDk0ODJlZGYtZTRhYy00MzVjLTk1MjItYzc4NGM0NmQwZDU0&y=2024
 #EXTINF:-1 tvg-name="WWENETWORK" group-title="其他",WWENETWORK
 https://smt.passwdword.xyz/Smart.php?id=Wwe
 #EXTINF:-1 tvg-name="ZEECINEMAHD" group-title="其他",ZEECINEMAHD
@@ -1002,29 +1002,29 @@ https://smt.passwdword.xyz/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-name="一字千金" group-title="其他",一字千金
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii142
 #EXTINF:-1 tvg-name="一字千金-FastTV飛速看" group-title="其他",一字千金-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/OAr8Fep9BZGcHBrbZNVz_Qwh5YKwiQ-fvxjNRbcdI1Xib6h4doH_PJYoc6vHllq8gasVLYACS__5s5k_eie2Kg%3d%3d/index.m3u8?token=FPOvviZaaN7sUCwgH9ECKg&expires=1765520998&token1=Fo2C5VwntvuP6o-wXStpVQ&expires1=1765549798&refer=ZDBiMTljMzAtZjhkYy00ZmM5LWFmMDktMWU5MTgwNjM2ZjZh&y=2020
+https://4gtvmobile-mozai.4gtv.tv/HUKx1kAGS_6cdVdongYsEsswWpRuPOuG9Gb2boeBUBnIdm4fxi2Rktpu9rSwHe-dweA5VwPGz5xRcPJWY6KoQw%3d%3d/index.m3u8?token=dP7Z8QH6LENsSaaBAlqLug&expires=1765531706&token1=bCV8uauXdeuYMwQ6EtImAQ&expires1=1765560506&refer=NDFiMzllZDItZmUzOC00YzFiLTljZTgtMDk2ZmUwZjc3MTRl&y=2020
 #EXTINF:-1 tvg-name="一把青" group-title="其他",一把青
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii154
 #EXTINF:-1 tvg-name="一步一腳印 發現新台灣" group-title="其他",一步一腳印 發現新台灣
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii136
 #EXTINF:-1 tvg-name="一起追韓星-FastTV飛速看" group-title="其他",一起追韓星-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/YTG8xZjB0GaXWXkIaLOCkBONNm9ZIh8YpKWGGJsrcGeD3WB1GqVaf2EYgl7b47IY/index.m3u8?token=gNDCAh-m8jqU79doKhS-yw&expires=1765521324&token1=cdB4JQ-96rtsubMqlQLu8Q&expires1=1765550124&refer=M2M2OWJmMjMtMjFhMy00ODViLWIwNDctNGM0YTZkMWFiMDhj&y=2024
+https://4gtvmobile-mozai.4gtv.tv/PAr2T8K0jvnhmZgym9qWl21eXOhDSy4DLIiCIsf8pNGB3ehgE78uuYlZTbfQP1QS/index.m3u8?token=Tr-xj6J3DNQ-S2F8v-I6bw&expires=1765531917&token1=SKW-OIIRZWfJEXUbO3B4xg&expires1=1765560717&refer=NGZjMGJiYTQtZmFjYy00NjJmLWI4ZjEtYzc4YTVlNjllZWM1&y=2024
 #EXTINF:-1 tvg-name="三十而已" group-title="其他",三十而已
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii123
 #EXTINF:-1 tvg-name="三國" group-title="其他",三國
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii103
 #EXTINF:-1 tvg-name="三立綜合台" group-title="其他",三立綜合台
-https://4gtvmobile-mozai.4gtv.tv/svkRWndH1l8Oz8qc1j2wo6ttATpvfZX1dIRaRbT8T5c%3d/index.m3u8?token=ENnoYfXpQhS9xVNINo9l7Q&expires=1765519493&token1=faJIzSZxYCgyk650Eh57LA&expires1=1765519493&refer=MTFlNzBmMGMtNDJjYy00YzFkLTlhZGEtZTM3MDc2MjZjYjEz&y=0
+https://4gtvmobile-mozai.4gtv.tv/FsJ1K-__cKOaBDxbWPWw8aHMdOmSvgwvm0m3e7A_xIM%3d/index.m3u8?token=2tEa0cIyz8JXl3nTD-sv4Q&expires=1765530239&token1=lFX9_1ABspYCbuuIAIh_TQ&expires1=1765530239&refer=OWI3YWYwNGEtOGRhNS00N2Q3LThkZjMtYmU3YzMxNjk2MDUx&y=0
 #EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台
 https://smt.passwdword.xyz/Smart.php?id=sanlizhonghe
 #EXTINF:-1 tvg-name="不敗愛情偶像劇-FastTV飛速看" group-title="其他",不敗愛情偶像劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/xwAu3DG_uqO_b_LbNTj4UwTtEY8oEa-rLFRieXEn4d4vsNh9SAOFFTkQ69bhoUJaTAHvvx-Hymb0op9RjVBrqg%3d%3d/index.m3u8?token=q-Y-sjpfBHROmlL86k53GA&expires=1765520843&token1=EAgXNFP98XErpZ3ritUJ7A&expires1=1765549643&refer=ZmEwYWRjODAtNTE0NS00YzEwLWFlOTAtMGMxM2FjYjM3N2Zh&y=2022
+https://4gtvmobile-mozai.4gtv.tv/RmNxzLmtbqZcgauALIWMp0JtH26joAhU3KrO89fuf5JoTVNTb-NXIMJlr-qZsDb5eyiN5b3inL7CbNIY3VrGIw%3d%3d/index.m3u8?token=O3vAaBETPJUiJ9-sbT0FkA&expires=1765531537&token1=RB21rLepUU0VY1P4qb17jA&expires1=1765560337&refer=YzViYjU4YTQtNjI0NC00ZmZkLTg1YTUtNmVkOGYyM2JiMDM0&y=2022
 #EXTINF:-1 tvg-name="不良笑花" group-title="其他",不良笑花
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii196
 #EXTINF:-1 tvg-name="世界第一等" group-title="其他",世界第一等
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii238
 #EXTINF:-1 tvg-name="世間路-FastTV飛速看" group-title="其他",世間路-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/MzVVn0oY3_JLTfyMVNl2szVDwwlOjf8o_1vdzFkPjrh_R0Ge4EsOE-V5xlDJWs50/index.m3u8?token=jgYlXn7MBH2C5HAUPMXndA&expires=1765520890&token1=TilkUsKlhFQBKRKPa8UgVw&expires1=1765549690&refer=YTYwODJiOWQtM2Y5ZS00ZTE2LWJiNzUtMTQ1ZjI4MjZjMDE0&y=2002
+https://4gtvmobile-mozai.4gtv.tv/ehOC5ih_nNfz9xidOt6s_nJXudDgc1K_nqn9XdalGJW9iRgUrufWHg8fNfiJ4FT9/index.m3u8?token=V55Mg0_rwLZSHAy7SXtxZw&expires=1765531597&token1=YcJgqbIC2Dj3FIVFGIRLhA&expires1=1765560397&refer=NjM2NDJlYmMtN2ViYy00NWU0LTlmMzYtZWVhZmQ5ZGRiYjE0&y=2002
 #EXTINF:-1 tvg-name="东方卫视国际频道" group-title="其他",东方卫视国际频道
 https://ofiii.passwdword.xyz/mytv265.php?id=DTV
 #EXTINF:-1 tvg-name="东方卫视国际频道" group-title="其他",东方卫视国际频道
@@ -1044,13 +1044,13 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CMC
 #EXTINF:-1 tvg-name="中国电影频道" group-title="其他",中国电影频道
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMC
 #EXTINF:-1 tvg-name="中國傳奇故事-FastTV飛速看" group-title="其他",中國傳奇故事-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/jDQIcwDNDP_sQ9WTYkAuArOclKmUQwKl1PZMRhCnbN0BduRGY6OhfgL5YIJmEKA9/index.m3u8?token=r5uXH9vLPyt2EOdhOU0fJQ&expires=1765520984&token1=PTdv2WPBoHs3NkJZS6TQxQ&expires1=1765549784&refer=MmQ0YTliZjctOTAzZC00OTdlLWEzZTItM2Q4NTFmMDJhYjcz&y=2022
+https://4gtvmobile-mozai.4gtv.tv/nEXdEM8rqcqtaMewx6ebMJ0j3ofycheWpFcMZKD-42MW559y-ccdibbuB6JBwPxw/index.m3u8?token=6344z0lg3suQxYvZEgWhnA&expires=1765531692&token1=SdDClJRfDTGcp2uUEmyHhg&expires1=1765560492&refer=Y2UwMWNlZDktZjM3MS00Y2YxLWEzMjQtNWY4NDgyMjYzZjAx&y=2022
 #EXTINF:-1 tvg-name="中天亚洲台" group-title="其他",中天亚洲台
 https://smt.passwdword.xyz/Smart.php?id=ctiasia_twn
 #EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
 https://smt.passwdword.xyz/Smart.php?id=ctient
 #EXTINF:-1 tvg-name="中天新聞台" group-title="其他",中天新聞台
-https://4gtvmobile-mozai.4gtv.tv/kX-ZOP1oM-vzo2pkLuwd3ZkmxEvXB9yWN8B6Hk-GdpE%3d/index.m3u8?token=TJKkKGO4IzWAYLGT66Nr5g&expires=1765519819&token1=ix4C9Qs0FXaYbB1_xP2s3g&expires1=1765519819&refer=ZjIzMDcyMDEtNjRmMy00YjFiLWFmNDgtNWM3NzZjMTZlYzgx&y=0
+https://4gtvmobile-mozai.4gtv.tv/9UdEWSviwq1GNFn9MB7PNMOSgp3RCxfA-NmIpJ3Bsak%3d/index.m3u8?token=n11US0_ZsjeXGR61d-f_DA&expires=1765530454&token1=Am5yJBM8Pbu-h5xeeL9ARA&expires1=1765530454&refer=NmZjY2YzZGItMDNmMS00NDE1LWE5ODEtNzcwN2FkNzFmYWNi&y=0
 #EXTINF:-1 tvg-name="中天新聞台" group-title="其他",中天新聞台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天新闻台" group-title="其他",中天新闻台
@@ -1058,15 +1058,15 @@ https://smt.passwdword.xyz/Smart.php?id=ctinews
 #EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
 https://smt.passwdword.xyz/Smart.php?id=ctizhonghe
 #EXTINF:-1 tvg-name="中視" group-title="其他",中視
-https://4gtvmobile-mozai.4gtv.tv/MHUWxDJM6E4HP2gWFlxbd7LL2Vdq2nIE63iae6OqTg0%3d/index.m3u8?token=mpHJRsQYJSNQe5qCe4NZBA&expires=1765519457&token1=7D5ZaY6O-OqUSwW5IH93JA&expires1=1765519457&refer=ZmMzNjgyMTEtYmE0My00YTk0LTliM2MtMjMxMzk5YzA3ZTI5&y=0
+https://4gtvmobile-mozai.4gtv.tv/6jZ8UFDV1c-_ywC5Fh522jbjWb7Q5E4TUKkXERfFP_8%3d/index.m3u8?token=YrcKEs1gWaStN1UWkAk6ZQ&expires=1765530219&token1=hpnwSKkVrrQkuxi96KyI4w&expires1=1765530219&refer=ZGEyMWRhNWEtMDM2YS00ZmQxLWEyZmUtNjE5NzU2ZTFjMzIw&y=0
 #EXTINF:-1 tvg-name="中視" group-title="其他",中視
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv040
 #EXTINF:-1 tvg-name="中視新聞" group-title="其他",中視新聞
-https://4gtvmobile-mozai.4gtv.tv/1M6s1D5l8tWMxDWyUUSIVEeTKxB7jhEYPZjttaQ0Vic%3d/index.m3u8?token=SSkQGTTnj0nzgPvSpTQAlQ&expires=1765519808&token1=gRx1xKn1nMvA0rfbtCYPbg&expires1=1765519808&refer=ZTVhZTA5N2ItNjM3My00ODU0LWEzOGEtNDRjNDMzMzA5ZDUx&y=0
+https://4gtvmobile-mozai.4gtv.tv/O6XN2cuoX3pU8N1wKTnJF-4rsJbAzMjoyrIHD8DRq0s%3d/index.m3u8?token=DSlapQOBUEIYfZ-07JS6HQ&expires=1765530447&token1=Px6SgQ2Vn7l7c0MskMpcww&expires1=1765530447&refer=NjgwZjBhNzItNmQyYy00MmI3LWEwNjEtMzQ5YTIwNWNmMGJk&y=0
 #EXTINF:-1 tvg-name="中視新聞" group-title="其他",中視新聞
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
 #EXTINF:-1 tvg-name="中視經典戲劇-FastTV飛速看" group-title="其他",中視經典戲劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/RGHJpiAjCrIFNYR6CPLpRyKnKQyixpcRRbyw8JKp1GhJMQGq0szRSbikJfQaYlwA6gmUXC5CmZJG54O74H3EIg%3d%3d/index.m3u8?token=vIWZl6-WfnhJxUQWCfpiaA&expires=1765520678&token1=wrRyBoZdvv2uIAig1dtYyQ&expires1=1765549478&refer=ZjdiYjk3ZTMtZmMzOS00YzFiLWE4MjMtZWQ3OGI0NGU4YzNj&y=2021
+https://4gtvmobile-mozai.4gtv.tv/Z4XzoCN9QSYKKXhKw7TjB35w5wf-_gsA1lruurWFyl2Xh893n8OF9Yqp4b3s0TvLrkccSP7SLbJXC-mjrv-T4Q%3d%3d/index.m3u8?token=rckk6wYj4vAEjeKoW1f4LQ&expires=1765531307&token1=LIjkD-O7w2hvi7yKh-FxfA&expires1=1765560107&refer=MWFjNzc1ZTEtZDE1Ny00NDIxLWI2NzItYjA3OGNiY2JlMGI4&y=2021
 #EXTINF:-1 tvg-name="中视" group-title="其他",中视
 https://smt.passwdword.xyz/Smart.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-name="中视新闻" group-title="其他",中视新闻
@@ -1090,7 +1090,7 @@ https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
 #EXTINF:-1 tvg-name="亚洲旅游台" group-title="其他",亚洲旅游台
 https://smt.passwdword.xyz/Smart.php?id=asiatravel_twn
 #EXTINF:-1 tvg-name="亞洲旅遊台" group-title="其他",亞洲旅遊台
-https://4gtvmobile-mozai.4gtv.tv/Xg0UDXnWcIfYIcOKd9iVegCSNXdNwF5s91K8NzjY9eA%3d/index.m3u8?token=xrXZ_wYCczeaYi_ZT0zogg&expires=1765520150&token1=n95AQ4OdzxewUVYsegAcgA&expires1=1765520150&refer=ZGM1ZDA5MjQtYmM5Ny00YjcwLThlMGItMDc3NmVkMWIzMTk3&y=0
+https://4gtvmobile-mozai.4gtv.tv/wXdzAyhXyE0IfOZHg8EhL-mbzU35xU2IFP2SgRWGscE%3d/index.m3u8?token=BWXlD5M-4dUkr5iTA7oyjA&expires=1765530810&token1=VdoSwHTRwIDkJ0elQRjRPw&expires1=1765530810&refer=OTE3ZTkyN2YtZTE2MC00MTNhLTgzOGEtZmZmZDI0ZjNhODc0&y=0
 #EXTINF:-1 tvg-name="亞洲旅遊台" group-title="其他",亞洲旅遊台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv076
 #EXTINF:-1 tvg-name="人氣動漫預告" group-title="其他",人氣動漫預告
@@ -1098,9 +1098,9 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii97
 #EXTINF:-1 tvg-name="以家人之名" group-title="其他",以家人之名
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii119
 #EXTINF:-1 tvg-name="以家人之名-FastTV飛速看" group-title="其他",以家人之名-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/H1YKHngbnfzDOTICjW04gOvlPpOjN4Xm3fFi-dEK_56fO-qx9pWd933SO2FXeLzBQGuqOvE8K3YxUQehVXcHog%3d%3d/index.m3u8?token=fdxsxtPxP6HPCh7xrstgkQ&expires=1765520785&token1=CcGTe8lXzHgxRVJA1UmBmw&expires1=1765549585&refer=M2FkYzM1YjItODVjYi00OTlmLWEzMWQtZjEwNWE3ZmQ1MGQ0&y=2022
+https://4gtvmobile-mozai.4gtv.tv/7ysX1rY9xPP7yZ-HYywiTojNyMCL46AQ_cwwURdMAVdscbA5GhkALswlhdmN0l27_PmdgL6IQdI4bQDMVgtIxQ%3d%3d/index.m3u8?token=KixjR7bw1uO2q139RWiqSQ&expires=1765531414&token1=uDeXJVnah2lfF7JrVSMX8Q&expires1=1765560214&refer=YjRkNGNhMjAtMzI4My00M2I3LTk3MzMtZDAzYzgzMTI2MDY1&y=2022
 #EXTINF:-1 tvg-name="以愛為營-FastTV飛速看" group-title="其他",以愛為營-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/lTgKD6XEM3-tSDmsGmb7QHe5XjK5XEoipxdImX6sA_a3pCLrhB3QhrdRfRude5zeNYchrX7KdThn-9QkHDn0Tg%3d%3d/index.m3u8?token=1UGsVlxp8gak0va42wNsPg&expires=1765520911&token1=ucrvk82rGU15BjzaQERb-Q&expires1=1765549711&refer=NjQ3YjIwMGQtZjIwMC00N2U0LWIzNjUtYmE5ZGZlMzYwN2Zh&y=2024
+https://4gtvmobile-mozai.4gtv.tv/cqTPYcowZZG2y_4TkZbCryy_h496xSgRlzAAxTJTxszgIYbWKmhxLrqhf1Ry9hpG/index.m3u8?token=0_04qSefCnQDysdKA8akaQ&expires=1765531617&token1=xj0va3aYtOTuock5HtQ3TA&expires1=1765560417&refer=ZDYxM2E3YTAtMGQ2Ny00ZDM4LTg3ODktMmU5YzUzYzAzNjRm&y=2024
 #EXTINF:-1 tvg-name="佔有姜西" group-title="其他",佔有姜西
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii117
 #EXTINF:-1 tvg-name="俗女養成記" group-title="其他",俗女養成記
@@ -1112,23 +1112,23 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=nnews-zh
 #EXTINF:-1 tvg-name="健康2.0" group-title="其他",健康2.0
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii132
 #EXTINF:-1 tvg-name="健康2.0-FastTV飛速看" group-title="其他",健康2.0-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/ARObf83R_zQDQ6EJeLWkr5ZnXwRD89mNYaM3_5IAoMhTUZNlMya0fvHjLNPm07MFPZVy9n6iWyRc-nrs6J5Xyg%3d%3d/index.m3u8?token=PhoybVjtcIGIG-mP1yeHjQ&expires=1765521150&token1=axh1vKHCNZ_tKyimyf-uIA&expires1=1765549950&refer=NTcxZDUxMDUtN2RlZS00ZmE4LTk5MWItYWVmZTQyMmZjOWFj&y=2024
+https://4gtvmobile-mozai.4gtv.tv/-FomOThFWvNx7-0wrSF2P58l2XacW5xs3eQ1f7ChXyiX1PxPWVxZtMIyJdJDhIlTZvnK9mMnUjQb-GBuENNDdQ%3d%3d/index.m3u8?token=H2fSTCNqKSffgjZTgZcDZw&expires=1765531815&token1=8mxmYOcTxpId3K1o4yPmdw&expires1=1765560615&refer=M2VmM2QwODMtMzU1Ni00NjZlLWJlMDItNzkwNjllOTZhM2Y4&y=2024
 #EXTINF:-1 tvg-name="健康問良醫" group-title="其他",健康問良醫
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii92
 #EXTINF:-1 tvg-name="免費精選動畫-FastTV飛速看" group-title="其他",免費精選動畫-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/MNbc0GCqtt2i6UGyVw5zVXvLQHn-KBv5ILhT-cuqcUusSEk0TMCNPnIkIdCHo8wZ/index.m3u8?token=6k8CDDzGvePKutYSdDYWwg&expires=1765521392&token1=00wgsFG7IMcZco7_fTXX5Q&expires1=1765550192&refer=NmEzZDBjNGMtZDFjNi00MTZhLTg5NGYtNzY1N2YwZDQyOTE3&y=2021
+https://4gtvmobile-mozai.4gtv.tv/AuGTQtCg6jpetj6g9Klp4CAt5wxDZ_ZhcyWcDF8jf0G_u9S1MDcV66ZCXyW0yzwQ/index.m3u8?token=d4AdoBRXu5_F37kdGWWPXg&expires=1765531986&token1=Tc9PKXoVqeG2XiYzqY6WyA&expires1=1765560786&refer=YmYzMjZiODMtNTJlNS00ZWI2LWI0NzktYzc2NzE4MmRmMGM1&y=2021
 #EXTINF:-1 tvg-name="全家有智慧-FastTV飛速看" group-title="其他",全家有智慧-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/bGqYxW_GSXgSVbV6x2oOxPH7bbVRVrHF600U_Bcz6ccbv8O3cJEjwFTssJLk1djVTBFtwOGUeAJrrmiE9uNQGw%3d%3d/index.m3u8?token=o_B2k0ZmNaLWp3bQTiwL4g&expires=1765521045&token1=cQCceU4PR9-DnZhu9exZ_Q&expires1=1765549845&refer=NDkyOWI4NGUtYWM0My00NWY0LTlmOTQtOTc5OTU2N2I1MjNh&y=2020
+https://4gtvmobile-mozai.4gtv.tv/LQqb0sU3QVw0WkoUH2H7bgX9B_aRIJtsiS21HSUuCkZrhs_t7yHaeHPY_MNOQfqwlsola1BO_sbQgC9IApt-zw%3d%3d/index.m3u8?token=7t_wXGJxqCJ-uwBNZkGglw&expires=1765531753&token1=tiOXQK9fkapSlZQB3aIFcg&expires1=1765560553&refer=OTQ5OThmMWQtZjI5Ni00NzQxLTlkYTQtMWMwOTI2MWQ3MmVm&y=2020
 #EXTINF:-1 tvg-name="全民星攻略" group-title="其他",全民星攻略
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii131
 #EXTINF:-1 tvg-name="全民星攻略 知識開箱" group-title="其他",全民星攻略 知識開箱
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii81
 #EXTINF:-1 tvg-name="全能歌手-FastTV飛速看" group-title="其他",全能歌手-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/ZgsOxA7topio-fQyDbaH3_W7RlWBkm2WGhE7jXdYTc3VH8243fhx9DteysKXY5p8/index.m3u8?token=vvJ-Xh-B8xD9JNymK4bJrA&expires=1765521118&token1=RuBZFUmCcyuxMOJ1bIsNbw&expires1=1765549918&refer=OGI1ZjBkYTctMDkwNC00Yzg3LWJkNDgtYWM5YWQyZWJhYWVj&y=2023
+https://4gtvmobile-mozai.4gtv.tv/dFNV4_k-KjO-ybMgJlkandjAmAf7V4D194FumbDO5jCIiJ7IZn7MBEciw8ERCpr-/index.m3u8?token=kYOBUAsz8TBO6lSXK17fxA&expires=1765531795&token1=-9K7UVXoynyZEG7rhhEP3g&expires1=1765560595&refer=MTY1OGYyNzktYmEzOS00YjM5LTlhM2QtZDM0NmQ1MGY5Y2Fk&y=2023
 #EXTINF:-1 tvg-name="公視好劇-FastTV飛速看" group-title="其他",公視好劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/U01Iv6SuIuJBhUfJcRhO-_kquyg8cfitTJlKbLjmHadeO40IsPtGBI21h-J5h8YF/index.m3u8?token=Xk8nPug8y0zyJlu-hGiUNg&expires=1765520713&token1=-6Ewqz4Q9mUKySB-G94lWw&expires1=1765549513&refer=ODFkNGYzNTMtYWNjNC00MGYzLTlkYTUtODk5MDk5NjJiMDRj&y=2020
+https://4gtvmobile-mozai.4gtv.tv/kx2zNeIWX3C-URl3gCDPb8Cu05WcYreogrGee8Bv_BjlZtvyC--8ADZhUMzEWZkapbcLx7GOVaG5mhyua-8p-w%3d%3d/index.m3u8?token=bZBB-OANFhiEaeN0Vh1Bng&expires=1765531349&token1=M1fVhiRj1DmLLOzKrmVeSQ&expires1=1765560149&refer=ODMzZTRiNjctMTRhNi00ODQzLWFkZDctMDFiOGE2YTM1OTMw&y=2020
 #EXTINF:-1 tvg-name="公視戲劇" group-title="其他",公視戲劇
-https://4gtvmobile-mozai.4gtv.tv/JCrhBovO6MYtCAmRbwy3ETZ9BDhhY1YW1UM8uXAMAdA%3d/index.m3u8?token=MXlEJ_dQYeoS4rupHyz7dg&expires=1765520227&token1=pZriWLS3i7bvB9esqiX2bA&expires1=1765520227&refer=Y2VlZjMzMzMtODg1Yy00NmMxLTg2OGEtMTcyZTBhYmY2ZmE1&y=0
+https://4gtvmobile-mozai.4gtv.tv/1CtFt-Hr9ZdWXLdLfoQAbByNcSPwNNb2ZZv2FOD332c%3d/index.m3u8?token=ysfQ-5SkyGqh2JzAqubM5w&expires=1765530887&token1=suDkooUzYYqGIymkt4hwzg&expires1=1765530887&refer=MTU0YjcxMGQtYmRmNy00OWE1LThjYjAtOTYwMGMzNjViNDUw&y=0
 #EXTINF:-1 tvg-name="凡爾賽玫瑰《11/5即將下架》" group-title="其他",凡爾賽玫瑰《11/5即將下架》
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii185
 #EXTINF:-1 tvg-name="凤凰卫视香港台" group-title="其他",凤凰卫视香港台
@@ -1142,15 +1142,15 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CRE
 #EXTINF:-1 tvg-name="创世电视" group-title="其他",创世电视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRE
 #EXTINF:-1 tvg-name="別打擾我種田-FastTV飛速看" group-title="其他",別打擾我種田-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/rr7V2JdPDVNVe3k72GkgprMEJIIJ_fr1-lGy-le7iHy9ZIDkgvGtwxge9pq0PiDg/index.m3u8?token=dgMolxBwvQe33wfILWLFLQ&expires=1765520826&token1=hYvWcgPlzq_-0bH78utTxg&expires1=1765549626&refer=OTRhNTM5NWQtZThlNy00ZDBjLTkyYzYtN2Y0NmIwMTUzM2Uz&y=2024
+https://4gtvmobile-mozai.4gtv.tv/Uslv4CUdxuEprFKYjEJaIXkCv6BGb14mq44ch4nZxzNGlXCp7kkC1G6id5UWtOdhaHKabXEuf_UyXMUF514Ydw%3d%3d/index.m3u8?token=IYjwHQn3M_IuqGGeZA4BLg&expires=1765531511&token1=jjhPpWgAnvRKxwwRYnZr-w&expires1=1765560311&refer=Y2MwM2ZhNDMtMzZhNS00MDAxLWFmNTktOGZiZmUyYmEzMTEw&y=2024
 #EXTINF:-1 tvg-name="加油喜事-FastTV飛速看" group-title="其他",加油喜事-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4hWt_vtS3c5npyFdbADo3tLf0Q8Pw4BurJzTjrruHObcDvWBYhwfzKmwHIc1euDy/index.m3u8?token=Y94jJp_Wmy_sdkVuMakEtw&expires=1765520792&token1=y6wOXAPTn3HaCqVlUzWDbg&expires1=1765549592&refer=Yjk0YjYzZmEtNDdlMy00MzFlLTgxY2UtZjE2MGY0NDg3ZTY1&y=2023
+https://4gtvmobile-mozai.4gtv.tv/J5ychO7RIJ1C7xr3qxAgTUwqT4lJJ0T3oTYr0va3suLX_hsALYggxZ2bqHR6INltMrbHkPnPjY2G2RIF5aBwPA%3d%3d/index.m3u8?token=RBCX8HDlY23Re-FoKlR2Pw&expires=1765531429&token1=VgYnR8YUib9Dnpta65IhHA&expires1=1765560229&refer=MjFlNjliNTMtMjFiOC00YWZjLWI4ZjYtNDNkYTllMjhkZWQ2&y=2023
 #EXTINF:-1 tvg-name="劣人傳之詭計" group-title="其他",劣人傳之詭計
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii200
 #EXTINF:-1 tvg-name="包青天 1993版" group-title="其他",包青天 1993版
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii151
 #EXTINF:-1 tvg-name="包青天-FastTV飛速看" group-title="其他",包青天-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/x1-xLi3dUn1NP76pHU_lIhfJBoNlPp8MTHPqdR7LDePKXK1cwWJ0XlgBx91-khQy/index.m3u8?token=Gv5cjBnOOVV62SUu6b44dQ&expires=1765520931&token1=BZudBWfQ7gHxJ9KaREPXjw&expires1=1765549731&refer=YmU4ZjAxZjgtZjU4Ny00MTNhLTg2ODUtZDMyYTY3NjIwMjBi&y=1993
+https://4gtvmobile-mozai.4gtv.tv/dVIAc3t75I0jgXusYyxKWhsYGjtrG8qkEpYVUVjQUePOUtjj0IaIh7N87muzzCcU/index.m3u8?token=ltIjT8cd4dkfLXLfcmTwlg&expires=1765531637&token1=rXF4cX4pWepOkwqRQvQRDg&expires1=1765560437&refer=MmQxYTk5NDEtMThhNC00MzA3LTgzMTgtNjhmZmYxNzVjYzIz&y=1993
 #EXTINF:-1 tvg-name="千禧经典台" group-title="其他",千禧经典台
 https://ofiii.passwdword.xyz/mytv265.php?id=CTVC
 #EXTINF:-1 tvg-name="千禧经典台" group-title="其他",千禧经典台
@@ -1160,7 +1160,7 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CJAZ
 #EXTINF:-1 tvg-name="半岛电视台英语频道" group-title="其他",半岛电视台英语频道
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJAZ
 #EXTINF:-1 tvg-name="半島國際新聞台" group-title="其他",半島國際新聞台
-https://4gtvmobile-mozai.4gtv.tv/JNcB-wL3oAQlrqeFPjhQRfeOo2-HHZUkW0y-q6gnlZY%3d/index.m3u8?token=3iUXuRQJPbaJMRrq1a0EBQ&expires=1765520541&token1=mqPq-SiVJ7yqlYk3ekzngA&expires1=1765520541&refer=YzNiYTQzMTAtMzkxMS00MmFhLTg2OGQtY2VhYmM3Zjk5OWU0&y=0
+https://4gtvmobile-mozai.4gtv.tv/Ar0MM2NJyd6WecC409-ld_a_o4hKQMdTZtWuvaCvMJQ%3d/index.m3u8?token=9i46XYqUQdhr_pcWz3V9wg&expires=1765531174&token1=5ejOZ6St0JyYrHRdXOZH8g&expires1=1765531174&refer=MmJiMTA5YjYtYmE2Ny00NDBiLWE5YjUtNDlmYzU5ZjJiY2M2&y=0
 #EXTINF:-1 tvg-name="华视" group-title="其他",华视
 https://smt.passwdword.xyz/Smart.php?id=ctshd_twn
 #EXTINF:-1 tvg-name="华语剧台" group-title="其他",华语剧台
@@ -1180,15 +1180,15 @@ https://smt.passwdword.xyz/Smart.php?id=bosigolf1_twn
 #EXTINF:-1 tvg-name="去有風的地方" group-title="其他",去有風的地方
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii116
 #EXTINF:-1 tvg-name="去有風的地方-FastTV飛速看" group-title="其他",去有風的地方-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4OsMQcHjLzVFol8prq4VZ9fs0RMIYqaJoesq_phaScdCBzxHOE_C_t9Tu7NN3uDn/index.m3u8?token=2vR16ULh-wKDjK2yK86qVQ&expires=1765520799&token1=7W13UudwdBHsxkuPTALD7g&expires1=1765549599&refer=MDcyOGQwOGUtYzI1Yy00YzkxLWIwMTEtZjZiNmE1MTY3OTg2&y=2023
+https://4gtvmobile-mozai.4gtv.tv/Fsu2O6gh4Maev5bKHkjHjxDcnYH5dxBQhxWeO-7LWn2LCd8arr1B_NPqmehCGHOcdATm4Dh1wcU-vYy0OSBWbg%3d%3d/index.m3u8?token=jDOuUEJ0-SwC7ZwDXzV2bg&expires=1765531445&token1=fJumbWKvU7r31pT8l3AM9A&expires1=1765560245&refer=ZmE3MWU1OWYtOTc4Yi00ODA3LWJhYTQtMTc5ODVmMDM2OWUw&y=2023
 #EXTINF:-1 tvg-name="古裝武俠劇-FastTV飛速看" group-title="其他",古裝武俠劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Zl-0h38JTzV9N-hJ6LWDYlOTrFD6RnGQQJuox86X7JbbUG3hHYT7IaKznNf-R255XHy4YZ2GVs1fnw4ObPfe9Q%3d%3d/index.m3u8?token=kCyHKCq69W8pwu4jW8QubA&expires=1765520904&token1=LscDqwgyQyZsFLzS87cK6Q&expires1=1765549704&refer=YmJkYTgzYTItYmNhYy00MDY3LTkzYzgtZTNmY2VmNmNlYzEx&y=2024
+https://4gtvmobile-mozai.4gtv.tv/UU3zv2yOiSe7BS4PvOlA50n8oStxWc0QQT0Pc2t8x0m0eFciOmDrjbMpfvqeojlXmJTP7CxYuT0XYlK7Cr8-aw%3d%3d/index.m3u8?token=Iby2FPK2RZlBL1XkUzDWaw&expires=1765531611&token1=Zn8dcPhO9x89uAFcJhgBKQ&expires1=1765560411&refer=MGJmNDg1ZGItZGQ1NC00Zjk0LTkxYzgtNTE0N2MyN2ZhZmM4&y=2024
 #EXTINF:-1 tvg-name="台灣1001個故事" group-title="其他",台灣1001個故事
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii235
 #EXTINF:-1 tvg-name="台灣No.1棒球精選-FastTV飛速看" group-title="其他",台灣No.1棒球精選-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/zf2Y04-FZ16JTBg79rAilpO5khS0tHImDy2slEHF7oXaPLIry1l4A4UvHw5x1AtV/index.m3u8?token=s-K2QrhC4aYj-PFl-9ODOQ&expires=1765521345&token1=t-MCTphva9RedvptbMUHyA&expires1=1765550145&refer=MmQzNGM3MTgtNGM4YS00MzhhLTk4MDQtMjNjOTMxODI3ZTUw&y=2025
+https://4gtvmobile-mozai.4gtv.tv/AIXC1GMykTkmBPMykiil38ppguDL9J5w07HZeTUKjnZFUInJFnp39qiH38pruaoT/index.m3u8?token=JApmYr8n4Gh5q_YlPNtFcw&expires=1765531939&token1=oSO3eSv4lUayiG7zjCWVEQ&expires1=1765560739&refer=NzQ3ODYwMmItOGIwYi00N2RjLWJlMjUtYzEzZWQ3MGU4NjFh&y=2025
 #EXTINF:-1 tvg-name="台灣傳奇-FastTV飛速看" group-title="其他",台灣傳奇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4V-JRDT1-MIjpc9n9Jw-xhUzIlAgK5ud_bE8XrXK7XN0x8JpPrjqFjkEMR1J8oBdn2-S6XDOUw6u3kBf-65ang%3d%3d/index.m3u8?token=Gv6_OSrYcZzMYdbJ-irhLA&expires=1765520877&token1=XZx7wnA124duTP_huitczA&expires1=1765549677&refer=MTY4MTRmNTYtOWQ0NS00YTZiLWFhNmQtOWEwNjUxZTk2OTdi&y=2023
+https://4gtvmobile-mozai.4gtv.tv/cFqKxd9zY9p6IzzonfTpfRVBB6qRWUfFF9nQUHc9VcPEb6FXfsqKQCCHqT4NAEW0e6dL8ztqzGuWNKsi0NADEQ%3d%3d/index.m3u8?token=LBjIqo2c-Sr_yYpHPqLa4w&expires=1765531584&token1=vqKjhfWpeCUYoitlBDAs8w&expires1=1765560384&refer=NzA3ZGQzNTEtN2Y4ZS00OTc1LWEyNjAtZDg5ZDkzZWY0NzE0&y=2023
 #EXTINF:-1 tvg-name="台灣向前行" group-title="其他",台灣向前行
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii210
 #EXTINF:-1 tvg-name="台灣啟示錄" group-title="其他",台灣啟示錄
@@ -1206,7 +1206,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii239
 #EXTINF:-1 tvg-name="台灣靈異事件" group-title="其他",台灣靈異事件
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii150
 #EXTINF:-1 tvg-name="台灣靈異事件-FastTV飛速看" group-title="其他",台灣靈異事件-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/T1jR8yCWGrRBGCg2RxWpoadBe2P_1AJ2AKGV-YC96qmjmUGwq_AiVzdUDHSPKpCj/index.m3u8?token=9apJNdhRcrQTWXCfQBUG1g&expires=1765520770&token1=1X2LKvTdzU_IGsMpqlLpKA&expires1=1765549570&refer=Nzg4OGMwMzMtOGVkZi00ZmI0LWFiYTgtN2QyMGEzNGU3ZDgz&y=1996
+https://4gtvmobile-mozai.4gtv.tv/gtermqF0Kzi8th7l4MHKWsu4VpkFw8cOJnG4IURvxHA2yAt-mdwWB-X-xYWmdXWW/index.m3u8?token=g_jK7r2QCDqfJMvIx64fvw&expires=1765531383&token1=30XUmk4L_nMX0k6UwfekZw&expires1=1765560183&refer=NzY5NGU5MzQtNzhkMS00MjRhLWE1ZDgtOTNmZjhhMTY1Mzhl&y=1996
 #EXTINF:-1 tvg-name="台視" group-title="其他",台視
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台視新聞" group-title="其他",台視新聞
@@ -1220,23 +1220,23 @@ https://smt.passwdword.xyz/Smart.php?id=ttvzhonghe
 #EXTINF:-1 tvg-name="史上最強弟子兼一(中文版)" group-title="其他",史上最強弟子兼一(中文版)
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii180
 #EXTINF:-1 tvg-name="同學！搞什麼鬼-FastTV飛速看" group-title="其他",同學！搞什麼鬼-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/xdP3SWvX8TYYZoWRXzSvbDNc0pQSRsAhtA0Aq1SKd6pjkhV96HoR_G1BR4Bu42Lha2x4wQwQzS2hfAzOkZOwLA%3d%3d/index.m3u8?token=oNnf0i12hp7QNPB1LRrUWA&expires=1765521257&token1=ayfPuakVu1K0x7G7xBxpyg&expires1=1765550057&refer=ZGM5NjNjYjQtMTc0ZC00ZDRkLWJmNjgtNTQ3NTNhZGVlYTM4&y=2020
+https://4gtvmobile-mozai.4gtv.tv/LpACcddACZ35-tFxiXzGjDsXBj523_WBqeuzJ7SAfYZW9J8LqtBeHeGsM0gjgigPDOHlLuZqVKVlG6iefpQxpg%3d%3d/index.m3u8?token=Kgns8F5jIxVHw64YWaOy5w&expires=1765531883&token1=mXsJcm2Lu9X4Bq6uVhLm5g&expires1=1765560683&refer=NzY2MGIyYWMtYjMyYi00ZjgwLWJmMGMtMTBlNzFkYzVlMGU4&y=2020
 #EXTINF:-1 tvg-name="向風而行《11/5即將下架》" group-title="其他",向風而行《11/5即將下架》
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii118
 #EXTINF:-1 tvg-name="哆啦A夢-FastTV飛速看" group-title="其他",哆啦A夢-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/dmtD63s4HFcHYYGCMs3On-SG-_48gYzcNZRsJDHjQzRDJoxj2FIOZvBeMhuaCgbr/index.m3u8?token=qoIhiVAv2crZFyZT5AI-Bw&expires=1765521378&token1=oRvpEFryN5Gcjoy169ierg&expires1=1765550178&refer=ODhjOGUzZGEtOTViNC00YzQ3LTkxYmMtOTQ5Mzk2YzM1Mjkx&y=2019
+https://4gtvmobile-mozai.4gtv.tv/dC8lrj5c1DVAO97WuafccxdkSqnS9R08TdzWDkjraNPBipQbALJWr8Zl11VhRuP6/index.m3u8?token=W9_J6ZtPnOfx6MY3-1Zv9w&expires=1765531973&token1=Hej5GJR2ibv9ei0exmVUcQ&expires1=1765560773&refer=YjBjNWY5MWMtNDkxOS00MzQ5LWJmMTQtMTBjYmQxNjYwN2Q5&y=2019
 #EXTINF:-1 tvg-name="啦啦隊獨家專訪" group-title="其他",啦啦隊獨家專訪
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii88
 #EXTINF:-1 tvg-name="回到20歲" group-title="其他",回到20歲
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii145
 #EXTINF:-1 tvg-name="國外電影精選-FastTV飛速看" group-title="其他",國外電影精選-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/DU0V4jHHxMS_zVhjU0U0D1ngTmfVgPNL6SyWjIILJTpYumns1TJOOtB2CLOiDzFL/index.m3u8?token=aEMOebl6yXFmt4v-MWrp5A&expires=1765520850&token1=fNRjjH3A4YBJZ8g1IiXi0g&expires1=1765549650&refer=ZGNhNjNmMDUtNDI3My00NTdjLWEwOTAtZmMxNGU5NjJjNWQ3&y=2025
+https://4gtvmobile-mozai.4gtv.tv/tZSfgkjqZXZ7GlRR49Yj-rzvepyARZlDLQ_Jw1kNjrE14rDvklhM6-FnGlpHf8bA/index.m3u8?token=piuMbV_RrYvVJYjIC_l98w&expires=1765531545&token1=V8IOUK9CBjEhuQElYFtDBA&expires1=1765560345&refer=MWU5ZmY4ZTgtNzk4NC00NGU3LTkyYjUtYjM0NzBlMmNlYjEw&y=2025
 #EXTINF:-1 tvg-name="國會頻道1" group-title="其他",國會頻道1
-https://4gtvmobile-mozai.4gtv.tv/519cH6eoq_lWK1lTTPtxcN36jdF9Q8U8pHAtjqHoYcw%3d/index.m3u8?token=lv00IGgICkiyGdOAU8yFSQ&expires=1765520586&token1=uPtR_PMootOVs4pka5X6rA&expires1=1765520586&refer=MjBhNjE5MTgtYzE0Ni00MmRkLWJiYjYtM2FlYzdiYjBjYjlh&y=0
+https://4gtvmobile-mozai.4gtv.tv/ILKZZSUobTLkcyJsMEM_Pn91pqffMv5r3WEsfCUMJcQ%3d/index.m3u8?token=daw42bqBCUOp3H8e_Hfg8g&expires=1765531199&token1=UPnEtPTc8go_OIbEB023dA&expires1=1765531199&refer=YThiZjZmYzAtMGY5Yy00MTMzLWJkNGYtMGU3NzFiNjIyZDNm&y=0
 #EXTINF:-1 tvg-name="國會頻道1台" group-title="其他",國會頻道1台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv084
 #EXTINF:-1 tvg-name="國會頻道2" group-title="其他",國會頻道2
-https://4gtvmobile-mozai.4gtv.tv/-OGDhYFsqKJIXRpaJvRFNUyQIJYqms7oBdyz7XhG2SU%3d/index.m3u8?token=CU9ov5SflBuPtvLwSZNU-w&expires=1765520594&token1=Lni3zWhDT_WzZ3J_ob_Hjw&expires1=1765520594&refer=NmJkZDBkMWUtNWRiZC00ZGQ2LWFiMTItN2MyZDBlZjJmMDQ4&y=0
+https://4gtvmobile-mozai.4gtv.tv/KaiBNse1yY-KJojGnQTOC2qZ_O0iU7xoqFcdKjxej_s%3d/index.m3u8?token=K5gajE3EjF5fckOz2vBsug&expires=1765531207&token1=S3HjD9GWLuN3TbQKz9N2YQ&expires1=1765531207&refer=YTFiOWI1YmItOGQzYS00MTJhLWJhZTUtYzY0NjMwNjc4YzMx&y=0
 #EXTINF:-1 tvg-name="國會頻道2台" group-title="其他",國會頻道2台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv085
 #EXTINF:-1 tvg-name="國民大會" group-title="其他",國民大會
@@ -1254,19 +1254,19 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii254
 #EXTINF:-1 tvg-name="夏目友人帳" group-title="其他",夏目友人帳
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii174
 #EXTINF:-1 tvg-name="多情城市-FastTV飛速看" group-title="其他",多情城市-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/LCiw087a1EWbhlksxip2v-SQmiiWYxxBuqiJBAv_UvHebLwVKSOXmty4veGaEE700sawdaNZKxgSTU_JX4WEXw%3d%3d/index.m3u8?token=kQRdhkcHSv8vsrGaS9TLSQ&expires=1765520806&token1=5Smgs8HwqadWso-JGMrFsg&expires1=1765549606&refer=MzMxN2RhZWMtYTRjNy00YzEzLTg1ODYtMzkxYTMzODM2NDUx&y=2021
+https://4gtvmobile-mozai.4gtv.tv/weTPa6j1Vy7V8KdI9NDK2b7TeN_tIHFzq8tP3zfp5-zfeXTenREl8_aEsFQde4Z25YXoAgaL56NHCRPqDw6zoA%3d%3d/index.m3u8?token=xXjsFbhFIHuHqd2-b3EBqw&expires=1765531462&token1=m2XuboX2u4H9U-mz0YEjdg&expires1=1765560262&refer=NzMwMjgxMGMtYTc4Mi00NjEyLTgwNzQtYjBlZTkxZGQzYmE2&y=2021
 #EXTINF:-1 tvg-name="大兵日記-FastTV飛速看" group-title="其他",大兵日記-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/642bMKIVrpZKRJcuAaQOyrtOwqCNsnXeVqbgEN1xfgxtHVdPgQYF_zX7REhv0Ffu/index.m3u8?token=4kGwmv9XipU104WTfKam-A&expires=1765520951&token1=NQ5U5nv7gfR1mmMlvEhZQA&expires1=1765549751&refer=ODRjMmYxZDItOWFiYy00NmQ3LWFiMTMtMzJiZTdiMTlmZGY3&y=1990
+https://4gtvmobile-mozai.4gtv.tv/u7YDAAEgDxXnc52m42iUy8ROrOkbd4VPlWyQjLBuWkVSVOumJF0LFAj-kbs1Cdo5/index.m3u8?token=LUEZn1yEahI0K-O5twHBWQ&expires=1765531659&token1=5q8qrOpP3f_3uevWbeoZkw&expires1=1765560459&refer=NjlhNDk4OWItN2QzNi00OWQ2LWJhYTEtZmIxOGQwYzlmYTE2&y=1990
 #EXTINF:-1 tvg-name="大愛精選-FastTV飛速看" group-title="其他",大愛精選-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/SmohaxLCDqXQbJUxWghbIbq-JYYl590PlRRER68RjzgEBffadfonqjqQado_xN1iRFPoqF2po9_N3gyRq4vXmw%3d%3d/index.m3u8?token=lHRY9pDaIWSvRL926m5gJQ&expires=1765520864&token1=xtyS_kAyc8PtBzD-u73Vfg&expires1=1765549664&refer=MzM2MGQ0YzEtZmUyMi00OGY3LWE0ZGMtODY5YjFhN2VkOWRl&y=2020
+https://4gtvmobile-mozai.4gtv.tv/6L4i84yDmmDhVk6bfdWweAO2ak8TUtIX5so0TnbpRbkZA1qbxWJEDvqyx8gzoQYgotsM3q9Lz_mPMX75rdjpuQ%3d%3d/index.m3u8?token=TKzB4pRMVAD3KU2KHSr_qA&expires=1765531569&token1=nv1uXTvkhAvLJEspYO0FjQ&expires1=1765560369&refer=N2EwZGJiM2ItMzc4OS00ZTc5LTliYmYtNDBlYWNjN2E5Mzlm&y=2020
 #EXTINF:-1 tvg-name="大新聞大爆卦" group-title="其他",大新聞大爆卦
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii201
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://ofiii.passwdword.xyz/mytv265.php?id=GBTV
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
-https://smt.passwdword.xyz/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
+https://smt.passwdword.xyz/Smart.php?id=nanfang_twn
 #EXTINF:-1 tvg-name="大爱二台" group-title="其他",大爱二台
 https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 #EXTINF:-1 tvg-name="大爱电视" group-title="其他",大爱电视
@@ -1276,7 +1276,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii255
 #EXTINF:-1 tvg-name="天才衝衝衝" group-title="其他",天才衝衝衝
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii135
 #EXTINF:-1 tvg-name="天才衝衝衝-FastTV飛速看" group-title="其他",天才衝衝衝-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/1BidV7yhpBPZu2p5ODxa6tvskv24qlYSjKSh9mLEPkPJJrD74H5ggBz4KOk-XYxvYLwwNM2zt4jhU_bK0RSrGQ%3d%3d/index.m3u8?token=rOu_-tmZhPisjkhn9iLaWw&expires=1765520991&token1=RgY-o1lelix1wj45w4bapw&expires1=1765549791&refer=NDk4Y2M5ZDgtMTM0OS00MmQ3LTliYzAtZGJkZmNmY2MzNWRl&y=2023
+https://4gtvmobile-mozai.4gtv.tv/bIhSEzr_7NrGcN4Lt7IP-YAk6bVci-zjZIunG0duE33hE5U2EZ8YMA1SbIxjIHzWPROcRbYw0wtgvaOGefqSHw%3d%3d/index.m3u8?token=QkUOYfhBIXMXUUA0n0AgJg&expires=1765531699&token1=E8sON6S-3MyfCmQYNtJu-w&expires1=1765560499&refer=NDQ2ZTFkN2MtZDVjZS00YzY2LWJkYjYtNjQ5Njg3N2Q2ZDg3&y=2023
 #EXTINF:-1 tvg-name="天映经典" group-title="其他",天映经典
 https://smt.passwdword.xyz/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典频道" group-title="其他",天映经典频道
@@ -1286,47 +1286,47 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="女人我最大" group-title="其他",女人我最大
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii137
 #EXTINF:-1 tvg-name="女人我最大-FastTV飛速看" group-title="其他",女人我最大-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/JxC2hBGJYZx1aD0a1mDYAkZyPPUXHGlr1x8edGdoTQZDBk2b281n341JVQ_iEHz2xgBLxUkrwTjnQ_nc86OvhA%3d%3d/index.m3u8?token=a-w9jeEfGjHwaypkTycovQ&expires=1765521011&token1=T0bpWRlRdufh0I72p2yn1w&expires1=1765549811&refer=NGFjNGJjMGEtZWVlYi00NzA2LWFlMmYtYmU1NGNjNDk1Njdk&y=2024
+https://4gtvmobile-mozai.4gtv.tv/SdfojoOrr-tqktFlNq1uLgSAhAN6_AEDQa9PxZI8_fuaJ1PD88KI3nogkSTeHSIAdKp5IjKmu9VsC6YF-Gy-rw%3d%3d/index.m3u8?token=BC2KuwstIoT2E4nOrklMbA&expires=1765531719&token1=sQFzuagSXtTbOJFUKeUDSQ&expires1=1765560519&refer=NTA3MjQyODktZTNiNi00NzY2LWFhNjYtZGE2MjVkMWQ3ZGY1&y=2024
 #EXTINF:-1 tvg-name="女力故事館-FastTV飛速看" group-title="其他",女力故事館-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/KZEq3S08rfxrnyaJ-fHlZnV0KuCCZmFeXIAPnM1ttMO2DLKyB1lShAQecJMcCkwoteywHB333sm89X5bWPu7hA%3d%3d/index.m3u8?token=pp579KFdl5IPwk1b7UpaRA&expires=1765520978&token1=CafxT4dTgqw700W4cmR-gA&expires1=1765549778&refer=NDZjMDU5MmItMDJjYS00Y2YyLTg4OWUtM2E5ZDQ1ZmE4OTQ0&y=2025
+https://4gtvmobile-mozai.4gtv.tv/k8f7rngJSPzWTSqniNcT3Faa3cKJSQJXQY1XKvTcQdkYwzJkb1Zsrzr3FFvbQ29T33vqju-wxlx3XEpG_4TdLg%3d%3d/index.m3u8?token=_5JucNsCiyAGoZ8ZNK4aDQ&expires=1765531686&token1=pTDlS1OoyYSqVze_whgKZQ&expires1=1765560486&refer=MzkwNjAyYTktMzE4YS00ZDA5LWFlOWUtODRjZDJkNmZkZmU0&y=2025
 #EXTINF:-1 tvg-name="好搭檔" group-title="其他",好搭檔
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii147
 #EXTINF:-1 tvg-name="好消息" group-title="其他",好消息
-https://4gtvmobile-mozai.4gtv.tv/xL7v09j0Iy40Ij30MS09yex9VCTdRkUazN9tVtD2gwg%3d/index.m3u8?token=lRh5zEQzDR6aJsvBBlyNOg&expires=1765520463&token1=Z0McRXfTedodLi6BbkdDow&expires1=1765520463&refer=Y2U0ODMxYmItNmMyNy00YzMyLWE3NTItNDA2MmEwNzlmMTEy&y=0
+https://4gtvmobile-mozai.4gtv.tv/kiIAqn5To7ln49pb2608vWmDpp6EZTqgbFlbzwCc8Cc%3d/index.m3u8?token=BKZSKFUr8KAQTlecFScRsA&expires=1765531097&token1=F1QvKmm3CNqwllWyfrS0zQ&expires1=1765531097&refer=MDNjNWQ5M2YtOTVjNy00YTdkLWFlZWEtNzE1MzYxYTE1OGQ3&y=0
 #EXTINF:-1 tvg-name="好消息" group-title="其他",好消息
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-ftv16
 #EXTINF:-1 tvg-name="好消息2台" group-title="其他",好消息2台
-https://4gtvmobile-mozai.4gtv.tv/xdrSW3Hk_gHcrkfFtdLH8Irnh7adx7BGFgCye9sntRA%3d/index.m3u8?token=nJZA1TJNbN4KBlOgdQHlHg&expires=1765520472&token1=uwE10MkeRMF-Eme7uw8tbA&expires1=1765520472&refer=ZGJjYzc4NzMtNWFmMC00ZDhiLWJlYWUtZDZlYjI2OTg0NjZj&y=0
-#EXTINF:-1 tvg-name="好消息2台" group-title="其他",好消息2台
-https://smt.passwdword.xyz/Smart.php?id=good2_twn
+https://4gtvmobile-mozai.4gtv.tv/tx230NUKxc34Xw-HcnqEJvUA-xbNeppR0V7dHc5Ul8E%3d/index.m3u8?token=ns-Ozlqtb999J3i_5q_duw&expires=1765531107&token1=0ezyNx39ZnqlKv7ELKxIZQ&expires1=1765531107&refer=OTM2NmY0NjYtY2Q4Yy00YjQwLWJkNGEtNmRlYWI4MGM0YWNh&y=0
 #EXTINF:-1 tvg-name="好消息2台" group-title="其他",好消息2台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-ftv17
+#EXTINF:-1 tvg-name="好消息2台" group-title="其他",好消息2台
+https://smt.passwdword.xyz/Smart.php?id=good2_twn
 #EXTINF:-1 tvg-name="好莱坞电影台" group-title="其他",好莱坞电影台
 https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="好莱坞电影台" group-title="其他",好莱坞电影台
 https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-name="姊妹亮起來-FastTV飛速看" group-title="其他",姊妹亮起來-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/XMNw8uVQ0bSWrdOtXQMy-_yG2jScDKuZh7MewXzexqZuhMxQdjs7dwL5O6eEDpSR_keOrcu7IYhYR1ixuwP4Dw%3d%3d/index.m3u8?token=7XSqt5P0BXom83dMOU9NFQ&expires=1765521068&token1=YQ_AkWgEOMdOG3saQ3HMgA&expires1=1765549868&refer=N2JkYTRlZGEtMTI4Ny00NWU1LWExMGItOGM4OTYxNzY2YmFm&y=2022
+https://4gtvmobile-mozai.4gtv.tv/ADeUHc38ToOeix1f0Fz28u20_tEDHr0qtGXMuEzjMJnUe32iyktEro13YLBDHy5nXB3x7PImuOTAaH1BoTXAEA%3d%3d/index.m3u8?token=KWEv9iUcVkrbB3QYEmZ1lw&expires=1765531768&token1=foa6z_nOlgMSOqZVbZNKNA&expires1=1765560568&refer=N2JiMmQwMzctYTgzYi00ZGVjLWE0MGQtOTkzZGJkMDYzOTMz&y=2022
 #EXTINF:-1 tvg-name="威廉沈歡樂送" group-title="其他",威廉沈歡樂送
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii139
 #EXTINF:-1 tvg-name="威廉沈歡樂送-FastTV飛速看" group-title="其他",威廉沈歡樂送-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/LHRdf4AHBltwye06pqwXt5kAuNLfaWMmwlJZMHmSerTK-fBJbfj_g2LOe992oRT-/index.m3u8?token=BF_CqUsVHNn0-Hvi8dSfkg&expires=1765521038&token1=oGE_yoeB6Q97smDAIaS2jw&expires1=1765549838&refer=NmZmZWY0ODgtMWVhNi00NTJiLTgzMDUtZTk3YTdmOTI1NmQ1&y=2024
+https://4gtvmobile-mozai.4gtv.tv/FqmD-i0uxcRyzf7Sm3BzHbq-EbnXy9VbDEsYLv18sR3pxZamM841HNDroQdQw51Qc0z2kakkHHBp7UWHFz3gJw%3d%3d/index.m3u8?token=XY4YLx4kkRDo3Jx6QFVRZw&expires=1765531746&token1=Lz3UAdAK5TgotfNiHdaTng&expires1=1765560546&refer=NWY1YWZiNWEtNDE5ZC00NzM5LWFhOGItMjJjZmE3NzdlOTRl&y=2024
 #EXTINF:-1 tvg-name="娛樂百分百-FastTV飛速看" group-title="其他",娛樂百分百-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/PmdAa8SCKGUs4B3hbrFSDQ_wzLl9P2x19kfsDX0zXvKszrzi3C2qjFzGSbiv46ogZLTZ_5tR-T-bM-0rur_Ndg%3d%3d/index.m3u8?token=K4GOtK_rEhMN0Dl60lwLRA&expires=1765521077&token1=PM3Bvt1AJ9UvSkuvMDlmAg&expires1=1765549877&refer=NWM5MDQ1Y2MtMTNiMy00NGQ4LTk4OTktYzBhYWE2ZmRmZDQy&y=2025
+https://4gtvmobile-mozai.4gtv.tv/s0xp2-o0j5dG_gXAz6n5XViHlCWbLqB4Naskxk0ijOSbL-P7kVtOSi8SAZ8Sl1rTzW81MHoSrU7nOAewmaBu8w%3d%3d/index.m3u8?token=xfrn6GfDKUMDu2wgDklY9g&expires=1765531774&token1=JAa1LK9QuVc0WjR6Mp2drA&expires1=1765560574&refer=ZDllNWZkNmYtNzllOC00NmJiLWFiNjYtYzVjNDUyNTkzYWE1&y=2025
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="其他",娱乐新闻台
 https://ofiii.passwdword.xyz/mytv265.php?id=CTVE
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="其他",娱乐新闻台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTVE
 #EXTINF:-1 tvg-name="客家好劇-FastTV飛速看" group-title="其他",客家好劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/KD4xN_hhi2NaHtpCkoFmqIGT2Y69fPvOk7YcVAIy-vEvM7VkHunhwf0429xuiHJivWKE4UcB4GQoUOlo4UNIGA%3d%3d/index.m3u8?token=1i-lsW7WrpRtgFWD48bNfA&expires=1765520729&token1=l0YUiqRC7wQiKh4rBWahiA&expires1=1765549529&refer=YjcwNTMzN2MtY2E1NC00NjNmLWI5YWMtMTg5OWUxZjQ0YTg3&y=2021
+https://4gtvmobile-mozai.4gtv.tv/qeaIPSTMo2UCA4gOHidMIpj5MEtKn4HWTRbuxwpGMGcDCTriWgYveKUZvicZOInL/index.m3u8?token=W_Wd2Ny7dUZvmiOM2JZdgQ&expires=1765531357&token1=ZDWowxALhcYVLbrdDWklaw&expires1=1765560157&refer=MmVmYWZjYmEtNzBhNC00YjIzLWFlYTYtM2ZmMWU2MWY4ZDRi&y=2021
 #EXTINF:-1 tvg-name="客家電視台" group-title="其他",客家電視台
-https://4gtvmobile-mozai.4gtv.tv/L1W0INaT_AHAUWoGn7K1cMPKrDCwjZH4qKDde2v95w8%3d/index.m3u8?token=ie6QyYBaA1uiIaj_ZWE7Yw&expires=1765519502&token1=tRmfQPK0HPZQBvzsvw5HPA&expires1=1765519502&refer=ZGRkZTllMjUtNmZhMy00NTM3LWIzNmItNzk1Y2U0NzMyNjY2&y=0
+https://4gtvmobile-mozai.4gtv.tv/4qXkem8nLDMsUrpwyXnecmgM_x4ekvpA5WX1Abif1nM%3d/index.m3u8?token=d-5tg_Ll5AW5oYsT0LLf1g&expires=1765530246&token1=p3K51NSu-yLey6PR-q1ZcQ&expires1=1765530246&refer=NDc0Y2Q3ZjItMjkwMy00M2I1LTgxZmMtMjRhYWMxNDE1NDA1&y=0
 #EXTINF:-1 tvg-name="寰宇新聞台" group-title="其他",寰宇新聞台
-https://4gtvmobile-mozai.4gtv.tv/28kq0UuB2ZqzsvGygTBEtetyGbV4Lws0rI_NEhT68GQ%3d/index.m3u8?token=1AWHAyFpvY_oTCN53_nKlA&expires=1765519844&token1=NJGDUj_fwa2H0aX_fheo0w&expires1=1765519844&refer=MDc1MjliM2ItYjc4YS00NTE1LThkMTItYWEwNzM1ZGE5YTNi&y=0
+https://4gtvmobile-mozai.4gtv.tv/o3PIVmFn5UQLN6oyRD45k1dZ4mYMFEETnXVrF6iqCGo%3d/index.m3u8?token=ynA7NEFEnm2ZByIsvxuCTA&expires=1765530476&token1=BtvT-tum2h0yU6FDDilGPQ&expires1=1765530476&refer=YjJkYjAyNGQtNDE2Mi00YTBlLTllNjYtNGZiOGNjZTY3ZTcz&y=0
 #EXTINF:-1 tvg-name="寰宇新聞台" group-title="其他",寰宇新聞台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" group-title="其他",寰宇新聞台灣台
-https://4gtvmobile-mozai.4gtv.tv/zPWp8weNhy4qJTbOOtGR9BIhai3DSXDTZga6pHqfLB4%3d/index.m3u8?token=CvoeEk-wBSGu2zfhGLr6hg&expires=1765519852&token1=8EgAq1WcaiFIUGsFN98F2A&expires1=1765519852&refer=MTY1NWRiOTEtNTcyMy00NmY1LWFmODMtY2E2OTkyN2NlYWEy&y=0
+https://4gtvmobile-mozai.4gtv.tv/XTSSZVd5VmuPvM90kmqI_Ge2g3hiecsRJ8SDgMnRwZg%3d/index.m3u8?token=oCR8ZT-j52xGn1GwxtXBIA&expires=1765530485&token1=zeBzKjVq5WUnNPukhKLkHA&expires1=1765530485&refer=N2NlZTk0YTgtZmVjYi00ZjFmLWExYjItM2IyODNlZDI0MzY4&y=0
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" group-title="其他",寰宇新聞台灣台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv156
 #EXTINF:-1 tvg-name="寰宇新闻台" group-title="其他",寰宇新闻台
@@ -1336,37 +1336,37 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv158
 #EXTINF:-1 tvg-name="寰宇财经台" group-title="其他",寰宇财经台
 https://smt.passwdword.xyz/Smart.php?id=huanyutaiwan_twn
 #EXTINF:-1 tvg-name="小兒子-FastTV飛速看" group-title="其他",小兒子-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/cgT1Mnz74W-Toz8Bp-BqxDCeva5UI16aJeJuF7h8xW9TPh1HV3cHoQlIOJ_ocSAIsFdeOoUleQ2olxw1PyivKA%3d%3d/index.m3u8?token=7cE2JRz680VhxCpiaG-JRA&expires=1765521426&token1=mt9hDzk-EggRaoKdZHbsAg&expires1=1765550226&refer=M2M0OGNkMzMtNTZmMy00YTNhLWE5NzktMTQyMjZmYTQxYjcz&y=2022
+https://4gtvmobile-mozai.4gtv.tv/OSpNC0ToH1es3FU4GQZTWvvQ6KYbJ9-7-dgBYUsRpIJ8QvVs2tM1OO34akypYlJLAk4QqwyMBhUqujSmibgODw%3d%3d/index.m3u8?token=ShMX_RylphaFmYQTC1o7NA&expires=1765532013&token1=Ddgq1VFcUkV4p56_bsCfdg&expires1=1765560813&refer=Mjg0M2Y1YzktNTk5OS00ODViLTgxOTktNjZmNmU4YjVhMjEw&y=2022
 #EXTINF:-1 tvg-name="小資女孩向前衝-FastTV飛速看" group-title="其他",小資女孩向前衝-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/PJkBCwX2sqc-Eavrrzfpjv_OK2_pvf4PGCaWnF53-MfgmcL1rtpNFs1wpwv68xMz/index.m3u8?token=94SY1jDpEiPxTCWBhCwQYQ&expires=1765520884&token1=w-obqheU0adCehOt3knDAQ&expires1=1765549684&refer=MTE0NzI5YzYtZGFhYi00ODRjLWE0YzItMTZhOTlmYWVlYTc0&y=2021
+https://4gtvmobile-mozai.4gtv.tv/SJZzpMgwaOjOulHy_IvLQpoaY42y9-dVRY8f84B2Z4822sXuuuFgzx6JvmK4z0sr/index.m3u8?token=XXMscInltuqnBJWglhLqvg&expires=1765531591&token1=P3cpB88FqJO-Z7tefkknkA&expires1=1765560391&refer=NTk0Njk1ZGMtODUwNy00ODJmLWEwZmEtNjc1NWNkNDAzOGU5&y=2021
 #EXTINF:-1 tvg-name="少康戰情室" group-title="其他",少康戰情室
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii207
 #EXTINF:-1 tvg-name="尼克兒童頻道" group-title="其他",尼克兒童頻道
-https://4gtvmobile-mozai.4gtv.tv/ZBdqXN8dFlJDbhIoD3_mFmk6mQ0TpJzwuA-84PSrozw%3d/index.m3u8?token=iiI6b7e6s44N7NuvAyfhRQ&expires=1765519677&token1=q5wZSd9ng90E7ttlqYurDw&expires1=1765519677&refer=ZTdkYjZjMDQtZjdhOC00NjVkLTlkMjQtMTIyMDAzNWNiYzIw&y=0
+https://4gtvmobile-mozai.4gtv.tv/JoQ3aTPJo5GWJ9afkQK265QeMhuQXwQKd1_-PanYDb0%3d/index.m3u8?token=Bvlh7FZphy3XOKvUCuJwjw&expires=1765530359&token1=s-YnOHmCk8XCqNKN5HUNGg&expires1=1765530359&refer=YzA3MWIwZDUtYjRlYi00YTk3LWI2NDItYzBhZjI2OGZiYmRk&y=0
 #EXTINF:-1 tvg-name="市井豪門-FastTV飛速看" group-title="其他",市井豪門-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/lsZ2fuJZT_muFos4WuFNxmsVMriDU26MY4HUoHlb5ehw6dPypgKXjLrxZl2Sxz_m8amlfF3BQgUdAuwEnL-uvQ%3d%3d/index.m3u8?token=5DZnAwX93miw2pqOeR8aUA&expires=1765520668&token1=U-FKVR6PLgpRaeE9dqQnvQ&expires1=1765549468&refer=NGU4ZjM3OWItMzgyMS00NDA3LTg1YWUtNTg0NGUyNjVmYjVh&y=2022
+https://4gtvmobile-mozai.4gtv.tv/x4PlpE1cXOtNcG0QQpWxdBqjZKl1YymOcBhfFpDlaoU4mt2l36eTuIX7HJX_0-F-9HnSWGfTGr60pE0-bOR9aQ%3d%3d/index.m3u8?token=ducWIVoeeFbqWQmeYY795g&expires=1765531291&token1=i8AbFoCAtLayQ0FwUWDyxw&expires1=1765560091&refer=MmFmOTU5NTgtMmViMC00MjYwLWFmMzgtOWU1MWExMTlmMWJl&y=2022
 #EXTINF:-1 tvg-name="年代新闻台" group-title="其他",年代新闻台
 https://smt.passwdword.xyz/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="幸福保衛戰-FastTV飛速看" group-title="其他",幸福保衛戰-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/deimkG-re6kdR3O_e5Ln3PMl-pAuca2JatUtgMTXhN8ph_GlSU7_60WpS6YhwUlC/index.m3u8?token=3Jmd6GwfWP4mIGMGWDND-Q&expires=1765521241&token1=dcxCGp0lU2xfKyP7LFd8zA&expires1=1765550041&refer=YTc4ZDQzOGEtNzE5OC00NTJlLWJkMjktZTEyMjhjNGFhMjJm&y=2020
+https://4gtvmobile-mozai.4gtv.tv/VjXWC7R2o-_0KJmUagqd6xNzCFKX-lWW2i76a8ouSx5XSKV6o3nlbz1uCgiEFpiS/index.m3u8?token=4yYMOJDqxBj1JOol9zqWFA&expires=1765531876&token1=JIB6_pxTtsD2Bcs11nKw4A&expires1=1765560676&refer=Yjk2MTgzNzAtZjBhNC00NzRkLWEyYTMtNjFhNDFlYWQ4YTYx&y=2020
 #EXTINF:-1 tvg-name="幸福空間居家台" group-title="其他",幸福空間居家台
-https://4gtvmobile-mozai.4gtv.tv/AnYlJRBwcDHvgOHOSbZ9ycNNwX64WeC8sdyzd1WG0M4%3d/index.m3u8?token=ykZNZoWwqAY-KiKI7DIEtw&expires=1765520166&token1=ucO_ZfqjIZnHTzrroH6FDw&expires1=1765520166&refer=Mzk1NDE4ODAtZTA0Mi00YmE1LWI5MTYtODllMGY0YjEzMTIz&y=0
+https://4gtvmobile-mozai.4gtv.tv/YsXK2eOASwTMB5CkN0UieQbCCgM1O228qRGuVut_EFQ%3d/index.m3u8?token=4maBVRa5fAnMgB96yhzFpQ&expires=1765530827&token1=vMFBl_MM5Eq44jW5PQutbg&expires1=1765530827&refer=NjliZTIwNzktZTAyMy00Njg4LWI2MmUtMDhjYTczMDM1Nzg2&y=0
 #EXTINF:-1 tvg-name="廚神明星秀-FastTV飛速看" group-title="其他",廚神明星秀-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/rui1G-KIcowo9vwcpoSGHJG_vQay4ut3QxlZ85Cnk9Yn9y_smuzb--wIoC6-UtkE/index.m3u8?token=S8ypGcOtEjQL6bWA2PJqDQ&expires=1765521193&token1=_xRC1QCdwl-QOHmOTjqEqQ&expires1=1765549993&refer=M2Q5ZjViMTktNDUwMC00NWFkLThmZTktOGUwNWM5NzY3ZmU0&y=2024
+https://4gtvmobile-mozai.4gtv.tv/_T1RI3tOAk3QVvAIX8LJIHoyB_woOxIwAieMJ6hT0Uf2Rf0jm5TWQ-e9CYfhB2h4/index.m3u8?token=P4TMJpXNPjdCTX9UbEk23w&expires=1765531849&token1=KYp8enGOG3coMs92GY54lw&expires1=1765560649&refer=YzExZjY4OTItNGZiNC00ZDY0LTk2MzAtMWNmOWUyOWFmNjJk&y=2024
 #EXTINF:-1 tvg-name="影迷數位電影台" group-title="其他",影迷數位電影台
-https://4gtvmobile-mozai.4gtv.tv/7HMT8PbVbZQzuwEKwyi3XLOx8fxnmHvkb0Znx9DecY0%3d/index.m3u8?token=JLCBxgTxL4VSEwSu7FYbbw&expires=1765520416&token1=n6-1rCQL6vLBVsiJ5eocUg&expires1=1765520416&refer=YjU2YTAzMTItOGVkYy00MmE2LThjNWQtNDU5ZDE0YjkzYjlm&y=0
+https://4gtvmobile-mozai.4gtv.tv/p2pZ653Eqdbxp1aHi5KuTTb3l9V2ai4IrhF4v7E7lI0%3d/index.m3u8?token=qHExvS9TrHMxbX8UWVTfSw&expires=1765531064&token1=IiW34mgUoHA4c6vlfdbgjQ&expires1=1765531064&refer=ZDYyMmY0YTctOTRhZC00OGJhLWEwNDUtYTZiNTlmMzY0NjBi&y=0
 #EXTINF:-1 tvg-name="忍者亂太郎(中文版)" group-title="其他",忍者亂太郎(中文版)
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii182
 #EXTINF:-1 tvg-name="怪獸之王-FastTV飛速看" group-title="其他",怪獸之王-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/kX4N_i9w0A4uhlVBD9d7lD9Tihd_CSnDb6lhkiwP041Tbcu57v3qAMGXaLEzgf3D/index.m3u8?token=nVdd7Wg72na2AvBmsupkPQ&expires=1765521440&token1=r3IybJlLpToMTzA4WpilCQ&expires1=1765550240&refer=MTNkYjJmYTgtYTU3NC00OGViLWFiNmEtYjk4YTdhMTVhZWE4&y=2021
+https://4gtvmobile-mozai.4gtv.tv/lD7rPe_Lj4XhHfU-nMfmsojwM4QGpP5DhKZxc59cCB6RJWeWaQ1aMbgesGaPBwu5/index.m3u8?token=_0NFapbeud5TxxAYjOMH7Q&expires=1765532027&token1=3xhrcpJRScFkInEOHuwcIg&expires1=1765560827&refer=MzAzYmY5MzktZDQ0MS00Y2Y3LWI2NWItMWQyY2QzMjRlMTkz&y=2021
 #EXTINF:-1 tvg-name="怪醫黑傑克TV(中文版)" group-title="其他",怪醫黑傑克TV(中文版)
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii175
 #EXTINF:-1 tvg-name="恐怖電影-FastTV飛速看" group-title="其他",恐怖電影-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/k2l30xQJQzyaTQKG68KWnjVZwtkq6Tifn2bFX2AbncaasYwdDbIBf7CDrlsxCi3c/index.m3u8?token=uOYzFdHuUo9hQkXtgWpsVg&expires=1765520897&token1=OdCOm13mtP_VGQ4x8XyIzA&expires1=1765549697&refer=MzAxZWMyNWYtYjhmMS00NDM4LWJmZDEtYTk4YjJiZDJkZGFm&y=2025
+https://4gtvmobile-mozai.4gtv.tv/nDcv-Rg6Ey8I7xKheHcB4XnvFmLc3RtRYIq6Rz4ODoTX8lwbh0Xg407FuNxV6h5v/index.m3u8?token=2kiVzbBSox0sPGcovWRg4g&expires=1765531604&token1=eWapafpbyRYdVnwDpmqhnQ&expires1=1765560404&refer=YjU1MDdjMzktNWYwMy00MmVmLWI4MTQtNDZiMzY2ZTBiMWJi&y=2025
 #EXTINF:-1 tvg-name="愛爾達娛樂台" group-title="其他",愛爾達娛樂台
-https://4gtvmobile-mozai.4gtv.tv/FgqtUiiZw-GMtMakxKoZ9rXzjNs5cQATsJ0U8oaVrqc%3d/index.m3u8?token=MxguHIuv02UcNWD4ywIKzQ&expires=1765519544&token1=ZG39L6sZ35oIZ8UQfJBgWg&expires1=1765519544&refer=ZTVlNGNhZDItOWNiNi00Y2QwLWFhYzUtYjBkYWI0ZDcwNWQ1&y=0
+https://4gtvmobile-mozai.4gtv.tv/qsz6AcciHq9_78dgGEVNpDdschA6ft01HmRNKLOSa-M%3d/index.m3u8?token=ZMoiW5B0vYEuCfbu5Rip9A&expires=1765530278&token1=Bqr_3GoiCcfPrzEWTGlPng&expires1=1765530278&refer=MTc5ZjdiNDYtNTVlMC00ZTNlLTkzMzMtODVjMTY5YjI1ZWNl&y=0
 #EXTINF:-1 tvg-name="懷舊經典電影-FastTV飛速看" group-title="其他",懷舊經典電影-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/_qGAtZIiRnJ5lpwHQP2f9-68i5kVbZEoWP9XbtO70jpCedJRa7h-I5v8vuO8RNuv/index.m3u8?token=y18BK2xDCR34-MFJsC4s0A&expires=1765520745&token1=CGFlgwgiYU5JM7cBMIJR0A&expires1=1765549545&refer=OWZhZTQ0YjEtNTczZC00NGM1LTk0MDYtMjA0ZTFjM2Y2N2Y5&y=2021
+https://4gtvmobile-mozai.4gtv.tv/TgTXDBMFnCpNxi2Z1D8xYKat9JjnwbSliqArKUKIzwG9WYuSGqFQgm1_gN9GhNwz/index.m3u8?token=BVY8lj-JXu-F_gLo_pNmtQ&expires=1765531368&token1=dMXc82_DveHxTQw-sDZB9w&expires1=1765560168&refer=MjQ5NmE5ZWEtMDYyNi00NzA4LWJmMWItZmM4MjQzOTgzYjI5&y=2019
 #EXTINF:-1 tvg-name="戏曲台" group-title="其他",戏曲台
 https://ofiii.passwdword.xyz/mytv265.php?id=CCOC
 #EXTINF:-1 tvg-name="戏曲台" group-title="其他",戏曲台
@@ -1378,9 +1378,9 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii152
 #EXTINF:-1 tvg-name="我的差評女友" group-title="其他",我的差評女友
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii121
 #EXTINF:-1 tvg-name="我的成長-FastTV飛速看" group-title="其他",我的成長-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/eV-ilOfjFl6U9ijJHttye5u3NA7ymdOWMXmESte3j0aex6FKWDjLwjshTHIRnnSn/index.m3u8?token=GKjgCVavQydfXp8wAOnLkA&expires=1765521142&token1=5WRMDVsnCWWts3p0gf3ikw&expires1=1765549942&refer=MmYwYTFhMTMtOGRhOC00M2MyLWI5ODYtZWQzZTUxMjYzOGMw&y=2024
+https://4gtvmobile-mozai.4gtv.tv/Rq2dH22uPrR2x-5-ibSojAp9v1d04Rx1fSKyzxdZUfyIF3LShrfOs_Bi6wb8YTcu/index.m3u8?token=YXYK1-yShlP23iwiWt_RnQ&expires=1765531808&token1=2DXRgb1WFlZfhRGLu9gMHg&expires1=1765560608&refer=ZGJkODI2OGMtYjRjMy00ODc4LThlNDQtMTZlZGNhZDQ3OTUw&y=2024
 #EXTINF:-1 tvg-name="戲劇免費看 1台" group-title="其他",戲劇免費看 1台
-https://4gtvmobile-mozai.4gtv.tv/v4P9smSmnjjzuR-I-VAFN0BEoNffHoBmz2gmpYnImvE%3d/index.m3u8?token=vkECebBkjPbB11CAqrVW9Q&expires=1765520661&token1=mf7P6PrVAzL6jBQBX9YYsQ&expires1=1765520661&refer=YWJkN2VjZDMtYjMyMy00YWRhLWEwMmMtZTVhMTIxYWNjNWIx&y=0
+https://4gtvmobile-mozai.4gtv.tv/TXuQDA0nIxcHh49UuXhe3Jurquj-L8G-9PGhZo8zxro%3d/index.m3u8?token=tQHgzkGEVIi2-Ba8VOY8pA&expires=1765531274&token1=mlTF70O6PSdSz4566S7C9A&expires1=1765531274&refer=N2M2MTJlM2ItOGYxMi00MjA1LWFkMDItMzE3ZjA0MGRlZDAy&y=0
 #EXTINF:-1 tvg-name="掏掏新聞" group-title="其他",掏掏新聞
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii50
 #EXTINF:-1 tvg-name="擁有超常技能的異世界流浪美食家" group-title="其他",擁有超常技能的異世界流浪美食家
@@ -1392,7 +1392,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii203
 #EXTINF:-1 tvg-name="文茜的世界財經周報" group-title="其他",文茜的世界財經周報
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii205
 #EXTINF:-1 tvg-name="新兵日記-FastTV飛速看" group-title="其他",新兵日記-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/oWwZcCVw3H-ssNhzHjDeTzYvl80i1-PTbsnIa_ZSahFOOkdEr2WTC7H26xCy0eHuwArjn75HbMGdhBG0Hs0GiQ%3d%3d/index.m3u8?token=GW20axBYyqr2lokPFk7N5Q&expires=1765520779&token1=QfjZz2mdDHaiC7zDUvSluQ&expires1=1765549579&refer=YzdlNDYwODItYmQzMS00OGYyLWFiYzctODk2NjFhZGY3MmQ4&y=2020
+https://4gtvmobile-mozai.4gtv.tv/8khAOa3Bsoe2H4wsAN5Qc1kiZ90lgJFUaRYlREYtOLXDa8cMr7WSkKHiz5F4RK28Bz7-qr965bQMU3OwglACCg%3d%3d/index.m3u8?token=MWUY8zJDidovI7AeZzKB8A&expires=1765531399&token1=Ic-rGkNZtIORwBYCcsOz1A&expires1=1765560199&refer=MTk1YzRmNjItOWM4Yi00OTZlLTk4YmUtNDdiYzM5Y2U2Y2U0&y=2020
 #EXTINF:-1 tvg-name="新忍者哈特利" group-title="其他",新忍者哈特利
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii184
 #EXTINF:-1 tvg-name="新聞大白話" group-title="其他",新聞大白話
@@ -1414,17 +1414,17 @@ https://ofiii.passwdword.xyz/mytv265.php?id=C
 #EXTINF:-1 tvg-name="无线新闻台" group-title="其他",无线新闻台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C
 #EXTINF:-1 tvg-name="日劇一丁目-FastTV飛速看" group-title="其他",日劇一丁目-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/oGelVEqVf2ADRNTuqy9_TCO6teBRLWp_GNLeGdoN7WPvNy0xiFTM60SeQhWseHYagBVDxpDd21WlqXTtq1ekuw%3d%3d/index.m3u8?token=EwdsDDs86fF04R8r7skZVA&expires=1765520964&token1=hU8heqGGGmPb0HHns0-1Kg&expires1=1765549764&refer=MmYwOTRiZDEtZWMxMi00M2I4LWFhNTktMWU5OWExMWZhM2E3&y=2025
+https://4gtvmobile-mozai.4gtv.tv/jMvDh5msBY4jb39q614b3t5cZI1e7W0aRlWCE4MFhvIL_bO1D4zNWZFmU8kCWjO4/index.m3u8?token=ATRvDAVqJUSfgHAKwJjWnA&expires=1765531672&token1=9Yk_UBgcC6Ubq2QictgzeQ&expires1=1765560472&refer=MGJlNjhmYTQtYWYxYy00YWQ5LThhMjItYTExOWUxZmExYmZl&y=2025
 #EXTINF:-1 tvg-name="日韓電影大賞-FastTV飛速看" group-title="其他",日韓電影大賞-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/1itWxEb88XTNmcPpO-rGRRs1spcx6JCyKXNiuw6hJOgNlfAhaYqM6uAW6R9HC5jq/index.m3u8?token=jr8-83L4IOoEDfZUC2LRnQ&expires=1765520857&token1=TEyuh2Nh9gBziNAGvhHpaA&expires1=1765549657&refer=MDUwMmQ3MGQtNTAyYS00ZDgyLWE5OGUtNTJiNTJiNjRmMmY1&y=2025
+https://4gtvmobile-mozai.4gtv.tv/8JRlXP8WuCaiX4uqM9_oAo7nS9SOa0QZ_sxSzrbaJYVeZ1TT1dJ4pnrRzLUS_LCy/index.m3u8?token=MFNQf2t7ishFPZL847gKsQ&expires=1765531562&token1=e3WM5Dg4ZP3peMVf-uk7MA&expires1=1765560362&refer=Mzk3NGUxN2EtY2E5Yi00NTA5LTkzZWMtMGFiZTIwNTA2NWM3&y=2025
 #EXTINF:-1 tvg-name="早餐中國" group-title="其他",早餐中國
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii243
 #EXTINF:-1 tvg-name="時尚運動X" group-title="其他",時尚運動X
-https://4gtvmobile-mozai.4gtv.tv/NVavZpPMl24smg6Uft8jhLK5Ifwd2cwjQJKE7LBf2gQ%3d/index.m3u8?token=qe5Cp7fTh4EqaXCAvwz3bA&expires=1765520085&token1=FBeeNr-lygrX2ZkExhNAUg&expires1=1765520085&refer=YzQ2NzM5MDQtZTIzYy00MzBmLTk4YjItOWQ4ZGFiMTMyMTY2&y=0
+https://4gtvmobile-mozai.4gtv.tv/9X4Am_qM_p5qRBmf1Aa_JrKGu7aTl-U6I1MpG-jWOLk%3d/index.m3u8?token=vOhF29NPAPUI54ejm-5tCQ&expires=1765530728&token1=-IjJZh8fsuZQJOTI8oBwZg&expires1=1765530728&refer=YWY3ZjEyZmQtYTRjNi00MzIyLWExZGYtODE4OWM2YjdkMTI0&y=0
 #EXTINF:-1 tvg-name="智林體育台" group-title="其他",智林體育台
-https://4gtvmobile-mozai.4gtv.tv/D9koMzwG2nDOb0sdmndN5M1tMxZeuaKgIVjZLAlzocg%3d/index.m3u8?token=8DjuSI0-OoIcSYiouwyzlA&expires=1765520077&token1=_UMRef6GgtyqGbBlQt9Tzg&expires1=1765520077&refer=MmFmODkxN2UtMmU2NC00ZTQ5LTllOTQtYmQ3MmZiMjBlNzMx&y=0
+https://4gtvmobile-mozai.4gtv.tv/PHz2oBnsyDUrh8ASborj64HNRzLinv5Q-x14_peg5N0%3d/index.m3u8?token=NqQLtzht-7ug3NWvYb1NOg&expires=1765530712&token1=8-9GuizpUWE1mNtxVWjAfw&expires1=1765530712&refer=MDA5NzlmNWYtOGZjNi00ZWNhLTkwODItNGE1YzM4NWI0MTQx&y=0
 #EXTINF:-1 tvg-name="最愛韓星-FastTV飛速看" group-title="其他",最愛韓星-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/WSm-CjwbaOrAHDsaJDXC_DsXz3hMQQ2A6RL_bfM9UHXEklWDfMrD1znyINg0lumC/index.m3u8?token=kDnsnzlXKJ21E9O3cNCRCw&expires=1765521186&token1=sle9a9G1py7U0S5xG7amfA&expires1=1765549986&refer=MjZlODBjNzUtODkyNy00YjYwLTllMjMtODUzMzVmNWRmMjcz&y=2024
+https://4gtvmobile-mozai.4gtv.tv/vKGhvVx-zu-0VhM_uDU9l4MfQD91ZmLSO1k4UkEOGLbWjJdC9orvzy3AKgF2gVSN/index.m3u8?token=QJ_a_zBkdkpoz5fzMemw0w&expires=1765531843&token1=pCCQ4ElCSJONxFAPGX4ytQ&expires1=1765560643&refer=MzcyYjAwZjQtMWEwNy00ZDc5LTk5YmQtMDY3YmRiZjkxMzE3&y=2024
 #EXTINF:-1 tvg-name="月升之江" group-title="其他",月升之江
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii148
 #EXTINF:-1 tvg-name="月嫂先生" group-title="其他",月嫂先生
@@ -1436,45 +1436,45 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii120
 #EXTINF:-1 tvg-name="木曜4超玩 一日系列" group-title="其他",木曜4超玩 一日系列
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii140
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="未知频道" group-title="其他",未知频道
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="村裡來了個暴走女外科" group-title="其他",村裡來了個暴走女外科
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii153
 #EXTINF:-1 tvg-name="東森新聞台" group-title="其他",東森新聞台
-https://4gtvmobile-mozai.4gtv.tv/KzLED14R7QUC3ZWg5htorripqq8Y9J1fa1CIvJxpeqY%3d/index.m3u8?token=5F2XXO-M8lf9ikmr7oJttA&expires=1765519760&token1=7PMLtPnCHHnT3pLfvfCksQ&expires1=1765519760&refer=NGQyY2RkNmMtOTRiMi00NWZmLWIxYjItYWI3MWI3ZTY3NDI2&y=0
+https://4gtvmobile-mozai.4gtv.tv/JhEc6wFSiaNouOVuX35pI7O1Eo_7xIKhPXv1TzJv0XU%3d/index.m3u8?token=533KCvZeqgTGqKwIEtdGLA&expires=1765530406&token1=rYkwpeg-icXin3mvJ4T2-Q&expires1=1765530406&refer=MTQzNTU5OTMtNDJiNy00NTFkLWJmNjUtNGNhYTkyMmJmZjc3&y=0
 #EXTINF:-1 tvg-name="東森財經新聞台" group-title="其他",東森財經新聞台
-https://4gtvmobile-mozai.4gtv.tv/UonI0HiwuE2XCk36Zldy4JkKWgDZRPCrWM9wFyWQm1s%3d/index.m3u8?token=myIm8vwmmJqgccrTtxqC2A&expires=1765519800&token1=81r0f3ixX0h7fvueoylOfQ&expires1=1765519800&refer=NTRiYzEyZjYtODlmYS00YjIwLTg5YWYtMTI5NWUxNmEwNTJj&y=0
+https://4gtvmobile-mozai.4gtv.tv/PgcerASm6CPS6PbUC0M530B5EeM0w1_ETe74vbYuqHY%3d/index.m3u8?token=zz7ds5McZpTewXs7n2Hz-A&expires=1765530440&token1=VJ9CNG1tW9z_0lbo8OOIJg&expires1=1765530440&refer=ZWNiYjExYmQtM2VkOS00NThiLThmNTItZGQyMzYzMDQyZjA1&y=0
 #EXTINF:-1 tvg-name="東森購物1台" group-title="其他",東森購物1台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv102
 #EXTINF:-1 tvg-name="東森購物2台" group-title="其他",東森購物2台
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv103
 #EXTINF:-1 tvg-name="東森購物一台" group-title="其他",東森購物一台
-https://4gtvmobile-mozai.4gtv.tv/AJ39K-bVAoPcbF9AdxDZtkVrwWSDkJpJDT9qR74uwjw%3d/index.m3u8?token=2rM9e1bp1tVaFgC0494Phg&expires=1765519736&token1=m0wKL6fUhDMQW8P5_b2zew&expires1=1765519736&refer=ZjkyNDA3NWEtNjYxMy00NjUyLWI0ZDUtZGQxN2JhNmE2ODc1&y=0
+https://4gtvmobile-mozai.4gtv.tv/ydjpgyrDvM1QM7p-JzEUobJQPmpBdmLlVjks1XLZHdA%3d/index.m3u8?token=9qr_pnrb2GA_Yu5sCmZuiQ&expires=1765530393&token1=9QLnqTeycWILzok_VlJxqw&expires1=1765530393&refer=MDRkMWMxOWYtMzA1ZC00MDgxLTliMjQtY2FjYmVjNzM2OTA3&y=0
 #EXTINF:-1 tvg-name="東森購物三台" group-title="其他",東森購物三台
-https://4gtvmobile-mozai.4gtv.tv/xipI5PmL2xjnmaSqt7NcVHkSIwxMrrViFweXLtkcNsU%3d/index.m3u8?token=AEPdqqjqu5DV2S6Fb0kQyA&expires=1765520045&token1=hR95ETLwA5NGOdz0esoauQ&expires1=1765520045&refer=YmFlNjY1NGQtNzI4MS00ODIwLTk2N2EtZDMwODVkMzhiZGFi&y=0
+https://4gtvmobile-mozai.4gtv.tv/NtfDturWPGjYkzO2Lz48j0dXtu8Yn0hu4PcOdLq6t14%3d/index.m3u8?token=I_2_Afnv5gOxFWZ2YjiXMA&expires=1765530680&token1=2IP_Nk-cKtrgVwMiTThnnw&expires1=1765530680&refer=YjRhZmQwMDktNzk2OS00MmFlLWI1MzAtODI4NjdlNmUwMDhh&y=0
 #EXTINF:-1 tvg-name="東森購物二台" group-title="其他",東森購物二台
-https://4gtvmobile-mozai.4gtv.tv/NIwZArMhIpiV1SL7gOX4se3hGXwuCegE821-7B-DyGY%3d/index.m3u8?token=a0mbcHzwdhXDI9dmE3MpJg&expires=1765519885&token1=t7r1OxFvvZZnsSyqFRkrsg&expires1=1765519885&refer=ZTg2Yjc0MDgtMGRhNC00YjcwLWFmNjgtOGRlZDAwNTM3MTYw&y=0
+https://4gtvmobile-mozai.4gtv.tv/zWdC1iMtc7eTJc1HZyNdW9lc4AtopQOBHZWtS0Pz2Bs%3d/index.m3u8?token=UpKCh-iuFMaVUb_T8LC_Sw&expires=1765530520&token1=F01OCBBdju19F6KRQ786hg&expires1=1765530520&refer=N2I0YTFkOGEtYzUxYi00NjZhLWI2M2MtN2Q3YTE3NzczMDRh&y=0
 #EXTINF:-1 tvg-name="東森購物四台" group-title="其他",東森購物四台
-https://4gtvmobile-mozai.4gtv.tv/AfRi87oX7puQM4VSdFEXivjqpf0wCTyy4nl0BwiwoH4%3d/index.m3u8?token=xTpJ5FSVowCYFgPVQJwAyQ&expires=1765519602&token1=ihqYZqDrKwPpHlO993V5wA&expires1=1765519602&refer=NjFhNWQwOTQtYjNjZS00OWZiLTlhMjUtYWI5NjhjYWYwYmQ1&y=0
+https://4gtvmobile-mozai.4gtv.tv/g1IirUWjjiP3c7C2Zi5anwu3Jx2dVHsiNI-QxZEThaU%3d/index.m3u8?token=198ziXuWkxG3Ra9Ae4b2cg&expires=1765530325&token1=Am03bZ9TjZiS_XvvjCq3DA&expires1=1765530325&refer=MmRkMzk3NTctYjU1NS00NmRiLWIyYjMtZDRlNWY2NDE1ZWRk&y=0
 #EXTINF:-1 tvg-name="東離劍遊紀-FastTV飛速看" group-title="其他",東離劍遊紀-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/gK_NuEe1eoe8y9_Dh0WfO8VHDoP-o7qvABu0xN9NLmvlT7eo2a3YxFn-vSkEfkXw/index.m3u8?token=OYraWcqlCfwjNE4dsLknWw&expires=1765521447&token1=Xh7ZgKKUk4j4Ks9gY_oTDw&expires1=1765550247&refer=MzI3NmY0YTktNWRmOC00YzllLThkNmYtMTVhMDJhY2U3Mjdk&y=2024
+https://4gtvmobile-mozai.4gtv.tv/BsYrKd9URUuySKBnbLUWiKq1DS-OZL5blJCqTTtOkt3_vyjk4GRyDoscueKzSWzm/index.m3u8?token=VnLqO9YJ9Nw2-QAGFzbZkg&expires=1765532034&token1=ZyzVA3_YOthqJ9yOk1bKmQ&expires1=1765560834&refer=YjM5YWE3MTktNTRhYi00MzAzLTkzNTMtMDFkNTEwNzM5Mzc0&y=2024
 #EXTINF:-1 tvg-name="楚喬傳" group-title="其他",楚喬傳
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii110
 #EXTINF:-1 tvg-name="步步驚心" group-title="其他",步步驚心
@@ -1482,29 +1482,29 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii113
 #EXTINF:-1 tvg-name="武媚娘傳奇" group-title="其他",武媚娘傳奇
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii104
 #EXTINF:-1 tvg-name="武媚娘傳奇-FastTV飛速看" group-title="其他",武媚娘傳奇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/hUF-rd4ghdAoSvfNAMYRHYNIgn5dPKIA25_nXa4AlA3vHoyQb9uhtxju_dIruXLZV667ODC6VVj9lhbY0AHgjg%3d%3d/index.m3u8?token=qsoZGG5WO0d_rkVZ_NyH0Q&expires=1765520971&token1=zEgkcN7xNkG5mmQv2rb3AQ&expires1=1765549771&refer=MWQzZTY0NDItYTEyMy00MjI3LWE2MDItMjEzMjIyYjFjYmY5&y=2022
+https://4gtvmobile-mozai.4gtv.tv/R46yvU_u-DOMOWxIHkJaOFnxhWIDc96_DsmHv1lXv3mkyGy9gBmpnqhs2MwsYO3GgzGjT_xpySSxoTUJy0vh_A%3d%3d/index.m3u8?token=O3QT0jt5GaxXUSxYmZrIyw&expires=1765531679&token1=989OZlpmJTKnnqlJa8tcoA&expires1=1765560479&refer=YmRjMmY5MDAtMTA2NC00ZDFjLWEyOTUtYmJhMDlhMDZlYTgz&y=2022
 #EXTINF:-1 tvg-name="民視" group-title="其他",民視
-https://4gtvmobile-mozai.4gtv.tv/HlXI82P0TGJ2N6hsk7qXUuRwLfsn13AlwBMsSDAlhBI%3d/index.m3u8?token=WV2179KJpGHmWlIQPvU0Nw&expires=1765519439&token1=u9t1iPlMuiHnno0aBiF7ng&expires1=1765519439&refer=OTNmNTc5YjEtNTA5OS00NzAxLWJhZWMtYjlmMWFmNTgxODVl&y=0
+https://4gtvmobile-mozai.4gtv.tv/pIrPL29gI_Or_GveRBUueH_vPFetge-fNxePlpOx9pM%3d/index.m3u8?token=aVZUqcn2hyPdm-U1wpFb_A&expires=1765530205&token1=NAwBNzdtr9pa1_dKExvciQ&expires1=1765530205&refer=NjQyYWUxYWQtMzlmYS00MmFmLWE5MGItYjI1YzkxMWI1OTY0&y=0
 #EXTINF:-1 tvg-name="民視健康美麗生活-FastTV飛速看" group-title="其他",民視健康美麗生活-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/9Ja5hW4kXrK7jcCRcECPOl7y1L1WH-PFq02WhtmY_NcoYZ2OFkiPuaPHRADOlaXygIu2z2YpH-Fpgo-5-j92Ew%3d%3d/index.m3u8?token=V-cc2w7aZPU8y4AbouBcnA&expires=1765521052&token1=2eyGV6N3rN7D0XmhyfCFSw&expires1=1765549852&refer=NzU0YjU2NzItMGFiZC00MDQ4LWIxNmQtOTI0N2JmZWM5OTgx&y=2025
+https://4gtvmobile-mozai.4gtv.tv/JTgfJSHofFw_mmugQ6c9LxH8DQF37xmXim5_Dk7EjqnRHFKhxRFeHN33sQQewiIi/index.m3u8?token=zLYyIbb-Kqy9Xh9ZpzE02A&expires=1765531760&token1=7F17ETaArX6fhpAyVJ-CkQ&expires1=1765560560&refer=Y2FlM2QxNmQtOGNlNC00ODM1LWI0NTMtOWFhOWRmOTFmZmFk&y=2025
 #EXTINF:-1 tvg-name="民視台灣台" group-title="其他",民視台灣台
-https://4gtvmobile-mozai.4gtv.tv/WluXq3vFKAZ6tk9eEmdj0dzrrZYsaZ_CerBsD99-G9k%3d/index.m3u8?token=eWG--0Ks6jDhiXQDZFH6Fw&expires=1765519430&token1=jvFZ1o7UEYAqWpXAY_TjUA&expires1=1765519430&refer=MzIyYjVhMDgtYWNjMi00YjE2LTkyNTktOGI5MTQ5NThhY2Q1&y=0
+https://4gtvmobile-mozai.4gtv.tv/ml4rrZg38wnGP8-6Dcpy---9sYob8A7WyRwKHKMQpxw%3d/index.m3u8?token=y7mx3knahIb-HZLwsycgVw&expires=1765530198&token1=BwPOVTRmOuGFoQT1YEUYOg&expires1=1765530198&refer=NjM3NzA0NGQtMmY1My00MDNiLWI4ODAtNGE2N2IxZGM3MTZm&y=0
 #EXTINF:-1 tvg-name="民視影劇台" group-title="其他",民視影劇台
-https://4gtvmobile-mozai.4gtv.tv/MBtkijErZhmqGXrO6kPJjL9LFlcoD_EImt2iMP5sUnw%3d/index.m3u8?token=Atf_2OsMkE-yw_AMPVmJfQ&expires=1765520238&token1=2GMrHkiG0qmQ1jLfkjo2iA&expires1=1765520238&refer=NjMxYjU5YTgtN2ZjYi00ZmJlLWJjZWItNzU4YWI0ZDFjMjcx&y=0
+https://4gtvmobile-mozai.4gtv.tv/pTFMnUCBe1fAEq_LVnzV7sWMVr3rH67CNUqYmKeTHDo%3d/index.m3u8?token=g9GdXaJLyqnpZq8Ywepn1A&expires=1765530895&token1=cr2aDdeKWq8Y4pTokP7tmw&expires1=1765530895&refer=OThmZDVkNzEtYjk0NC00ZjBiLWFjM2EtOTQ0N2EwYmU3YjUy&y=0
 #EXTINF:-1 tvg-name="民視新聞台" group-title="其他",民視新聞台
-https://4gtvmobile-mozai.4gtv.tv/Wew3HHi5iNuTtFwom1u0--VVL6Z2pTXIrxG4YcWJAhw%3d/index.m3u8?token=h0PKK8hhsOhqNiJSOgfTIw&expires=1765519775&token1=D7zFmqo4Ct84RrvH5G0AvQ&expires1=1765519775&refer=ODgyZDE4OTAtMzU1Mi00NTFlLWFjZTktMjcxNjM2ZDViNDcz&y=0
+https://4gtvmobile-mozai.4gtv.tv/lfgo_3IKzODk-q5tgSu-Vun8UW63f87FCpwu44mSVV8%3d/index.m3u8?token=kgf1wuE2f09Z6Q8vcTdBMw&expires=1765530420&token1=VWOsjYs8hC9VlCXQMZh7FA&expires1=1765530420&refer=YmQ1MzNhYzktZDUxYi00YjI2LWJlMTQtZGY5NjZjN2U0YTZk&y=0
 #EXTINF:-1 tvg-name="民視旅遊台" group-title="其他",民視旅遊台
-https://4gtvmobile-mozai.4gtv.tv/EzU7Era-8TpPY4SKZMVSsR4cq90ZJsnre570YVDZQJ0%3d/index.m3u8?token=p0NT9GdtmGUVhfwIhd80eQ&expires=1765520122&token1=gitB8nadWGWRyb9XPzWhjw&expires1=1765520122&refer=YTc1Y2ViMDktZjhjYS00NGMwLTkwNWItMzI4MjAyNmEzYTNk&y=0
+https://4gtvmobile-mozai.4gtv.tv/0LwVV6YPKXrk1AKRmVVd9yQU-xO4JFas7MhfCbQC50s%3d/index.m3u8?token=irOwsZNnxE0mz3iU9a4GgA&expires=1765530786&token1=w9b1N94VudMEsLxZhVGs3A&expires1=1765530786&refer=NzNkYzhkZTUtNWJhMy00NjkyLWFjNTgtOTNhNTEyMjVhZjZi&y=0
 #EXTINF:-1 tvg-name="民視第一台" group-title="其他",民視第一台
-https://4gtvmobile-mozai.4gtv.tv/aCB8NTye_OiKNfI5o-DS9_zngaPwydd44jLrPxkN-2U%3d/index.m3u8?token=NH3ipWHHXSNLg8mP5RjdOg&expires=1765519413&token1=i-3BR1xSiSB5K9FvEGoO5g&expires1=1765519413&refer=Yjk5ZjdlMjktOTZiMi00Yzg2LWE5ZWYtOWIwNWU2ODM3ZDI4&y=0
+https://4gtvmobile-mozai.4gtv.tv/QZp8XCI3i8D9OozjgsvQm6eI-bB0Sa5gw7mimBoMYSc%3d/index.m3u8?token=71gm1Od1V-R7LHvo55uqig&expires=1765530192&token1=D6rTZtP9Axs-qPKyoAEMtw&expires1=1765530192&refer=ZTE5M2JmNzQtYjc4Yi00MjI3LWFlMmMtNTk2ZDYzMDUxNzAx&y=0
 #EXTINF:-1 tvg-name="民視綜藝台" group-title="其他",民視綜藝台
-https://4gtvmobile-mozai.4gtv.tv/ZYqA4LJm3faJUJs3CIOVTxIce6W-9SevJ4P95WEofOY%3d/index.m3u8?token=4aA50_07ZG5DKTLpxF5LxA&expires=1765519893&token1=C5exZ4D1THIap-E2UmrrIw&expires1=1765519893&refer=NjI4N2U3MzAtZTVlMS00ZmExLTkxMTUtZGJmOTEyNWMxMzU2&y=0
+https://4gtvmobile-mozai.4gtv.tv/5P5j4OBRM6Tpusc0Le4PDCoZ7-VeDwCiEfht5QnYYCs%3d/index.m3u8?token=K7ze1dZ3HmeemeUcf5CLAA&expires=1765530528&token1=mh0FYYwYq4s85gvKauqZsA&expires1=1765530528&refer=MDBiMDRjMjAtZDlhNy00NjZiLWI2MzMtNjlmOWJhZjVlNGE0&y=0
 #EXTINF:-1 tvg-name="民视" group-title="其他",民视
 https://smt.passwdword.xyz/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-name="民视台湾台" group-title="其他",民视台湾台
-https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1 tvg-name="民视台湾台" group-title="其他",民视台湾台
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="民视台湾台" group-title="其他",民视台湾台
+https://smt.passwdword.xyz/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-name="民视新闻台" group-title="其他",民视新闻台
 https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-name="法眼黑與白" group-title="其他",法眼黑與白
@@ -1512,7 +1512,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii134
 #EXTINF:-1 tvg-name="泰可愛旋風" group-title="其他",泰可愛旋風
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii89
 #EXTINF:-1 tvg-name="浩克慢遊-FastTV飛速看" group-title="其他",浩克慢遊-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Q1mUuWyTg62BwWrcKJqRtjBUttRJgrkPIR8TXpFUw_4kCt6dPAz3AKglOuR8udu5SSWnOGF4_vJzxUrWI-g1nQ%3d%3d/index.m3u8?token=HJPMm6E9sKVbayUeIZjPAg&expires=1765521201&token1=qIjmmqlvy3zV6JjVk1UgVA&expires1=1765550001&refer=ZjY5NTlkZDktMTNiMy00MWRkLWIyMWEtMzkwMDI0ODlkMjU4&y=2021
+https://4gtvmobile-mozai.4gtv.tv/ovFjsZj3xpYyVmrF-ZJ0gg6yF9U6J-wqgo_KzSATNBkwWogX4IEFu2YCiHeFEC-g/index.m3u8?token=XF0xIMJQMHx-XSpFuF4UeA&expires=1765531856&token1=O2wOLRGks7f3JAnvsS7jMQ&expires1=1765560656&refer=YjFhYzQyNzMtYmIxOS00YzY5LWI1MGYtYWEzZTYwMTY1YzBm&y=2014
 #EXTINF:-1 tvg-name="海派甜心" group-title="其他",海派甜心
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii195
 #EXTINF:-1 tvg-name="溢起趣打卡" group-title="其他",溢起趣打卡
@@ -1524,7 +1524,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii91
 #EXTINF:-1 tvg-name="無職轉生，到了異世界就拿出真本事" group-title="其他",無職轉生，到了異世界就拿出真本事
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii172
 #EXTINF:-1 tvg-name="爸媽囧很大-FastTV飛速看" group-title="其他",爸媽囧很大-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4QkgEHGooG4TQ1t-l-T8WvDtCyf5rT2DygIfeKQyUib4YOPkXZeblglfjKYyIWGi/index.m3u8?token=UHT-D5TXKY-lN0FVFMtFng&expires=1765521273&token1=WWnedpRAwekG-fUpYgEqag&expires1=1765550073&refer=NjQyN2M1NTctMWY4MS00ZjU5LThiY2YtMGI3YjUyYmFiYTNh&y=2020
+https://4gtvmobile-mozai.4gtv.tv/JH0M3ZGNyD5siAjcnd6MYuCqrHOaDvYjoXHwjzM3zWYXyq9TajxhQLt_DJbBnOzv/index.m3u8?token=C6sIicrv8jmCCzNMIl50fw&expires=1765531890&token1=-7Yh2zxGFDd0vzkvRuTKZg&expires1=1765560690&refer=MTRlMjZjOWYtOTgyZS00ZmUzLWJmZWMtMmE5OGZiZDQ5YzRk&y=2020
 #EXTINF:-1 tvg-name="狂人日誌" group-title="其他",狂人日誌
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii217
 #EXTINF:-1 tvg-name="獵人(中文版)" group-title="其他",獵人(中文版)
@@ -1534,7 +1534,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii198
 #EXTINF:-1 tvg-name="環球大戰線《11/5即將下架》" group-title="其他",環球大戰線《11/5即將下架》
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii206
 #EXTINF:-1 tvg-name="環遊世界800天 -FastTV飛速看" group-title="其他",環遊世界800天 -FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/b58Ra-MZJ0oEK58HITmyQyfGmEsKnhCSlbbWlvCUvnbrdvpPpeE-q2dl9LpDVU2h/index.m3u8?token=h0fNlUbHB_oboQkBhTFF0Q&expires=1765521210&token1=2z4rCRnd_62iHVOf4c4Ipw&expires1=1765550010&refer=OGY3YzIyMDMtZjM5YS00NzIxLTg3MzAtNWIyYWYxNjcxNWI3&y=2021
+https://4gtvmobile-mozai.4gtv.tv/W2VJMftPJMTpS7BZjUKnjREquxyFI3oydEBc5GjI172MyZN56L3qRg99Wp_jd890BPT-M80h689MkLxUzxgnUA%3d%3d/index.m3u8?token=zURaqz6wlRdZRFKHYw_rqw&expires=1765531863&token1=Xdqg8NRj_MTIpX-Eag_pWA&expires1=1765560663&refer=MDU2MTk1MDctZDZiMC00NzNiLWE2N2YtOWUxNzFlMzI1YzVm&y=2021
 #EXTINF:-1 tvg-name="生命的贏家" group-title="其他",生命的贏家
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii192
 #EXTINF:-1 tvg-name="療癒下雨聲" group-title="其他",療癒下雨聲
@@ -1564,23 +1564,23 @@ https://ofiii.passwdword.xyz/mytv265.php?id=CCLM
 #EXTINF:-1 tvg-name="粤语片台" group-title="其他",粤语片台
 https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCLM
 #EXTINF:-1 tvg-name="精彩陸劇-FastTV飛速看" group-title="其他",精彩陸劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Uy6WDWRgWimYfarqVufuTS6ZFGr7STqTJjSndx-PfpTfzTP2IHdxWiXoGTC1L9R3O_5Jhyonl9lfTpmKuLvl-A%3d%3d/index.m3u8?token=hsW_btkd-1D1EOHO1etVCg&expires=1765520924&token1=7lymGNREAsIKn8JUyD76Zg&expires1=1765549724&refer=NGUxNGE1NDMtZjg2My00ZWUyLWFhMzAtZDZjYmY5MzczN2U4&y=2023
+https://4gtvmobile-mozai.4gtv.tv/7IhgTYt25OX6z9cBE9HVpovZr5IFQrmv5VHpULAQIS-ABhGuplNReMIisR2mmO0QglphllUexdhUSW7K-5iZyA%3d%3d/index.m3u8?token=McE5xLpqoYlznPTrjD8OLw&expires=1765531631&token1=vo3w9cjX1MQV2pH6LfB3gA&expires1=1765560431&refer=YWM1MjEwYmEtZmY5Zi00OTU5LWE2Y2ItYTIwNWFhMDQ5M2Yz&y=2023
 #EXTINF:-1 tvg-name="精選華語電影-FastTV飛速看" group-title="其他",精選華語電影-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/RV1bu1EYyL11ivHjw4dwr4BAp_z7kHlxM6imtYHk4d-Xg3BdjIBKJ7HwBeXLRhi5/index.m3u8?token=ZhNv_i7nMDucyIG6VKIk3A&expires=1765520753&token1=EqPVM1-jlw7ZkhfpWmz6dA&expires1=1765549553&refer=NmYzMTNlNTYtZTJlNy00MDc3LWJmYTAtZDQyOTgwNDBkMzNi&y=2025
+https://4gtvmobile-mozai.4gtv.tv/rMW7cFJyv1o8aSXXiRdztcOdi8xAgLeQRwGwq3cSzEK_VrXnZb4rkHU786Th7hGP/index.m3u8?token=LMTUL_zLkc163M2siufURg&expires=1765531375&token1=n4LR04TbAw9SllaA98MXJQ&expires1=1765560175&refer=NzMxODEwMjYtNjgzNi00Y2M5LThlMGMtYzI3ZjcwZjg0N2Iy&y=2025
 #EXTINF:-1 tvg-name="紓壓雷雨聲" group-title="其他",紓壓雷雨聲
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii250
 #EXTINF:-1 tvg-name="經典卡通-FastTV飛速看" group-title="其他",經典卡通-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/F_f8zJsQGeFgWZKSkWsIzQGV--UzmGNrAKFc2GSePnu2VY7ETEKZRjp_dR0VHh4E/index.m3u8?token=cscgP3tM5gERWTVdC_nrvw&expires=1765521385&token1=Bp7vXeyGLhkCqoGvFxV-rA&expires1=1765550185&refer=Y2ExOWY1ZjItODQwZi00ODMwLWE0Y2UtMTIzZmJmMjdkYTAw&y=2021
+https://4gtvmobile-mozai.4gtv.tv/Lh1QlOKFTXaP0AtiphZSZr5qi1lIRKOpsaXP-LtxULD5G-6Avx8pJHB--OawRhFY/index.m3u8?token=mZA4TLqBEf-gczH0s18q6A&expires=1765531980&token1=7osJcWZOrJOwtIQl00r9SQ&expires1=1765560780&refer=N2ViOTZkYmQtNWQ2Yi00NWE4LThiYWMtMDQwZmRlMzY5ZjNk&y=2021
 #EXTINF:-1 tvg-name="經典卡通台" group-title="其他",經典卡通台
-https://4gtvmobile-mozai.4gtv.tv/lEg8ESBwAi5ZIitCeBDc3FygP1SkVKWIKgUpQbz7Shc%3d/index.m3u8?token=A_nTYNoo6XOIgBfYpfADjA&expires=1765520645&token1=4MGRajt_P7YRuyu1u-OVkQ&expires1=1765520645&refer=NDczYTYxZDItZGYzMy00ZjYzLTg1YTQtMDk3ODU2NzFlN2Rk&y=0
+https://4gtvmobile-mozai.4gtv.tv/urMVnCwZ_z1s9Hyv_mdbO0reMfNJ_BPEfNw0v32TUIE%3d/index.m3u8?token=nUGwu88uh0fC_RCCaClHiw&expires=1765531249&token1=XrplgCh_uXPLbOGkWqApjA&expires1=1765531249&refer=NzEwNTBkMDUtNDc3NC00YTg3LTk1MTctYzNjOWMzYTFkNjQ1&y=0
 #EXTINF:-1 tvg-name="經典迪士尼-FastTV飛速看" group-title="其他",經典迪士尼-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/Uaw71VwnqoxZVsun50xAytp7wvR9CRqb6aaPP_ctos9JLUST-58MjMYKaTRv9P_J/index.m3u8?token=yCzDPeg05Vcjqw7GO-Drlg&expires=1765521399&token1=leS_tKcMgagjDIFIJ12mNA&expires1=1765550199&refer=MGFlYmI2NjgtNGUyMy00OTBjLWI3Y2UtNzcxMDliODE3NTk2&y=2021
+https://4gtvmobile-mozai.4gtv.tv/k7CXXlukAfoslGcV3T9lxTDFOiebvOUAG-u2UDahBEWWXhUl-XdaVoWeIudHB1Bi/index.m3u8?token=Wyy2hUtlqLBmzgxzglX_ZQ&expires=1765531993&token1=jFmy9wrpgbjkLhj3JY8EwA&expires1=1765560793&refer=MDg0NTY5MzUtYjYyMS00YjA1LWFmZTYtMDkzYWFhMzk2ODVi&y=2021
 #EXTINF:-1 tvg-name="綜藝大贏家-FastTV飛速看" group-title="其他",綜藝大贏家-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/FoEpUOSY-KP1Iq2LuocPjzKhoxmvC0fRxuWLKAXfprrPXCdLelJIZ1TTTpMwS7FbYttpqSuxJEnYBp06AbV_lQ%3d%3d/index.m3u8?token=99NMq32kcATKBqYy2yqNtA&expires=1765521338&token1=oiU0jm_wMZG8B6JOyAR15g&expires1=1765550138&refer=MGM3ZTJkZWQtNTcyMC00NzZmLTk4ZmItMDIyNmYwMGVjMTEx&y=2025
+https://4gtvmobile-mozai.4gtv.tv/s3pnC0s5pMu5jguEifxzkAoQwGOsU_l31tlQxElDjb3qvYzPnieQh_9yVpyUOkfwJifA_VV7e0ngfvujT5EscQ%3d%3d/index.m3u8?token=QREVBzo57ntxfCiWk2ONZw&expires=1765531933&token1=E81hOkdjLvFJIyh5h3_D3g&expires1=1765560733&refer=ZGZhMDE1ODEtZDdkZC00N2NmLWIxNDgtZGJhNTM5OWZiYzZm&y=2025
 #EXTINF:-1 tvg-name="綜藝大集合-FastTV飛速看" group-title="其他",綜藝大集合-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/4jJtmKnaQQTcHTFNHfsS6KoqDIe453C0FgOC6KUyPxJgB4wKb5R2EQown5nc52OIAHbnmD-VGBD3_u9rFP6wDA%3d%3d/index.m3u8?token=XOvmIQl-jZ-6COgTVxurMQ&expires=1765521005&token1=2XaeLLdW52Wp2zbCyQISdw&expires1=1765549805&refer=ODMwYmJiMTctMzNhMC00NDVkLTlmYTktOWE2ZTZjNTE1NDdh&y=2023
+https://4gtvmobile-mozai.4gtv.tv/Q32WebNuM316Ql_zMQDj2q_3mPJ0QQYSh_m_zNq6BLf6GamRb6P11oKjQyC2c3G9aeeheUKqXLD6qmSgM_7d3A%3d%3d/index.m3u8?token=i3zYqUxLUcFFlnU20fvoEA&expires=1765531713&token1=rVRBeho4Kelk8J9-Zctdvg&expires1=1765560513&refer=ODg5Y2JlNGMtZTU4Ni00MmMyLWJmZTEtNDNkMWMwMDhmZmVk&y=2023
 #EXTINF:-1 tvg-name="綜藝新時代-FastTV飛速看" group-title="其他",綜藝新時代-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/-GpW4ysR-x3WnAqgH1bpKky-B6pF4giFmtRNdSAysTRje2omEwbnRSkABPs_9EF_Aft1FCkJo487QP-3jV-p8g%3d%3d/index.m3u8?token=sv5gKP4gLaZ7wY4h09KlSw&expires=1765521224&token1=-x3VoddNP3lZDUMFlefMDg&expires1=1765550024&refer=ZTllMThhYmUtZmU1My00NThkLWJmZDUtMmFlYTkyMjI1NmFi&y=2021
+https://4gtvmobile-mozai.4gtv.tv/vvTbUI6AffaavHqldRnRpGowv_CKb6hTYUAZKXnFjDjeXDndu7rYeaTVkPGDw6Z_-zagBUDeHL5fv7y0xgChDw%3d%3d/index.m3u8?token=IOU6lCn25nXOSomr-4KswA&expires=1765531870&token1=IgSTnUZ4Ilt66bfiZy22Eg&expires1=1765560670&refer=ZGEwYTE4NGItZDRjZC00MGJjLWI5YTgtYjAwMDZmZGM4NWM2&y=2021
 #EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
 https://smt.passwdword.xyz/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-name="纬来电影台" group-title="其他",纬来电影台
@@ -1602,39 +1602,39 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 #EXTINF:-1 tvg-name="膽大黨" group-title="其他",膽大黨
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii183
 #EXTINF:-1 tvg-name="花千骨-FastTV飛速看" group-title="其他",花千骨-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/wgK9SJiCp_dTVS-RA8sj0NmTpA-EFEleGrWi1kDpyIrj3MyvnZw_RFki1XTr1KrfU6OC0-lb7SaE1iA_2H7_6w%3d%3d/index.m3u8?token=opUCkNNXLF5M4LHVQTp8UQ&expires=1765520819&token1=gY_4YBkMM19DGP_iHtVGEw&expires1=1765549619&refer=MWEzMTk1MGMtYTNlYS00Zjg3LWFlNTUtNjViNmMwMTdkYjJh&y=2023
+https://4gtvmobile-mozai.4gtv.tv/ayBHL05rqf35S2jXob8TgeH_dUVVVuUAu9uvVAty4McTlTJXUtlJBB6P2kqqFRigi2Zp3WWvLGytUdf2h_EjmA%3d%3d/index.m3u8?token=RaIiCgz8VMA76j1rbtq0NA&expires=1765531495&token1=2XWRpgTVb8ACHdvmlAMDhQ&expires1=1765560295&refer=OGNkMzNlMTEtNjRkMC00YTA5LWJhNjgtZjQ0ZTMyN2VmMTIy&y=2023
 #EXTINF:-1 tvg-name="花系列戲劇-FastTV飛速看" group-title="其他",花系列戲劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/3JeBg0QEax3FG1NJl-XrrtwjDtrCoHd960mNsdIEzgRRuh6wHkQI8bY0c99QWfhI/index.m3u8?token=4GOdiJydhJ-Uhe10LePdiQ&expires=1765520687&token1=lwZd4Z9V75UDnZlRQk619g&expires1=1765549487&refer=YzU3MmViN2EtZjBiNS00ZGJhLTllMzEtMGEwNGIyOGQxZGY4&y=2023
+https://4gtvmobile-mozai.4gtv.tv/GGTYW43YM0lLjTBGPxEIG66XtpzntQJ05nHakooQY5FISU84RkvE5ttI4mnGBVvk/index.m3u8?token=S9PAfkUjWg1A9iBtU25Uzw&expires=1765531324&token1=owV1pVzMmsiOxSCmM8tPhg&expires1=1765560124&refer=OWJmMjA0OGEtMDY3MS00NzUwLThkMTgtM2I3OTgxZWNhMDRi&y=2023
 #EXTINF:-1 tvg-name="苦力" group-title="其他",苦力
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii156
 #EXTINF:-1 tvg-name="茶金" group-title="其他",茶金
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii155
 #EXTINF:-1 tvg-name="華視" group-title="其他",華視
-https://4gtvmobile-mozai.4gtv.tv/1fy0Tmr2BUwOp-ITDY4ivS36VZX_nFxobQO6sPp46RU%3d/index.m3u8?token=uFD6dVD6ysZei9q11rtoIA&expires=1765519477&token1=UuRHSOi9HVZuclvZbRk8vw&expires1=1765519477&refer=NmE2ZTM0MzEtZjg1Ny00ZDcyLWI2NzctOWY3ODc1MmUxMjg2&y=0
+https://4gtvmobile-mozai.4gtv.tv/X5hyWY7ePdFV43Sp4WCAO-FGdZw08ZlIL17EuUA67Jo%3d/index.m3u8?token=gTRFkcsk1b9AMn2Wk_WY2w&expires=1765530233&token1=BzQchmXklbOnoEMMqolkhQ&expires1=1765530233&refer=MGE3YzYxNTMtODg4Zi00OGI5LWI3MjgtOTgwNzcwN2ExNzVk&y=0
 #EXTINF:-1 tvg-name="華視" group-title="其他",華視
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="華視好劇-FastTV飛速看" group-title="其他",華視好劇-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/dy7LPmqX1TS0lZNmApI-V6Jw7XI3jWec5kwxTAxC46o_Zbba_xd3PTNSqsvR0ewU/index.m3u8?token=efwEPU_VO7hHamaY5jT4og&expires=1765520698&token1=f9oi84lfovhN1D5Mb2lVkw&expires1=1765549498&refer=NzNhOTJmNDctNTQwNC00MDk5LWEyMzItYzY4MDFmMjRhZGYx&y=2024
+https://4gtvmobile-mozai.4gtv.tv/YB6F_HbTewVRyZ2IWr7mqt7f0pJIgiuuTzrY8u6XWYA60q3G7bgoqT065IgF6YxB/index.m3u8?token=WTpr-0D6-y4pH5YUItdLlg&expires=1765531332&token1=fZyy97YA9ZWEcp4wUdT7QQ&expires1=1765560132&refer=MjQ0NTdkMWEtMGI3Yi00ZGFiLTgxOGItMzk4NTMwODMyN2M4&y=2024
 #EXTINF:-1 tvg-name="華視新聞" group-title="其他",華視新聞
-https://4gtvmobile-mozai.4gtv.tv/YSpRQGmnnNq5KGkr0CrDNzCQgb0EGPH9UzAOxuyLX1k%3d/index.m3u8?token=spBvwGdMvJxcDO5bsad3GA&expires=1765519768&token1=2ANkzdjjYOry1i9JI7-thQ&expires1=1765519768&refer=YTUxNGYxYjMtODgxYi00OWNlLTgwY2EtOTA1ZGJhMmRlNDNh&y=0
+https://4gtvmobile-mozai.4gtv.tv/awHTl3oy4YW_sBrBMBR7mrqZaS0bld1shLsaaDULrvM%3d/index.m3u8?token=ZiuA7GDc0L7n3ZLQus1kTA&expires=1765530413&token1=fCeFNJw3jVYp0SOOtHbRwQ&expires1=1765530413&refer=YWRhNGRhNTctY2M5Yi00OWY5LWE3MGEtYTZhNGI4ODg2YWM1&y=0
 #EXTINF:-1 tvg-name="華視新聞" group-title="其他",華視新聞
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv052
 #EXTINF:-1 tvg-name="落花時節又逢君" group-title="其他",落花時節又逢君
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii109
 #EXTINF:-1 tvg-name="葉青歌仔戲-FastTV飛速看" group-title="其他",葉青歌仔戲-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/3JEfrLzV2_rUMyJ16VS5JwY4iCHN0X0NuJ3GADSmS0J6NBb6nkIEHIYBmnuk8rjYhWdVsM1m_jJBZsCEnhwqGA%3d%3d/index.m3u8?token=GWjJMxbNWhvfW0X9WtzDXg&expires=1765520944&token1=DFS-Ev8Pr30w9DG4CMtFZw&expires1=1765549744&refer=MmYyMzI4ZWEtMDBhNy00NmQyLThlYTAtOTVhNTZmZjE4Mjc3&y=2024
+https://4gtvmobile-mozai.4gtv.tv/8Dm7-EdUe-lcDuB_8ZKqUmJTkilUQ8aroXHxx9jRHjE3efjCGWrCQSZXi5431e8Oi7C2K92RnutL1dnMKGPgkw%3d%3d/index.m3u8?token=sO3D49CCmz3imLHTlVkB0g&expires=1765531652&token1=v5_QpWr40JhVYG90YwGPmA&expires1=1765560452&refer=ZWNiMDY5Y2UtN2ZmYS00MjA3LTlkMjMtODFmNjA1MzAzOWNj&y=2024
 #EXTINF:-1 tvg-name="葬送的芙莉蓮" group-title="其他",葬送的芙莉蓮
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii179
 #EXTINF:-1 tvg-name="藍色水玲瓏-FastTV飛速看" group-title="其他",藍色水玲瓏-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/YZ2u6q2_ERvqyUpL81MESpBuLt69FHYd3qZHpP-HLOgtN5Z6jm7tYCbISXY5Suaa/index.m3u8?token=4gbtld7k66QbrpZ_Fq11Dw&expires=1765520917&token1=KxSQxk85JITU57jQtta_zw&expires1=1765549717&refer=NGUxNzhmOWQtMTUwMi00OTVhLTkzYzYtZjY5MGQ3NThiODRk&y=2003
+https://4gtvmobile-mozai.4gtv.tv/y7Gj42dDjKnfrEAtreZSkPrb_yN_HE2EfSNRpqDI7FwgKis8nfg1Hy8rDEMI9JT4/index.m3u8?token=vYRMQb93jv8jItNJjMOrAw&expires=1765531624&token1=OzQ3gK3lvAEU8E0e71KMhw&expires1=1765560424&refer=Mzc1MWNlYjQtYzkxNy00YmU5LWE0OWEtYmFlYTA0MzdiODVh&y=2003
 #EXTINF:-1 tvg-name="蠟筆小新(中文版)" group-title="其他",蠟筆小新(中文版)
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii165
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" group-title="其他",視納華仁紀實頻道
-https://4gtvmobile-mozai.4gtv.tv/Yu5RE-WeWwBM4aqllroUZiUP4AYhM8i-v2llb18lwNs%3d/index.m3u8?token=mS_QKPvOwWkcFRVJYNasbw&expires=1765520322&token1=axQ9Mv16rKnHtdxOs6UCXA&expires1=1765520322&refer=ZWZiNTU4MDctNGViZC00OThjLWI0NjEtMWU3ZWYxN2UzMTFj&y=0
+https://4gtvmobile-mozai.4gtv.tv/K8W48rzpZjCnG0CoNYN0KXNV_8YlX51alM21SsyfTwI%3d/index.m3u8?token=CbasKaM-lqAGTdaWn4Y-Ow&expires=1765530953&token1=FfzeWRd1rkssqthfUjzxQg&expires1=1765530953&refer=NTMwOWI2ZDQtZDU4OC00MzI1LWJlOWQtNjBmY2JjMGUzOWEw&y=0
 #EXTINF:-1 tvg-name="親子一起看-FastTV飛速看" group-title="其他",親子一起看-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/BudsKDJ2PUwC9t30oziFfYX6uydc3C3JcwSo1vy3lhjEz9QMt7RWjuYh4x_7C4LBK1_BYPnJbO7qUicVVWWd5g%3d%3d/index.m3u8?token=Pwz8STGSM9YEVHy4-UFDDA&expires=1765521432&token1=Kl5MaqdffF3AwEf-xZUbeg&expires1=1765550232&refer=NTViODUyYWQtZmY3NS00MmM1LWJkNWMtYmIzZTY1ODc4OTQ3&y=2022
+https://4gtvmobile-mozai.4gtv.tv/DMFR68U54r7YyscNxuCMu14AEj_ysvLOtkjI7heUv5i1DMpwKHA0J-J6rO_s010Hnz_xtGEyb_FC3RFJsA81ow%3d%3d/index.m3u8?token=s3cwatjZLOi3SSuTq3dzuQ&expires=1765532020&token1=loRlCpcm2VcLRCluHlVoAw&expires1=1765560820&refer=MmU3MDMzMTgtMTdmMC00NDRjLThhNzItZTAwZTk4ZTNiOWQ0&y=2023
 #EXTINF:-1 tvg-name="親戚不計較(特輯)-FastTV飛速看" group-title="其他",親戚不計較(特輯)-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/6MxNpvkrRjeGaAx6DW6nuUiFXyGRWJGtRFiRYHRcIhPKQW4zbQ23GscujxYOTb577r28z1uc3tdmAUc-pgLOrA%3d%3d/index.m3u8?token=RecH2FDTCXe3VvhghiCEfw&expires=1765520957&token1=DHG1w4_gFIiLwY8KesvnWQ&expires1=1765549757&refer=MTY4YzdiMzEtMTIwNy00YjUyLThmZGEtMDVlMGE3NWYwY2Ew&y=2025
+https://4gtvmobile-mozai.4gtv.tv/tbJxSXe8WirYxYAWMDXs7ObJ5O45_ZU_EkYs-3NoE8agirqQKDJl6N1vuBhDmjm-RGrRZ5ljQVQJ0Za7usqloA%3d%3d/index.m3u8?token=imSvqcMfYJog9Be9ICrptQ&expires=1765531665&token1=fC3kTGwi6LAMgNZzQYFTjQ&expires1=1765560465&refer=NDc0MTljZjEtNmYxOS00NTYzLTkxZjctN2NlNGZhYzFmOWVi&y=2025
 #EXTINF:-1 tvg-name="詹姆士出走料理" group-title="其他",詹姆士出走料理
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii236
 #EXTINF:-1 tvg-name="請叫我總監《11/5即將下架》" group-title="其他",請叫我總監《11/5即將下架》
@@ -1642,41 +1642,41 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii122
 #EXTINF:-1 tvg-name="請問今晚住誰家" group-title="其他",請問今晚住誰家
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii242
 #EXTINF:-1 tvg-name="豬哥會社-FastTV飛速看" group-title="其他",豬哥會社-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/WBFPBPPx8y-QDaGMBKSyG3Ek38ERJt2aFtvDiyMJ7BIIChpjS5OhXlETNiU5y33KWAdKL28ns-cC29QEACYr3Q%3d%3d/index.m3u8?token=8VLxElImxhHZMAZC0YrgjA&expires=1765521102&token1=v3gJyWHR4VLiD0Fn3TZdcQ&expires1=1765549902&refer=ZmFiYmJiMTYtMDVlMC00ZjFlLTk5YzItNGUzNGZjM2Q0ZTY5&y=2023
+https://4gtvmobile-mozai.4gtv.tv/NAlW4-TQT_6zSYF3ZBfvsMlLzXs-D1cah75LNRPfeZ0l8bdPjwb6TCh7aFgrmxlwS0q3PwiWCPriOUttE7SGDQ%3d%3d/index.m3u8?token=hqP4nfW1S5-xaYthxB2mZQ&expires=1765531788&token1=QEjpFiosoDR8jOcbC9KZWw&expires1=1765560588&refer=MzExYjE5MmItODI4OC00Y2YwLTg2Y2EtYThjNzcwMWY2YjU1&y=2024
 #EXTINF:-1 tvg-name="超人力霸王《TV版》FastTV飛速看" group-title="其他",超人力霸王《TV版》FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/H-xq4RpnY9R97W3c4zVtaoycpxVhoahcFw8ZtaPAD-X-ki7W9mCWsK2etSwdrJy5/index.m3u8?token=F102c_ZHMekrZ6OXz8X8oA&expires=1765521365&token1=ijytrCeYQIYVsJ0aLfLMMQ&expires1=1765550165&refer=NWEyZDg3YzMtMGY4My00MzlhLWExOTEtZDI1MjgyOWM4ZmVj&y=2023
+https://4gtvmobile-mozai.4gtv.tv/1yg29KF8_6EeYy88H65iUSlVbsDFGEH_TSUFiETZjO-zjhxAdEFyzAv3J3iuO3M52brqg2TDNvbwLvFUb-3eeA%3d%3d/index.m3u8?token=X8Ys8X4rL3BqQGQnWV32PQ&expires=1765531959&token1=2BhWgTQPwOSX6CoTXznKjA&expires1=1765560759&refer=NDk1ZDE0ODAtMmJiMC00MzAwLTg3NTgtOGZmODdmMDMxNThm&y=2023
 #EXTINF:-1 tvg-name="超人力霸王《劇場版》FastTV飛速看" group-title="其他",超人力霸王《劇場版》FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/LM2g0JAP-nIzeFJ2reYZ7hIJzFdPgh9ntcgcgju-EdQGEySHcHTjRbnXNT7RtavK/index.m3u8?token=95X9g0yrUtYFqrJmrjgPIw&expires=1765521371&token1=NbbGqD18kxNMkNr1-Q3L-g&expires1=1765550171&refer=Mjg3YWUxNjEtOTkzZC00YzhhLTg4M2QtMzUzMjM5ZjcwYmUz&y=2022
+https://4gtvmobile-mozai.4gtv.tv/BgxG3wUvOiZKC77-a6euHs1bxIpKZXZkTUhqXiFi1_R4ul1H-UNd2_0zsJLIKmtc/index.m3u8?token=iDzAl4342eLtjAolwCBaRQ&expires=1765531966&token1=9zU0RenT_bYnTF5A5Mh9uQ&expires1=1765560766&refer=YzExMGFjNTYtZWIyMC00NjUwLWJkMTYtODk3Nzc2OTU4YjM5&y=2022
 #EXTINF:-1 tvg-name="超級冰冰Show-FastTV飛速看" group-title="其他",超級冰冰Show-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/T_q4rmNeGhvW07r-S2Qlp5G_gYc2ZyCkOi2pYXCNWlXVvxYXOcOMiNGxbUkLuV8tLYRKEBX3mGPnDQiU0m0U7Q%3d%3d/index.m3u8?token=eRCM1BFkbUh98Fuxa0-mPg&expires=1765521086&token1=iiJMmiyPKzw_WYrozBpZrg&expires1=1765549886&refer=YzQ3MzhiNTgtMDE4NC00MTJiLTkwNjMtNTJjNDI5MTYyZmVk&y=2024
+https://4gtvmobile-mozai.4gtv.tv/3ISYCziz3cJ34PvPGWq2zijPrzgJNM3Gqfk9XaC1FPVQos5YOLb5dnUhvL2leWjIP_6E14OqPfa8QaulRsMAPA%3d%3d/index.m3u8?token=E5ot_V6UYeYIS63YlmZCTw&expires=1765531781&token1=UjviwclqKBZRYpcb0AaAOg&expires1=1765560581&refer=ZjFjMjU3MDEtNzgyZC00M2E3LWIxMjMtODM3ZDY3NDk5Yzhk&y=2024
 #EXTINF:-1 tvg-name="軍師聯盟" group-title="其他",軍師聯盟
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii106
 #EXTINF:-1 tvg-name="軍師聯盟2 虎嘯龍吟" group-title="其他",軍師聯盟2 虎嘯龍吟
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii107
 #EXTINF:-1 tvg-name="輕鬆看法律-FastTV飛速看" group-title="其他",輕鬆看法律-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/CW_vFcev1virKmYBhR2DsxTRVx2Evv-h14B3kzz7Jh0SmuRvDhnOjYp_cPwOpuKVyThPXGQoh0m09GXDpfj7dA%3d%3d/index.m3u8?token=J9AnUcXWBxJ1jMYxyPq7ow&expires=1765521160&token1=bScu86dDa1vA9KRaSo6PpQ&expires1=1765549960&refer=N2Y1MmRkMDktODFjNS00NTY1LWEwMzktODcyNjNjNzc5OTMy&y=2024
+https://4gtvmobile-mozai.4gtv.tv/xVMn8GR0OFjrIhdhX7Zl3ZCypwJfPf_rEf64iAX3DK8vUC5MarPof1k_ZRnghqRg8wWpFYQnljHhkKsGrX3fWA%3d%3d/index.m3u8?token=A5DhNFaHpusuUleNWj1kmA&expires=1765531821&token1=wStRwZD43KwgkBHPcHBX7g&expires1=1765560621&refer=MTU5NzM0NWYtOWJjZC00M2I4LWJjZTYtYzk3YjYxNjM5NDhk&y=2024
 #EXTINF:-1 tvg-name="進擊的台灣" group-title="其他",進擊的台灣
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii237
 #EXTINF:-1 tvg-name="達文西頻道" group-title="其他",達文西頻道
-https://4gtvmobile-mozai.4gtv.tv/F18sAm8DM_wRAmmOtZQfvLv-NkuGrB62v4Wquoa9RBc%3d/index.m3u8?token=S7NzlRNVAJnJ7izTqTVMpg&expires=1765519635&token1=R43GnT1vyTYE_S-kC4Ol3Q&expires1=1765519635&refer=OTE1MmNlNjItZDI1My00ZmJiLTk0ZWMtMWQ2NDg1MzFkMThj&y=0
+https://4gtvmobile-mozai.4gtv.tv/my6ChTgvevl7oKNMXUZWBIT20-PU-sE6cqb-F3eqmaw%3d/index.m3u8?token=vF4WoBi-E1AARfrj8zkfYQ&expires=1765530339&token1=Umfnhtmyx7ZunJNWOHB0Pg&expires1=1765530339&refer=M2I5YjljZGMtY2QzMy00MTg0LThhZWUtMDJjZmNkMzU1YTcz&y=0
 #EXTINF:-1 tvg-name="鄉民大學問" group-title="其他",鄉民大學問
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii83
 #EXTINF:-1 tvg-name="醫學大聯盟-FastTV飛速看" group-title="其他",醫學大聯盟-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/32-YcSMqD7VnHY6jR1vC0T2CzeZVPXM2VVdml3Z9LXSJQwH-yauNWaNi-2a4W-GejFATcvc71jwVY3BLTV_ClQ%3d%3d/index.m3u8?token=Od2fXNKC2J_3x3WQx6SSpg&expires=1765521291&token1=xPV09lgJMN4z7WxT4WYpKw&expires1=1765550091&refer=ODJhNWMxMDItOWM5NS00MmU5LWE5ODMtODI1MjdhNGIzZWU1&y=2023
+https://4gtvmobile-mozai.4gtv.tv/biLdMlc_jHFfqmg0ly14F1r4O93NHtccARjoraOa9rI5CDsS149hwG0hCiVJbctpD35wabq6Xq2xiRm0T0CdfQ%3d%3d/index.m3u8?token=0vAZZOSIxw5LpzQrKHoWqQ&expires=1765531897&token1=tLkVjMAJDXIv_qhgTUh57w&expires1=1765560697&refer=ZTQ1MWU1ZTktNDNkNy00N2I5LWI2MmQtMWVmMTQxYmY4YzI3&y=2023
 #EXTINF:-1 tvg-name="醫師好辣" group-title="其他",醫師好辣
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii128
 #EXTINF:-1 tvg-name="采昌影劇台" group-title="其他",采昌影劇台
-https://4gtvmobile-mozai.4gtv.tv/53gtMdjXSQ9crtsxIWHN4OzPTiIrX7YXiZDzB-NaDI8%3d/index.m3u8?token=_MvvLgHcbgLPavkuuCh5kQ&expires=1765520382&token1=pF3zal2o2YOrZ1IlplUr6A&expires1=1765520382&refer=M2VmMTY5ZjgtMDg1Zi00MDMyLWI4ZDEtNmQ4ZDZjNDc5YTE3&y=0
+https://4gtvmobile-mozai.4gtv.tv/kvO_SJjbJ-LvvrOnMOvnj0xmY8aBfzZPmCTE0hp7Iqs%3d/index.m3u8?token=ZvZdPNWX8JoQsMGS6tycXg&expires=1765531036&token1=T8EoyydpcRhNkTK-DFKxbg&expires1=1765531036&refer=N2E0MGMzMzQtZGE0OC00NTkyLWJhOTAtYjlmYTQwOTc0NjU4&y=0
 #EXTINF:-1 tvg-name="野蠻遊戲：We Play -FastTV飛速看" group-title="其他",野蠻遊戲：We Play -FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/PmlnJ6qFxSs9hENoSdfeAH8vGXTKJSFVPfu46jfq29rsSw1DwvLzuphkN44QV-n2/index.m3u8?token=AJ310yfpFdkS7s3k1n8uVg&expires=1765521177&token1=fJX9a7Z17blukReU1ULVrA&expires1=1765549977&refer=MzMxMzNmNDEtN2NlZC00MDE0LTlkNGEtOGQxZDUwZWFkYTY2&y=2024
+https://4gtvmobile-mozai.4gtv.tv/S5X1Zfj5rdrKqaoPpn4E3EGIXlDozucN_XdpP5CVWSdC_qlHc9O1kDKEyyypa4ZzQiSVM77IkHW8YbSAH1CRLw%3d%3d/index.m3u8?token=hpyXsIk4pqEac9SzBK8dJw&expires=1765531836&token1=BgUyP-sA-UdQylU4f2VCrQ&expires1=1765560636&refer=MzIyZmVkMzAtYWNiYy00NTk3LThmMjQtN2RlNjFiNWIwMWU4&y=2024
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="其他",金光布袋戲
-https://4gtvmobile-mozai.4gtv.tv/qIh0R_poWSKPzlUkavk7nvzNrzLeli0iRtohASW4sFA%3d/index.m3u8?token=Wb0bDs4ALuFethWtARygfg&expires=1765520347&token1=5lHAFUyarW8x9_Lfbjc8yA&expires1=1765520347&refer=MzZhOThmZWYtZjRkYS00NzIxLWFkNTgtZWMzNTI3YmM3YjEz&y=0
+https://4gtvmobile-mozai.4gtv.tv/3qhcZFoNMd5ZcLU_XPl5So-SkJMEWLYy3-TX9pxhk-8%3d/index.m3u8?token=atIHxuzO7Vvyy0HiSamFBw&expires=1765530986&token1=1LXuFU197jIwPJ1pyHPEOg&expires1=1765530986&refer=ZGM1NTJlZTYtNGFjMy00NzM0LWFjNmItOTk4OTQ4ZTkxMGNj&y=0
 #EXTINF:-1 tvg-name="金光布袋戲-FastTV飛速看" group-title="其他",金光布袋戲-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/SvrjLTKobtkrqWSQhpUcyCRbqy_IdgjyIHfQJCdX1fmQx_pVJbv3HwdnqHZ44nvT3Ynu7gANAZDIOZo4T3YKPQ%3d%3d/index.m3u8?token=7QoFXRA-0EpsMWkxI306uQ&expires=1765521358&token1=p729_lGjwbpaU_-jgVUc_w&expires1=1765550158&refer=OTQ3NDY0YzUtMmIxMC00MmE5LTk2N2QtNDRlY2UxOTNmYjNj&y=2014
+https://4gtvmobile-mozai.4gtv.tv/Zq9hvhZOJyTVVGpwcwMQoh7J89rmvWl-7qNA_ENDKThsKN6kNurGvzLS-At7CQNQxnQE3F72QkiFabHNaSWI7A%3d%3d/index.m3u8?token=O3mZPOmPbW3QR9URxjUsBg&expires=1765531953&token1=f9S0RyJrR2THgCXwTY842g&expires1=1765560753&refer=YzkxNmRlODctYjM2MS00ZmEwLTlmMGYtYjI2MmUwYTBlNGU2&y=2014
 #EXTINF:-1 tvg-name="鋼之鍊金術師" group-title="其他",鋼之鍊金術師
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii177
 #EXTINF:-1 tvg-name="鏡電視新聞台" group-title="其他",鏡電視新聞台
-https://4gtvmobile-mozai.4gtv.tv/hO0CAnxzu7keq3nFp7PXX_f6KHIiCPdbdEUIBdnvTcY%3d/index.m3u8?token=qotQCq6TrJBlSQjJuA_Wxg&expires=1765519744&token1=jNbFb3C_Ii5AdQfhQTt-2Q&expires1=1765519744&refer=MDliNmJhZjItZGY5Yi00MjM5LThiNjItOTY4YTZkODM2MGIy&y=0
+https://4gtvmobile-mozai.4gtv.tv/bzUDqH_U3GE-t3atL71hy1gcYsmFnvb_IniJyLVHJi4%3d/index.m3u8?token=mQ0q1iYewKCcYagixZRIVg&expires=1765530399&token1=BkLnMeQWOE5ficiX6Em9_g&expires1=1765530399&refer=MDNjN2E5NWUtY2MyYy00YmI3LTg0MGEtNGU2NDVmYjhkNGUx&y=0
 #EXTINF:-1 tvg-name="長安十二時辰" group-title="其他",長安十二時辰
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii100
 #EXTINF:-1 tvg-name="長樂曲" group-title="其他",長樂曲
@@ -1690,41 +1690,41 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii159
 #EXTINF:-1 tvg-name="離開A級隊伍的我，和從前的弟子往迷宮深處邁進" group-title="其他",離開A級隊伍的我，和從前的弟子往迷宮深處邁進
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii161
 #EXTINF:-1 tvg-name="靖天卡通台" group-title="其他",靖天卡通台
-https://4gtvmobile-mozai.4gtv.tv/BuNbuXSIvKm5jBy4_G7-6A-lVeewOGKXtimkt6QxPqE%3d/index.m3u8?token=D4ifm-T_Fr9EiwaESBrH3A&expires=1765519709&token1=zPybkgA4btmOVb_Clfin8A&expires1=1765519709&refer=NGQyZjliNzItZWEwYi00NzRjLWIwZjYtMTJkNmU4MmNlMDE2&y=0
+https://4gtvmobile-mozai.4gtv.tv/x2SRxIJ5p2hktwAMw9AFLlcAoeP06NO3IdiRofLi_Ao%3d/index.m3u8?token=V05ZcV3KQViNPvrNKjmdsQ&expires=1765530372&token1=oNQ1NEBtj3kRbfA6B9fUnQ&expires1=1765530372&refer=MjM5ZjYxYzEtYzY5My00N2RiLWIxMWYtYjg1ZTBmNWZjMmNh&y=0
 #EXTINF:-1 tvg-name="靖天卡通台" group-title="其他",靖天卡通台
 https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-name="靖天卡通台" group-title="其他",靖天卡通台
 https://smt.passwdword.xyz/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-name="靖天戲劇台" group-title="其他",靖天戲劇台
-https://4gtvmobile-mozai.4gtv.tv/XGQsmrGfv87YDQ0NU_bh0mmVO5a38PcN9co3DIJCY2k%3d/index.m3u8?token=BQGQY1_bDrWX8YNGADu4eA&expires=1765520287&token1=4VkiYXMdRXGUFk_f7-1SKA&expires1=1765520287&refer=NTdiYzBkODQtOWI1MC00ZGNmLWE3ZTctNTMzMmJmN2I4NDk5&y=0
+https://4gtvmobile-mozai.4gtv.tv/ifMzAJ6cjQji9f5-tWNGlQcBPul3CQWavcSn650hhCI%3d/index.m3u8?token=niJX240bqF8Zanh3esCctg&expires=1765530921&token1=4TYsZkTVtps4vtr--26NtA&expires1=1765530921&refer=MTdiM2M4MzAtMWU3Ni00MGRmLTg2ZjUtZDQ5OTgzODBjYTg4&y=0
 #EXTINF:-1 tvg-name="靖天日本台" group-title="其他",靖天日本台
-https://4gtvmobile-mozai.4gtv.tv/EN3Hc5QjscyptdCfbt04N3qAVUe7D_ppBmJd4cCMbuo%3d/index.m3u8?token=VqOKXhEE6lYA-JbydQbuzg&expires=1765519559&token1=C4gpalPsjK89OoG0kJIH8Q&expires1=1765519559&refer=OGIxMWIyM2MtYjBjMC00MDM1LThlYTYtNmRjYWE2ZDIzZWJk&y=0
+https://4gtvmobile-mozai.4gtv.tv/VDr1DfOMb1rAZdRcHzSOyXbtbFBfLdJdbZ1HIgfC_Hs%3d/index.m3u8?token=jOTWkFyfrBA-wzUU-mksUQ&expires=1765530292&token1=9nVUCcI1eUjVhhY6i087Mw&expires1=1765530292&refer=NzNiOGMxNTItMDJmMC00YzEwLWFjMjQtMzc3MDI3MTI5ZDdi&y=0
 #EXTINF:-1 tvg-name="靖天映畫" group-title="其他",靖天映畫
-https://4gtvmobile-mozai.4gtv.tv/TwdwEjLjl_y4WhkTg5PYjiYQmnvGQVPlrey9MhaQnDw%3d/index.m3u8?token=9LoQrwxUIsTkQxXAMn10CQ&expires=1765520399&token1=kJg-vmR9ardEnNJYmBKQRg&expires1=1765520399&refer=M2Y0YzgwNTAtODk3MS00MDE1LTgzNTYtNWQ5YTJjOTU1OTg3&y=0
+https://4gtvmobile-mozai.4gtv.tv/-Zt4UVZikJQkh5K7_kxUM7aRsU83Ha1GygkFm1j9eow%3d/index.m3u8?token=I0YFoRkTVFoPCuU5PtTvvQ&expires=1765531046&token1=VZscBAMfKjIw0VLh7OwhSg&expires1=1765531046&refer=Y2ZhY2JmY2UtOTliNC00M2I2LWFhMzItMTIxZGRlMjkxYWEy&y=0
 #EXTINF:-1 tvg-name="靖天綜合台" group-title="其他",靖天綜合台
-https://4gtvmobile-mozai.4gtv.tv/7hgmaztxooDYfNpdWNlpqtDO_7f_D8moUBAbrcxJ_m0%3d/index.m3u8?token=a-_z4b-l1GJyA3PrTRDvCg&expires=1765519552&token1=6jrEmPZ8jsnJ8iyz4iMhrQ&expires1=1765519552&refer=ZWQ5N2Y3YjEtMjFlMS00NWNmLTljMzAtYjUwMTJiY2E0MjUy&y=0
+https://4gtvmobile-mozai.4gtv.tv/zuV81DDbm0qob_EwYwQWr4SiBxEPEOf1_seLGYBnv8Y%3d/index.m3u8?token=DMCC2yH6ZXUtrZD-vnA3SA&expires=1765530285&token1=qocS2hYBNPJYHumy7uJ6Ew&expires1=1765530285&refer=Y2EyOGQ0MWEtNzI1MS00NmVmLTlhOWYtODE1MzAzYWQ5ZWU1&y=0
 #EXTINF:-1 tvg-name="靖天育樂台" group-title="其他",靖天育樂台
-https://4gtvmobile-mozai.4gtv.tv/8hkEz0Xem4zMZ9mOIlk_n4Uw4PfaeHdhBCOBWvZnVUo%3d/index.m3u8?token=F7mviKe-sEeRyS2aXNo87w&expires=1765519910&token1=PsZZ5pjqw96Np1oVl8I8Rw&expires1=1765519910&refer=ODE4ZDBkMTgtZTlmYi00ZjJkLWJkNzAtYTY3MDNiNTc3MTQ1&y=0
+https://4gtvmobile-mozai.4gtv.tv/XCj0L9R5ZwpXy0ZAPi0S4L6_M0BlzHmVHeD7F37cPVE%3d/index.m3u8?token=_a97tjFDdE-YbTsNGLzl7A&expires=1765530549&token1=CKSW_rb2vkTB_m3CuEvv8g&expires1=1765530549&refer=Mzk4NDUzZGItZWYxYi00MGNlLWE5NWMtN2JhYmUyMjBlYzkx&y=0
 #EXTINF:-1 tvg-name="靖天資訊台" group-title="其他",靖天資訊台
-https://4gtvmobile-mozai.4gtv.tv/R1oi4sjvgZsdjoi21p5V3kfbR3_M5U5PCgrj-tDbOQA%3d/index.m3u8?token=fyZq2Nd7UiADgVJnHru_Lw&expires=1765519939&token1=rhgBHzWicJebak94ms0dCQ&expires1=1765519939&refer=ZTljMjRmZDAtYTAzOS00ZTNjLWIwZjEtMDkzMjFmN2NlNTlm&y=0
+https://4gtvmobile-mozai.4gtv.tv/nJqRSTfBS4DavTHvXuFVMCw-MkI7cQNDYCv0P4jaA0c%3d/index.m3u8?token=s4jDGoCFDpLdawy3CjUMdQ&expires=1765530590&token1=C0YvjPd-nePpuTxug6PojA&expires1=1765530590&refer=MGRmMjc4OTctOWYzYi00ZmZlLWExMWUtN2I5ODA5YzYyNWQ2&y=0
 #EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" group-title="其他",靖洋卡通Nice Bingo
-https://4gtvmobile-mozai.4gtv.tv/bRAEY4JxVa29vXG0r7C_jKotAioKEupLQTe56S-ZgyA%3d/index.m3u8?token=LufutjiikDOh5G2gNIrk_w&expires=1765519719&token1=FOufn48T-AXdkRrEq2ObPg&expires1=1765519719&refer=MjllOWNmZmMtMmY0MS00MmJiLWI0ZTItZmQ0NzkxZGNlODkw&y=0
+https://4gtvmobile-mozai.4gtv.tv/wLw-4v4LbPaAnbNUd4r2Oq9mkDNTIV-tHW4tgnf7JFw%3d/index.m3u8?token=tJ59JHX0qSaJsm1TTrb_Iw&expires=1765530379&token1=CZYDdM6hVXUtfgEOWGSolA&expires1=1765530379&refer=YzYxYTdkMDktZjYxZi00YzZiLTg1NDQtNWQwNmMxZDU0ZWUx&y=0
 #EXTINF:-1 tvg-name="靖洋戲劇台" group-title="其他",靖洋戲劇台
-https://4gtvmobile-mozai.4gtv.tv/gQnjFZuAnYZFP-1WEKY1DUCV8z3p8YD_c9rExFB-1jw%3d/index.m3u8?token=LjRntrJuipuoEvBRbwbPcw&expires=1765520297&token1=qi_i1AJ69R0y_o9tyS3RZg&expires1=1765520297&refer=MjUwZWYxMDUtMjI2Yy00MTE0LThlNDAtNzczODVkOWVmNWEz&y=0
+https://4gtvmobile-mozai.4gtv.tv/LpiNMN3jLoE9aSf_dK36cS-p8S2m9fpRxN0YjoX3KPA%3d/index.m3u8?token=kmGz2jJkL006FKguKCFjKA&expires=1765530931&token1=_QTuh-7Im2B54vaCuP5vbA&expires1=1765530931&refer=MWM4NzhiMGUtZDIxOC00ZmM2LWE4YzYtMWJhZGZkYjU2M2Nm&y=0
 #EXTINF:-1 tvg-name="非凡大探索" group-title="其他",非凡大探索
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii234
 #EXTINF:-1 tvg-name="非凡新闻台" group-title="其他",非凡新闻台
 https://smt.passwdword.xyz/Smart.php?id=feifannews_twn
 #EXTINF:-1 tvg-name="韓流美食料理秀-FastTV飛速看" group-title="其他",韓流美食料理秀-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/zrHMshBfJFL5Hn4EHo_nNcMdtd78vui1cyaOB31WpL_sXkP8jdG0ky4U09IFsHn3/index.m3u8?token=yIqZqjaJRcoEXYQTHojcSQ&expires=1765521331&token1=gJXmxcogvURDekKM2TnRxw&expires1=1765550131&refer=YmE5YzRmNmEtNmZiNi00ODMyLWE2NDktZTA5MjY0ZDhhNDgw&y=2024
+https://4gtvmobile-mozai.4gtv.tv/sjDpiq40eR-qfbdE3m-1kfVey6iyNZJqkDfys6DPdkeBKxcU33VDrVpw0ikax01b/index.m3u8?token=Fa5MtXLqm9lgFrbTpaYDcQ&expires=1765531924&token1=va7pBB7IqVpdVq493usPBw&expires1=1765560724&refer=NWI2NzU2ZDMtNmE2Mi00MTgwLWExODUtMTQxMTQ4NTdiZjVj&y=2024
 #EXTINF:-1 tvg-name="韶華若錦" group-title="其他",韶華若錦
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii101
 #EXTINF:-1 tvg-name="飛龍在天-FastTV飛速看" group-title="其他",飛龍在天-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/nROCIW8t7EmPLXydFNBIwayeUOYcYMXeO_3aNFwXfinXo7-FqeYRPSJ1Pm8XK9KS/index.m3u8?token=PLGCDZBmy5qVAqmsabg4jg&expires=1765520870&token1=jyM00KLmd2NBxfLp4tq-zw&expires1=1765549670&refer=ZDg3YzQ1ZDMtNzZmZS00YzYyLWEwNDQtMGI3MjAxM2M3ZTVj&y=2000
+https://4gtvmobile-mozai.4gtv.tv/Q7TXjq8EVNWrZVW8HapO91raiKl4PqoZmG2NtjBW9Gxs2AHoA3KZtgYqXWgamrQ_/index.m3u8?token=1ni-MzokaYeda3gRwW2apA&expires=1765531577&token1=JNV5FXW7nulVcsdlv4ypBg&expires1=1765560377&refer=MmU3YmRiN2QtNzU2MC00Mjk1LTkyYTQtYzEwNzU2MmM4YmMz&y=2000
 #EXTINF:-1 tvg-name="食尚玩家-2天1夜go" group-title="其他",食尚玩家-2天1夜go
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii227
 #EXTINF:-1 tvg-name="食尚玩家-FastTV飛速看" group-title="其他",食尚玩家-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/l6DyrPqEUGnQKRWQc1OY12QWqRvA-E59wj6uoNFMa4zCi9AILJ51VVuUiAOu99Y0zgQBdavuvwZJZY--5Wp1lw%3d%3d/index.m3u8?token=_enZFzEHVVEzH5ADix3lCg&expires=1765521018&token1=cBZp0H9_1WPMEVhtz7-NHQ&expires1=1765549818&refer=NjMyNTYzMTMtYWI4NS00MTEyLWFhZTAtMjdmYzY5MmNhOWM4&y=2024
+https://4gtvmobile-mozai.4gtv.tv/sfERTQF2acTEoV7YdygRF4qLeBaX_q0uP6tSjQeEM9r1s3byYrSfje27gXf01fLxagd7kHqOcpVGZ-OSROeJ2g%3d%3d/index.m3u8?token=lSI0OTxXyRwA-zaYgi14iA&expires=1765531726&token1=6rEqS0e9VE7agPpQd1aHvQ&expires1=1765560526&refer=YTI1NjMwZDQtYzhkYS00MjA4LTg5NDktYTNlYTVmMWRlNDYy&y=2024
 #EXTINF:-1 tvg-name="食尚玩家-Hello腹餓代" group-title="其他",食尚玩家-Hello腹餓代
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii225
 #EXTINF:-1 tvg-name="食尚玩家-天菜就醬吃" group-title="其他",食尚玩家-天菜就醬吃
@@ -1734,7 +1734,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii228
 #EXTINF:-1 tvg-name="饕客揪愛吃" group-title="其他",饕客揪愛吃
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii96
 #EXTINF:-1 tvg-name="鬥陣大廟埕-FastTV飛速看" group-title="其他",鬥陣大廟埕-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/8dMw8HdrdnvmFGlPam5t6_KI8OqlEhPTItOzdNUja8qq8m931dtiuTblcWFxl41N/index.m3u8?token=FKTkqAlaLOiX8Vbx89F3KQ&expires=1765521126&token1=YvnxomQX4WLhpp0Q-RHI8A&expires1=1765549926&refer=MzlhMTFhNzYtODY5NC00ZDIxLTgxYzMtMjgwMGI3OWEzNTQw&y=2023
+https://4gtvmobile-mozai.4gtv.tv/GoMZO8WOlWPdQeF6v9EXHac8V-5LRzcgcvCqqUD6yiHQxEUoB49c9bAwnZRCQN72/index.m3u8?token=Nx1uHCwMHynSMwIEwkEOVA&expires=1765531801&token1=26ClEKARveEipEYMFbVeQw&expires1=1765560601&refer=ZWMzZTM0NGUtOTY2MS00ZTQ0LTg3OTAtMTNkNDEzZDFmY2Qx&y=2023
 #EXTINF:-1 tvg-name="鬼話連篇" group-title="其他",鬼話連篇
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii127
 #EXTINF:-1 tvg-name="鳳囚凰" group-title="其他",鳳囚凰
@@ -1744,7 +1744,7 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii144
 #EXTINF:-1 tvg-name="麻醉風暴" group-title="其他",麻醉風暴
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=ofiii158
 #EXTINF:-1 tvg-name="黃金歲月-FastTV飛速看" group-title="其他",黃金歲月-FastTV飛速看
-https://4gtvmobile-mozai.4gtv.tv/gdRR8nzDwsGyVcxkagB_QnlXQrUczlC9AAz-rq5YYqy5RMrQSzyopORt-cdkDVELofhx4mudqfVVqzpI0_VCLw%3d%3d/index.m3u8?token=PTaSw1YsJb4wGzUVIpRsZg&expires=1765520812&token1=gMT7Qa0WC10nFAf51_udTQ&expires1=1765549612&refer=ZTliNzU4ZjUtMjI3OC00NGZiLWFiY2QtZDg4NDkzZmM3YzRh&y=2021
+https://4gtvmobile-mozai.4gtv.tv/hTdYI1zfFtiwRTNhvK-BrIubrohQp4oj1mwIvWDAu_QDduTr7a_bMAXAJvcp2VQhMvUcR-oXrr0t8bla9eGFoA%3d%3d/index.m3u8?token=Zn1u4Bxe33JRDpA9kF5UOQ&expires=1765531478&token1=X3aTwm93rWKnqGr5Q3S1lA&expires1=1765560278&refer=Nzg4YmY0YTAtNjdiZS00NWYxLTk0ZDEtNGYxNGY3NzM0Njhm&y=2021
 #EXTINF:-1 tvg-name="黄金华剧台" group-title="其他",黄金华剧台
 https://ofiii.passwdword.xyz/mytv265.php?id=TVO
 #EXTINF:-1 tvg-name="黄金华剧台" group-title="其他",黄金华剧台
